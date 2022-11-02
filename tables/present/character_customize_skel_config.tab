@@ -1,0 +1,19 @@
+﻿ID	skeleton	EyeHeightScale	EyeHeightThreshold	EyeAOMask	EyeIrisRadius	EyePupilScale	EyeIrisBrightness	EyeLimbusDarkScale
+*								
+								
+0	male	0.434	1.642	materials/textures/eye/T_MaleEyeAOMask.dds				
+1	female	0.465	1.715	materials/textures/eye/T_FeMaleEyeAOMask.dds				
+2	female_lls	0.465	1.715	materials/textures/eye/T_FeMaleEyeAOMask.dds				
+3	b021_saber	0.465	1.715	materials/textures/eye/T_FeMaleEyeAOMask.dds				
+4	luoli	0.5	2.3	materials/textures/eye/T_FeMaleEyeAOMask.dds	0.15	1.1	1.5	0.9
+5	b022_prophet	0.465	1.715	materials/textures/eye/T_FeMaleEyeAOMask.dds				
+6	littlefox_yf							
+7	ride_deer							
+8	m_580							
+9	mouse_fire							
+10	butterfly							
+11	b030_ghost	0.465	1.715	materials/textures/eye/T_FeMaleEyeAOMask.dds				
+12	b005_ysmer							
+13	weasel							
+14	pet_marmota							
+15	pet_dragon001							

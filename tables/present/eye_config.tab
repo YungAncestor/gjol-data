@@ -1,0 +1,30 @@
+﻿ID	description	IrisTex	ScleraTex	icon	isGoods
+unique	[N]	贴图名，目录为materials/textures/eye	巩膜	图标(若不指定则不开放给玩家)	是否商城独占
+		eye_iris_001	eye_sclera_001		0
+1	默认	eye_iris_001		eye_iris_001	
+2	偏绿	eye_iris_002		eye_iris_002	
+3	深紫	eye_iris_006			
+4	亮灰	eye_iris_010		eye_iris_010	
+5	红	eye_iris_011			
+6	碧绿	eye_iris_012			
+7	蓝	eye_iris_013			
+8	红棕	eye_iris_014		eye_iris_014	
+9	深灰	eye_iris_015		eye_iris_015	
+10	钟无痴	eye_iris_009	eye_sclera_002		
+11	亮紫	eye_iris_004			
+12	青崖	eye_iris_009			
+13	浑浊眼白红棕眼睛	eye_iris_014	eye_sclera_003		
+14	商城-猫眼	eye_iris_020		eye_iris_020	1
+15	商城-心形眼	eye_iris_021		eye_iris_021	1
+16	商城-无瞳孔单环款美瞳	eye_iris_022		eye_iris_022	1
+17	商城-双环花纹款美瞳	eye_iris_023		eye_iris_023	1
+18	次A专用1	eye_iris_024			
+19	次A专用2	eye_iris_500			
+20	次A专用3	eye_iris_501			
+21	次A专用4	eye_iris_502			
+22	次A专用5	eye_iris_503			
+23	商城-樱花	eye_iris_026		eye_iris_026	1
+24	商城-气流	eye_iris_027		eye_iris_027	1
+25	商城-蓝星辰	eye_iris_028		eye_iris_028	1
+26	商城-金星辰	eye_iris_029		eye_iris_029	1
+27	商城-青花瓷	eye_iris_025		eye_iris_025	1

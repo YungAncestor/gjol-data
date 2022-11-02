@@ -1,0 +1,476 @@
+﻿ID	tattoo_type	gender	res	x	y	mirror	opacity	icon	isPlayer	isGoods	skeleton_mask	name
+*	类型（0纹身1眉毛2眼影3口红4腮红5胡子6可移动纹身7发髻线8眼影闪粉9口红闪粉）	体型（0成男1成女,其他见character_customize_skel_config.tab）	资源	水平位置(0到1取值)	垂直位置（0到1取值）	是否镜像显示	透明度	界面预览图		是否商城独占	骨骼类型( 1男2女4萝莉）	编辑器显示中文名
+	0	-1		0.25	0.25	0	1		1	0	0	
+6	1	0	characters/tattoos/male/male_eyebrow/male_eyebrow_001	0.243	0.201	1		male_eyebrow_001			1	
+7	1	0	characters/tattoos/male/male_eyebrow/male_eyebrow_002	0.243	0.201	1		male_eyebrow_002			1	
+8	1	0	characters/tattoos/male/male_eyebrow/male_eyebrow_003	0.243	0.201	1		male_eyebrow_003			1	
+9	1	0	characters/tattoos/male/male_eyebrow/male_eyebrow_004	0.243	0.201	1		male_eyebrow_004			1	
+10	1	0	characters/tattoos/male/male_eyebrow/male_eyebrow_005	0.243	0.201	1		male_eyebrow_005			1	
+11	1	0	characters/tattoos/male/male_eyebrow/male_eyebrow_006	0.243	0.201	1		male_eyebrow_006			1	
+12	1	0	characters/tattoos/male/male_eyebrow/male_eyebrow_007	0.243	0.201	1		male_eyebrow_007			1	
+13	1	0	characters/tattoos/male/male_eyebrow/male_eyebrow_008	0.243	0.201	1		male_eyebrow_008			1	
+14	1	1	characters/tattoos/female/female_eyebrow/female_eyebrow_001	0.239	0.153	1		female_eyebrow_001			2	黑眉毛1
+15	1	1	characters/tattoos/female/female_eyebrow/female_eyebrow_002	0.239	0.153	1		female_eyebrow_002			2	黑眉毛2
+16	1	1	characters/tattoos/female/female_eyebrow/female_eyebrow_003	0.239	0.153	1		female_eyebrow_003			2	黑眉毛3
+17	1	1	characters/tattoos/female/female_eyebrow/female_eyebrow_004	0.239	0.153	1		female_eyebrow_004			2	黑眉毛4
+18	1	1	characters/tattoos/female/female_eyebrow/female_eyebrow_005	0.239	0.153	1		female_eyebrow_005			2	黑眉毛5
+19	1	1	characters/tattoos/female/female_eyebrow/female_eyebrow_006	0.239	0.153	1		female_eyebrow_006			2	黑眉毛6
+20	1	1	characters/tattoos/female/female_eyebrow/female_eyebrow_007	0.239	0.153	1		female_eyebrow_007			2	黑眉毛7
+21	1	1	characters/tattoos/female/female_eyebrow/female_eyebrow_008	0.239	0.153	1		female_eyebrow_008			2	黑眉毛8
+22	1	1	characters/tattoos/female/female_eyebrow/female_eyebrow_009	0.239	0.153	1		female_eyebrow_009			2	黑眉毛9
+23	2	0	characters/tattoos/male/male_eshadow/male_eshadow_001	0.212	0.244	1		eshadow_000	0		1	
+24	2	1	characters/tattoos/female/female_eshadow/female_eshadow_001	0.19	0.213	1		eshadow_001			2	眼影1
+25	2	1	characters/tattoos/female/female_eshadow/female_eshadow_002	0.19	0.213	1		eshadow_002			2	眼影2
+26	2	1	characters/tattoos/female/female_eshadow/female_eshadow_003	0.19	0.213	1		eshadow_003			2	眼影3
+27	2	1	characters/tattoos/female/female_eshadow/female_eshadow_004	0.19	0.213	1		eshadow_004			2	眼影4
+28	2	1	characters/tattoos/female/female_eshadow/female_eshadow_005	0.19	0.213	1		eshadow_005			2	眼影5
+29	2	1	characters/tattoos/female/female_eshadow/female_eshadow_006	0.19	0.213	1		eshadow_006			2	眼影6
+30	2	1	characters/tattoos/female/female_eshadow/female_eshadow_007	0.19	0.213	1		eshadow_007			2	眼影7
+31	4	1	characters/tattoos/female/female_brush/female_brush_001	0	0.15	1		brush_001			2	腮红1
+32	4	1	characters/tattoos/female/female_brush/female_brush_002	0	0.15	1		brush_002			2	腮红2
+33	4	1	characters/tattoos/female/female_brush/female_brush_003	0	0.15	1		brush_003			2	腮红3
+34	4	1	characters/tattoos/female/female_brush/female_brush_004	0	0.15	1		brush_004			2	腮红4
+35	4	1	characters/tattoos/female/female_brush/female_brush_005	0	0.15	1		brush_005			2	腮红5
+36	4	1	characters/tattoos/female/female_brush/female_brush_006	0	0.15	1		brush_006			2	腮红6
+37	4	1	characters/tattoos/female/female_brush/female_brush_007	0	0.15	1		brush_007			2	腮红7
+38	5	0	characters/tattoos/male/male_beard/male_beard_001	0	0.408			beard_001			1	
+39	5	0	characters/tattoos/male/male_beard/male_beard_002	0	0.408			beard_002			1	
+40	5	0	characters/tattoos/male/male_beard/male_beard_003	0	0.408			beard_003			1	
+41	5	0	characters/tattoos/male/male_beard/male_beard_004	0	0.408			beard_004			1	
+42	5	0	characters/tattoos/male/male_beard/male_beard_005	0	0.408			beard_005			1	
+43	5	0	characters/tattoos/male/male_beard/male_beard_006	0	0.408			beard_006			1	
+44	5	0	characters/tattoos/male/male_beard/male_beard_007	0	0.408			beard_007			1	
+45	5	0	characters/tattoos/male/male_beard/male_beard_008	0	0.408			beard_008			1	
+46	5	0	characters/tattoos/male/male_beard/male_beard_009	0	0.408			beard_009			1	
+47	3	0	characters/tattoos/male/male_lips/male_lips_001	0.375	0.54			male_lips_001	0		1	
+48	3	0	characters/tattoos/male/male_lips/male_lips_002	0.375	0.54			male_lips_002			1	
+49	3	0	characters/tattoos/male/male_lips/male_lips_003	0.375	0.54			male_lips_003			1	
+51	3	1	characters/tattoos/female/female_lips/female_lips_001	0.375	0.48			female_lips_001			2	
+52	3	1	characters/tattoos/female/female_lips/female_lips_002	0.375	0.48			female_lips_002			2	
+53	3	1	characters/tattoos/female/female_lips/female_lips_003	0.375	0.48			female_lips_003			2	
+54	3	1	characters/tattoos/female/female_lips/female_lips_004	0.375	0.48			female_lips_004			2	
+55	3	1	characters/tattoos/female/female_lips/female_lips_005	0.375	0.48			female_lips_005			2	
+56	3	1	characters/tattoos/female/female_lips/female_lips_006	0.375	0.48			female_lips_006			2	
+58	0	0	characters/tattoos/male/male_tattoo/male_tattoo_001	0.437	0.187			t001			1	
+59	0	0	characters/tattoos/male/male_tattoo/male_tattoo_002	0.469	0.218			t002			1	
+60	0	0	characters/tattoos/male/male_tattoo/male_tattoo_003	0	0.099			t003			1	
+61	0	0	characters/tattoos/male/male_tattoo/male_tattoo_004	0.25	0.099			t004			1	
+62	0	0	characters/tattoos/male/male_tattoo/male_tattoo_005	0.25	0.099			t005			1	
+63	0	0	characters/tattoos/male/male_tattoo/male_tattoo_006	0	0.099			t006			1	
+64	0	0	characters/tattoos/male/male_tattoo/male_tattoo_007	0	0.099			t007			1	
+65	0	0	characters/tattoos/male/male_tattoo/male_tattoo_008	0	0.145			t008			1	
+66	0	0	characters/tattoos/male/male_tattoo/male_tattoo_009	0.437	0.187			t009			1	
+67	0	0	characters/tattoos/male/male_tattoo/male_tattoo_010	0	0.145			t010			1	
+68	0	0	characters/tattoos/male/male_tattoo/male_tattoo_011	0.25	0.145			t011			1	
+69	0	0	characters/tattoos/male/male_tattoo/male_tattoo_012	0.25	0.145			t012			1	
+70	0	0	characters/tattoos/male/male_tattoo/male_tattoo_013	0.437	0.187			t013			1	
+71	0	1	characters/tattoos/female/female_tattoo/female_tattoo_001	0.438	0.134			t001			2	
+72	0	1	characters/tattoos/female/female_tattoo/female_tattoo_002	0.469	0.174			t002			2	
+73	0	1	characters/tattoos/female/female_tattoo/female_tattoo_003	0	0.046			t003			2	
+74	0	1	characters/tattoos/female/female_tattoo/female_tattoo_004	0.25	0.046			t004			2	
+75	0	1	characters/tattoos/female/female_tattoo/female_tattoo_005	0.25	0.046			t005			2	
+76	0	1	characters/tattoos/female/female_tattoo/female_tattoo_006	0	0.046			t006			2	
+77	0	1	characters/tattoos/female/female_tattoo/female_tattoo_007	0	0.046			t007			2	
+78	0	1	characters/tattoos/female/female_tattoo/female_tattoo_008	0	0.046			t008			2	
+79	0	1	characters/tattoos/female/female_tattoo/female_tattoo_009	0.375	0.058			t009			2	
+80	0	1	characters/tattoos/female/female_tattoo/female_tattoo_010	0	0.046			t010			2	
+81	0	1	characters/tattoos/female/female_tattoo/female_tattoo_011	0.25	0.075			t011			2	
+82	0	1	characters/tattoos/female/female_tattoo/female_tattoo_012	0.25	0.075			t012			2	
+83	0	1	characters/tattoos/female/female_tattoo/female_tattoo_013	0.438	0.095			t013			2	
+86	7	0	characters/tattoos/male/male_hairline/male_hl001_001	0	0			male_morphface000			1	
+87	7	0	characters/tattoos/male/male_hairline/male_hl001_002	0	0			male_morphface000			1	
+88	7	0	characters/tattoos/male/male_hairline/male_hl002_001	0	0			male_morphface000			1	
+89	7	1	characters/tattoos/female/female_hairline/female_hl001_001	0	0			female_morphface000			2	
+90	7	1	characters/tattoos/female/female_hairline/female_hl002_001	0	0			female_morphface000			2	
+91	0	0	characters/tattoos/male/male_tattoo/male_tattoo_014	0.184	0.281			t014m			1	
+92	0	0	characters/tattoos/male/male_tattoo/male_tattoo_015	0.437	0.187			t015m			1	
+93	0	0	characters/tattoos/male/male_tattoo/male_tattoo_016	0	0			t016m			1	
+94	6	0	characters/tattoos/male/male_tattoo/male_tattoo_017	0.662	0.392			t021f			1	
+95	6	0	characters/tattoos/male/male_tattoo/male_tattoo_018	0.23	0.099			t018m			1	
+96	6	0	characters/tattoos/male/male_tattoo/male_tattoo_019	0.25	0.252			t019m			1	
+97	6	0	characters/tattoos/male/male_tattoo/male_tattoo_020	0.57	0.284			t020m			1	
+98	6	0	characters/tattoos/male/male_tattoo/male_tattoo_021	0.649	0.317			t021m			1	
+99	6	0	characters/tattoos/male/male_tattoo/male_tattoo_022	0	0.099			t025f			1	
+100	0	1	characters/tattoos/female/female_tattoo/female_tattoo_014	0.711	0.295			t014f			2	
+101	0	1	characters/tattoos/female/female_tattoo/female_tattoo_015	0.711	0.295			t015f			2	
+102	0	1	characters/tattoos/female/female_tattoo/female_tattoo_016	0.19	0.213	1		t016f			2	
+103	0	1	characters/tattoos/female/female_tattoo/female_tattoo_017	0.469	0.174			t017f			2	
+104	0	1	characters/tattoos/female/female_tattoo/female_tattoo_018	0.217	0.251			t018f			2	
+105	0	1	characters/tattoos/female/female_tattoo/female_tattoo_019	0.217	0.251			t019f			2	
+106	6	1	characters/tattoos/female/female_tattoo/female_tattoo_020	0.25	0.27			t020f			2	
+107	6	1	characters/tattoos/female/female_tattoo/female_tattoo_021	0.692	0.295			t021f			2	
+108	6	1	characters/tattoos/female/female_tattoo/female_tattoo_022	0.25	0.28			t022f			2	
+109	6	1	characters/tattoos/female/female_tattoo/female_tattoo_023	0.553	0.244			t023f			2	
+110	6	1	characters/tattoos/female/female_tattoo/female_tattoo_024	0.195	0.274			t024f			2	
+111	6	1	characters/tattoos/female/female_tattoo/female_tattoo_025	0	0.046			t025f			2	
+112	7	1	characters/tattoos/female/female_hairline/female_hl001_002	0	0			female_morphface000			2	
+113	7	1	characters/tattoos/female/female_hairline/female_hl002_002	0	0			female_morphface000			2	
+114	0	0	characters/tattoos/male/male_tattoo/male_tattoo_023	0	0			t023m	0		1	
+115	0	1	characters/tattoos/female/female_tattoo/female_tattoo_026	0	0			t026f	0		2	
+116	7	1	characters/tattoos/female/female_hairline/female_hl001_008	0	0			female_morphface000			2	
+117	7	1	characters/tattoos/female/female_hairline/female_hl001_009	0	0			female_morphface000			2	
+118	7	1	characters/tattoos/female/female_hairline/female_hl002_008	0	0			female_morphface000			2	
+119	7	1	characters/tattoos/female/female_hairline/female_hl002_009	0	0			female_morphface000			2	
+120	7	1	characters/tattoos/female/female_hairline/female_hl003_001	0	0			female_morphface000			2	
+121	7	1	characters/tattoos/female/female_hairline/female_hl004_001	0	0			female_morphface000			2	
+122	7	0	characters/tattoos/male/male_hairline/male_hl001_008	0	0			male_morphface000			1	
+123	7	0	characters/tattoos/male/male_hairline/male_hl001_009	0	0			male_morphface000			1	
+124	7	0	characters/tattoos/male/male_hairline/male_hl002_008	0	0			male_morphface000			1	
+125	7	0	characters/tattoos/male/male_hairline/male_hl002_009	0	0			male_morphface000			1	
+126	7	0	characters/tattoos/male/male_hairline/male_hl003_001	0	0			male_morphface000			1	
+127	7	0	characters/tattoos/male/male_hairline/male_hl001_npc	0	0			male_morphface000			1	
+128	7	0	characters/tattoos/male/male_hairline/male_hl002_npc	0	0			male_morphface000			1	
+129	7	0	characters/tattoos/male/male_hairline/male_hl003_npc	0	0			male_morphface000			1	
+130	7	1	characters/tattoos/female/female_hairline/female_hl001_npc	0	0			female_morphface000			2	
+131	7	1	characters/tattoos/female/female_hairline/female_hl002_npc	0	0			female_morphface000			2	
+132	7	1	characters/tattoos/female/female_hairline/female_hl003_npc	0	0			female_morphface000			2	
+133	7	1	characters/tattoos/female/female_hairline/female_hl004_npc	0	0			female_morphface000			2	
+134	7	1	characters/tattoos/female/female_hairline/female_hl001_999	0	0			female_morphface000			2	
+10000	1	2	characters/tattoos/female/female_eyebrow/female_eyebrow_003	0.239	0.153	1		female_eyebrow_003				
+10001	2	2	characters/tattoos/female/female_eshadow/female_eshadow_004	0.19	0.213	1		eshadow_004				
+10002	3	2	characters/tattoos/female/female_lips/female_lips_001	0.375	0.48			female_lips_001				
+135	2	0	characters/tattoos/male/male_eshadow/male_eshadow_002	0.212	0.244	1		male_eshadow_002		1	1	
+136	2	0	characters/tattoos/male/male_eshadow/male_eshadow_003	0.212	0.244	1		male_eshadow_003		1	1	
+137	2	0	characters/tattoos/male/male_eshadow/male_eshadow_004	0.212	0.244	1		male_eshadow_004		1	1	
+138	2	0	characters/tattoos/male/male_eshadow/male_eshadow_005	0.212	0.244	1		male_eshadow_005		1	1	
+139	2	0	characters/tattoos/male/male_eshadow/male_eshadow_006	0.212	0.244	1		male_eshadow_006		1	1	
+140	2	1	characters/tattoos/female/female_eshadow/female_eshadow_009	0.19	0.213	1		female_eshadow_009		1	2	眼妆·己亥夏款·杏蕊
+141	2	1	characters/tattoos/female/female_eshadow/female_eshadow_010	0.19	0.213	1		female_eshadow_010		1	2	眼妆·己亥夏款·桃夭
+142	2	1	characters/tattoos/female/female_eshadow/female_eshadow_011	0.19	0.213	1		female_eshadow_011		1	2	眼妆·己亥夏款·绛霓
+143	2	1	characters/tattoos/female/female_eshadow/female_eshadow_012	0.19	0.213	1		female_eshadow_012		1	2	眼妆·己亥夏款·紫棠
+144	2	1	characters/tattoos/female/female_eshadow/female_eshadow_013	0.19	0.213	1		female_eshadow_013		1	2	眼妆·己亥夏款·兰澜
+145	7	1	characters/tattoos/female/female_hairline/female_hl004_010	0	0			female_morphface000			2	
+10003	6	0	characters/tattoos/male/male_tattoo/male_tattoo_026	0.243	0.201			t026m	0	0	1	
+10004	6	0	characters/tattoos/male/male_tattoo/male_tattoo_027	0.243	0.201			t027m	0	0	1	
+10005	6	0	characters/tattoos/male/male_tattoo/male_tattoo_028	0.243	0.201			t028m	0	0	1	
+10006	6	0	characters/tattoos/male/male_tattoo/male_tattoo_029	0.243	0.201			t029m	0	0	1	
+10007	6	0	characters/tattoos/male/male_tattoo/male_tattoo_030	0.243	0.201			t030m	0	0	1	
+10008	6	0	characters/tattoos/male/male_tattoo/male_tattoo_031	0.243	0.201			t031m	0	0	1	
+10009	6	0	characters/tattoos/male/male_tattoo/male_tattoo_032	0.243	0.201			t032m	0	0	1	
+10010	6	0	characters/tattoos/male/male_tattoo/male_tattoo_033	0.243	0.201			t033m	0	0	1	
+10011	6	0	characters/tattoos/male/male_tattoo/male_tattoo_034	0.243	0.201			t034m	0	0	1	
+10012	6	0	characters/tattoos/male/male_tattoo/male_tattoo_035	0.243	0.201			t035m	0	0	1	
+10013	6	0	characters/tattoos/male/male_tattoo/male_tattoo_036	0.243	0.201			t036m	0	0	1	
+10014	6	0	characters/tattoos/male/male_tattoo/male_tattoo_037	0.243	0.201			t037m	0	0	1	
+10015	6	0	characters/tattoos/male/male_tattoo/male_tattoo_038	0.243	0.201			t038m	0	0	1	
+10016	6	0	characters/tattoos/male/male_tattoo/male_tattoo_039	0.243	0.201			t039m	0	0	1	
+10017	6	0	characters/tattoos/male/male_tattoo/male_tattoo_040	0.243	0.201			t040m	0	0	1	
+10018	6	1	characters/tattoos/female/female_tattoo/female_tattoo_027	0.243	0.201			t027f	0	0	2	面纹（内部用）
+10019	6	1	characters/tattoos/female/female_tattoo/female_tattoo_028	0.243	0.201			t028f	0	0	2	
+10020	6	1	characters/tattoos/female/female_tattoo/female_tattoo_029	0.243	0.201			t029f	0	0	2	
+10021	6	1	characters/tattoos/female/female_tattoo/female_tattoo_030	0.243	0.201			t030f	0	0	2	
+10022	6	1	characters/tattoos/female/female_tattoo/female_tattoo_031	0.243	0.201			t031f	0	0	2	
+10023	6	1	characters/tattoos/female/female_tattoo/female_tattoo_032	0.243	0.201			t032f	0	0	2	
+10024	6	1	characters/tattoos/female/female_tattoo/female_tattoo_033	0.243	0.201			t033f	0	0	2	
+10025	6	1	characters/tattoos/female/female_tattoo/female_tattoo_034	0.243	0.201			t034f	0	0	2	
+10026	6	1	characters/tattoos/female/female_tattoo/female_tattoo_035	0.243	0.201			t035f	0	0	2	
+10027	6	1	characters/tattoos/female/female_tattoo/female_tattoo_036	0.243	0.201			t036f	0	0	2	
+10028	6	1	characters/tattoos/female/female_tattoo/female_tattoo_037	0.243	0.201			t037f	0	0	2	
+10029	6	1	characters/tattoos/female/female_tattoo/female_tattoo_038	0.243	0.201			t038f	0	0	2	
+10030	6	1	characters/tattoos/female/female_tattoo/female_tattoo_039	0	0.046			t039f	0	0	2	
+10031	6	1	characters/tattoos/female/female_tattoo/female_tattoo_040	0	0.046			t040f	0	0	2	
+10032	6	1	characters/tattoos/female/female_tattoo/female_tattoo_041	0.243	0.201			t041f	0	0	2	
+10033	6	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_001	0.4375	0.197			t001l	0	0	4	
+10034	6	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_002	0.4685	0.252			t002l	0	0	4	
+10035	6	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_003	0	0.083			t003l	0	0	4	
+10036	6	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_004	0.25	0.114			t004l	0	0	4	
+10037	6	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_005	0.25	0.114			t005l	0	0	4	
+10038	6	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_006	0	0.083			t006l	0	0	4	
+10039	6	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_007	0	0.083			t007l	0	0	4	
+10040	6	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_008	0	0.083			t008l	0	0	4	
+10041	6	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_009	0.376	0.124			t009l	0	0	4	
+10042	6	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_010	0	0.083			t010l	0	0	4	
+10043	6	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_011	0	0.083			t011l	0	0	4	
+10044	6	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_012	0	0.083			t012l	0	0	4	
+10045	6	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_013	0.4375	0.212			t013l	0	0	4	
+10046	6	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_014	0.688	0.351			t014l	0	0	4	
+10047	6	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_015	0.688	0.351			t015l	0	0	4	
+10048	0	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_016	0.25	0.197			t016f	0	0	4	
+10049	0	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_017	0.4685	0.252			t017f	0	0	4	
+10050	0	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_018	0.223	0.3195			t018f	0	0	4	
+10051	0	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_019	0.223	0.3195			t019f	0	0	4	
+10100	6	0	characters/tattoos/male/male_tattoo/male_tattoo_001	0.437	0.187			t001	0		1	
+10101	6	0	characters/tattoos/male/male_tattoo/male_tattoo_002	0.469	0.218			t002	0		1	
+10102	6	0	characters/tattoos/male/male_tattoo/male_tattoo_003	0	0.099			t003	0		1	
+10103	6	0	characters/tattoos/male/male_tattoo/male_tattoo_004	0.25	0.099			t004	0		1	
+10104	6	0	characters/tattoos/male/male_tattoo/male_tattoo_005	0.25	0.099			t005	0		1	
+10105	6	0	characters/tattoos/male/male_tattoo/male_tattoo_006	0	0.099			t006	0		1	
+10106	6	0	characters/tattoos/male/male_tattoo/male_tattoo_007	0	0.099			t007	0		1	
+10107	6	0	characters/tattoos/male/male_tattoo/male_tattoo_008	0	0.145			t008	0		1	
+10108	6	0	characters/tattoos/male/male_tattoo/male_tattoo_009	0.437	0.187			t009	0		1	
+10109	6	0	characters/tattoos/male/male_tattoo/male_tattoo_010	0	0.145			t010	0		1	
+10110	6	0	characters/tattoos/male/male_tattoo/male_tattoo_011	0.25	0.145			t011	0		1	
+10111	6	0	characters/tattoos/male/male_tattoo/male_tattoo_012	0.25	0.145			t012	0		1	
+10112	6	0	characters/tattoos/male/male_tattoo/male_tattoo_013	0.437	0.187			t013	0		1	
+10113	6	1	characters/tattoos/female/female_tattoo/female_tattoo_001	0.438	0.134			t001	0		2	
+10114	6	1	characters/tattoos/female/female_tattoo/female_tattoo_002	0.469	0.174			t002	0		2	
+10115	6	1	characters/tattoos/female/female_tattoo/female_tattoo_003	0	0.046			t003	0		2	
+10116	6	1	characters/tattoos/female/female_tattoo/female_tattoo_004	0.25	0.046			t004	0		2	
+10117	6	1	characters/tattoos/female/female_tattoo/female_tattoo_005	0.25	0.046			t005	0		2	
+10118	6	1	characters/tattoos/female/female_tattoo/female_tattoo_006	0	0.046			t006	0		2	
+10119	6	1	characters/tattoos/female/female_tattoo/female_tattoo_007	0	0.046			t007	0		2	
+10120	6	1	characters/tattoos/female/female_tattoo/female_tattoo_008	0	0.046			t008	0		2	
+10121	6	1	characters/tattoos/female/female_tattoo/female_tattoo_009	0.375	0.058			t009	0		2	
+10122	6	1	characters/tattoos/female/female_tattoo/female_tattoo_010	0	0.046			t010	0		2	
+10123	6	1	characters/tattoos/female/female_tattoo/female_tattoo_011	0.25	0.075			t011	0		2	
+10124	6	1	characters/tattoos/female/female_tattoo/female_tattoo_012	0.25	0.075			t012	0		2	
+10125	6	1	characters/tattoos/female/female_tattoo/female_tattoo_013	0.438	0.095			t013	0		2	
+10126	6	0	characters/tattoos/male/male_tattoo/male_tattoo_014	0.184	0.281			t014m	0		1	
+10127	6	0	characters/tattoos/male/male_tattoo/male_tattoo_015	0.437	0.187			t015m	0		1	
+10128	6	0	characters/tattoos/male/male_tattoo/male_tattoo_016	0	0			t016m	0		1	
+10129	6	1	characters/tattoos/female/female_tattoo/female_tattoo_014	0.711	0.295			t014f	0		2	
+10130	6	1	characters/tattoos/female/female_tattoo/female_tattoo_015	0.711	0.295			t015f	0		2	
+10131	6	1	characters/tattoos/female/female_tattoo/female_tattoo_016	0.19	0.213	1		t016f	0		2	
+10132	6	1	characters/tattoos/female/female_tattoo/female_tattoo_017	0.469	0.174			t017f	0		2	
+10133	6	1	characters/tattoos/female/female_tattoo/female_tattoo_018	0.217	0.251			t018f	0		2	
+10134	6	1	characters/tattoos/female/female_tattoo/female_tattoo_019	0.217	0.251			t019f	0		2	
+10135	0	0	characters/tattoos/male/male_tattoo/male_tattoo_034	0	0			t016m	0		1	
+146	3	4	characters/tattoos/luoli/luoli_lips/luoli_lips_000	0.377	0.483			luoli_lips_001	0		4	
+147	3	4	characters/tattoos/luoli/luoli_lips/luoli_lips_001	0.377	0.483			luoli_lips_001			4	
+148	3	4	characters/tattoos/luoli/luoli_lips/luoli_lips_002	0.377	0.483			luoli_lips_002			4	
+149	3	4	characters/tattoos/luoli/luoli_lips/luoli_lips_003	0.377	0.483			luoli_lips_003			4	
+150	3	4	characters/tattoos/luoli/luoli_lips/luoli_lips_004	0.377	0.483			luoli_lips_004			4	
+151	3	4	characters/tattoos/luoli/luoli_lips/luoli_lips_005	0.377	0.483			luoli_lips_005			4	
+152	3	4	characters/tattoos/luoli/luoli_lips/luoli_lips_006	0.377	0.483			luoli_lips_006			4	
+153	1	4	characters/tattoos/luoli/luoli_eyebrow/luoli_eyebrow_001	0.235	0.235	1		luoli_eyebrow_001			4	
+155	1	4	characters/tattoos/luoli/luoli_eyebrow/luoli_eyebrow_003	0.235	0.235	1		luoli_eyebrow_003			4	
+156	1	4	characters/tattoos/luoli/luoli_eyebrow/luoli_eyebrow_004	0.235	0.235	1		luoli_eyebrow_004			4	
+157	1	4	characters/tattoos/luoli/luoli_eyebrow/luoli_eyebrow_005	0.235	0.235	1		luoli_eyebrow_005			4	
+158	1	4	characters/tattoos/luoli/luoli_eyebrow/luoli_eyebrow_006	0.235	0.235	1		luoli_eyebrow_006			4	
+159	1	4	characters/tattoos/luoli/luoli_eyebrow/luoli_eyebrow_007	0.235	0.235	1		luoli_eyebrow_007			4	
+160	1	4	characters/tattoos/luoli/luoli_eyebrow/luoli_eyebrow_008	0.235	0.235	1		luoli_eyebrow_008			4	
+161	1	4	characters/tattoos/luoli/luoli_eyebrow/luoli_eyebrow_009	0.235	0.235	1		luoli_eyebrow_009			4	
+162	2	4	characters/tattoos/luoli/luoli_eshadow/luoli_eshadow_001	0.207	0.218	1		luoli_eshadow_001			4	
+163	2	4	characters/tattoos/luoli/luoli_eshadow/luoli_eshadow_002	0.207	0.218	1		luoli_eshadow_002			4	
+164	2	4	characters/tattoos/luoli/luoli_eshadow/luoli_eshadow_003	0.207	0.218	1		luoli_eshadow_003			4	
+165	2	4	characters/tattoos/luoli/luoli_eshadow/luoli_eshadow_004	0.207	0.218	1		luoli_eshadow_004			4	
+166	2	4	characters/tattoos/luoli/luoli_eshadow/luoli_eshadow_005	0.207	0.218	1		luoli_eshadow_005			4	
+167	2	4	characters/tattoos/luoli/luoli_eshadow/luoli_eshadow_006	0.207	0.218	1		luoli_eshadow_006			4	
+168	2	4	characters/tattoos/luoli/luoli_eshadow/luoli_eshadow_007	0.207	0.218	1		luoli_eshadow_007			4	
+169	2	4	characters/tattoos/luoli/luoli_eshadow/luoli_eshadow_008	0.207	0.218	1		luoli_eshadow_008			4	
+170	2	4	characters/tattoos/luoli/luoli_eshadow/luoli_eshadow_009	0.207	0.218	1		luoli_eshadow_009			4	
+171	4	4	characters/tattoos/luoli/luoli_brush/luoli_brush_001	0	0.19	1		luoli_brush_001			4	
+172	4	4	characters/tattoos/luoli/luoli_brush/luoli_brush_002	0	0.19	1		luoli_brush_002			4	
+173	4	4	characters/tattoos/luoli/luoli_brush/luoli_brush_003	0	0.19	1		luoli_brush_003			4	
+174	4	4	characters/tattoos/luoli/luoli_brush/luoli_brush_004	0	0.19	1		luoli_brush_004			4	
+175	4	4	characters/tattoos/luoli/luoli_brush/luoli_brush_005	0	0.19	1		luoli_brush_005			4	
+176	4	4	characters/tattoos/luoli/luoli_brush/luoli_brush_006	0	0.19	1		luoli_brush_006			4	
+177	4	4	characters/tattoos/luoli/luoli_brush/luoli_brush_007	0	0.19	1		luoli_brush_007			4	
+178	4	4	characters/tattoos/luoli/luoli_brush/luoli_brush_008	0	0.19	1		luoli_brush_008			4	
+179	7	4	characters/tattoos/luoli/luoli_hairline/luoli_hl001_001	0	0			female_morphface000			4	
+180	7	4	characters/tattoos/luoli/luoli_hairline/luoli_hl002_001	0	0			female_morphface000			4	
+181	7	4	characters/tattoos/luoli/luoli_hairline/luoli_hl003_001	0	0			female_morphface000			4	
+182	7	4	characters/tattoos/luoli/luoli_hairline/luoli_hl004_001	0	0			female_morphface000			4	
+183	0	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_001	0.4375	0.197			t001			4	
+184	0	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_002	0.4685	0.252			t002			4	
+185	0	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_003	0	0.083			t003			4	
+186	0	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_004	0.25	0.114			t004			4	
+187	0	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_005	0.25	0.114			t005			4	
+188	0	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_006	0	0.083			t006			4	
+189	0	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_007	0	0.083			t007			4	
+190	0	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_008	0	0.083			t008			4	
+191	0	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_009	0.376	0.124			t009			4	
+192	0	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_010	0	0.083			t010			4	
+193	0	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_011	0	0.083			t011			4	
+194	0	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_012	0	0.083			t012			4	
+195	0	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_013	0.4375	0.212			t013			4	
+196	0	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_014	0.688	0.351			t014f			4	
+197	0	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_015	0.688	0.351			t015f			4	
+198	0	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_016	0.25	0.197			t016f			4	
+199	0	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_017	0.4685	0.252			t017f			4	
+200	0	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_018	0.223	0.3195			t018f			4	
+201	0	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_019	0.223	0.3195			t019f			4	
+202	6	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_020	0.25	0.225			t020f			4	
+203	6	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_021	0.688	0.351			t021f			4	
+204	6	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_022	0.25	0.225			t022f			4	
+205	6	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_023	0.55	0.293			t023f			4	
+206	6	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_024	0.223	0.3195			t024f			4	
+207	6	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_025	0.25	0.197			t025f			4	
+208	0	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_026	0.206	0.402	1		t027f		1	4	
+209	7	4	characters/tattoos/luoli/luoli_hairline/luoli_hl004_002	0	0			female_morphface000			4	
+210	7	4	characters/tattoos/luoli/luoli_hairline/luoli_hl005_001	0	0			female_morphface000			4	
+211	1	4	characters/tattoos/luoli/luoli_eyebrow/luoli_eyebrow_010	0.235	0.235	1		luoli_eyebrow_010	0	1	4	
+212	1	4	characters/tattoos/luoli/luoli_eyebrow/luoli_eyebrow_011	0.235	0.235	1		luoli_eyebrow_011		1	4	
+213	1	4	characters/tattoos/luoli/luoli_eyebrow/luoli_eyebrow_012	0.235	0.235	1		luoli_eyebrow_012		1	4	
+214	1	4	characters/tattoos/luoli/luoli_eyebrow/luoli_eyebrow_013	0.235	0.235	1		luoli_eyebrow_013		1	4	
+215	1	4	characters/tattoos/luoli/luoli_eyebrow/luoli_eyebrow_014	0.235	0.235	1		luoli_eyebrow_014		1	4	
+216	1	4	characters/tattoos/luoli/luoli_eyebrow/luoli_eyebrow_015	0.235	0.235	1		luoli_eyebrow_015		1	4	
+217	1	4	characters/tattoos/luoli/luoli_eyebrow/luoli_eyebrow_016	0.235	0.235	1		luoli_eyebrow_016		1	4	
+218	1	4	characters/tattoos/luoli/luoli_eyebrow/luoli_eyebrow_017	0.235	0.235	1		luoli_eyebrow_017		1	4	
+219	1	4	characters/tattoos/luoli/luoli_eyebrow/luoli_eyebrow_018	0.235	0.235	1		luoli_eyebrow_018	0	1	4	
+220	1	4	characters/tattoos/luoli/luoli_eyebrow/luoli_eyebrow_019	0.235	0.235	1		luoli_eyebrow_019	0	1	4	
+221	1	4	characters/tattoos/luoli/luoli_eyebrow/luoli_eyebrow_020	0.235	0.235	1		luoli_eyebrow_020	0	1	4	
+222	1	4	characters/tattoos/luoli/luoli_eyebrow/luoli_eyebrow_021	0.235	0.235	1		luoli_eyebrow_021	0	1	4	
+223	1	1	characters/tattoos/female/female_eyebrow/female_eyebrow_010	0.239	0.153	1		female_eyebrow_010		1	2	眉型·己亥秋款·薰风
+224	1	1	characters/tattoos/female/female_eyebrow/female_eyebrow_011	0.239	0.153	1		female_eyebrow_011		1	2	眉型·己亥秋款·连翘
+225	1	1	characters/tattoos/female/female_eyebrow/female_eyebrow_012	0.239	0.153	1		female_eyebrow_012		1	2	眉型·己亥秋款·岩深
+226	1	1	characters/tattoos/female/female_eyebrow/female_eyebrow_013	0.239	0.153	1		female_eyebrow_013		1	2	眉型·己亥秋款·凤起
+227	1	1	characters/tattoos/female/female_eyebrow/female_eyebrow_014	0.239	0.153	1		female_eyebrow_014		1	2	眉型·己亥秋款·涵烟
+228	1	1	characters/tattoos/female/female_eyebrow/female_eyebrow_015	0.239	0.153	1		female_eyebrow_015		1	2	眉型·己亥秋款·连荫
+229	1	1	characters/tattoos/female/female_eyebrow/female_eyebrow_016	0.239	0.153	1		female_eyebrow_016		1	2	眉型·己亥秋款·翩鹭
+230	1	1	characters/tattoos/female/female_eyebrow/female_eyebrow_017	0.239	0.153	1		female_eyebrow_017	0	1	2	眉型·己亥冬款·清霁
+231	1	1	characters/tattoos/female/female_eyebrow/female_eyebrow_018	0.239	0.153	1		female_eyebrow_018	0	1	2	眉型·己亥冬款·拂絮
+232	1	1	characters/tattoos/female/female_eyebrow/female_eyebrow_019	0.239	0.153	1		female_eyebrow_019	0	1	2	眉型·己亥冬款·渡雪
+233	1	1	characters/tattoos/female/female_eyebrow/female_eyebrow_020	0.239	0.153	1		female_eyebrow_020	0	1	2	眉型·己亥冬款·绾霜
+234	1	0	characters/tattoos/male/male_eyebrow/male_eyebrow_009	0.243	0.201	1		male_eyebrow_009		1	1	眉型·己亥秋款·金枝
+235	1	0	characters/tattoos/male/male_eyebrow/male_eyebrow_010	0.243	0.201	1		male_eyebrow_010		1	1	眉型·己亥秋款·秋芦
+236	1	0	characters/tattoos/male/male_eyebrow/male_eyebrow_011	0.243	0.201	1		male_eyebrow_011		1	1	眉型·己亥秋款·玉槐
+237	1	0	characters/tattoos/male/male_eyebrow/male_eyebrow_012	0.243	0.201	1		male_eyebrow_012		1	1	眉型·己亥秋款·弦月
+238	1	0	characters/tattoos/male/male_eyebrow/male_eyebrow_013	0.243	0.201	1		male_eyebrow_013		1	1	
+239	1	0	characters/tattoos/male/male_eyebrow/male_eyebrow_014	0.243	0.201	1		male_eyebrow_014		1	1	
+240	1	0	characters/tattoos/male/male_eyebrow/male_eyebrow_015	0.243	0.201	1		male_eyebrow_015		1	1	
+241	1	0	characters/tattoos/male/male_eyebrow/male_eyebrow_016	0.243	0.201	1		male_eyebrow_016	0	1	1	
+242	1	0	characters/tattoos/male/male_eyebrow/male_eyebrow_017	0.243	0.201	1		male_eyebrow_017	0	1	1	
+243	1	0	characters/tattoos/male/male_eyebrow/male_eyebrow_018	0.243	0.201	1		male_eyebrow_018	0	1	1	
+244	1	0	characters/tattoos/male/male_eyebrow/male_eyebrow_019	0.243	0.201	1		male_eyebrow_019	0	1	1	
+245	2	1	characters/tattoos/female/female_eshadow/female_eshadow_014	0.191	0.212	1		female_eshadow_014		1	2	眼妆·己亥秋款·星梦
+246	2	1	characters/tattoos/female/female_eshadow/female_eshadow_015	0.19	0.213	1		female_eshadow_015		1	2	眼妆·己亥秋款·红绡
+247	2	1	characters/tattoos/female/female_eshadow/female_eshadow_016	0.19	0.213	1		female_eshadow_016		1	2	眼妆·己亥秋款·娇蕊
+248	2	1	characters/tattoos/female/female_eshadow/female_eshadow_017	0.19	0.213	1		female_eshadow_017		1	2	眼妆·己亥秋款·飞燕
+249	2	4	characters/tattoos/luoli/luoli_eshadow/luoli_eshadow_010	0.207	0.218	1		luoli_eshadow_010	0	1	4	
+250	2	4	characters/tattoos/luoli/luoli_eshadow/luoli_eshadow_011	0.207	0.218	1		luoli_eshadow_011		1	4	
+251	2	4	characters/tattoos/luoli/luoli_eshadow/luoli_eshadow_012	0.207	0.218	1		luoli_eshadow_012		1	4	
+252	2	4	characters/tattoos/luoli/luoli_eshadow/luoli_eshadow_013	0.207	0.218	1		luoli_eshadow_013		1	4	
+253	2	4	characters/tattoos/luoli/luoli_eshadow/luoli_eshadow_014	0.207	0.218	1		luoli_eshadow_014		1	4	
+254	7	4	characters/tattoos/luoli/luoli_hairline/luoli_hl001_009	0	0			female_morphface000			4	
+255	1	4	characters/tattoos/luoli/luoli_eyebrow/luoli_eyebrow_022	0.235	0.235	1		luoli_eyebrow_022		1	4	
+256	1	4	characters/tattoos/luoli/luoli_eyebrow/luoli_eyebrow_023	0.235	0.235	1		luoli_eyebrow_023		1	4	
+257	1	4	characters/tattoos/luoli/luoli_eyebrow/luoli_eyebrow_024	0.235	0.235	1		luoli_eyebrow_024		1	4	
+258	1	4	characters/tattoos/luoli/luoli_eyebrow/luoli_eyebrow_025	0.235	0.235	1		luoli_eyebrow_025		1	4	
+259	1	1	characters/tattoos/female/female_eyebrow/female_eyebrow_021	0.239	0.153	1		female_eyebrow_021		1	2	眉型·己亥秋款·金枝
+260	1	1	characters/tattoos/female/female_eyebrow/female_eyebrow_022	0.239	0.153	1		female_eyebrow_022		1	2	眉型·己亥秋款·秋芦
+261	1	1	characters/tattoos/female/female_eyebrow/female_eyebrow_023	0.239	0.153	1		female_eyebrow_023		1	2	眉型·己亥秋款·玉槐
+262	1	1	characters/tattoos/female/female_eyebrow/female_eyebrow_024	0.239	0.153	1		female_eyebrow_024		1	2	眉型·己亥秋款·弦月
+263	1	0	characters/tattoos/male/male_eyebrow/male_eyebrow_020	0.243	0.201	1		male_eyebrow_020		1	1	
+264	1	0	characters/tattoos/male/male_eyebrow/male_eyebrow_021	0.243	0.201	1		male_eyebrow_021		1	1	
+265	1	0	characters/tattoos/male/male_eyebrow/male_eyebrow_022	0.243	0.201	1		male_eyebrow_022		1	1	
+266	1	0	characters/tattoos/male/male_eyebrow/male_eyebrow_023	0.243	0.201	1		male_eyebrow_023		1	1	
+267	7	4	characters/tattoos/luoli/luoli_hairline/luoli_hl002_002	0	0			female_morphface000			4	
+268	7	0	characters/tattoos/male/male_hairline/male_hl001_009	0	0			male_morphface000			1	
+269	7	0	characters/tattoos/male/male_hairline/male_hl001_010	0	0			male_morphface000			1	
+270	7	1	characters/tattoos/female/female_hairline/female_hl001_009	0	0			female_morphface000			2	
+271	7	1	characters/tattoos/female/female_hairline/female_hl001_010	0	0			female_morphface000			2	
+272	7	4	characters/tattoos/luoli/luoli_hairline/luoli_hl001_010	0	0			female_morphface000			4	
+273	3	1	characters/tattoos/female/female_lips/female_lips_007	0.375	0.48			female_lips_007	0	1	2	
+274	3	1	characters/tattoos/female/female_lips/female_lips_008	0.375	0.48			female_lips_008		1	2	
+275	3	1	characters/tattoos/female/female_lips/female_lips_009	0.375	0.48			female_lips_009	0	1	2	
+276	3	1	characters/tattoos/female/female_lips/female_lips_010	0.375	0.48			female_lips_010		1	2	
+277	2	1	characters/tattoos/female/female_eshadow/female_eshadow_018	0	0.135	1		female_eshadow_018		1	2	眼妆·庚子春款·重樱
+278	2	1	characters/tattoos/female/female_eshadow/female_eshadow_019	0.004	0.102	1		female_eshadow_019		1	2	眼妆·庚子春款·煌华
+279	2	1	characters/tattoos/female/female_eshadow/female_eshadow_020	0.209	0.207	1		female_eshadow_020		1	2	眼妆·庚子春款·媚丝
+280	2	1	characters/tattoos/female/female_eshadow/female_eshadow_021	0	0.001			female_eshadow_021		1	2	眼妆·庚子春款·描青
+281	0	1	characters/tattoos/female/female_tattoo/female_tattoo_027	0.194	0.403	1		t027f		1	2	面纹·庚子春款·若狸
+282	0	1	characters/tattoos/female/female_tattoo/female_tattoo_028	0.437	0.12			t028f		1	2	面纹·庚子春款·曜芒
+283	0	1	characters/tattoos/female/female_tattoo/female_tattoo_029	0	0.009			t029f		1	2	面纹·庚子春款·九尾
+284	0	1	characters/tattoos/female/female_tattoo/female_tattoo_030	0.437	0.11			t030f		1	2	面纹·庚子春款·雨昙
+285	4	1	characters/tattoos/female/female_brush/female_brush_008	0	0.15	1		brush_008		1	2	腮红·庚子春款·桃靥
+286	4	1	characters/tattoos/female/female_brush/female_brush_009	0	0.15	1		brush_009		1	2	腮红·庚子春款·香酡
+287	4	1	characters/tattoos/female/female_brush/female_brush_010	0.25	0.242			brush_010		1	2	腮红·庚子春款·含羞
+288	4	1	characters/tattoos/female/female_brush/female_brush_011	0	0.15	1		brush_011	0	1	2	
+289	0	1	characters/tattoos/female/female_tattoo/female_tattoo_031	0	0.009			t031f		1	2	面纹·庚子春款·翩羽
+290	2	4	characters/tattoos/luoli/luoli_eshadow/luoli_eshadow_015	0.006	0.196	1		luoli_eshadow_015		1	4	
+291	2	4	characters/tattoos/luoli/luoli_eshadow/luoli_eshadow_016	0.204	0.204	1		luoli_eshadow_016		1	4	
+292	2	4	characters/tattoos/luoli/luoli_eshadow/luoli_eshadow_017	0.225	0.268	1		luoli_eshadow_017		1	4	
+293	2	4	characters/tattoos/luoli/luoli_eshadow/luoli_eshadow_018	0	0.198			luoli_eshadow_018		1	4	
+294	0	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_027	0.441	0.21			t028f		1	4	
+295	0	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_028	0	0.027			t029f		1	4	
+296	0	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_029	0.437	0.215			t030f		1	4	
+297	0	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_030	0	0.027			t031f		1	4	
+298	3	4	characters/tattoos/luoli/luoli_lips/luoli_lips_007	0.377	0.483			luoli_lips_007	0	1	4	
+299	3	4	characters/tattoos/luoli/luoli_lips/luoli_lips_008	0.377	0.483			luoli_lips_008		1	4	
+300	3	4	characters/tattoos/luoli/luoli_lips/luoli_lips_009	0.377	0.483			luoli_lips_009	0	1	4	
+301	3	4	characters/tattoos/luoli/luoli_lips/luoli_lips_010	0.377	0.483			luoli_lips_010		1	4	
+302	4	4	characters/tattoos/luoli/luoli_brush/luoli_brush_009	0	0.19	1		brush_008		1	4	
+303	4	4	characters/tattoos/luoli/luoli_brush/luoli_brush_010	0	0.19	1		brush_009		1	4	
+304	4	4	characters/tattoos/luoli/luoli_brush/luoli_brush_011	0.25	0.249			brush_010		1	4	
+305	4	4	characters/tattoos/luoli/luoli_brush/luoli_brush_012	0	0.19	1		brush_011	0	1	4	
+306	2	0	characters/tattoos/male/male_eshadow/male_eshadow_007	0.006	0.179	1		male_eshadow_007		1	1	
+307	2	0	characters/tattoos/male/male_eshadow/male_eshadow_008	0.006	0.179	1		male_eshadow_008		1	1	
+308	2	0	characters/tattoos/male/male_eshadow/male_eshadow_009	0.219	0.241	1		male_eshadow_009		1	1	
+309	2	0	characters/tattoos/male/male_eshadow/male_eshadow_010	0	0.052			male_eshadow_010		1	1	
+310	0	0	characters/tattoos/male/male_tattoo/male_tattoo_029	0.202	0.409	1		t027f		1	1	
+311	0	0	characters/tattoos/male/male_tattoo/male_tattoo_030	0.437	0.174			t028f		1	1	
+312	0	0	characters/tattoos/male/male_tattoo/male_tattoo_032	0	0			t029f		1	1	
+313	0	0	characters/tattoos/male/male_tattoo/male_tattoo_033	0.437	0.176			t030f		1	1	
+314	0	0	characters/tattoos/male/male_tattoo/male_tattoo_031	0	0			t031f		1	1	
+315	3	0	characters/tattoos/male/male_lips/male_lips_004	0.375	0.54			male_lips_004	0	1	1	
+316	3	0	characters/tattoos/male/male_lips/male_lips_005	0.375	0.54			male_lips_005		1	1	
+317	3	0	characters/tattoos/male/male_lips/male_lips_006	0.375	0.54			male_lips_006		1	1	
+318	7	4	characters/tattoos/luoli/luoli_hairline/luoli_hl001_003	0	0			female_morphface000			4	
+320	7	0	characters/tattoos/male/male_hairline/male_hl001_003	0	0			male_morphface000			1	
+321	7	1	characters/tattoos/female/female_hairline/female_hl001_003	0	0			female_morphface000			2	
+323	9	1	characters/tattoos/female/female_lips/female_lipsflash_000	0.375	0.48			female_mflash_000		1	2	
+324	9	1	characters/tattoos/female/female_lips/female_lipsflash_001	0.375	0.48			female_mflash_001		1	2	
+325	9	1	characters/tattoos/female/female_lips/female_lipsflash_002	0.375	0.48			female_mflash_002		1	2	
+326	8	1	characters/tattoos/female/female_eshadow/female_eshadowflash_000	0.19	0.213	1		female_eflash_000		1	2	
+327	8	1	characters/tattoos/female/female_eshadow/female_eshadowflash_001	0.19	0.213	1		female_eflash_001		1	2	
+328	8	1	characters/tattoos/female/female_eshadow/female_eshadowflash_002	0.19	0.213	1		female_eflash_002		1	2	
+330	2	1	characters/tattoos/female/female_eshadow/female_eshadow_022	0.19	0.213	1		female_eshadow_022		1	2	眼妆·庚子夏款·星鳞
+331	2	1	characters/tattoos/female/female_eshadow/female_eshadow_023	0.19	0.213	1		female_eshadow_023		1	2	眼妆·庚子夏款·鲛泪
+332	2	1	characters/tattoos/female/female_eshadow/female_eshadow_024	0.19	0.213	1		female_eshadow_024		1	2	眼妆·庚子夏款·濯金
+333	2	0	characters/tattoos/male/male_eshadow/male_eshadow_011	0.212	0.244	1		male_eshadow_011		1	1	
+334	2	0	characters/tattoos/male/male_eshadow/male_eshadow_012	0.212	0.244	1		male_eshadow_012		1	1	
+335	2	0	characters/tattoos/male/male_eshadow/male_eshadow_013	0.212	0.244	1		male_eshadow_013		1	1	
+336	2	4	characters/tattoos/luoli/luoli_eshadow/luoli_eshadow_019	0.207	0.218	1		luoli_eshadow_019		1	4	
+337	2	4	characters/tattoos/luoli/luoli_eshadow/luoli_eshadow_020	0.207	0.218	1		luoli_eshadow_020		1	4	
+338	2	4	characters/tattoos/luoli/luoli_eshadow/luoli_eshadow_021	0.207	0.218	1		luoli_eshadow_021		1	4	
+339	8	0	characters/tattoos/male/male_eshadow/male_eshadowflash_000	0.212	0.244	1		male_eflash_000		1	1	
+340	8	0	characters/tattoos/male/male_eshadow/male_eshadowflash_001	0.212	0.244	1		male_eflash_001		1	1	
+341	8	0	characters/tattoos/male/male_eshadow/male_eshadowflash_002	0.212	0.244	1		male_eflash_002		1	1	
+342	8	4	characters/tattoos/luoli/luoli_eshadow/luoli_eshadowflash_000	0.207	0.218	1		luoli_eflash_000		1	4	
+343	8	4	characters/tattoos/luoli/luoli_eshadow/luoli_eshadowflash_001	0.207	0.218	1		luoli_eflash_001		1	4	
+344	8	4	characters/tattoos/luoli/luoli_eshadow/luoli_eshadowflash_002	0.207	0.218	1		luoli_eflash_002		1	4	
+345	9	0	characters/tattoos/male/male_lips/male_lipsflash_000	0.375	0.54			male_mflash_000		1	1	
+346	9	0	characters/tattoos/male/male_lips/male_lipsflash_001	0.375	0.54			male_mflash_001		1	1	
+347	9	0	characters/tattoos/male/male_lips/male_lipsflash_002	0.375	0.54			male_mflash_002		1	1	
+348	9	4	characters/tattoos/luoli/luoli_lips/luoli_lipsflash_000	0.377	0.483			luoli_mflash_000		1	4	
+349	9	4	characters/tattoos/luoli/luoli_lips/luoli_lipsflash_001	0.377	0.483			luoli_mflash_001		1	4	
+350	9	4	characters/tattoos/luoli/luoli_lips/luoli_lipsflash_002	0.377	0.483			luoli_mflash_002		1	4	
+351	7	4	characters/tattoos/luoli/luoli_hairline/luoli_hl001_011	0	0			female_morphface000			4	
+352	7	0	characters/tattoos/male/male_hairline/male_hl001_011	0	0			male_morphface000			1	
+353	7	1	characters/tattoos/female/female_hairline/female_hl001_011	0	0			female_morphface000			2	
+354	6	0	characters/tattoos/male/male_tattoo/male_tattoo_035	0.57	0.284			t032f		1	1	
+355	0	0	characters/tattoos/male/male_tattoo/male_tattoo_036	0.25	0.099			t033f		1	1	
+356	0	0	characters/tattoos/male/male_tattoo/male_tattoo_037	0	0.145			t034f		1	1	
+357	2	0	characters/tattoos/male/male_eshadow/male_eshadow_014	0.212	0.244	1		male_eshadow_014		1	1	
+358	6	1	characters/tattoos/female/female_tattoo/female_tattoo_032	0.553	0.244			t032f		1	2	
+359	0	1	characters/tattoos/female/female_tattoo/female_tattoo_033	0.25	0.046			t033f		1	2	
+360	0	1	characters/tattoos/female/female_tattoo/female_tattoo_034	0	0.046			t034f		1	2	
+361	2	1	characters/tattoos/female/female_eshadow/female_eshadow_025	0.19	0.213	1		female_eshadow_025		1	2	
+362	6	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_031	0.55	0.293			t032f		1	4	
+363	0	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_032	0.25	0.114			t033f		1	4	
+364	0	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_033	0	0.083			t034f		1	4	
+365	2	4	characters/tattoos/luoli/luoli_eshadow/luoli_eshadow_022	0.207	0.218	1		luoli_eshadow_022		1	4	
+366	7	4	characters/tattoos/luoli/luoli_hairline/luoli_hl001_012	0	0			female_morphface000			4	
+367	7	0	characters/tattoos/male/male_hairline/male_hl001_012	0	0			male_morphface000			1	
+368	7	1	characters/tattoos/female/female_hairline/female_hl001_012	0	0			female_morphface000			2	
+369	7	4	characters/tattoos/luoli/luoli_hairline/luoli_hl001_013	0	0			female_morphface000			4	
+370	7	0	characters/tattoos/male/male_hairline/male_hl001_013	0	0			male_morphface000			1	
+371	7	1	characters/tattoos/female/female_hairline/female_hl001_013	0	0			female_morphface000			2	
+372	7	4	characters/tattoos/luoli/luoli_hairline/luoli_hl001_014	0	0			female_morphface000			4	
+373	7	0	characters/tattoos/male/male_hairline/male_hl001_014	0	0			male_morphface000			1	
+374	7	1	characters/tattoos/female/female_hairline/female_hl001_014	0	0			female_morphface000			2	
+375	7	4	characters/tattoos/luoli/luoli_hairline/luoli_hl001_015	0	0			female_morphface000			4	
+376	7	0	characters/tattoos/male/male_hairline/male_hl001_015	0	0			male_morphface000			1	
+377	7	1	characters/tattoos/female/female_hairline/female_hl001_015	0	0			female_morphface000			2	
+378	0	1	characters/tattoos/female/female_tattoo/female_tattoo_035	0.302	0.471	1		t035f		1	2	
+379	0	1	characters/tattoos/female/female_tattoo/female_tattoo_036	0.134	0.284	1		t036f		1	2	
+380	0	1	characters/tattoos/female/female_tattoo/female_tattoo_037	0.305	0.328	1		t037f		1	2	
+381	0	1	characters/tattoos/female/female_tattoo/female_tattoo_038	0	0	1		t038f		1	2	
+382	0	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_034	0.327	0.469	1		t035f		1	4	
+383	0	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_035	0.175	0.322	1		t036f		1	4	
+384	0	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_036	0.327	0.37	1		t037f		1	4	
+385	0	4	characters/tattoos/luoli/luoli_tattoo/luoli_tattoo_037	0	0.066	1		t038f		1	4	
+386	0	0	characters/tattoos/male/male_tattoo/male_tattoo_038	0.253	0.519	1		t035f		1	1	
+387	0	0	characters/tattoos/male/male_tattoo/male_tattoo_039	0.153	0.311	1		t036f		1	1	
+388	0	0	characters/tattoos/male/male_tattoo/male_tattoo_040	0.335	0.364	1		t037f		1	1	
+389	0	0	characters/tattoos/male/male_tattoo/male_tattoo_041	0	0.108	1		t038f		1	1	
+390	7	4	characters/tattoos/luoli/luoli_hairline/luoli_hl001_016	0	0			female_morphface000			4	
+391	7	0	characters/tattoos/male/male_hairline/male_hl001_016	0	0			male_morphface000			1	
+392	7	1	characters/tattoos/female/female_hairline/female_hl001_016	0	0			female_morphface000			2	
+393	7	4	characters/tattoos/luoli/luoli_hairline/luoli_hl005_012	0	0			female_morphface000			4	
+394	7	0	characters/tattoos/male/male_hairline/male_hl003_012	0	0			male_morphface000			1	
+395	7	1	characters/tattoos/female/female_hairline/female_hl004_012	0	0			female_morphface000			2	
+396	7	4	characters/tattoos/luoli/luoli_hairline/luoli_hl005_008	0	0			female_morphface000			4	
+397	7	0	characters/tattoos/male/male_hairline/male_hl003_008	0	0			male_morphface000			1	
+398	7	1	characters/tattoos/female/female_hairline/female_hl004_008	0	0			female_morphface000			2	

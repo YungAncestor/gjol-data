@@ -1,0 +1,1359 @@
+﻿literal	text	channels	visible	ignore_setting	voice_male	voice_female	desc
+*新建分类建议@开头，不以ERR_开头的行将会被忽略	中文描述[L]	频道（默认为屏幕中间红字，其他可查看enum_base中聊天系统系统用频道枚举）	是否显示	是否忽略偏好设置的战斗语音开关控制（0-不忽略，1-忽略）	男音	女音	备注[N]
+			0	1			
+@@@@@@@ERR_GLOBAL@@@@@@@							
+ERR_GLOBAL_UNKNOWN	未知错误						
+ERR_GLOBAL_NULL	无声错误						
+ERR_GLOBAL_NOT_RUNING	系统尚未开放						
+@@@@@@@ERR_COMBAT_ATK_FAIL@@@@@@@							
+ERR_COMBAT_ATK_FAIL_SKILL_UNKNOWN	还不能施展这招						
+ERR_COMBAT_ATK_FAIL_ATTACKING	正在攻击						
+ERR_COMBAT_ATK_FAIL_ATTACKER_DEAD	你已经重伤				event:/voice/system/hint/tg/male/071	event:/voice/system/hint/tg/female/071	
+ERR_COMBAT_ATK_FAIL_ATTACKER_ALIVE	只能在死亡时释放						
+ERR_COMBAT_ATK_FAIL_ATTACKER_NO_BUFF	不在必要的状态						
+ERR_COMBAT_ATK_FAIL_ATTACKER_NO_ITEM	物品不够				event:/voice/system/hint/tg/male/087	event:/voice/system/hint/tg/female/087	
+ERR_COMBAT_ATK_FAIL_ATTACKER_JUMPING	正在跳跃						
+ERR_COMBAT_ATK_FAIL_ATTACKER_NOT_JUMPING	不在空中						
+ERR_COMBAT_ATK_FAIL_ATTACKER_SKILL_CD	正在调息						
+ERR_COMBAT_ATK_FAIL_NEED_MORE_LAYER	充能层数不足						
+ERR_COMBAT_ATK_FAIL_ATTACKER_HP_NOT_ENOUGH	元精不足				event:/voice/system/hint/tg/male/007	event:/voice/system/hint/tg/female/007	
+ERR_COMBAT_ATK_FAIL_ATTACKER_QP_NOT_ENOUGH	元气不足						
+ERR_COMBAT_ATK_FAIL_ATTACKER_MP_NOT_ENOUGH	目前无法施展此招式						
+ERR_COMBAT_ATK_FAIL_ATTACKER_SP_NOT_ENOUGH	目前无法施展此招式						
+ERR_COMBAT_ATK_FAIL_ATTACKER_WP_NOT_ENOUGH	目前无法施展此招式						
+ERR_COMBAT_ATK_FAIL_ATTACKER_LBP_NOT_ENOUGH	还不能施展剑心共鸣技				event:/voice/system/hint/tg/male/006	event:/voice/system/hint/tg/female/006	
+ERR_COMBAT_ATK_FAIL_ATTACKER_LIMIT_STATE	被控制时无法施放				event:/voice/system/hint/tg/male/005	event:/voice/system/hint/tg/female/005	
+ERR_COMBAT_ATK_FAIL_TARGET_OUT_CAST_KEN	需要选中的目标处于视野范围内						
+ERR_COMBAT_ATK_FAIL_TARGET_OUT_CAST_RANGE	需要靠近目标						
+ERR_COMBAT_ATK_FAIL_TARGET_NOT_FACE	需要面对目标						
+ERR_COMBAT_ATK_FAIL_TARGET_INVALID	目标错误，请重新指定目标				event:/voice/system/hint/tg/male/002	event:/voice/system/hint/tg/female/002	
+ERR_COMBAT_ATK_FAIL_SKILL_NO_LEARN	尚未习得				event:/voice/system/hint/tg/male/009	event:/voice/system/hint/tg/female/009	
+ERR_COMBAT_ATK_FAIL_SAFE_AREA	安全区域不可攻击						
+ERR_COMBAT_ATK_FAIL_MASTERY_LIMIT	当前专精不能施展此招式						
+ERR_COMBAT_ATK_FAIL_ATTACKER_REQ_WEAPON	没有武器				event:/voice/system/hint/tg/male/010	event:/voice/system/hint/tg/female/010	
+ERR_COMBAT_ATK_FAIL_ATTACKER_IN_WATER	水中不能使用				event:/voice/system/hint/tg/male/012	event:/voice/system/hint/tg/female/012	
+ERR_COMBAT_ATK_FAIL_ATTACKER_NOT_IN_WATER	该技能只能在水中释放						
+ERR_COMBAT_ATK_FAIL_TARGET_NULL	请先指定目标						
+ERR_COMBAT_ATK_FAIL_EMOTION	当前状态无法施放				event:/voice/system/hint/tg/male/005	event:/voice/system/hint/tg/female/005	
+ERR_COMBAT_ATK_FAIL_WEAPON_BROKEN	请修理武器				event:/voice/system/hint/tg/male/089	event:/voice/system/hint/tg/female/089	
+ERR_COMBAT_ATK_FAIL_TARGET_INVISIBLE	目标被阻挡						
+ERR_COMBAT_ATK_FAIL_COMBAT_CAST_WRONG	战斗中不能使用				event:/voice/system/hint/tg/male/085	event:/voice/system/hint/tg/female/085	
+ERR_COMBAT_ATK_FAIL_COMBAT_CAST_NOT_FIGHTING	非战斗状态不能使用						
+ERR_COMBAT_ATK_FAIL_ATTACKER_MOVING	移动中无法施放				event:/voice/system/hint/tg/male/005	event:/voice/system/hint/tg/female/005	
+ERR_COMBAT_ATK_FAIL_ATTACKER_BINDING	当前状态无法施放				event:/voice/system/hint/tg/male/005	event:/voice/system/hint/tg/female/005	
+ERR_COMBAT_ATK_FAIL_AIR_COMBO_FINISHED	落地后才能继续攻击		1				
+ERR_COMBAT_ATK_FAIL_GROUP_INACTIVE	技能组未激活						
+ERR_COMBAT_ATK_FAIL_SCENE_RESTRICTION	不能在该场景释放						
+ERR_COMBAT_ATK_FAIL_BLOCKED_BY_BUFF	当前状态无法施放						
+ERR_COMBAT_ATK_FAIL_CASTING_OTHER_SKILL	正在吟唱其他技能						
+ERR_COMBAT_ATK_FAIL_ATTACKER_ON_GROUND	该技能不能在地面释放						
+ERR_COMBAT_ATK_FAIL_ATTACKER_NOT_ON_GROUND	该技能只能在地面释放						
+ERR_COMBAT_ATK_FAIL_LB_EFFECT_GOT	目标已有守护效果						
+ERR_COMBAT_ATK_FAIL_LB_EFFECT_USED_UP	可使用次数不足						
+ERR_COMBAT_ATK_FAIL_BAN_BLINK	迟滞状态下无法施展位移类招式						
+ERR_COMBAT_ATK_FAIL_NEUTRAL_HEAL	您不能干涉目标当前所处的战斗						
+ERR_COMBAT_ATK_FAIL_BAN_SIT	当前状态下不能打坐						
+ERR_COMBAT_ATK_FAIL_CANT_COMBO							
+@@@@@@@ERR_COMMANDO_FAIL@@@@@@@							
+ERR_COMMANDO_ROLE_NOT_FOUND	角色异常						
+ERR_COMMANDO_NAME_CONFLICT	已经存在同名战旅						
+ERR_COMMANDO_TYPE_INVALID	战旅类型错误						
+ERR_COMMANDO_LEADER_LIMIT	不是队长						
+ERR_COMMANDO_ALREADY_MEMBER	已经是战旅成员						
+ERR_COMMANDO_ALREADY_INVITED	已经邀请过						
+ERR_COMMANDO_NOT_INVITED	未曾邀请过						
+ERR_COMMANDO_NOT_MEMBER	不是战旅成员						
+ERR_COMMANDO_NOT_EXIST	战旅不存在						
+ERR_COMMANDO_CMD_INVALID	命令错误						
+ERR_COMMANDO_ALREADY_FULL	战旅满员						
+ERR_COMMANDO_INVITED_FULL	不能邀请再多						
+ERR_COMMANDO_ALREADY_EXIST	已经有战旅						
+ERR_COMMANDO_FORBID_LEAVE	队长禁止离开						
+ERR_COMMANDO_NAME_LENERR	战旅名长度不合法						
+ERR_COMMANDO_NAME_ILLEGAL	战旅名含有不建议使用的词汇						
+ERR_COMMANDO_NAME_ALLCHINESE	战旅名必须全中文						
+ERR_COMMANDO_NOT_ENOUGH_MONEY	金钱不足						
+ERR_COMMANDO_TARGET_NO_FOUND	目标不存在						
+ERR_COMMANDO_TARGET_LIMIT_LV	目标等级不够						
+ERR_COMMANDO_SELF_LIMIT_LV	自己等级不够						
+ERR_COMMANDO_LEADER_FORBID	战旅队长无法删除角色						
+@@@@@@@ERR_ADD_BUFF_FAIL@@@@@@@							
+ERR_ADD_BUFF_FAIL_OTHER							
+ERR_ADD_BUFF_FAIL_INVINCIBLE	无敌						
+ERR_ADD_BUFF_FAIL_UNSTOPPABLE	不可阻挡						
+ERR_ADD_BUFF_FAIL_IMMUNED_CROWD_CONTROL	免疫控制						
+ERR_ADD_BUFF_FAIL_NOT_CON	识破						
+ERR_ADD_BUFF_FAIL_RESIST	抵抗						
+ERR_ADD_BUFF_FAIL_ENDURE	霸体						
+ERR_ADD_BUFF_FAIL_IMMUNED_SLOW_DOWN							
+ERR_ADD_BUFF_FAIL_IMMUNED_STUN	免疫昏迷						
+ERR_ADD_BUFF_FAIL_IMMUNED_FREEZE	免疫冻结						
+ERR_ADD_BUFF_FAIL_IMMUNED_IMMOBILIZE	免疫定身						
+ERR_ADD_BUFF_FAIL_IMMUNED_SILENCE	免疫沉默						
+ERR_ADD_BUFF_FAIL_IMMUNED_SLEEP	免疫沉睡						
+ERR_ADD_BUFF_FAIL_IMMUNED_CHARM	免疫魅惑						
+ERR_ADD_BUFF_FAIL_IMMUNED_KNOCK_UP	免疫浮空						
+ERR_ADD_BUFF_FAIL_IMMUNED_KNOCK_DOWN	免疫击倒						
+ERR_ADD_BUFF_FAIL_IMMUNED_KNOCK_AWAY	免疫击飞						
+ERR_ADD_BUFF_FAIL_SYSTEM_TRANSFORM	不能改变当前变身状态						
+@@@@@@@ERR_ROLE@@@@@@@							
+ERR_ROLE_DELETING	角色已在删除倒计时						
+ERR_ROLE_NAME_EXIST	角色名已存在						
+ERR_ROLE_NAME_ILLEGAL	角色名含有不建议使用的词汇						
+ERR_ROLE_NAME_LENERR	角色名长度不合法						
+ERR_ROLE_NAME_ALLCHINESE	角色名有非中文字符						
+ERR_ROLE_MAX_NUMBER	角色数目已达上限				event:/voice/system/hint/tg/male/064	event:/voice/system/hint/tg/female/064	
+ERR_ROLE_UNDONE_AUCTION	龙星商会中有未成交物件						
+ERR_ROLE_GUILD_DEL	拥有盟会或战盟，不可删除						
+ERR_ROLE_HOME_OWNER	仙府拥有者，不可删除						
+ERR_ROLE_IMPORT_OK	账户导入成功						
+ERR_ROLE_RENAME_FORBID	无改名权限						
+ERR_ROLE_RENAME_CD_LIMIT	改名冷却中						
+ERR_ROLE_NOT_FOUND	角色未找到						
+ERR_ROLE_LEAVE_FORBID	战斗状态不可离开						
+ERR_ROLE_FORCE_RENAME	名字冲突，请改名						
+ERR_ROLE_MAX_PER_MONTH	创建的角色数目已达本月上限						
+ERR_ROLE_REBORN_FORBID	无捏脸权限						
+ERR_ROLE_CREATE_FORBID	创建角色受限：需要本服已有角色达到通灵境界						
+ERR_ROLE_CHANGE_CAMP_GUILD	受所在战盟阵营限制，无法转换阵营						
+ERR_ROLE_BLOCKED	角色被封停						
+ERR_ROLE_VOC_GENDER_NOT_MATCH	职业性别不匹配						
+ERR_ROLE_VOC_SKELETON_NOT_MATCH	职业体型不匹配						
+ERR_ROLE_MIGRATE_TEAM	当前在队伍中，无法转服						
+ERR_ROLE_MIGRATE_GUILD	请先退出盟会						
+ERR_ROLE_MIGRATE_PVP_GUILD	请先退出战盟						
+ERR_ROLE_MIGRATE_SERVER	服务器内部错误，转服失败						
+ERR_ROLE_MIGRATE_SELL_GYS	正在拍卖光阴梭，无法转服						
+ERR_ROLE_MIGRATE_BUY_GYS	正在求购光阴梭，无法转服						
+ERR_ROLE_MIGRATE_SELL_ITEM	正在拍卖物品，无法转服						
+ERR_ROLE_MIGRATE_BUY_ITEM	正在竞拍物品，无法转服						
+ERR_ROLE_MIGRATE_INVALID_GROUP	请选择合法的服务器						
+ERR_ROLE_MIGRATE_DOING	正在迁移						
+ERR_ROLE_MIGRATE_FULL	目标服角色数量达到上限						
+ERR_ROLE_MIGRATE_ZHANLIPIN	正在竞拍战利品，无法转服						
+@@@@@@@ERR_DROP@@@@@@@							
+ERR_DROP_NOT_LOOTER	权限不足，无法拾取				event:/voice/system/hint/tg/male/084	event:/voice/system/hint/tg/female/084	
+ERR_DROP_NOT_EXIST	物品已被拾取				event:/voice/system/hint/tg/male/025	event:/voice/system/hint/tg/female/025	
+ERR_DROP_NOT_PICKED	物品不可拾取				event:/voice/system/hint/tg/male/025	event:/voice/system/hint/tg/female/025	
+ERR_DROP_NOT_DISP	物品不可分配						
+ERR_DROP_NOT_ROLL	物品不可掷点						
+ERR_DROP_ROLLED	已掷点过该物品						
+ERR_DROP_PACK_FULL	行囊已满				event:/voice/system/hint/tg/male/001	event:/voice/system/hint/tg/female/001	
+ERR_DROP_OFFLINE	目标已下线				event:/voice/system/hint/tg/male/073	event:/voice/system/hint/tg/female/073	
+ERR_DROP_PICK_TOO_FAR	目标距离太远，无法拾取				event:/voice/system/hint/tg/male/025	event:/voice/system/hint/tg/female/025	
+ERR_DROP_TOO_FAR	目标距离太远，无法分配				event:/voice/system/hint/tg/male/003	event:/voice/system/hint/tg/female/003	
+ERR_DROP_SELF_DEAD	你已经重伤				event:/voice/system/hint/tg/male/071	event:/voice/system/hint/tg/female/071	
+ERR_DROP_TARGET_DEAD	目标已经重伤				event:/voice/system/hint/tg/male/072	event:/voice/system/hint/tg/female/072	
+ERR_DROP_DISP_OFFLINE	分配者已离线				event:/voice/system/hint/tg/male/073	event:/voice/system/hint/tg/female/073	
+ERR_DROP_ROLL_INVALID	不可需求模式掷点						
+ERR_BOUNTY_EXIST	已经悬赏过目标玩家						
+ERR_BOUNTY_LIMIT	目标玩家当前处于悬赏保护期						
+@@@@@@@ERR_TEAM@@@@@@@							
+ERR_TEAM_UNKNOWN	组队未知错误						
+ERR_TEAM_TARGET_EMPTY	邀请对象不存在				event:/voice/system/hint/tg/male/067	event:/voice/system/hint/tg/female/067	
+ERR_TEAM_SELF_IN_TEAM	你已有队伍						
+ERR_TEAM_TARGET_IN_TEAM	目标已有队伍						
+ERR_TEAM_TARGET_INVITED	已邀请该玩家						
+ERR_TEAM_SELF_INVITED	对方已邀请你						
+ERR_TEAM_NOT_INVITED	无邀请信息						
+ERR_TEAM_REFUSE_INVITE	拒绝组队邀请						
+ERR_TEAM_REFUSE_ASK	拒绝组队请求						
+ERR_TEAM_FULL	队伍已满				event:/voice/system/hint/tg/male/036	event:/voice/system/hint/tg/female/036	
+ERR_TEAM_ASK_LIST_FULL	请求列表已满						
+ERR_TEAM_NOT_ADMIN	无批准权限				event:/voice/system/hint/tg/male/084	event:/voice/system/hint/tg/female/084	
+ERR_TEAM_NOT_ASKER	不在请求列表						
+ERR_TEAM_FORBID_ASK	无邀请权限				event:/voice/system/hint/tg/male/084	event:/voice/system/hint/tg/female/084	
+ERR_TEAM_TEAM_DISSOLVE	队伍不存在				event:/voice/system/hint/tg/male/078	event:/voice/system/hint/tg/female/078	
+ERR_TEAM_NOT_LEADER	你不是队长				event:/voice/system/hint/tg/male/084	event:/voice/system/hint/tg/female/084	
+ERR_TEAM_NOT_LEADER_AND_ADMIN	你不是队长和管理员						
+ERR_TEAM_FORBID_LEAVE	队长不可离队						
+ERR_TEAM_NOT_MEMBER	不是队伍成员						
+ERR_TEAM_TARGET_IS_NOT_ADMIN	目标不是队伍管理员						
+ERR_TEAM_TARGET_IS_ADMIN	目标已经是队伍管理员						
+ERR_TEAM_ADMIN_EXCEED_MAX	队伍管理员人数已达上限						
+ERR_TEAM_FORBID	无权限				event:/voice/system/hint/tg/male/084	event:/voice/system/hint/tg/female/084	
+ERR_TEAM_MEMBER_OFFLINE	目标已下线				event:/voice/system/hint/tg/male/073	event:/voice/system/hint/tg/female/073	
+ERR_TEAM_INVITE_SELF	不可邀请自己						
+ERR_TEAM_TEAM_ASKED	已在队伍邀请队列						
+ERR_TEAM_TEAM_LOCKED	该队伍拒绝接受组队申请						
+ERR_TEAM_ASK_INVALID	邀请已失效				event:/voice/system/hint/tg/male/093	event:/voice/system/hint/tg/female/093	
+ERR_TEAM_SYS_TEAM	目标在系统队伍中，不可操作						
+ERR_TEAM_DESC_LENERR	招募描述长度不合法						
+ERR_TEAM_DESC_ILLEGAL	招募描述不合法						
+ERR_TEAM_NOT_FOUND	队伍已解散						
+ERR_TEAM_REQMSG_LENERR	留言长度不合法						
+ERR_TEAM_REQMSG_ILLEGAL	留言内容不合法						
+ERR_TEAM_NOT_RECRUITMENT	队伍已经不在招募板						
+ERR_TEAM_RECRUITMENT_DEACTIVE	招募功能不可用						
+ERR_TEAM_CAMP_LIMIT_INVITE	你或者目标在阵营地图中, 无法跨阵营邀请组队。						
+ERR_TEAM_CAMP_LIMIT_REQUEST	你或者目标在阵营地图中,无法申请组队。						
+ERR_TEAM_CAMP_LIMIT_TEAM	在阵营地图中,无法跨阵营组队。						
+ERR_TEAM_RECRUITMENT_SYS_FINISH	目标秘境已完成全部进度						
+ERR_TEAM_RECRUITMENT_PLAYER_FINISH	招募的目标秘境已完成全部进度						
+ERR_TEAM_RECRUITMENT_EQUIP_LIMIT	你的装等不符合队伍要求						
+@@@@@@@ERR_SERVER@@@@@@@							
+ERR_SERVER_NOT_RUNNING	未开服						
+ERR_SERVER_IS_FULL	服务器满员						
+ERR_SERVER_NOT_RESP	服务器未响应						
+@@@@@@@ERR_SCENE@@@@@@@							
+ERR_SCENE_MAX_PLAYER	场景满员						
+ERR_SCENE_NOT_EXIST	实例不存在				event:/voice/system/hint/tg/male/078	event:/voice/system/hint/tg/female/078	
+ERR_SCENE_LOGIN_FAILED	登录场景失败						
+ERR_SCENE_TEMPL_NOT_FOUND	场景配置不存在				event:/voice/system/hint/tg/male/078	event:/voice/system/hint/tg/female/078	
+ERR_SCENE_NOT_AUTHED	无当前实例权限				event:/voice/system/hint/tg/male/084	event:/voice/system/hint/tg/female/084	
+ERR_SCENE_FORBID_ENTER	场景禁止进入				event:/voice/system/hint/tg/male/079	event:/voice/system/hint/tg/female/079	
+ERR_SCENE_SAME_TID	已在场景中						
+ERR_SCENE_SAME_UID	已在当前实例中						
+ERR_SCENE_INST_EXIST	已在当前实例中						
+ERR_SCENE_IS_BLOCKED	场景禁止登入						
+ERR_SCENE_NOT_ASK_LV	不是请求的难度						
+ERR_SCENE_PLAYER_LV_LIMIT	等级不符				event:/voice/system/hint/tg/male/074	event:/voice/system/hint/tg/female/074	
+ERR_SCENE_LEVEL_INVALID	场景难度非法						
+ERR_SCENE_NO_PVP	秘境内不允许PVP						
+ERR_SCENE_CAMP_LIMIT	队伍必须同阵营						
+ERR_SCENE_PVP_CLOSED	无法进入PVP场景				event:/voice/system/hint/tg/male/079	event:/voice/system/hint/tg/female/079	
+ERR_SCENE_EQUIPS_SCORE_LIMIT	装备得分不足，无法进入秘境				event:/voice/system/hint/tg/male/079	event:/voice/system/hint/tg/female/079	
+ERR_SCENE_PLAYER_SAVING	角色正在保存						
+ERR_SCENE_SWITCH_FORBID	当前状态禁止切场景						
+ERR_SCENE_REDIRECT	重新定向						
+ERR_SCENE_ACTOR_REG	已经报名						
+ERR_SCENE_BATTLE_DEACTIVE	活动未开启						
+ERR_SCENE_ACTOR_REG_MAX	已经达到报名人数上限						
+ERR_SCENE_ACTOR_OFFLINE	玩家已离线						
+ERR_SCENE_OBSERVER_FULL	观战人数已达上限						
+ERR_SCENE_OBSERVER_TAEGET	玩家已设置禁止被观战						
+ERR_SCENE_OBSERVER_TEAM	玩家所在队伍禁止被观战						
+ERR_SCENE_OBSERVER_OBSV	无法对正在观战的玩家进行观战						
+ERR_SCENE_OBSERVER_OBING	目标正在被其他玩家观战指导						
+ERR_SCENE_FORBID_DUMMY	无提示，提示在策划层						
+@@@@@@@ERR_QUEUE@@@@@@@							
+ERR_QUEUE_NOT_ELEM	不在队列中						
+ERR_QUEUE_NOT_MATCH	未匹配到对手						
+ERR_QUEUE_ACCEPTED	已经接受						
+ERR_QUEUE_NO_TEAM	必须组队报名						
+ERR_QUEUE_TEAM_NUM_LIMIT	队伍人数不符合要求						
+ERR_QUEUE_NOT_RUNNING	活动[c 00FF00][{1}][/c]尚未开启				event:/voice/system/hint/tg/male/075	event:/voice/system/hint/tg/female/075	
+ERR_QUEUE_LEADER_ONLY	队长才能报名				event:/voice/system/hint/tg/male/084	event:/voice/system/hint/tg/female/084	
+ERR_QUEUE_MEMBER_READY	队友[c 00FF00][{1}][/c]已经在队列中						
+ERR_QUEUE_MEMBER_IN_QUEUE	队友[c 00FF00][{1}][/c]已经在队列中						
+ERR_QUEUE_SELF_READY	你已经在排队队列中						
+ERR_QUEUE_MEMBER_OFFLINE	队友不在线，无法报名						
+ERR_QUEUE_VOCATION_INVALID	选择的职业无法进行匹配						
+ERR_QUEUE_CANCEL_BY_OTHER	玩家[c 00FF00][{1}][/c]取消了匹配						
+ERR_QUEUE_PLAYER_LEAVE	玩家[c 00FF00][{1}][/c]离开匹配						
+ERR_QUEUE_SIGNUP_TIMEOUT	超时退出准备阶段						
+ERR_QUEUE_TRIAL_LEVEL_INVALID	玩家[c 00FF00][{1}][/c]灵关等级不足						
+ERR_QUEUE_CAMP	队员阵营不一致。						
+ERR_QUEUE_HEALER_OVERDOSE	铭锋论剑中队伍中只能有一个治疗专精。						
+ERR_QUEUE_ILLEGAL_SCORE	队伍中玩家战阶分数差距大于400分，无法匹配。						
+ERR_QUEUE_DUPLICATE_MASTERY	队伍中玩家有重复专精，无法匹配						
+ERR_QUEUE_SAMETEAM_DUPLICATE_MFP	禁止双开组队匹配铭锋论剑						
+@@@@@@@ERR_PET@@@@@@@							
+ERR_PET_OK	照影操作成功						
+ERR_PET_PET_EXIST	已经拥有照影						
+ERR_PET_PET_NOT_EXIST	尚未开启照影功能						
+ERR_PET_PET_ID_INVALID	无效的照影ID				event:/voice/system/hint/tg/male/093	event:/voice/system/hint/tg/female/093	
+ERR_PET_PET_LEVEL_EXCEED_MAX	照影等级已达上限				event:/voice/system/hint/tg/male/064	event:/voice/system/hint/tg/female/064	
+ERR_TITLE_INVALID_USER	阵营或性别不符，无法激活该称号						
+ERR_TITLE_INVALID_RANK	非法称号等级，无法激活该称号						
+ERR_PET_ITEM_NOT_FOUND	物品不存在				event:/voice/system/hint/tg/male/078	event:/voice/system/hint/tg/female/078	
+ERR_PET_ITEM_LOCKED	物品被锁定				event:/voice/system/hint/tg/male/017	event:/voice/system/hint/tg/female/017	
+ERR_PET_ITEM_LOCK_FAILED	物品锁定失败						
+ERR_PET_ITEM_INVALID_EXP	无法蕴养				event:/voice/system/hint/tg/male/081	event:/voice/system/hint/tg/female/081	
+ERR_PET_ITEM_INVALID_SKILL	技能已修习				event:/voice/system/hint/tg/male/063	event:/voice/system/hint/tg/female/063	
+ERR_PET_ITEM_INVALID_SKILL_ID	技能已修习				event:/voice/system/hint/tg/male/063	event:/voice/system/hint/tg/female/063	
+ERR_PET_ITEM_INVALID_SKILL_LEVEL	技能等级已达上限				event:/voice/system/hint/tg/male/064	event:/voice/system/hint/tg/female/064	
+ERR_PET_ITEM_INVALID_GROUP	尚未习得该技能				event:/voice/system/hint/tg/male/009	event:/voice/system/hint/tg/female/009	
+ERR_PET_ITEM_INVALID_WEIGHT	尚未习得该技能				event:/voice/system/hint/tg/male/009	event:/voice/system/hint/tg/female/009	
+ERR_PET_ITEM_INVALID_CHANGE_ID	尚未修习该幻化形态				event:/voice/system/hint/tg/male/009	event:/voice/system/hint/tg/female/009	
+ERR_PET_SKILL_SLOT_INVALID	无效的技能槽位				event:/voice/system/hint/tg/male/093	event:/voice/system/hint/tg/female/093	
+ERR_PET_SKILL_SLOT_INACTIVE	技能槽位未激活						
+ERR_PET_SKILL_SLOT_LOCKED	技能槽位未解锁						
+ERR_PET_SHOW_ID_INVALID	无效的照影幻化				event:/voice/system/hint/tg/male/093	event:/voice/system/hint/tg/female/093	
+ERR_PET_SHOW_ID_NOT_ACCQUIRED	尚未获得此照影幻化				event:/voice/system/hint/tg/male/090	event:/voice/system/hint/tg/female/090	
+ERR_PET_SHOW_ID_MISS_MAIN	未设置照影的主体幻化						
+ERR_PET_SHOW_SLOT_INVALID	不存在的照影幻化列表位置				event:/voice/system/hint/tg/male/078	event:/voice/system/hint/tg/female/078	
+ERR_PET_SHOW_ID_EXIST	不存在的照影幻化ID				event:/voice/system/hint/tg/male/078	event:/voice/system/hint/tg/female/078	
+ERR_PET_MAIN_SHOW_ID_LIMIT	当前幻化主体无法搭配选择的部件						
+ERR_PET_ITEM_INVALID_SKILL_PET_LEVEL	照影等级不足，无法学习技能				event:/voice/system/hint/tg/male/039	event:/voice/system/hint/tg/female/039	
+ERR_PET_ITEM_INVALID_SKILL_PET_SERIAL_ID	未收集对应幻化系列主部位，无法学习技能						
+ERR_PET_ITEM_INVALID_SKILL_PET_SKILL_SLOT	错误的技能格子，无法学习技能						
+ERR_PET_FEED_FAILED	分解失败						
+ERR_PET_FEED_ITEM_NOT_APPRAISED	装备尚未鉴定，无法分解						
+ERR_PET_FEED_MTRL_ITEM	无法分解				event:/voice/system/hint/tg/male/081	event:/voice/system/hint/tg/female/081	
+ERR_PET_FEED_ENERGY_EXCEED	照影饱食度超过上限				event:/voice/system/hint/tg/male/064	event:/voice/system/hint/tg/female/064	
+ERR_PET_FEED_EXCEED_ADDED_ENERGY	超出喂养照影的灵气上限						
+ERR_PET_ITEM_COUNT_FAILD	蕴养材料数量有误				event:/voice/system/hint/tg/male/081	event:/voice/system/hint/tg/female/081	
+ERR_PET_PET_PROP_EXCEED_MAX	该属性已达上限				event:/voice/system/hint/tg/male/064	event:/voice/system/hint/tg/female/064	
+ERR_PET_REPLACE_SKILL_FAILED	替换技能失败				event:/voice/system/hint/tg/male/077	event:/voice/system/hint/tg/female/077	
+ERR_PET_ACTIVE_REPL_SKILL_FAILED	激活替换技能失败				event:/voice/system/hint/tg/male/077	event:/voice/system/hint/tg/female/077	
+ERR_PET_FIGHTING_FAILED	战斗中无法操作				event:/voice/system/hint/tg/male/085	event:/voice/system/hint/tg/female/085	
+ERR_PET_DEAD_FAILED	重伤状态下无法操作				event:/voice/system/hint/tg/male/071	event:/voice/system/hint/tg/female/071	
+ERR_PET_NOT_ENOUGH_PROP_POIONT	没有足够的技能点						
+ERR_PET_NOT_ENOUGH_ENERGY	没有足够的照影灵气						
+ERR_PET_CANT_CHANGE	当前场景无法替换照影						
+ERR_PET_LEVEL_UP_SKILL_FAILD_PET_LEVEL	照影等级不足，无法提升技能等级						
+ERR_PET_LEVEL_UP_SKILL_FAILD_PET_SHOW	指定幻化系列收集的幻化数量不足，无法提升技能等级						
+ERR_PET_ADD_ENERGY_EXCEED_MAX	EMPTY						
+ERR_PET_SUB_ENERGY_EXCEED_CURRENT	EMPTY						
+@@@@@@@ERR_SOCIAL@@@@@@@							
+ERR_SOCIAL_INVALID_PLAYER	角色不存在或者角色已经删除						
+ERR_SOCIAL_ADD_SELF	不能对自己添加社交关系						
+ERR_SOCIAL_TOO_FAST	申请过于频繁						
+ERR_SOCIAL_RECOMM_TOO_FAST	获取推荐过于频繁						
+ERR_SOCIAL_EDUCATE_RECOMM_SHOW_ILLEGAL	宣言中含有不建议使用的词汇						
+ERR_SOCIAL_EDUCATE_RECOMM_SHOW_LEN	宣言长度超过限制						
+ERR_SOCIAL_MOOD_LEN	心情长度超过限制						
+ERR_SOCIAL_MOOD_ILLEGAL	心情含有不建议使用的词汇						
+ERR_SOCIAL_TARGET_CUSTOM_EXCEED	目标玩家挚交数目已达上限						
+ERR_SOCIAL_TARGET_OFFLINE	目标玩家不在线						
+ERR_SOCIAL_TARGET_HAD_APPLY	已跟该玩家申请过该关系						
+ERR_SOCIAL_APPLY_EXCEED	该关系申请数目已达上限						
+ERR_SOCIAL_INVALID_APPLY	申请已失效						
+ERR_SOCIAL_FRIEND_EXCEED	好友数目已达上限						
+ERR_SOCIAL_FRIEND_EXIST	该玩家已经是您的好友						
+ERR_SOCIAL_FRIEND_NO_EXIST	该玩家不是您的好友						
+ERR_SOCIAL_FRIEND_MEMO_LEN	好友备注长度超过限制						
+ERR_SOCIAL_FRIEND_MEMO_ILLEGAL	好友备注中含有不建议使用的词汇						
+ERR_SOCIAL_FRIEND_GROUP_LEN	分组名长度超过限制						
+ERR_SOCIAL_FRIEND_GROUP_NIL	分组名不能为空						
+ERR_SOCIAL_FRIEND_GROUP_ILLEGAL	分组名中含有不建议使用的词汇						
+ERR_SOCIAL_FRIEND_GROUP_NAME_EXIST	该组名已经存在						
+ERR_SOCIAL_FRIEND_GROUP_NUM	好友分组数目已达上限						
+ERR_SOCIAL_FRIEND_GROUP_NO_EXIST	该分组不存在						
+ERR_SOCIAL_FRIEND_GROUP_DEL_DEF	不可删除默认分组						
+ERR_SOCIAL_FRIEND_GROUP_RENAME_DEF	不可更改默认分组名称						
+ERR_SOCIAL_FRIEND_GROUP_HAD_IN	好友已在该分组						
+ERR_SOCIAL_CUSTOM_EXCEED	挚交数目已达上限						
+ERR_SOCIAL_CUSTOM_EXIST	已跟该玩家建立了挚交						
+ERR_SOCIAL_CUSTOM_NO_EXIST	尚未跟该玩家建立挚交						
+ERR_SOCIAL_CUSTOM_ABILITY_INVALID	无效的挚交能力						
+ERR_SOCIAL_CUSTOM_ABILITY_EXISTED	该挚交能力已经处于激活状态						
+ERR_SOCIAL_CUSTOM_ABILITY_COUNT	尚未开放激活更多挚交能力的权限						
+ERR_SOCIAL_CUSTOM_ABILITY_HAD_APPLY	挚交能力正在申请中						
+ERR_SOCIAL_CUSTOM_ABILITY_APPLY_INVALID	该挚交能力的申请已经无效						
+ERR_SOCIAL_CUSTOM_ABILITY_NOTHING	尚未激活与该玩家的任何挚交能力						
+ERR_SOCIAL_CUSTOM_ABILITY_SUMMON_NONE	尚未激活与该玩家的召请相关的挚交能力						
+ERR_SOCIAL_CUSTOM_NICK_LENERR	挚交头衔昵称长度超过限制						
+ERR_SOCIAL_CUSTOM_NICK_NIL	挚交头衔昵称不能为空						
+ERR_SOCIAL_CUSTOM_NICK_ALLCHINESE	挚交头衔昵称有非中文字符						
+ERR_SOCIAL_CUSTOM_NICK_ILLEGAL	挚交头衔昵称含有不建议使用的词汇						
+ERR_SOCIAL_CUSTOM_EXIST_TITLE	已经跟该玩家激活了挚交头衔						
+ERR_SOCIAL_CUSTOM_TITLE_LV	尚未达到激活挚交头衔的等级						
+ERR_SOCIAL_CUSTOM_TITLE_HAD_APPLY	挚交头衔正在申请中						
+ERR_SOCIAL_CUSTOM_TITLE_APPLY_INVALID	挚交头衔申请已经失效						
+ERR_SOCIAL_CUSTOM_TITLE_NONE	尚未激活与该玩家的挚交头衔						
+ERR_SOCIAL_CUSTOM_TOKEN_LV	尚未达到佩戴挚交信物的等级						
+ERR_SOCIAL_CUSTOM_TOKEN_HIDE	需要先与一名玩家建立挚交关系						
+ERR_SOCIAL_CUSTOM_TOKEN_HAD_APPLY	挚交信物正在申请中						
+ERR_SOCIAL_CUSTOM_TOKEN_ID_EXIST	已佩戴相同的挚交信物						
+ERR_SOCIAL_CUSTOM_TOKEN_NONE	尚未与该玩家佩戴挚交信物						
+ERR_SOCIAL_CUSTOM_OATH_LENERR	挚交誓词长度超过限制						
+ERR_SOCIAL_CUSTOM_OATH_NIL	挚交誓词不能为空						
+ERR_SOCIAL_CUSTOM_OATH_ILLEGAL	挚交誓词含有不建议使用的词汇						
+ERR_SOCIAL_TARGET_MASTER_EXCEED	该玩家师父数目已达上限						
+ERR_SOCIAL_TARGET_STUDENT_EXCEED	该玩家徒弟数目已达上限						
+ERR_SOCIAL_APPLY_MASTER_LV	未达到拜师等级						
+ERR_SOCIAL_MASTER_EXCEED	师父数目已达上限						
+ERR_SOCIAL_APPLY_MASTER_TGT_LV	该玩家未达到收徒等级						
+ERR_SOCIAL_APPLY_STUDENT_LV	未达到收徒等级						
+ERR_SOCIAL_STUDENT_EXCEED	徒弟数目已达上限						
+ERR_SOCIAL_APPLY_STUDENT_TGT_LV	该玩家未达到拜师等级						
+ERR_SOCIAL_EDUCATE_EXIST	您与该玩家已是师徒关系						
+ERR_SOCIAL_EDUCATE_NO_EXIST	尚未跟该玩家建立师徒关系						
+ERR_SOCIAL_EDUCATE_PLANT_RECONFIRM	无法重复激活						
+ERR_SOCIAL_EDUCATE_TREE_EMPTY	尚未激活“辟蒙开明盆”进行桃树培育						
+ERR_SOCIAL_EDUCATE_BRANCH_EMPTY	尚未激活“堂前春风”进行桃枝培育						
+ERR_SOCIAL_EDUCATE_LOCKED	跨服师徒系统尚未开放						
+ERR_SOCIAL_BLACK_EXCEED	黑名单数目已达上限						
+ERR_SOCIAL_BLACK_EXIST	已将该玩家拉黑						
+ERR_SOCIAL_BLACK_NO_EXIST	尚未将该玩家拉黑						
+ERR_SOCIAL_BLACK_TGT_EXIST	该玩家已将您加入屏蔽名单						
+ERR_SOCIAL_ADD_FRIEND_PERMISSION_DENIED	本角色未开放添加好友功能						
+ERR_SOCIAL_DEL_FRIEND_PERMISSION_DENIED	本角色未开放删除好友功能						
+ERR_SOCIAL_APPRENTICE_PERMISSION_DENIED	本角色未开放师徒功能						
+ERR_SOCIAL_EDIT_MOOD_PERMISSION_DENIED	本角色未开放编辑心情功能						
+ERR_SOCIAL_SUMMON_LEFT_COUNT	当天召请次数已用尽						
+ERR_EMOTIONACT_NOT_ON_GROUND	需要在陆地上方可做动作						
+ERR_EMOTIONACT_IN_CG	不可处于剧情状态						
+ERR_EMOTIONACT_EMOTION_INVALID	指定的表情动作不合法						
+ERR_EMOTIONACT_IS_MOVING	不能在移动中使用此表情						
+ERR_EMOTIONACT_IS_FIGHTING	不能在战斗中使用此表情						
+ERR_EMOTIONACT_IS_USING_SKILL	不能在使用技能的同时使用此表情						
+ERR_EMOTIONACT_IS_TRANSFORMING	不能在变身状态下使用此表情						
+ERR_EMOTIONACT_IS_BINDING	不能在载具状态下使用此表情						
+ERR_EMOTIONACT_IS_MUTEX	与正在进行的表情动作不能同时使用						
+ERR_EMOTIONACT_CUSTOM	不满足进行此表情动作的特殊要求						
+ERR_EMOTIONACT_ADD_BUFF_FAIL	不能使用该表情动作						
+@@@@@@@ERR_CHAT@@@@@@@							
+ERR_CHAT_TOO_FAST	说得太快了				event:/voice/system/hint/tg/male/069	event:/voice/system/hint/tg/female/069	
+ERR_CHAT_LV_LIMIT	未达到发言等级						
+ERR_CHAT_TALK_TOSELF	无法密语自己						
+ERR_CHAT_RECEIVER_NOT_EXIST	密语对象不存在						
+ERR_CHAT_PERSONAL_LIMIT_COUNT	已达今日密语对象上限						
+ERR_CHAT_RECEIVER_OFFLINE	密语对象不在线				event:/voice/system/hint/tg/male/073	event:/voice/system/hint/tg/female/073	
+ERR_CHAT_FRIEND_PRIVATE_NOT_EXIST	私聊对象不存在				event:/voice/system/hint/tg/male/067	event:/voice/system/hint/tg/female/067	
+ERR_CHAT_FRIEND_PRIVATE_OFFLINE	私聊对象不在线				event:/voice/system/hint/tg/male/073	event:/voice/system/hint/tg/female/073	
+ERR_CHAT_PRIVATE_OFFLINE_LIMIT_COUNT	您与该对象私聊留言数已达今日上限						
+ERR_CHAT_NOT_IN_TEAM	不在队伍中						
+ERR_CHAT_NOT_IN_SYSTEM_TEAM	不在匹配队伍中						
+ERR_CHAT_NOT_IN_GUILD	尚未加入盟会						
+ERR_CHAT_NOT_IN_GUILD_PVP	尚未加入战盟						
+ERR_CHAT_NOT_IN_GUILD_LEGION	尚未加入战联						
+ERR_CHAT_NOT_IN_CAMP	尚未加入阵营						
+ERR_CHAT_GUILD_NOT_RANK	没有发言权限				event:/voice/system/hint/tg/male/084	event:/voice/system/hint/tg/female/084	
+ERR_CHAT_FRIEND_PRIVATE_INVALID	不可与该玩家进行私聊						
+ERR_CHAT_NOVICE_INVALID	不能使用新手频道，请去唐澈处获得引道册						
+ERR_CHAT_INVALID_CHANNEL	无效的聊天频道				event:/voice/system/hint/tg/male/093	event:/voice/system/hint/tg/female/093	
+ERR_CHAT_MAX_CHAR	聊天字数超过限制						
+ERR_CHAT_MAX_LINK	链接字数超过限制						
+ERR_CHAT_MORE_LINK	链接个数超过限制						
+ERR_CHAT_EMOJI_PRIVILEGE	没有表情发送权限						
+ERR_CHAT_HUG_TOO_FAR	距离太远，请靠近目标				event:/voice/system/hint/tg/male/003	event:/voice/system/hint/tg/female/003	
+ERR_CHAT_DANMU_CANNOT	该场景不能发送弹幕						
+ERR_CHAT_CHANNEL_UNUSABLE	该频道目前不可用						
+ERR_CHAT_DISABLED	已被禁言						
+ERR_CHAT_INVALID_CONTENT	该消息无法发送						
+ERR_POLICE_LOGIN_ERROR_WAIGUA	由于监测到使用外挂，系统已对您进行封禁处理，{1}后解除<w button="申诉"  />						
+ERR_POLICE_LOGIN_ERROR_LAIYUAN	经查证此账号金币及道具获取异常，系统已对您进行封禁处理，{1}后解除<w button="申诉"  />						
+ERR_POLICE_LOGIN_ERROR_ZHIXU	经查证此账号恶意扰乱游戏秩序，系统已对您进行封禁处理，{1}后解除<w button="申诉"  />						
+ERR_POLICE_LOGIN_ERROR_SHUJUYICHANG	由于角色数据异常，系统已对您进行封禁处理，{1}后解除						
+ERR_POLICE_LOGIN_ERROR_BUG	经查证此账号利用游戏漏洞不当得利，系统已对您进行封禁处理，{1}后解除						
+ERR_POLICE_LOGIN_ERROR_ANQUAN	由于账号存在安全隐患，系统已对您进行封禁处理，{1}后解除<w button="申诉" />						
+ERR_POLICE_ROLE_LOGIN_CAUSES	该角色因{1}已被禁止登录，{2}后解除。						
+ERR_POLICE_ROLE_LOGIN	系统已对您进行封禁处理，{1}后解除。						
+ERR_MUSIC_LENTH_NOT_FIT	音乐长度不符合要求						
+ERR_MUSIC_TOO_FAST	音乐上传过快				event:/voice/system/hint/tg/male/040	event:/voice/system/hint/tg/female/040	
+@@@@@@@ERR_PARTY@@@@@@@							
+ERR_PARTY_INVALID_PLAYER	角色不存在或者角色已经删除						
+ERR_PARTY_MAX_JOINS	加入的小圈子数目已达上限						
+ERR_PARTY_MAX_MEMBERS	小圈子成员数目已达上限						
+ERR_PARTY_NOT_EXIST	小圈子不存在						
+ERR_PARTY_NO_IN_PARTY	您不是该小圈子成员						
+ERR_PARTY_NO_PRIVILEGE	没有操作权限						
+ERR_PARTY_IS_CREATING	小圈子正在创建中						
+ERR_PARTY_NAME_LENERR	小圈子名长度不合法						
+ERR_PARTY_NAME_ILLEGAL	小圈子名含有不建议使用的词汇						
+ERR_PARTY_CREATE_FAIL	小圈子创建失败						
+ERR_PARTY_INVITE_LIMIT	邀请已达上限						
+ERR_PARTY_INVITE_INVALID	邀请无效						
+ERR_PARTY_TARGET_INVITED	已经邀请过目标						
+ERR_PARTY_NO_TARGET	目标不存在						
+ERR_PARTY_TARGET_IN_PARTY	目标已是小圈子成员						
+ERR_PARTY_TARGET_NO_IN_PARTY	目标不是小圈子成员						
+ERR_PARTY_TARGET_MAX_JOINS	目标加入的小圈子数目已达上限						
+ERR_PARTY_TARGET_NO_ONLINE	目标玩家不在线						
+ERR_PARTY_SELF_IN_PARTY	您已经是该小圈子成员						
+ERR_PARTY_EXIT_LEADER	圈主不能退出小圈子						
+@@@@@@@ERR_GALAXY@@@@@@@							
+ERR_GALAXY_WRONG_ID	错误的星蕴ID						
+ERR_GALAXY_SKILL_MAX	该星蕴点已达修习上限				event:/voice/system/hint/tg/male/064	event:/voice/system/hint/tg/female/064	
+ERR_GALAXY_INSUFFICIENT_SP	星魄不足						
+ERR_GALAXY_PARENT_DEMAND	前置星蕴未达到要求						
+ERR_GALAXY_MUTEX	已修习互斥星蕴系						
+ERR_GALAXY_LEVEL_RESTRICTION	等级不足				event:/voice/system/hint/tg/male/039	event:/voice/system/hint/tg/female/039	
+ERR_GALAXY_PVE_LEVEL_RESTRICTION	侠名等级不足						
+ERR_GALAXY_PVP_LEVEL_RESTRICTION	战绩等级不足						
+ERR_GALAXY_GALAXY_LEVEL_RESTRICTION	星蕴等级不足				event:/voice/system/hint/tg/male/039	event:/voice/system/hint/tg/female/039	
+ERR_GALAXY_POINT_UESED_RESTRICTION	已用星魄不足						
+ERR_GALAXY_DISABLED	该星蕴点未解锁						
+ERR_GALAXY_NEED_NPC	需要星蕴师						
+ERR_GALAXY_NOT_OPEN	尚未习得凝星化蕴				event:/voice/system/hint/tg/male/009	event:/voice/system/hint/tg/female/009	
+ERR_GALAXY_AREA_INACTIVE	所属星区未激活						
+ERR_GALAXY_FIGHTING	战斗中不能切换星蕴				event:/voice/system/hint/tg/male/085	event:/voice/system/hint/tg/female/085	
+ERR_GALAXY_DEAD	你已经重伤				event:/voice/system/hint/tg/male/071	event:/voice/system/hint/tg/female/071	
+ERR_GALAXY_NOT_DISTRIBUTED	该星蕴点未化蕴						
+ERR_GALAXY_COOLING_DOWN	未冷却						
+ERR_GALAXY_NEED_ACHIEVEMENT	没有所需的成就						
+ERR_GALAXY_MORE_THAN_ONE_ROUTE	到这个星蕴点的路径不唯一						
+ERR_GALAXY_SCENE_LIMIT	当前场景无法切换专精						
+ERR_GALAXY_CANT_SWITCH_MASTERY	尚未习得专精切换						
+@@@@@@@ERR_ITEM_GENERAL@@@@@@@							
+ERR_ITEM_PLAYER_DEAD	重伤状态不能使用				event:/voice/system/hint/tg/male/071	event:/voice/system/hint/tg/female/071	
+ERR_ITEM_PLAYER_FIGHTING	战斗中不能操作				event:/voice/system/hint/tg/male/085	event:/voice/system/hint/tg/female/085	
+ERR_ITEM_INVENTORY_IS_FULL	行囊已满				event:/voice/system/hint/tg/male/001	event:/voice/system/hint/tg/female/001	
+ERR_ITEM_INSUFFICIENT_MONEY	银钱不足				event:/voice/system/hint/tg/male/022	event:/voice/system/hint/tg/female/022	
+ERR_ITEM_MONEY_IS_FULL	携带金钱已达上限				event:/voice/system/hint/tg/male/064	event:/voice/system/hint/tg/female/064	
+ERR_ITEM_EXCEED_MAX_OWN	超出拥有上限				event:/voice/system/hint/tg/male/064	event:/voice/system/hint/tg/female/064	
+ERR_ITEM_EXCEED_MAX_STACK	超出堆叠上限				event:/voice/system/hint/tg/male/064	event:/voice/system/hint/tg/female/064	
+ERR_ITEM_DUE_TO_CAPACITY	背包容量不足，无法卸载				event:/voice/system/hint/tg/male/032	event:/voice/system/hint/tg/female/032	
+ERR_ITEM_NOT_ENOUGH	物品数量不足				event:/voice/system/hint/tg/male/087	event:/voice/system/hint/tg/female/087	
+ERR_ITEM_CONSUME_FAILED	扣除失败						
+ERR_ITEM_INSUFFICIENT_SLOT	行囊空位不够				event:/voice/system/hint/tg/male/018	event:/voice/system/hint/tg/female/018	
+ERR_ITEM_INVALID_PARAMETER	错误的道具参数				event:/voice/system/hint/tg/male/093	event:/voice/system/hint/tg/female/093	
+ERR_ITEM_USE_FAILED_PRECHECK	Precheck失败						
+ERR_ITEM_ACQUIRE_MAX	超出最大获取数						
+ERR_ITEM_OUT_OF_RANGE	距离太远，请靠近目标				event:/voice/system/hint/tg/male/003	event:/voice/system/hint/tg/female/003	
+ERR_ITEM_OUT_OF_REACH	无法触及，请靠近目标				event:/voice/system/hint/tg/male/003	event:/voice/system/hint/tg/female/003	
+ERR_ITEM_PROGRAM	服务器程序出错						
+ERR_ITEM_SCRIPT_CHECK_FAIL							
+ERR_ITEM_USELESS	该物品无使用效果				event:/voice/system/hint/tg/male/012	event:/voice/system/hint/tg/female/012	
+ERR_ITEM_USE_FAIL	不能使用				event:/voice/system/hint/tg/male/012	event:/voice/system/hint/tg/female/012	
+ERR_ITEM_CANNOT_USE_UNTIL_EQUIPPED	未装备不可使用				event:/voice/system/hint/tg/male/012	event:/voice/system/hint/tg/female/012	
+ERR_ITEM_SOLUTION_DENY	当前状态无法更换装备				event:/voice/system/hint/tg/male/016	event:/voice/system/hint/tg/female/016	
+ERR_ITEM_LOCKED_CONTAINER	指定容器未开放						
+ERR_ITEM_USE_LOCATION_DENIED	当前容器内道具不可用						
+@@@@@@@ERR_ITEM_CHECK@@@@@@@							
+ERR_ITEM_IS_MPLOCKED	物品已锁定						
+ERR_ITEM_IS_BOUND	物品不能交易				event:/voice/system/hint/tg/male/020	event:/voice/system/hint/tg/female/020	
+ERR_ITEM_IS_NOT_ACCOUNT	物品非账号共享						
+ERR_ITEM_EXPIRED	物品已过期				event:/voice/system/hint/tg/male/076	event:/voice/system/hint/tg/female/076	
+ERR_ITEM_COOLING_DOWN	物品冷却中				event:/voice/system/hint/tg/male/034	event:/voice/system/hint/tg/female/034	
+ERR_ITEM_SLOT_EMPTY	该位置没有道具						
+ERR_ITEM_INVALID_POS	无效位置				event:/voice/system/hint/tg/male/093	event:/voice/system/hint/tg/female/093	
+ERR_ITEM_CANNOT_MERGE	无法合并						
+ERR_ITEM_CANNOT_REACH_BANK	距离仓库太远				event:/voice/system/hint/tg/male/003	event:/voice/system/hint/tg/female/003	
+ERR_ITEM_NEED_BANK_NPC	需要仓库管理员						
+ERR_ITEM_FIGHTNPC_EQUIP_ACTIVE	该装备已经激活						
+ERR_ITEM_FIGHTNPC_NOTACTIVE	该助战使尚未激活						
+ERR_ITEM_FIGHTNPC_ACTIVED	该助战使已经激活						
+@@@@@@@ERR_ITEM_OP@@@@@@@							
+ERR_ITEM_POSSESSIONS_LOCK	道具锁未解开						
+ERR_ITEM_MOVE_FAIL	移动失败				event:/voice/system/hint/tg/male/077	event:/voice/system/hint/tg/female/077	
+ERR_ITEM_CANNOT_STORAGE	不可移至该容器						
+ERR_ITEM_CANNOT_STORAGE_SLOT	不可移至该位置						
+ERR_ITEM_PACKBONUS_LIMIT	请先移动至背包再进行操作						
+ERR_ITEM_CANNOT_USE_HERE	不能在这里使用				event:/voice/system/hint/tg/male/015	event:/voice/system/hint/tg/female/015	
+ERR_ITEM_DISCARD_PERMISSION_DENIED	本角色尚未开启丢弃物品功能						
+ERR_ITEM_DISCARD_DENY	该物品不可丢弃				event:/voice/system/hint/tg/male/088	event:/voice/system/hint/tg/female/088	
+ERR_ITEM_CANNOT_EQUIP_THERE	无法装备到此处				event:/voice/system/hint/tg/male/016	event:/voice/system/hint/tg/female/016	
+ERR_ITEM_CANNOT_EQUIP_MORE	不能装备太多				event:/voice/system/hint/tg/male/016	event:/voice/system/hint/tg/female/016	
+ERR_ITEM_CANNOT_UNEQUIP	企划脚本阻止卸除						
+ERR_ITEM_LV_RESTRICTION	等级不足				event:/voice/system/hint/tg/male/039	event:/voice/system/hint/tg/female/039	
+ERR_ITEM_CORE_LV_RESTRICTION	突破等级不足				event:/voice/system/hint/tg/male/039	event:/voice/system/hint/tg/female/039	
+ERR_ITEM_PVE_LV_RESTRICTION	侠名等级不足				event:/voice/system/hint/tg/male/039	event:/voice/system/hint/tg/female/039	
+ERR_ITEM_PVP_LV_RESTRICTION	战绩等级不足				event:/voice/system/hint/tg/male/039	event:/voice/system/hint/tg/female/039	
+ERR_ITEM_GENDER_RESTRICTION	性别/体型不符						
+ERR_ITEM_CAMP_RESTRICTION	阵营不符						
+ERR_ITEM_VOCATION_RESTRICTION	职业不符						
+ERR_ITEM_BREAKUP_PERMISSION_DENIED	本角色未开放分解功能				event:/voice/system/hint/tg/male/075	event:/voice/system/hint/tg/female/075	
+ERR_ITEM_CANNOT_BREAKUP	该道具不可分解				event:/voice/system/hint/tg/male/057	event:/voice/system/hint/tg/female/057	
+ERR_ITEM_BREAKUP_MATERIAL_AMOUNT_MAX	材料已满，无法分解						
+ERR_ITEM_REMOVE_FAIL	道具不足或已被锁定						
+@@@@@@@ERR_ITEM_EXT@@@@@@@							
+ERR_ITEM_EXTERIOR_NOT_ACTIVATED	外观尚未收集				event:/voice/system/hint/tg/male/090	event:/voice/system/hint/tg/female/090	
+ERR_ITEM_EXTERIOR_NOT_RUBBED	外观尚未摄形或摄形过期						
+ERR_ITEM_EXTERIOR_DIY_ACTIVATE	天衣部件已激活						
+@@@@@@@ERR_ITEM_RES@@@@@@@							
+ERR_ITEM_NONRIDING_RESTRICTION	骑乘状态无法使用				event:/voice/system/hint/tg/male/012	event:/voice/system/hint/tg/female/012	
+ERR_ITEM_NONTRAFFIC_RESTRICTION	导航状态无法使用				event:/voice/system/hint/tg/male/012	event:/voice/system/hint/tg/female/012	
+ERR_ITEM_NONTRANSFORM_RESTRICTION	变身状态无法使用						
+ERR_ITEM_CHANTING_BUSY	吟唱状态无法使用						
+ERR_ITEM_EXIST_DENY	道具无法存于此场景						
+ERR_ITEM_WATER_RESTRICTION	水中无法使用				event:/voice/system/hint/tg/male/012	event:/voice/system/hint/tg/female/012	
+ERR_ITEM_NOT_IN_WATER_RESTRICTION	非深水中无法使用						
+ERR_ITEM_NONFIGHTING_RESTRICTION	战斗中无法使用				event:/voice/system/hint/tg/male/085	event:/voice/system/hint/tg/female/085	
+ERR_ITEM_NONFIGHTING_RST_DISARM	战斗中无法卸除				event:/voice/system/hint/tg/male/046	event:/voice/system/hint/tg/female/046	
+ERR_ITEM_TARGET_RESTRICTION	不可对该目标使用				event:/voice/system/hint/tg/male/012	event:/voice/system/hint/tg/female/012	
+ERR_ITEM_SCENETYPE_RESTRICETION	此处无法使用				event:/voice/system/hint/tg/male/045	event:/voice/system/hint/tg/female/045	
+ERR_ITEM_AREA_RESTRICTION	此处无法使用				event:/voice/system/hint/tg/male/045	event:/voice/system/hint/tg/female/045	
+ERR_ITEM_UNAPPRAISED_DENY	未鉴定道具无法装备				event:/voice/system/hint/tg/male/016	event:/voice/system/hint/tg/female/016	
+ERR_ITEM_CANNOT_IMPROVE	该道具无法提升				event:/voice/system/hint/tg/male/052	event:/voice/system/hint/tg/female/052	
+ERR_ITEM_QUEST_RESTRICTION	没有任务无法使用				event:/voice/system/hint/tg/male/012	event:/voice/system/hint/tg/female/012	
+ERR_ITEM_HOME_CANNOT_USE	当前无法使用，仙府开放后方可使用				event:/voice/system/hint/tg/male/012	event:/voice/system/hint/tg/female/012	
+ERR_ITEM_NO_NPC_AROUND_RESTRICTION	过于靠近非玩家角色无法使用						
+ERR_ITEM_NEED_SELECT_PLAYER	请选中一位玩家						
+ERR_ITEM_TIMING_RESTRICTION	不在合适的使用时机						
+@@@@@@@ERR_ITEM_EFFECT@@@@@@@							
+ERR_ITEM_EFFECT_TRANSPORT	你已在当前场景						
+ERR_ITEM_EFFECT_ADD_PARAGON_EXP	未开启星魄						
+ERR_ITEM_EFFECT_TITLE	已获得该称号				event:/voice/system/hint/tg/male/092	event:/voice/system/hint/tg/female/092	
+ERR_ITEM_EFFECT_REPUTATION	已达到声望使用上限				event:/voice/system/hint/tg/male/064	event:/voice/system/hint/tg/female/064	
+ERR_ITEM_EFFECT_ADD_COLLECTION_NUM	该物品无法获得更多				event:/voice/system/hint/tg/male/033	event:/voice/system/hint/tg/female/033	
+ERR_ITEM_EFFECT_COLLECTION_LV_MAX	藏品等级达到上限				event:/voice/system/hint/tg/male/064	event:/voice/system/hint/tg/female/064	
+ERR_ITEM_EFFECT_NO_COLLECTION	未获得对应藏品				event:/voice/system/hint/tg/male/090	event:/voice/system/hint/tg/female/090	
+ERR_ITEM_EFFECT_COLLECTION_HIGHER_LV	已拥有更高等级的该藏品				event:/voice/system/hint/tg/male/092	event:/voice/system/hint/tg/female/092	
+ERR_ITEM_EFFECT_REMNANT	已修习该残卷				event:/voice/system/hint/tg/male/091	event:/voice/system/hint/tg/female/091	
+ERR_ITEM_EFFECT_RECIPE_MASTERED	已掌握该配方				event:/voice/system/hint/tg/male/091	event:/voice/system/hint/tg/female/091	
+ERR_ITEM_EFFECT_FRIEND_UNMATCH	只能与好友增加好感度						
+ERR_ITEM_EFFECT_CUSTOM_UNMATCH	只能与挚交增加挚交值						
+ERR_ITEM_EFFECT_MASTER_UNMATCH	只能对师父使用				event:/voice/system/hint/tg/male/012	event:/voice/system/hint/tg/female/012	
+ERR_ITEM_EFFECT_PET_SHOW_ID_EXIST	无法重复获得此幻化形象				event:/voice/system/hint/tg/male/092	event:/voice/system/hint/tg/female/092	
+ERR_ITEM_EFFECT_RUB_EXTERIOR	该外观已获得				event:/voice/system/hint/tg/male/092	event:/voice/system/hint/tg/female/092	
+ERR_ITEM_EFFECT_MEDICINE_INACTIVE	尚未激活该丹枢						
+ERR_ITEM_EFFECT_MEDICINE_CHARGE_MAX	药力已满，无法继续服饵						
+ERR_ITEM_EFFECT_SKILL_LEARNED	该技能已习得						
+ERR_ITEM_EFFECT_SKILL_UNMATCH	不符合技能学习条件						
+ERR_ITEM_EFFECT_PORTRAIT	头像已激活						
+ERR_ITEM_EFFECT_EMOJI	表情包已激活						
+ERR_ITEM_EFFECT_SOLUTION_UNLOCKED	配置方案已解锁						
+ERR_ITEM_EFFECT_SOLUTION_UNMATCH	不满足解锁条件						
+@@@@@@@ERR_ITEM_MAIL@@@@@@@							
+ERR_ITEM_MAIL_SEND_PERMISSION_DENIED	本角色未开放邮件发送功能				event:/voice/system/hint/tg/male/075	event:/voice/system/hint/tg/female/075	
+ERR_ITEM_MAIL_PAID_PERMISSION_DENIED	本角色未开放付费邮件收取功能						
+ERR_ITEM_MAIL_DEAD	重伤状态不能收发邮件				event:/voice/system/hint/tg/male/071	event:/voice/system/hint/tg/female/071	
+ERR_ITEM_MAIL_FIGHTING	战斗中不能收发邮件				event:/voice/system/hint/tg/male/085	event:/voice/system/hint/tg/female/085	
+ERR_ITEM_MAIL_POSTMAN_AWAY	需要信使						
+ERR_ITEM_MAIL_LONG_NAME	收件人名字太长						
+ERR_ITEM_MAIL_EXCEED_CAPACITY	对方邮箱已满						
+ERR_ITEM_MAIL_EXCEED_MAX_SEND	今日发送邮件封数已达上限				event:/voice/system/hint/tg/male/086	event:/voice/system/hint/tg/female/086	
+ERR_ITEM_MAIL_LONG_TITLE	标题太长						
+ERR_ITEM_MAIL_LONG_CONTENT	内容太长						
+ERR_ITEM_MAIL_INVALID_RECV	收件人不存在				event:/voice/system/hint/tg/male/067	event:/voice/system/hint/tg/female/067	
+ERR_ITEM_MAIL_MUCH_REMIT	邮寄金额太多						
+ERR_ITEM_MAIL_INVALID_MAIL	邮件无效				event:/voice/system/hint/tg/male/093	event:/voice/system/hint/tg/female/093	
+ERR_ITEM_MAIL_BUSY	邮件系统忙，请稍候				event:/voice/system/hint/tg/male/038	event:/voice/system/hint/tg/female/038	
+ERR_ITEM_MAIL_EMPTY_SLOT	此邮件没有附件						
+ERR_ITEM_MAIL_INSUFFICIENT_SLOT	附件槽已满，请另起一封						
+ERR_ITEM_MAIL_SEND_SELF	不能给自己发送邮件						
+ERR_ITEM_MAIL_MUCH_CHARGE	邮件索取金额过高						
+ERR_ITEM_MAIL_REMIT_AND_CHARGE	邮件不可既收费又汇款						
+ERR_ITEM_MAIL_SEND_BLACK	收件人被黑名单屏蔽						
+ERR_ITEM_MAIL_NO_EXIST	邮件不存在或过期				event:/voice/system/hint/tg/male/076	event:/voice/system/hint/tg/female/076	
+ERR_ITEM_MAIL_ON_SITE	邮件已上门						
+ERR_ITEM_MAIL_SEND_FAILED	邮件发送失败				event:/voice/system/hint/tg/male/077	event:/voice/system/hint/tg/female/077	
+ERR_ITEM_MAIL_INSUFFICIENT_MONEY	邮资不足				event:/voice/system/hint/tg/male/022	event:/voice/system/hint/tg/female/022	
+ERR_ITEM_MAIL_NDELETE	请取出所有附件再删除						
+ERR_ITEM_MAIL_NREJECT	此邮件不可退回						
+ERR_ITEM_MAIL_SOCIAL_BLACK	已被收件人屏蔽						
+ERR_ITEM_MAIL_LETTERBG_EXIST	信封背景已拥有						
+@@@@@@@ERR_ITEM_TRADE@@@@@@@							
+ERR_ITEM_TRADE_SELF_PERMISSION_DENIED	本角色未开放交易功能				event:/voice/system/hint/tg/male/075	event:/voice/system/hint/tg/female/075	
+ERR_ITEM_TRADE_PEER_PERMISSION_DENIED	对方未开放交易功能，无法交易				event:/voice/system/hint/tg/male/019	event:/voice/system/hint/tg/female/019	
+ERR_ITEM_TRADE_PEER_FIGHTING	对方战斗中，无法交易				event:/voice/system/hint/tg/male/019	event:/voice/system/hint/tg/female/019	
+ERR_ITEM_TRADE_SELF_FIGHTING	战斗中不能交易				event:/voice/system/hint/tg/male/019	event:/voice/system/hint/tg/female/019	
+ERR_ITEM_TRADE_PEER_DEAD	对方已重伤，无法交易				event:/voice/system/hint/tg/male/072	event:/voice/system/hint/tg/female/072	
+ERR_ITEM_TRADE_SELF_DEAD	重伤状态不能交易				event:/voice/system/hint/tg/male/071	event:/voice/system/hint/tg/female/071	
+ERR_ITEM_TRADE_SELF	不能交易自己				event:/voice/system/hint/tg/male/019	event:/voice/system/hint/tg/female/019	
+ERR_ITEM_TRADE_PEER_INVALID	交易对象不存在或下线				event:/voice/system/hint/tg/male/073	event:/voice/system/hint/tg/female/073	
+ERR_ITEM_TRADE_PEER_TRADING	对方交易中，请稍候				event:/voice/system/hint/tg/male/038	event:/voice/system/hint/tg/female/038	
+ERR_ITEM_TRADE_SELF_TRADING	己方交易中						
+ERR_ITEM_TRADE_REQUEST	你已在对方交易请求列表中						
+ERR_ITEM_TRADE_TRADING_FREE	你不在交易状态						
+ERR_ITEM_TRADE_LOCKED	请先解锁交易						
+ERR_ITEM_TRADE_SELF_UNLOCKED	请先锁定交易						
+ERR_ITEM_TRADE_PEER_UNLOCKED	请等待对方锁定后再确定交易						
+ERR_ITEM_TRADE_PEER_INSUFFICIENT_MONEY	对方囊中羞涩				event:/voice/system/hint/tg/male/019	event:/voice/system/hint/tg/female/019	
+ERR_ITEM_TRADE_PEER_INVENTORY_FULL	对方行囊空位不足				event:/voice/system/hint/tg/male/019	event:/voice/system/hint/tg/female/019	
+ERR_ITEM_TRADE_FORBIDDEN	本服禁止交易				event:/voice/system/hint/tg/male/019	event:/voice/system/hint/tg/female/019	
+ERR_ITEM_TRADE_SERVER_FORBIDDEN	只有同服务器才可进行交易						
+ERR_ITEM_TRADE_DENY	您已被禁止交易，请联系gm				event:/voice/system/hint/tg/male/019	event:/voice/system/hint/tg/female/019	
+ERR_ITEM_TRADE_EMPTY	未交易任何物品/钱币						
+ERR_ITEM_TRADE_TOO_FREQUENT	对方近期拒绝过交易，请稍后再试				event:/voice/system/hint/tg/male/038	event:/voice/system/hint/tg/female/038	
+ERR_ITEM_TRADE_RECONFIRM	请勿重复确认交易						
+ERR_ITEM_TRADE_FAIL	交易失败				event:/voice/system/hint/tg/male/077	event:/voice/system/hint/tg/female/077	
+@@@@@@@ERR_ITEM_SHOP@@@@@@@							
+ERR_ITEM_SHOP_BUY_PERMISSION_DENIED	本角色未开放购买商品功能						
+ERR_ITEM_SHOP_SELL_PERMISSION_DENIED	本角色未开放出售商品功能						
+ERR_ITEM_SHOP_NPC_CANNOT_FOUND	找不到此商店						
+ERR_ITEM_SHOP_CANNOT_REACH	距离太远，请靠近目标				event:/voice/system/hint/tg/male/003	event:/voice/system/hint/tg/female/003	
+ERR_ITEM_SHOP_INVALID_BUY_NUM	购买数量错误						
+ERR_ITEM_SHOP_NO_REPURCHASE_ITEM	欲回购的物品已不存在				event:/voice/system/hint/tg/male/078	event:/voice/system/hint/tg/female/078	
+ERR_ITEM_SHOP_EMPTY_SELL	此格无道具可出售						
+ERR_ITEM_SHOP_UNSETTED_ID	企划尚未配置该店铺ID						
+ERR_ITEM_SHOP_INVALID_SHOP	商店不存在				event:/voice/system/hint/tg/male/078	event:/voice/system/hint/tg/female/078	
+ERR_ITEM_SHOP_DURATION_MAX	无需修理				event:/voice/system/hint/tg/male/047	event:/voice/system/hint/tg/female/047	
+ERR_ITEM_SHOP_INSUFFICIENT_TOKEN	兑换道具不足				event:/voice/system/hint/tg/male/087	event:/voice/system/hint/tg/female/087	
+ERR_ITEM_SHOP_OFFSALE	商品已下架				event:/voice/system/hint/tg/male/050	event:/voice/system/hint/tg/female/050	
+ERR_ITEM_SHOP_UNONSALE	商品未上架						
+ERR_ITEM_SHOP_INSUFFICIENT_FAME	声望不足				event:/voice/system/hint/tg/male/037	event:/voice/system/hint/tg/female/037	
+ERR_ITEM_SHOP_INSUFFICIENT_BALANCE	库存不足				event:/voice/system/hint/tg/male/051	event:/voice/system/hint/tg/female/051	
+ERR_ITEM_SHOP_PURCAHSE_MAX	本时段不能购买更多，请改日				event:/voice/system/hint/tg/male/049	event:/voice/system/hint/tg/female/049	
+ERR_ITEM_SHOP_WRONG_GOODS	本店无此货物出售						
+ERR_ITEM_SHOP_WRONG_SHOPID	错误的店铺ID						
+ERR_ITEM_SHOP_CANNOT_SELL	不可出售				event:/voice/system/hint/tg/male/048	event:/voice/system/hint/tg/female/048	
+ERR_ITEM_SHOP_FAME_RESTRICTION	声望不足				event:/voice/system/hint/tg/male/037	event:/voice/system/hint/tg/female/037	
+ERR_ITEM_SHOP_FAME_AREAREPU_RESTRICTION	龙星路域通认知等级不足						
+ERR_ITEM_SHOP_GUILD_ABILITY_RESTRICTION	对应盟会天赋未开放				event:/voice/system/hint/tg/male/075	event:/voice/system/hint/tg/female/075	
+ERR_ITEM_SHOP_GUILD_LV_RESTRICTION	盟会等级不足						
+ERR_ITEM_SHOP_GUILD_PVP_ROLE_LV_RESTRICTION	战盟威望不足						
+ERR_ITEM_SHOP_DEBRIS_LV_RESTRICTION	秘文等级不足						
+ERR_ITEM_SHOP_PET_ENERGY_INSUFFICIENT	照影灵气不足						
+ERR_ITEM_SHOP_SOLT_LOCK_RESTRICTION	部位限制未解锁						
+ERR_ITEM_SHOP_RANK_SCORE_RESTRICTION	铭锋论剑等级不足						
+ERR_ITEM_SHOP_PVE_LV_RESTRICTION	侠名不足						
+ERR_ITEM_SHOP_PVP_LV_RESTRICTION	战绩不足						
+ERR_ITEM_SHOP_CORE_LV_RESTRICTION	侠名/战绩不足						
+ERR_ITEM_SHOP_PVP_ACTIVE_LV_RESTRICTION	斗势境界不足						
+ERR_ITEM_SHOP_PVX_LV_RESTRICTION	闲境等级不足						
+ERR_ITEM_SHOP_SAFARI_LV_RESTRICTION	历世万法等级不足						
+ERR_ITEM_SHOP_BIOGRAPHY_RESTRICTION	对应列传未完成						
+ERR_TRAIL_LV_RESTRICTION	记忆之匣等级不足						
+ERR_ITEM_SHOP_CANNOT_SELL_THISSHOP	此物不可在此商店出售						
+ERR_ITEM_SHOP_CANNOT_REPURCHASE	此物品不可回购						
+ERR_ITEM_SHOP_MAX_OWN	此物无法获得更多						
+ERR_ITEM_SHOP_PRICE_REFRESH	价格发生变动						
+ERR_ITEM_REPU_GAIN	获得了{1}声望: {2:d}						
+ERR_ITEM_REPU_LOST	失去了{1}声望: {2:d}						
+ERR_ITEM_SHOP_TRAILCARD_CANNOT_SELL	正在挑战该试炼记忆，无法出售						
+ERR_ITEM_SHOP_TREASURE_MAP_LIMIT	任意地图的藏宝图达到限购条件则不能再购买						
+ERR_ITEM_SHOP_TREASURE_MAP_CANNOT_GET_SCENE	当前地图无法获得藏宝图						
+@@@@@@@ERR_ITEM_AUCTION@@@@@@@							
+ERR_ITEM_AUCTION_FORBIDDEN	当前状态禁止操作						
+ERR_ITEM_AUCTION_BUY_PERMISSION_DENIED	本角色未开放拍卖行买入功能				event:/voice/system/hint/tg/male/075	event:/voice/system/hint/tg/female/075	
+ERR_ITEM_AUCTION_SELL_PERMISSION_DENIED	本角色未开放拍卖行卖出功能				event:/voice/system/hint/tg/male/075	event:/voice/system/hint/tg/female/075	
+ERR_ITEM_AUCTION_DEAD	重伤状态无法使用拍卖行				event:/voice/system/hint/tg/male/071	event:/voice/system/hint/tg/female/071	
+ERR_ITEM_AUCTION_FIGHTING	战斗中不能使用拍卖行				event:/voice/system/hint/tg/male/085	event:/voice/system/hint/tg/female/085	
+ERR_ITEM_AUCTION_ASSIST_AWAY	附近没有拍卖行助理						
+ERR_ITEM_AUCTION_MAX_AUCTION	超出寄售上限				event:/voice/system/hint/tg/male/064	event:/voice/system/hint/tg/female/064	
+ERR_ITEM_AUCTION_NEAR_EXPIRED	物品即将过期，不可寄售						
+ERR_ITEM_AUCTION_LOOTER_NOT_OWNNER	本角色非当前竞价人，或留言已被屏蔽，无法更改						
+@@@@@@@ERR_ITEM_COLLECTION@@@@@@@							
+ERR_ITEM_COLLECTION_PERMISSION_DENIED	暂时无法这么做				event:/voice/system/hint/tg/male/075	event:/voice/system/hint/tg/female/075	本角色未开放收藏品使用功能
+ERR_ITEM_COLLECTION_CHARGE_MAX	充能已达上限				event:/voice/system/hint/tg/male/064	event:/voice/system/hint/tg/female/064	
+ERR_ITEM_COLLECTION_INVALID	非法藏品						
+ERR_ITEM_COLLECTION_COOLING_DOWN	冷却中						
+ERR_ITEM_COLLECTION_OUT_OF_RANGE	目标距离过远	CHANNEL_SYSTEM_CENTER_YELLOW					
+ERR_ITEM_COLLECTION_OUT_OF_SIGHT	目标不在视野中	CHANNEL_SYSTEM_CENTER_YELLOW					
+ERR_ITEM_COLLECTION_TARGET_NULL	请选择目标	CHANNEL_SYSTEM_CENTER_YELLOW					
+ERR_ITEM_COLLECTION_TARGET_WRONG	只能对非自身玩家使用	CHANNEL_SYSTEM_CENTER_YELLOW					
+ERR_ITEM_COLLECTION_STATE_WRONG	当前状态不可邀请	CHANNEL_SYSTEM_CENTER_YELLOW					
+ERR_ITEM_COLLECTION_STATE_EXIST	存在等待答复的邀请，暂时无法邀请	CHANNEL_SYSTEM_CENTER_YELLOW					
+ERR_ITEM_COLLECTION_TARGET_STATE_WRONG	目标当前状态不可邀请	CHANNEL_SYSTEM_CENTER_YELLOW					
+ERR_ITEM_COLLECTION_STATE_INAIR	空中无法使用	CHANNEL_SYSTEM_CENTER_YELLOW					
+ERR_ITEM_COLLECTION_LANDFORM_WRONG	当前存在障碍物或不满足地形条件，无法进行邀请	CHANNEL_SYSTEM_CENTER_YELLOW					
+@@@@@@@ERR_ITEM_OP2@@@@@@@							
+ERR_ITEM_APPRAISE_PERMISSION_DENIED	本角色未开放鉴定功能						
+ERR_ITEM_APPRAISE_DENY	道具不可鉴定						
+ERR_ITEM_ALREADY_APPRAISED	道具已鉴定						
+ERR_ITEM_DESIGNER_EFFECT_DENY	道具使用失败				event:/voice/system/hint/tg/male/077	event:/voice/system/hint/tg/female/077	
+@@@@@@@ERR_ITEM_OP3@@@@@@@							
+ERR_ITEM_REFINE_PERMISSION_DENIED	本角色未开放熔铸功能						
+ERR_ITEM_REFINE_DENY	该道具无法熔铸				event:/voice/system/hint/tg/male/055	event:/voice/system/hint/tg/female/055	
+ERR_ITEM_REFINE_MAX	熔铸已达到最高等级						
+ERR_ITEM_REFINE_NO_TARGET	请放入待熔铸的装备						
+ERR_ITEM_REFINE_NO_MATCH	与目标装备熔铸属性不匹配						
+ERR_ITEM_REFINE_NO_SELF	无法熔铸自身						
+@@@@@@@ERR_ITEM_OP4@@@@@@@							
+ERR_ITEM_STRENGTHEN_PERMISSION_DENIED	本角色未开放强化功能						
+ERR_ITEM_STRENGTHEN_MAX	强化已达到最高等级				event:/voice/system/hint/tg/male/053	event:/voice/system/hint/tg/female/053	
+ERR_ITEM_STRENGTHEN_DENY	该道具无法强化				event:/voice/system/hint/tg/male/052	event:/voice/system/hint/tg/female/052	
+ERR_ITEM_STRENGTHEN_NO_TARGRT	请放入待强化的装备						
+ERR_ITEM_STRENGTHEN_LACK_MATERIALS	请放入强化材料				event:/voice/system/hint/tg/male/021	event:/voice/system/hint/tg/female/021	
+@@@@@@@ERR_ITEM_OP5@@@@@@@							
+ERR_ITEM_ENCHANT_PERMISSION_DENIED	本角色未开放符咒加持功能						
+ERR_ITEM_ENCHANT_WRONG_PART	该符咒无法加持此部位						
+ERR_ITEM_ENCHANT_DENY	无法加持符咒				event:/voice/system/hint/tg/male/052	event:/voice/system/hint/tg/female/052	
+@@@@@@@ERR_ITEM_USAGE@@@@@@@							
+ERR_ITEM_SOCKET_PERMISSION_DENIED	本角色未开放镶嵌功能						
+ERR_ITEM_NOT_GEM	该道具不是镶嵌材料						
+ERR_ITEM_CANNOT_SOCKET_THRER	不能镶嵌到此处				event:/voice/system/hint/tg/male/056	event:/voice/system/hint/tg/female/056	
+ERR_ITEM_SOCKET_NO_TARGRT	请放入待镶嵌的装备						
+ERR_ITEM_CANNOT_BE_SOCKETTED	该道具无法镶嵌				event:/voice/system/hint/tg/male/052	event:/voice/system/hint/tg/female/052	
+ERR_ITEM_INCOMPATIBLE_SOCKET	该嵌槽无法镶嵌此类材料						
+ERR_ITEM_SOCKET_NO_QULIFICATION	未获得该镶嵌灵材				event:/voice/system/hint/tg/male/090	event:/voice/system/hint/tg/female/090	
+ERR_ITEM_SOCKET_LV_OVER	该嵌材等级高于装备可镶嵌的最大等级						
+ERR_ITEM_SOCKET_LV_MAX	该灵材已满级，无法继续获得经验						
+@@@@@@@ERR_ITEM_OP6@@@@@@@							
+ERR_ITEM_EXTRACT_PERMISSION_DENIED	本角色未开放提取功能						
+ERR_ITEM_MATERIAL_PERMISSION_DENIED	本角色未开放炼化功能						
+ERR_ITEM_EXTRACT_FIGHTING	战斗中不能提取						
+ERR_ITEM_TRANSFER_FIGHTING	战斗中不能炼化						
+ERR_ITEM_EXTRACT_DENY	该道具不可提取				event:/voice/system/hint/tg/male/066	event:/voice/system/hint/tg/female/066	
+ERR_ITEM_EXTRACT_NO_MAT	该道具没有可提取物				event:/voice/system/hint/tg/male/066	event:/voice/system/hint/tg/female/066	
+ERR_ITEM_MATERIAL_ITEM_EXCEED	材料已达上限				event:/voice/system/hint/tg/male/064	event:/voice/system/hint/tg/female/064	
+ERR_ITEM_MATERIAL_BAG_EXCEED	材料包已达上限				event:/voice/system/hint/tg/male/064	event:/voice/system/hint/tg/female/064	
+ERR_ITEM_MATERIAL_NOT_ENOUGH	材料不足				event:/voice/system/hint/tg/male/013	event:/voice/system/hint/tg/female/013	
+ERR_ITEM_MATERIAL_NUM	材料数量错误						
+ERR_ITEM_POCKET_POINT_LACK	剩余天赋点不足						
+ERR_ITEM_POCKET_TALENT_LV_MAX	该天赋已达到最高等级						
+ERR_ITEM_POCKET_POINT_CLEAR_FAIL	天赋洗点失败						
+ERR_ITEM_ADD_GALAXY_TIMES_LIMIT	每个角色只能使用一次该道具						
+@@@@@@@ERR_ITEM_CRAFT@@@@@@@							
+ERR_ITEM_CRAFT_RECIPE_PERMISSION_DENIED	本角色未开放配方学习功能						
+ERR_ITEM_CRAFT_PERMISSION_DENIED	本角色未开放制造功能						
+ERR_ITEM_CRAFT_FIGHTING	战斗中无法制造						
+ERR_ITEM_CRAFT_INVALID_RECIPE	无效的配方号				event:/voice/system/hint/tg/male/093	event:/voice/system/hint/tg/female/093	
+ERR_ITEM_CRAFT_RECIPE_EXPIRED	仅活动时间内可烹饪						
+ERR_ITEM_CRAFT_UNMASTERED_RECIPE	尚未习得该配方				event:/voice/system/hint/tg/male/058	event:/voice/system/hint/tg/female/058	
+ERR_ITEM_CRAFT_LACK_ELE	缺少道具包原料						
+ERR_ITEM_CRAFT_LACK_MATERIAL	缺少材料包原料				event:/voice/system/hint/tg/male/021	event:/voice/system/hint/tg/female/021	
+ERR_ITEM_CRAFT_CD	配方冷却中				event:/voice/system/hint/tg/male/034	event:/voice/system/hint/tg/female/034	
+ERR_ITEM_CRAFT_RIDING	骑乘中不能制造				event:/voice/system/hint/tg/male/060	event:/voice/system/hint/tg/female/060	
+ERR_ITEM_CRAFT_INSUFFICIENT_VITALITY	活力不足						
+ERR_ITEM_CRAFT_INSUFFICIENT_ENERGY	精力不足						
+ERR_ITEM_CRAFT_LEVEL_RESTRICTION	等级不足				event:/voice/system/hint/tg/male/039	event:/voice/system/hint/tg/female/039	
+ERR_ITEM_CRAFT_CAMP_RESTRICTION	阵营不符				event:/voice/system/hint/tg/male/080	event:/voice/system/hint/tg/female/080	
+ERR_ITEM_CRAFT_STUDY_FAIL	配方领悟失败						
+ERR_ITEM_CRAFT_FAIL	制作失败				event:/voice/system/hint/tg/male/077	event:/voice/system/hint/tg/female/077	
+ERR_ITEM_CRAFT_COOK_PERMISSION_DENIED	本角色未开放烹饪功能						
+ERR_ITEM_CRAFT_COOK_FULL	您已在饱食状态						
+ERR_ITEM_CRAFT_COOK_LACK_ELE	缺少食材						
+ERR_ITEM_CRAFT_COOK_ELEMENT_DISMATCH	烹饪材料与配方不匹配						
+ERR_ITEM_CRAFT_COOK_INVALID_SCENE	此食谱无法在当前场景进行烹饪						
+ERR_ITEM_CRAFT_COOK_HEARTH_SO_FAR	与灶台距离太远				event:/voice/system/hint/tg/male/003	event:/voice/system/hint/tg/female/003	
+ERR_ITEM_CRAFT_COOK_TABLE_SO_FAR	与餐桌距离太远				event:/voice/system/hint/tg/male/003	event:/voice/system/hint/tg/female/003	
+ERR_ITEM_CRAFT_COOK_UNMASTERED_RECIPE	并未领悟该菜谱				event:/voice/system/hint/tg/male/060	event:/voice/system/hint/tg/female/060	
+ERR_ITEM_CRAFT_COOK_UNTASTE_PRODUCT	不存在该风味的产物						
+ERR_ITEM_TABLE_COOK_NOT_TEAMMATE	没有权限使用该餐桌				event:/voice/system/hint/tg/male/084	event:/voice/system/hint/tg/female/084	
+ERR_ITEM_TABLE_COOK_FULL_FOOD	餐桌已经放满食物了						
+ERR_ITEM_TABLE_COOK_NOT_FULL_FOOD	菜还没有做好						
+ERR_ITEM_TABLE_COOK_IS_EMPTY	菜已经吃完了						
+ERR_ITEM_TABLE_COOK_HAS_ATE	您已经吃过这一桌菜了						
+ERR_ITEM_CRAFT_PIGMENT_PERMISSION_DENIED	本角色未开放颜料制作功能						
+ERR_ITEM_CRAFT_PIGMENT_LACK_ELE	缺少制作材料						
+ERR_ITEM_MEDICINE_PERMISSION_DENIED	当前状态不可使用丹枢						
+ERR_ITEM_MEDICINE_VALUE_EXCEED	丹枢已满，无法继续服饵						
+ERR_ITEM_MEDICINE_VALUE_NOT_ENOUGH	剩余药力不足						
+ERR_ITEM_MEDICINE_CAN_NOT_USE	当前状态无法使用						
+ERR_ITEM_CRAFT_EQUIP_PROP_PACKAGE_LOCK	该装备该属性替换未解锁						
+ERR_ITEM_INGREDIENT_NOT_EXCHANGE	该异珍无法转化						
+@@@@@@@ERR_QUEST@@@@@@@							
+ERR_COMBAT_PAGE_POINT_NOT_ENOUGH	剩余精修点不足						
+ERR_COMBAT_CUR_SKILL_POINT_TOO_MUCH	当前技能可注入精修点不足						
+ERR_QUEST_QID	委托ID错误						
+ERR_QUEST_SLOT_FULL	无法增加委托						
+ERR_QUEST_FULL	委托已满				event:/voice/system/hint/tg/male/082	event:/voice/system/hint/tg/female/082	
+ERR_QUEST_FULL_DAILY	每日委托已满				event:/voice/system/hint/tg/male/082	event:/voice/system/hint/tg/female/082	
+ERR_QUEST_ACCEPT_CONDI	委托接取条件不足				event:/voice/system/hint/tg/male/083	event:/voice/system/hint/tg/female/083	
+ERR_QUEST_ACCEPT_ALREADY	已接委托不能再接				event:/voice/system/hint/tg/male/083	event:/voice/system/hint/tg/female/083	
+ERR_QUEST_ACCEPT_FINISH	已完成委托不能再接				event:/voice/system/hint/tg/male/083	event:/voice/system/hint/tg/female/083	
+ERR_QUEST_ACCEPT_LEVEL_MIN_NEAR	等级不足				event:/voice/system/hint/tg/male/039	event:/voice/system/hint/tg/female/039	
+ERR_QUEST_ACCEPT_LEVEL_MIN	等级不足				event:/voice/system/hint/tg/male/039	event:/voice/system/hint/tg/female/039	
+ERR_QUEST_ACCEPT_LEVEL_MAX	等级太高				event:/voice/system/hint/tg/male/074	event:/voice/system/hint/tg/female/074	
+ERR_QUEST_ACCEPT_VOCATION	职业不符						
+ERR_QUEST_ACCEPT_GENDER	性别不符						
+ERR_QUEST_ACCEPT_CAMP	阵营不符						
+ERR_QUEST_ACCEPT_REPUTATION	声望不足				event:/voice/system/hint/tg/male/037	event:/voice/system/hint/tg/female/037	
+ERR_QUEST_ACCEPT_DAILY							
+ERR_QUEST_ITEM_SLOT_NOT_ENOUGH	行囊空位不够				event:/voice/system/hint/tg/male/018	event:/voice/system/hint/tg/female/018	
+ERR_QUEST_ITEM_DISCARD_FAILED	物品扣除失败						
+ERR_QUEST_ITEM_MAX_OWN	物品已达数量上限				event:/voice/system/hint/tg/male/064	event:/voice/system/hint/tg/female/064	
+ERR_QUEST_NOT_ACCEPT	委托未接						
+ERR_QUEST_SUBMIT_SELECTION	请选择委托奖励				event:/voice/system/hint/tg/male/024	event:/voice/system/hint/tg/female/024	
+ERR_QUEST_CANNOT_GIVEUP	委托不能放弃						
+ERR_QUEST_CANNOT_SUBMIT	委托不能提交						
+ERR_QUEST_CANNOT_ACCEPT	委托不能接取						
+ERR_QUEST_SCRIPT							
+ERR_QUEST_PERMISSION	没有委托权限						
+ERR_COLLECT_ERROR	本角色未开放采集功能				event:/voice/system/hint/tg/male/065	event:/voice/system/hint/tg/female/065	
+ERR_COLLECT_GROUP_ERROR	达到服务器组采集上限						
+ERR_COLLECT_FAIL	不能采集						
+ERR_COLLECT_ENERGY_NOT_ENOUGH	当前福泽值不足，无法进行采集						
+ERR_FISHING_ENERGY_NOT_ENOUGH	当前福泽值不足，无法进行四海生金						
+ERR_BAGAGE_ENERGY_NOT_ENOUGH	当前福泽值不足，无法打开材料包						
+ERR_DIALOG_OUT_RANGE	距离太远，请靠近目标				event:/voice/system/hint/tg/male/003	event:/voice/system/hint/tg/female/003	
+ERR_BIOGRAPHY_NOT_UNLOCK	列传没有解锁						
+ERR_BIOGRAPHY_NOT_ACTIVATED	不是正在进行的列传						
+ERR_BIOGRAPHY_HAS_ACTIVATED	已有正在进行的列传						
+ERR_CHAPTER_REWARD_TAKEN	章节奖励已领						
+ERR_CHAPTER_REPUTATION	声望不足						
+ERR_CHAPTER_BIOGRAPHY	列传未完成						
+ERR_CHAPTER_ACHIEVE	成就未完成						
+ERR_CHAPTER_QUEST	任务未完成						
+@@@@@@@ERR_GUILD@@@@@@@							
+ERR_GUILD_CREATE_FAIL	盟会/战盟创建失败						
+ERR_GUILD_EXIT_SUCCESS	退出盟会/战盟成功						
+ERR_GUILD_APPLY_SENT_OK	盟会/战盟申请递交成功						
+ERR_GUILD_SELF_IN_GUILD	你已有盟会/战盟						
+ERR_GUILD_IS_CREATING	盟会正在创建中						
+ERR_GUILD_SELF_LV_LIMIT	需要达到初窥10层才能加入盟会/战盟				event:/voice/system/hint/tg/male/074	event:/voice/system/hint/tg/female/074	
+ERR_GUILD_CREATE_LV_LIMIT	创建盟会/战盟等级不足				event:/voice/system/hint/tg/male/074	event:/voice/system/hint/tg/female/074	
+ERR_GUILD_CAMP_MATCH	玩家阵营与战盟阵营不匹配				event:/voice/system/hint/tg/male/080	event:/voice/system/hint/tg/female/080	
+ERR_GUILD_HOBBY_LEAST_ONE	需要至少选择一项盟会玩法偏好						
+ERR_GUILD_NAME_EXIST	盟会/战盟名称已存在						
+ERR_GUILD_NAME_LENERR	盟会名称必须为2-8个汉字						
+ERR_GUILD_PVP_NAME_LENERR	战盟名称必须为2-5个汉字						
+ERR_GUILD_NAME_ALLCHINESE	盟会/战盟名称必须全部为中文字符						
+ERR_GUILD_NAME_ILLEGAL	名称含有不建议使用的词汇						
+ERR_GUILD_CREATE_MONEY	创建盟会/战盟所需银钱不足				event:/voice/system/hint/tg/male/022	event:/voice/system/hint/tg/female/022	
+ERR_GUILD_TITLE_NAME_LENERR	职级名称必须为1-8个汉字						
+ERR_GUILD_TITLE_NAME_ALLCHINESE	职级名称必须全部为中文字符						
+ERR_GUILD_TITLE_NAME_ILLEGAL	职级名称含有不建议使用的词汇						
+ERR_GUILD_TITLE_UNUSABLE	该职级当前不可用						
+ERR_GUILD_MODIFY_TITLE_DATA	设置职级信息出错						
+ERR_GUILD_TITLE_LEAST_NUM	最少需要存在2个职级						
+ERR_GUILD_TITLE_HAS_MEMBER_UNUSABLE	含有成员的职级不能被取消						
+ERR_GUILD_RECRUIT_LENERR	招募信息长度不符合要求						
+ERR_GUILD_NOTICE_LENERR	公告长度不符合要求						
+ERR_GUILD_MEMBER_MEMO_LENERR	成员备注长度不符合要求						
+ERR_GUILD_NOT_EXIST	盟会/战盟不存在				event:/voice/system/hint/tg/male/078	event:/voice/system/hint/tg/female/078	
+ERR_GUILD_MAX_PLAYERS	盟会/战盟满员						
+ERR_GUILD_ASKED	目标已申请						
+ERR_GUILD_NO_GUILD	没有盟会/战盟						
+ERR_GUILD_NO_GUILD_PVP	没有战盟						
+ERR_GUILD_NO_PRIVILEGE	没有权限				event:/voice/system/hint/tg/male/084	event:/voice/system/hint/tg/female/084	
+ERR_GUILD_INVALID_PLAYER	角色不存在或者角色已经删除				event:/voice/system/hint/tg/male/093	event:/voice/system/hint/tg/female/093	
+ERR_GUILD_NO_TARGET	目标不存在				event:/voice/system/hint/tg/male/078	event:/voice/system/hint/tg/female/078	
+ERR_GUILD_TARGET_IN_GUILD	目标有盟会						
+ERR_GUILD_TARGET_LV_LIMIT	目标需要达到初窥10层才能加入盟会				event:/voice/system/hint/tg/male/074	event:/voice/system/hint/tg/female/074	
+ERR_GUILD_INVITE_LIMIT	邀请已达上限				event:/voice/system/hint/tg/male/064	event:/voice/system/hint/tg/female/064	
+ERR_GUILD_TARGET_INVITED	已经邀请过目标						
+ERR_GUILD_ASK_LIMIT	申请已达上限				event:/voice/system/hint/tg/male/064	event:/voice/system/hint/tg/female/064	
+ERR_GUILD_NOT_ASKER	盟会/战盟申请已过期				event:/voice/system/hint/tg/male/076	event:/voice/system/hint/tg/female/076	
+ERR_GUILD_INVITE_INVALID	盟会/战盟邀请已过期				event:/voice/system/hint/tg/male/076	event:/voice/system/hint/tg/female/076	
+ERR_GUILD_LEADER_EXIT	会长不能离开						
+ERR_GUILD_NO_SAME_GUILD	不是同一盟会/战盟						
+ERR_GUILD_SET_LEADER_PRIVILEGE	不可更改会长权限						
+ERR_GUILD_SET_PRIVILEGE_DATA	设置权限数据出错						
+ERR_GUILD_ABILITY_INVALID	无效的天赋				event:/voice/system/hint/tg/male/093	event:/voice/system/hint/tg/female/093	
+ERR_GUILD_ABILITY_UNACTIVATED	该天赋尚未激活						
+ERR_GUILD_ABILITY_HAD_BUY	该天赋已经购买过						
+ERR_GUILD_ABILITY_MAX_BUY	超过天赋持续生效时间上限，不可续时						
+ERR_GUILD_VITALITY_DEFICIENCY	盟会令不足						
+ERR_GUILD_ABILITY_SUPPORT_ONLY_VITALITY	只能对活跃天赋点赞						
+ERR_GUILD_ABILITY_SUPPORT_EXISTED	已经对该天赋点赞						
+ERR_GUILD_ABILITY_SUPPORT_NONE	还未对该天赋点赞						
+ERR_GUILD_BANK_FILLED	仓库数目已达上限				event:/voice/system/hint/tg/male/064	event:/voice/system/hint/tg/female/064	
+ERR_GUILD_NO_BANK_PRIVIL	没有仓库操作权限				event:/voice/system/hint/tg/male/084	event:/voice/system/hint/tg/female/084	
+ERR_GUILD_NO_BANK_STORE	没有仓库存入权限				event:/voice/system/hint/tg/male/084	event:/voice/system/hint/tg/female/084	
+ERR_GUILD_NO_BANK_RETRIEVE	没有仓库取出权限				event:/voice/system/hint/tg/male/084	event:/voice/system/hint/tg/female/084	
+ERR_GUILD_BANK_LOCK	仓库已被锁定，请留意最新的官方公告						
+ERR_GUILD_BANK_OUT_RANGE	距离仓库管理员过远				event:/voice/system/hint/tg/male/003	event:/voice/system/hint/tg/female/003	
+ERR_GUILD_CREATE_OUT_RANGE	距离盟会管理员过远				event:/voice/system/hint/tg/male/003	event:/voice/system/hint/tg/female/003	
+ERR_GUILD_HANDOVER_TITLE_INVALID	该成员对应职级不满足移交条件						
+ERR_GUILD_HANDOVER_GOING	会长正在移交中						
+ERR_GUILD_HANDOVER_NONE	不存在会长移交						
+ERR_GUILD_HANDOVER_MAX_LV	对方未满级，无法移交会长						
+ERR_GUILD_ACCUSE_NONE	当前未开启弹劾功能						
+ERR_GUILD_ACCUSE_REPEAT	已弹劾会长						
+ERR_GUILD_ACCUSE_TITLE	职级不满足弹劾条件						
+ERR_GUILD_RECORD_NO_GROUP	盟会记录分组类型不存在						
+ERR_GUILD_DAY_REPEAT_ENTER	玩家当天不可再次加入盟会/战盟						
+ERR_GUILD_ASK_ENTER_DAY	入盟当天不可再次申请盟会/战盟						
+ERR_GUILD_INVITE_OK_ENTER_DAY	入盟当天不可再次加入盟会/战盟						
+ERR_GUILD_ASK_MAX_COUNT	已达当天最大申请数						
+ERR_GUILD_QUEST_PROGRESS_NO_REACH	当前盟会任务未达到该进度						
+ERR_GUILD_QUEST_REWARD_HAD_RECEIVE	已经领取过该盟会任务奖励						
+ERR_GUILD_JOIN_PERMISSION_DENIED	本角色未开放加入盟会功能						
+ERR_GUILD_EXIT_PERMISSION_DENIED	本角色未开放退出盟会功能						
+ERR_GUILD_LEADER_PERMISSION_DENIED	本角色未开放盟会会长功能						
+ERR_GUILD_SUMMON_FAILED	队伍中没有同盟会成员，无法使用						
+ERR_GUILD_MEMBER_CHANGE_CAMP	盟会内有成员不符合阵营条件，无法更改盟会阵营						
+ERR_GUILD_CHANGE_CAMP_REPET	必须选择不同的阵营						
+ERR_GUILD_CHANGE_CAMP_LEGION	拥有战联时无法改变阵营						
+ERR_GUILD_CHANGE_CAMP_HAVLAND	参与云海争霸时无法改变阵营						
+ERR_GUILD_CHANGE_CAMP_REQUIRE	必须先转回中立才能操作						
+ERR_GUILD_CHANGE_CAMP_NONE	阵营不允许转向秦陵之盟						
+ERR_GUILD_RENAME_TIME	允许盟会/战盟更改名称的时间限制未到						
+ERR_GUILD_CHANGE_CAMP_TIME	允许盟会更改阵营的时间限制未到						
+ERR_GUILD_ADD_RELATION	添加盟会关系错误						
+ERR_GUILD_OTHER_LEADER_NOLINE	对方会长不在线						
+ERR_GUILD_OTHER_ISTARGET	已邀请过对方						
+ERR_GUILD_ADD_RELATION_REP	关系已存在						
+ERR_GUILD_RELATION_NOTFIND	没有找到盟会关系						
+ERR_GUILD_RELATION_SELF	无法邀请自己盟会						
+ERR_GUILD_RELATION_DEL_CD	{1}后可解除关系						
+ERR_GUILD_RELATION_FRIEND_MAX	本盟会或对方盟会好友列表已达上限						
+ERR_GUILD_RELATION_ENEMY_MAX	本盟会或对方盟会敌对列表已达上限						
+ERR_GUILD_RELATION_NOTES	誓词最大为十六个字符且不能为空						
+ERR_GUILD_RELATION_FORCE_ENEMY_NONE	非阵营盟会无法参与强制敌对						
+ERR_GUILD_RELATION_INVITE_CD	被拒绝两小时后才可以再次发出邀请						
+ERR_GUILD_RELATION_ADD_DIFF_SERVER	不允许添加跨服盟友						
+ERR_GUILD_RELATION_MEMBER_NOT_ENOUGH	盟会人数不足{1}人，无法申请盟会关系或宣战						
+ERR_GUILD_RELATION_NEW_MEMBER	申请人加入盟会不足7天，无法申请盟会关系或宣战						
+ERR_GUILD_RELATION_LRGION	有战联，无法建立战盟关系						
+ERR_GUILD_RELATION_GTYPE	不能敌对盟会，只能敌对战盟						
+ERR_GUILD_STRONGHOLD_NO_ITEM	没有找到此物品						
+ERR_GUILD_STRONGHOLD_UPDATE	据点改变属性内部错误						
+ERR_GUILD_STRONGHOLD_GUN_SKILL_LEV	等级不足技能未开放						
+ERR_GUILD_STRONGHOLD_LEVUP_MAX	已达到最大等级						
+ERR_GUILD_STRONGHOLD_IS_FIGHT	开战期间不能进行操作						
+ERR_GUILD_STRONGHOLD_BOSS_POS	符灵位置设置错误						
+ERR_GUILD_STRONGHOLD_NO_LAND	无占领岛屿无法操作						
+ERR_GUILD_RESOURCE	盟会/战盟资源不足						
+ERR_GUILD_MASTER_GOLD	盟主金钱不足						
+ERR_GUILD_RECHARGE_LV_MAX	未达到满级无法进行盟会资金充值						
+ERR_GUILD_LAND_APPLY	云海争锋报名内部错误						
+ERR_GUILD_LAND_APPLY_REPRET	云海争锋报名重复						
+ERR_GUILD_LAND_CLEARING_DATA	结算数据错误						
+ERR_GUILD_LAND_ITEMCOUNT_MAX	允许最大数量为{1}						
+ERR_GUILD_LAND_ITEMCOUNT_MIN	允许最小数量为{1}						
+ERR_GUILD_LAND_OWNER	我方已占领						
+ERR_GUILD_LAND_ATTACK	已是进攻方						
+ERR_GUILD_LAND_SET_OWNER	设置占领者错误						
+ERR_GUILD_LAND_NO_LIMIT	没有资格进入						
+ERR_GUILD_LAND_STATE_NO_OPEN	云海争锋已经关闭报名入口						
+ERR_GUILD_LAND_STATE_NO_FIGHT	岛屿不在战斗状态						
+ERR_GUILD_LAND_AYYLY_COUNT_LIMIT	当占领岛屿数量大于{1}时，无法报名						
+ERR_GUILD_LAND_APPLY_CAMP	必须选择阵营后才能参加						
+ERR_GUILD_CANNOT_TURN_RESOURCE	不能上缴此物						
+ERR_GUILD_ACTIVITY_HAS_BEEN_OPEN	该活动已经开启						
+ERR_GUILD_ACTIVITY_VITALITY_NOT_ENOUGH	开启活动未达到指定活跃度						
+ERR_GUILD_ACTIVITY_LV_NOT_ENOUGH	开启活动未达到指定等级						
+ERR_GUILD_ACTIVITY_NONE	该任务不存在						
+ERR_GUILD_ACTIVITY_OPEN_INTERVAL_TIME	未到允许开启任务时间						
+ERR_GUILD_ACTIVITY_NOT_SUMMON	不允许召唤						
+ERR_GUILD_ACTIVITY_SUMMON_TIME	未到允许召唤时间						
+ERR_GUILD_SET_STATUS_MAX	身份错误						
+ERR_GUILD_SET_STATUS_NUM	超过该身份最大设置数量						
+ERR_GUILD_LEGION_PVP	只允许战盟操作，不允许盟会操作						
+ERR_GUILD_LEGION_CREATE	战联创建错误						
+ERR_GUILD_LEGION_INVITE_ING	已经在邀请加入战联中						
+ERR_GUILD_LEGION_INVITE_CD	被拒绝两小时后才可以再次发出战联邀请						
+ERR_GUILD_LEGION_NO	没有找到该战联						
+ERR_GUILD_LEGION_FULL	战联成员已满						
+ERR_GUILD_LEGION_LEADER	非战联之主						
+ERR_GUILD_LEGION_NAME_EXIST	战联名字已存在						
+ERR_GUILD_LEGION_NO_MEMBER	非战联成员						
+ERR_GUILD_LEGION_MEMBER	已经是该战联的成员						
+ERR_GUILD_LEGION_MASTER_KICK	不能剔除主战盟						
+ERR_GUILD_LEGION_INVITE_SELF	不能邀请自身战盟						
+ERR_GUILD_LEGION_CAMP	战盟和战联阵营不匹配						
+ERR_GUILD_LEGION_REP	战盟已经拥有战联						
+ERR_GUILD_LEGION_NAME_LENERR	战联名称必须2-3个汉字						
+ERR_GUILD_LEGION_INVITE_ENEMY	该战盟和战联中战盟有敌对关系，无法邀请						
+ERR_GUILD_GTYPE	盟会/战盟类型不匹配						
+ERR_GUILD_JOIN_CMAP	阵营不匹配，无法加入或邀请						
+@@@@@@@ERR_SING@@@@@@@							
+ERR_SING_DEAD	重伤时不能吟唱				event:/voice/system/hint/tg/male/071	event:/voice/system/hint/tg/female/071	
+ERR_SING_BIND	无法在挂载时施展						
+ERR_SING_AIR	在空中不能吟唱						
+ERR_SING_WATER	在水中不能吟唱						
+ERR_SING_SKILL	释放技能时不能吟唱						
+ERR_SING_RIDING	无法在骑乘时施展						
+ERR_SING_DUMPLICATE	不能重复吟唱						
+ERR_INTERACT_NPC_BLACKLIST	暂时无法交互						
+ERR_SING_STEALTH	隐身中无法交互						
+ERR_INTERACT_NPC_BUFF	当前状态无法交互						
+@@@@@@@ERR_GAMEMASTER@@@@@@@							
+ERR_GM_ACCOUNT_CHAT_FORBIDDEN	已被禁言，{1}后解除						
+@@@@@@@ERR_REMNANT@@@@@@@							
+ERR_REMNANT_FIGHTING	战斗中				event:/voice/system/hint/tg/male/085	event:/voice/system/hint/tg/female/085	
+ERR_REMNANT_NEED_STUDY	尚未习得				event:/voice/system/hint/tg/male/009	event:/voice/system/hint/tg/female/009	
+ERR_REMNANT_NOT_FOUND	无此残卷						
+ERR_REMNANT_NOT_ENOUGH_POINT	精修点不足						
+@@@@@@@ERR_RUN@@@@@@@							
+ERR_CANT_RUSH_IN_AREA	这里不能疾跑						
+@@@@@@@ERR_REDEEMCODE@@@@@@@							
+ERR_REDEEMCODE_SUCCESS	恭喜成功兑换礼包，请至游戏内邮箱领取						
+ERR_REDEEMCODE_EMPTY	兑换失败，兑换码不存在				event:/voice/system/hint/tg/male/077	event:/voice/system/hint/tg/female/077	
+ERR_REDEEMCODE_USED	兑换失败，兑换码已使用				event:/voice/system/hint/tg/male/077	event:/voice/system/hint/tg/female/077	
+ERR_REDEEMCODE_CLOSURE	兑换失败，兑换码已禁止使用				event:/voice/system/hint/tg/male/077	event:/voice/system/hint/tg/female/077	
+ERR_REDEEMCODE_EXPIRED	兑换失败，兑换码已过期				event:/voice/system/hint/tg/male/077	event:/voice/system/hint/tg/female/077	
+ERR_REDEEMCODE_MUTEX	兑换失败，已使用过该类型兑换码				event:/voice/system/hint/tg/male/077	event:/voice/system/hint/tg/female/077	
+ERR_REDEEMCODE_WRONG_SERVER	兑换失败，兑换码不能在此服务区使用				event:/voice/system/hint/tg/male/077	event:/voice/system/hint/tg/female/077	
+ERR_REDEEMCODE_NO_USER	兑换失败，没有找到此用户				event:/voice/system/hint/tg/male/077	event:/voice/system/hint/tg/female/077	
+ERR_REDEEMCODE_NO_ROLE	兑换失败，没有找到此角色				event:/voice/system/hint/tg/male/077	event:/voice/system/hint/tg/female/077	
+ERR_REDEEMCODE_NO_SERVER	兑换失败，没有找到此服务器				event:/voice/system/hint/tg/male/077	event:/voice/system/hint/tg/female/077	
+ERR_REDEEMCODE_BAD_LEVEL	兑换失败，等级不符				event:/voice/system/hint/tg/male/074	event:/voice/system/hint/tg/female/074	
+ERR_REDEEMCODE_FREQUENCY	兑换失败，频率过快				event:/voice/system/hint/tg/male/074	event:/voice/system/hint/tg/female/074	
+ERR_REDEEMCODE_UNKNOWN	兑换失败				event:/voice/system/hint/tg/male/077	event:/voice/system/hint/tg/female/077	
+ERR_REDEEMCODE_NO_BIND	无法领取，请先绑定						
+ERR_REDEEMCODE_CAN_NOT_BIND	兑换失败，请直接在游戏内兑换						
+@@@@@@@ERR_SKILL_UPGRADE@@@@@@@							
+ERR_SKILL_UPGRADE_NO_SKILL	无此技能						
+ERR_SKILL_UPGRADE_MAX_LV_REACHED	已达最高等级						
+ERR_SKILL_UPGRADE_PRE_CONDITION_NOT_MEET	不满足前置条件						
+ERR_SKILL_UPGRADE_NOT_ENOUGH_LEVEL	等级不符				event:/voice/system/hint/tg/male/074	event:/voice/system/hint/tg/female/074	
+ERR_SKILL_UPGRADE_VOCATION_NOT_MATCH	职业不符						
+ERR_SKILL_UPGRADE_NO_MULTI_CHOICE	无此多选						
+ERR_SKILL_UPGRADE_INVALID_CHOICE	选项ID超出范围						
+ERR_SKILL_UPGRADE_CANT_MANUALLY_UPGRADE	不能手动升级						
+ERR_SKILL_UPGRADE_NOT_ENOUGH_MONEY	金钱不足						
+ERR_SKILL_UPGRADE_NEED_NPC	需要技能训练师						
+ERR_SKILL_UPGRADE_FIGHTING	战斗中						
+ERR_SKILL_UPGRADE_NEED_PROP	只能在门派据点或使用五峰推星符切换星蕴特技						
+ERR_SKILL_UPGRADE_MULTI_CHOICE_MASTERY_UNMATCH	不能选择另一专精下的多选						
+ERR_SKILL_UPGRADE_NOT_ENOUGH_TRANSFORM_SKILL_POINT	技能升级点不足						
+@@@@@@@ERR_TRAFFIC@@@@@@@							
+ERR_TRAFFIC_OK	开始导航						
+ERR_TRAFFIC_STATION_NOT_EXIST	无效的导航点						
+ERR_TRAFFIC_FIGHTING_FAILED	战斗中无法操作						
+ERR_TRAFFIC_AREA_FAILED	当前区域无法导航						
+ERR_TRAFFIC_TRANSFORM_FAILED	变身状态无法导航						
+ERR_TRAFFIC_BINDING_FAILED	乘骑状态无法导航						
+ERR_TRAFFIC_NOT_ACTIVE	导航点尚未激活						
+ERR_TRAFFIC_AIR_FAILED	空中无法开始导航						
+ERR_TRAFFIC_NOT_ACTIVE_RIDE	没有坐骑无法导航						
+ERR_TRAFFIC_TOO_CLOSE	离目的地太近，已到达						
+ERR_TRAFFIC_ZY_SKILL_FAILED	仅咒隐可以使用						
+ERR_TRAFFIC_ZY_SKILL_MAP_FAILED	只能在当前场景使用						
+ERR_TRAFFIC_ZY_SKILL_CD_FAILED	没有准备好						
+ERR_TRAFFIC_INVALID_RIDE_STATE	当前状态无法使用坐骑						
+@@@@@@@ERR_TELEPORT@@@@@@@							
+ERR_TELEPORT_AREA_FAILED	当前区域无法传送						
+ERR_TELEPORT_LXZ_FAILED	龙星阵尚未激活						
+@@@@@@@ERR_RIDE@@@@@@@							
+ERR_RIDE_OK	坐骑激活成功						
+ERR_RIDE_INVALID_RIDE_ID	无效的坐骑						
+ERR_RIDE_RIDE_ID_NOT_COLLECTION	尚未获得此坐骑						
+ERR_RIDE_RIDE_ID_RECONFIRM	无法重复激活						
+@@@@@@@ERR_SUMMON@@@@@@@							
+ERR_SUMMON_SELF_DEAD	你已经重伤						
+ERR_SUMMON_SELF_NOT_TEAM	你已不在队伍中						
+ERR_SUMMON_SELF_ON_COMBAT	战斗中无法传送						
+ERR_SUMMON_NOT_SCENE	不同场景无法传送						
+ERR_SUMMON_NOT_SERVER	不同服务器无法传送						
+ERR_PORTRAIT_PERMISSION_DENIED	头像功能尚未打开						
+ERR_SUMMON_INVALID_SCENE	该场景无法召请						
+ERR_SUMMON_TARGET_INVALID_SCENE	目标玩家所在场景无法召请						
+ERR_SUMMON_TARGET_OFFLINE	目标玩家离线无法召请						
+ERR_SUMMON_TARGET_INVALID_PLAYER	目标玩家不存在或者角色已删除						
+ERR_SUMMON_TARGET_EXIST	已经召请过该玩家						
+ERR_SUMMON_HAD_TIMEOUT	召请已过期						
+@@@@@@@ERR_ANIMUS@@@@@@@							
+ERR_ANIMUS_ADD_PLAYER	玩家[c 00FF00][{1}][/c]已将你加入饮血列表						
+ERR_ANIMUS_LIST_FULL	饮血列表已满						
+ERR_FEOMAN_LIST_FULL	血仇列表已满						
+ERR_ANIMUS_REMOVE_PLAYER	玩家[c 00FF00][{1}][/c]已将你从饮血列表中移除						
+ERR_ANIMUS_SCENE_LIMIT	只有在野外才能饮血						
+ERR_ANIMUS_LEVEL_LIMIT	玩家等级不足						
+ERR_ANIMUS_LEVEL_LIMIT_TARGET	对方等级不足						
+ERR_ANIMUS_COMMON_LIMIT	请稍后再试						
+ERR_WANTED_TIME_ILEGAL	时间非法						
+ERR_WANTED_COUNT_ILEGAL	次数非法						
+ERR_PVP_LIMIT	需要到满级才能开启。						
+@@@@@@@ERR_NOTATION@@@@@@@							
+ERR_NOTATION_ACCESS_FAILED	琴言服务器暂未开启						
+ERR_NOTATION_TOO_FASE	申请过于频繁						
+ERR_NOTATION_NOT_EXIST	乐谱资源已失效						
+ERR_NOTATION_NOT_UPLOADER	您不是乐谱的上传者						
+ERR_NOTATION_FOLDER_NOT_EXIST	文件夹不存在						
+ERR_NOTATION_FOLDER_NAME_NIL	文件夹名不能为空						
+ERR_NOTATION_FOLDER_NAME_EXIST	文件夹名已经存在						
+ERR_NOTATION_FOLDER_NAME_TOO_LONG	文件夹名长度超过限制						
+ERR_NOTATION_FOLDER_MODIFY_DEF	不能修改根文件夹						
+ERR_NOTATION_GJM_EMPTY	乐谱文件路径访问失败						
+ERR_NOTATION_GJM_INVALID	乐谱文件解析失败						
+ERR_NOTATION_NOT_INCLUDED	您尚未收录该乐谱						
+ERR_NOTATION_ALREADY_INCLUDED	您已收录该乐谱						
+ERR_NOTATION_ALREADY_IN_FOLDER	乐谱已在该文件夹中						
+ERR_NOTATION_GET_LIST_FAILED	获取收录列表失败						
+ERR_NOTATION_UPLOAD_EXCEED	乐谱上传数目已达上限						
+ERR_NOTATION_TOO_LONG	乐谱长度超过限制						
+ERR_NOTATION_UPLOAD_FAILED	乐谱发布失败						
+ERR_NOTATION_PUBLC	乐谱公开失败						
+ERR_NOTATION_ADD_FAILED	乐谱收录失败						
+ERR_NOTATION_DELETE_FAILED	乐谱删除失败						
+ERR_NOTATION_MOVE_FAILED	乐谱移动失败						
+ERR_NOTATION_DOWNLOAD_FAILED	乐谱下载失败						
+ERR_NOTATION_LIKE_RATING	乐谱点赞失败						
+ERR_NOTATION_ADD_FOLDER_FAILED	添加文件夹失败						
+ERR_NOTATION_DEL_FOLDER_FAILED	删除文件夹失败						
+ERR_NOTATION_RENAME_FOLDER_FAILED	修改文件夹名失败						
+@@@@@@@ERR_COMBAT_CONFIG@@@@@@@							
+ERR_COMBAT_CONFIG_FIGHTING	战斗中不能切换配置方案						
+ERR_COMBAT_CONFIG_JUST_LEAVE_FIGHTING	脱战后10秒内不能切换配置方案						
+@@@@@@@ERR_REPUTE@@@@@@@							
+ERR_REPUTE_LIMIT_QUEST	通过任务方式获取该声望已达上限						
+ERR_PVP_AWARD_NOT_ALLOW	您还不能领取此奖励						
+ERR_PVP_AWARD_HAVE_RECEIVED	你已经领取过此奖励						
+ERR_PVP_AWARD_HAVE_RECEIVED_OTHER_ROLE	你或本账号的其他角色已经领取过此奖励						
+@@@@@@@ERR_MALL@@@@@@@							
+ERR_CHONGXIAO_REWARD_ERR	领取错误奖励						
+ERR_CHONGXIAO_REWARD_RECEIVED	您已经领取过此奖励						
+ERR_CHONGXIAO_MONEY_NOT_ENOUGH	充消金额不足						
+ERR_CHONGXIAO_NOT_IN_PROGRESS	不在领取时间范围						
+ERR_SAFARI_PERMISSION_DENIED	本角色未开放历世万法						
+ERR_ITEM_MALL_LOCK	商城锁未解开						
+@@@@@@@ERR_FAVOR@@@@@@@							
+ERR_FAVORITE_NOT_ACTIVATED	该功能尚未被激活						
+ERR_FAVORITE_NOT_TARGET	该对象不可刷好感度						
+ERR_FAVORITE_GIFT_ANOMALY	此物品不可做为礼物						
+ERR_FAVORITE_GIFT_LIMIT	当天送礼次数到上限						
+ERR_FAVORITE_DEL_ITEM_FAIL	此物品不可被扣除						
+ERR_FAVORITE_LOW_LEVEL	好感度等级过低						
+ERR_FAVORITE_NO_PICTURE	尚未获得此图片						
+ERR_FAVORITE_ON_FIGHT	战斗中						
+ERR_FAVORITE_REPEAT_RECEIVE	重复领取礼物						
+ERR_FAVORITE_CANNOT_VOTE	该对象不可投票						
+ERR_FAVORITE_WAS_INVITED_DAY	今天已邀请过该NPC						
+ERR_FAVORITE_CANT_INVITED	好感度不够无法邀请						
+ERR_FAVORITE_WAS_INVITED_WEEK	本周邀请次数不足						
+ERR_FAVORITE_INVITE_FULL	当前家园NPC已满						
+@@@@@@@ERROR_HOME@@@@@@@							
+ERR_HOME_NO_ACCOUNT	没有账号						
+ERR_HOME_NO_DATA	没有仙府数据						
+ERR_HOME_ITEM_USE_SELF_LIMIT	必须在自己的仙府领地使用						
+ERR_HOME_ITEM_RES_TYPE_LOCK	当前种类资源还未解锁						
+ERR_HOME_NOT_OWN	没有仙府						
+ERR_HOME_NO_HOMELAND	没有仙府领地，需要先购买仙府领地						
+ERR_HOME_INVALID_LOCATION	仙府位置非法						
+ERR_HOME_NOT_EXIST	没有仙府						
+ERR_HOME_NAME_LENERR	仙府名称必须为2-8个汉字						
+ERR_HOME_NAME_ALLCHINESE	仙府名称必须全部为中文字符						
+ERR_HOME_NAME_ILLEGAL	仙府名称含有不建议使用的词汇						
+ERR_HOME_RENAME_COUNT	仙府改名次数不足						
+ERR_HOME_BUY_ALREADY	无法购买，已经拥有仙府了						
+ERR_HOME_BUY_OWNER	无法购买，这个仙府已经有拥有者了						
+ERR_HOME_RELOCATE_SAME	无法转移，同一仙府						
+ERR_HOME_RELOCATE_OWNER	无法转移，这个仙府已经有拥有者了						
+ERR_HOME_NOT_IN_SELF_HOME	无法操作，不在自己的仙府						
+ERR_HOME_NOT_IN_SELF_HOME_SCENE	只能在自己仙府领地所在社区，才能退还						
+ERR_HOME_NOT_FRIEND	不是仙府主人的好友						
+ERR_HOME_INTERACTIVE_RESTRICT	不在仙府可交互物件的交互权限内，请联系仙府主人						
+ERR_HOME_NO_AUTHORITY	没有仙府权限						
+ERR_HOME_LEVEL	仙府等级错误						
+ERR_HOME_LEVEL_LOW	仙府等级不足						
+ERR_HOME_LAND_LEVEL	建造区等级错误						
+ERR_HOME_FACILITY_UPGRADE_FAIL_HOME_LEVEL	仙府等级不足，无法升级						
+ERR_HOME_UPGRADE_FAIL_FACILITY_NUM	符合要求等级的仙府设施数量不足，无法升级						
+ERR_HOME_FACILITY_LEVEL	仙府设施等级错误						
+ERR_HOME_FARMLAND_LEVEL_LOW	灵壤等级不足						
+ERR_HOME_MINERAL_LEVEL_LOW	灵脉等级不足						
+ERR_HOME_QUEST_ERR	任务错误						
+ERR_HOME_QUEST_NOT_FINISH	任务未完成						
+ERR_HOME_QUEST_FINISHED	任务已完成						
+ERR_HOME_CRAFT_WOOD_LEVEL_LOW	木匠台等级不足						
+ERR_HOME_CRAFT_STONE_LEVEL_LOW	砺石台等级不足						
+ERR_HOME_CRAFT_METAL_LEVEL_LOW	锻铁炉等级不足						
+ERR_HOME_CRAFT_CLOTH_LEVEL_LOW	百工房等级不足						
+ERR_HOME_FACILITY_LEVEL_LOW	仙府设施等级不足						
+ERR_HOME_RESOURCE_NOT_ENOUGH	仙府资源不足						
+ERR_HOME_ITEM_NOT_ENOUGH	仙府道具不足						
+ERR_HOME_RECIPE_NOT_ENOUGH	仙府配方数量不足，需要学习更多配方						
+ERR_HOME_OBJECT_NOT_ENOUGH	仙府分数不足，需要在建造区布置更多心象造物						
+ERR_HOME_MONEY_NOT_ENOUGH	金钱不足						
+ERR_HOME_RECIPE_CAN_NOT_LEARN	不能学习该配方						
+ERR_HOME_RECIPE_ID	配方错误						
+ERR_HOME_RECIPE_NOT_LEARN	配方没学						
+ERR_HOME_RECIPE_LEARNED	配方已学						
+ERR_HOME_RECIPE_RES_NOT_ENOUGH	资源不足						
+ERR_HOME_RECIPE_MONEY_NOT_ENOUGH	金钱不足						
+ERR_HOME_OBJECT_COUNT_MAX	物品数量已达到上限						
+ERR_HOME_OBJECT_ID	物品错误						
+ERR_HOME_DECORATION_RENDER	无法布置，占用空间已达到上限						
+ERR_HOME_DECORATION_NUM	无法布置，物件个数已达到上限						
+ERR_HOME_DECORATION_GROUP	无法布置，分组数量已达到上限						
+ERR_HOME_DECORATION_GROUP1	无法布置，房屋类物件数量已达到上限						
+ERR_HOME_DECORATION_GROUP2	无法布置，树木类物件数量已达到上限						
+ERR_HOME_DECORATION_GROUP3	无法布置，水池类物件数量已达到上限						
+ERR_HOME_DECORATION_GROUP4	无法布置，动物类物件数量已达到上限						
+ERR_HOME_DECORATION_GROUP5	无法布置，照影类物件数量已达到上限						
+ERR_HOME_DECORATION_PARENT	无法布置，父节点错误						
+ERR_HOME_STORE_ITEM_NOT_ENOUGH	仓库中的物件数量不足						
+ERR_HOME_INTERACTIVE_VALUE	交互参数出现问题						
+ERR_HOME_SCENE_NO_ITEM	场景中无该物件						
+ERR_HOME_OBJECT_TO_ITEM	不能转化为道具						
+ERR_HOME_SOIL_NO_IDX	没有资源建筑						
+ERR_HOME_SOIL_ALREADY_PLANT	已经存在产物						
+ERR_HOME_SOIL_EMPTY	没有播种或蕴养						
+ERR_HOME_RIPE	已经成熟						
+ERR_HOME_NOT_RIPE	没有成熟						
+ERR_HOME_NO_SEED	没有选择种子						
+ERR_HOME_NO_STONE	没有选择石引						
+ERR_HOME_SEED_ID	作物错误						
+ERR_HOME_SEED_TYPE	作物类型错误						
+ERR_HOME_ESSENCE_ID	精华错误						
+ERR_HOME_ESSENCE_TYPE	精华类型错误						
+ERR_HOME_ESSENCE_NOT_ENOUGH	精华数量不足						
+ERR_HOME_ACCELERATE_SELF_MAX	今日注灵次数达到上限						
+ERR_HOME_ACCELERATE_SOIL_MAX	灵气充盈，已经无法再次注灵						
+ERR_HOME_ACCELERATE_CD	此处灵气充盈，暂时无法注灵						
+ERR_HOME_ACCELERATE_NO_HOME	尚未拥有仙府，无法注灵						
+ERR_HOME_ACCELERATE_SELF_HOME	无法为自己仙府注灵						
+ERR_HOME_IN_WHITELIST	已经是仙府的共享者						
+ERR_HOME_NOT_IN_WHITELIST	不是仙府的共享者						
+ERR_HOME_WHITELIST_MAX	仙府共享者数量达到上限						
+ERR_HOME_IN_MESSAGE_BOARD_BLACKLIST	已经在仙府黑名单中						
+ERR_HOME_MESSAGE_BOARD_SEND_RESTRICT	暂时无法发送仙府留言						
+ERR_HOME_MESSAGE_BOARD_UNINITIAL	仙府留言板未初始化						
+ERR_HOME_TEMPLATE	模板错误						
+ERR_HOME_EMPTY	没有空闲的仙府						
+ERR_HOME_ITEM_LIMIT	此物件拥有数量到达上限，无法获取更多						
+ERR_HOME_NO_PREFAB	仙府图纸不存在						
+ERR_HOME_PREFAB_LIMIT	仙府图纸达到上限						
+ERR_HOME_PREFAB_REMOVE	仙府图纸无法删除						
+ERR_HOME_PREFAB_ERROR	仙府图纸数据错误						
+ERR_HOME_PREFAB_FILE_SAVE	仙府图纸无法导出成文件						
+ERR_HOME_PREFAB_NO_FILE	没有仙府图纸文件						
+ERR_HOME_PREFAB_FILE_LOAD	仙府图纸无法从文件读取						
+ERR_HOME_PREFAB_VERSION	仙府图纸版本错误						
+ERR_HOME_PREFAB_TYPE	仙府图纸类型错误						
+ERR_HOME_PREFAB_CANNOT_CREATE	无法生成仙府图纸						
+ERR_HOME_PREFAB_STATE	不在图纸建造状态						
+ERR_HOME_PREFAB_NO_ITEM	没有仙府图纸道具						
+ERR_HOME_PREFAB_NAME_ILLEGAL	图纸名称含有不建议使用的词汇						
+ERR_HOME_PREFAB_NAME_LENGRR	图纸名称必须为1-10个字符						
+ERR_HOME_NO_BLUEPRINT	仙府建造方案不存在						
+ERR_HOME_BLUEPRINT_LIMIT	仙府建造方案达到上限						
+ERR_HOME_BLUEPRINT_REMOVE	仙府建造方案无法删除						
+ERR_HOME_RENAME_BLUEPRINT_TIME	仙府建造方案更改名称过于频繁						
+ERR_HOME_CANNOT_OPERATE	读取仙府建造方案中，无法操作						
+ERR_HOME_MONEY_CONVERT_LIMIT	超过可兑换的卧云宝钞数量上限						
+ERR_HOME_MAT_MONEY_CONVERT_MAX	无法再兑换更多这种资源了						
+ERR_HOME_MAT_MONEY_CONVERT_MIN	无法再减少这种资源了						
+ERR_HOME_PLAN_NAME_ILLEGAL	建造方案名称含有不建议使用的词汇						
+ERR_HOME_PLAN_NAME_LENGRR	建造方案必须为1-10个字符						
+ERR_HOME_PARAM	参数错误						
+ERR_ACCOUNT_NO_ACTIVITY	账号福泽不足						
+ERR_HOME_PREFAB_NO_EMPTY	图纸没有空位						
+@@@@@@@ERROR_CARD@@@@@@@							
+ERR_CONSOLECARD_CLOSE	千秋戏功能已经关闭						
+ERR_CONSOLECARD_NOT_NPC	无法与指定目标玩千秋戏						
+ERR_CONSOLECARD_IN_GAME	您已在千秋戏游戏中						
+ERR_CONSOLECARD_TARGET_IN_GAME	目标已在千秋戏游戏中						
+ERR_CONSOLECARD_SPCARD_MAX	珍稀牌数量超过上限						
+ERR_CONSOLECARD_SPCARD_NOT_ACTIVATED	珍稀牌未激活						
+ERR_CONSOLECARD_CARD_INVALID	无效的卡牌						
+ERR_CONSOLECARD_CARD_ACTIVATED	卡牌已经激活						
+ERR_CONSOLECARD_PIECE_CANNOT_BUY	该卡牌碎金屑无法购买						
+ERR_CONSOLECARD_CARD_NOT_ENOUGH	卡牌数量不满足出售条件						
+ERR_CONSOLECARD_NORMAL_NOT_ACTIVATED	尚未获得[{1}]普通卡，需要先获得对应普通卡，才能合成金卡				event:/voice/system/hint/tg/male/090	event:/voice/system/hint/tg/female/090	
+ERR_CONSOLECARD_PIECE_NOT_ENOUGH	碎金屑数量不足						
+ERR_CONSOLECARD_POCKET_MAX_OWN	卡包拥有数量达到上限						
+@@@@@@@ERROR_PRACTICEROUTE@@@@@@@							
+ERR_GUIDE_UNFINISH_1	尚未完成前置引导任务，已为您自动接取	CHANNEL_SYSTEM_CENTER_YELLOW			event:/voice/system/guide/spirit/female/189	event:/voice/system/guide/spirit/female/189	
+ERR_GUIDE_UNFINISH_2	需完成【剑主试炼】任务后，方可进入秘境。【剑主试炼】任务，可由【问道修行】中【引导】分页开启。	CHANNEL_SYSTEM_CENTER_YELLOW			event:/voice/system/guide/spirit/female/188	event:/voice/system/guide/spirit/female/188	
+@@@@@@@ERROR_TREASURE@@@@@@@							
+ERR_TREASURE_CANNOT_REMOVE	该藏品不可移除收藏状态						treasure表内需要反复挖的藏品，is_in_count列必须填写0
+@@@@@@@ERR_VISITING@@@@@@@							
+ERR_VISITING_SAVE_FAIL	名贴保存失败						
+ERR_VISITING_FETCH_FAIL	名贴获取失败						
+ERR_VISITING_CHANGE_TAG_FAIL	添加目标标签失败						
+ERR_VISITING_CHANGE_TAG_GREATER_TEN	今日为该玩家调整标签次数已用完						
+ERR_VISITING_TAG_NOT_EXIST	此标签暂未获得						
+ERR_VISITING_TAG_NOT_FRIEND	此玩家设置非好友不可添加标签						
+ERR_VISITING_TAG_NOT_BEST	此玩家设置非挚交不可添加标签						
+@@@@@@@ERROR_MYSTERY@@@@@@@							
+ERR_MYSTERY_CANT_EXCHANGE_REWARD	该物品不可由兑换获得						
+ERR_MYSTERY_TOKEN_NOT_ENOUGH	代币不足						
+ERR_MYSTERY_HAVEN_ACTIVATED	此物品已被激活						
+@@@@@@@ERROR_FAIRYLAND@@@@@@@							
+ERR_FAIRYLAND_EXP_WEEKLY_EXCEED	该周获得的经验已达上限						
+ERR_FAIRYLAND_COMPLETE_QUEST_FAIL	任务物品提交失败						
+@@@@@@@ERROR_FINGER_HEART@@@@@@@							
+ERR_FINGER_HEART_NO_CREATE	未达到要求，无资格报名						
+ERR_FINGER_HEART_ADD_MASTER	成功加入队列						
+ERR_FINGER_HEART_NO_MATCH	未找到匹配信息或已过期						
+ERR_FINGER_HEART_NO_PLAYER	没有找到玩家						
+ERR_FINGER_HEART_CANNOT_POINT	还有评价未完成，无法操作						
+ERR_FINGER_HEART_MATCH_POINT	已经打过评分						
+ERR_FINGER_HEART_MATCH_NO_END	请专心对待当前的新晋仙家弟子，关系结束后方可寻找下一位						
+@@@@@@@ERROR_REPLAY@@@@@@@							
+ERR_REPLAY_FILE_ERROR	文件获取失败，或损坏，或严重过期						
+ERR_SEASONTICKET_NO_ACTIVATED	尚未激活本期节令卡						
+ERR_SEASONTICKETO_REWARD_ERR	领取错误奖励						
+ERR_SEASONTICKET_REWARD_RECEIVED	您已经领取过此奖励						
+ERR_SEASONTICKET_CONDITION_NOT_ENOUGH	不满足此奖励的领取条件						
+ERR_SEASONTICKET_NOT_IN_PROGRESS	不在领取时间范围						
+ERR_SEASONTICKET_ALREADY_ACTIVATED	您已激活本期节令卡，无法重复激活						
+ERR_EXPLORER_ITEM_REPEAT	无法重复获得此探险道具						
+ERR_EXPLORER_NO_SUCH_ITEM	无法找到此探险道具						
+ERR_CHOICE_CHANGE	技能施放过程中不可切换星蕴特技						
+@@@@@@@ERR_MIGRATE@@@@@@@							
+ERR_MIGRATE_TIMECARD	正在拍卖光阴梭，无法转服						
+ERR_MIGRATE_AUCTIONSELL	拍卖行有上架物品，无法转服						
+ERR_MIGRATE_AUCTIONBUY	拍卖行有竞拍物品，无法转服						
+ERR_MIGRATE_GUILD	当前有盟会，无法转服						
+ERR_MIGRATE_MONEY	携带金钱超过1000金，无法转服						
+ERR_MIGRATE_MAIL	邮件中有未读邮件或含物品、金钱的邮件，无法转服						
+ERR_MIGRATE_SCENE	所在场景不是步云洲，无法转服						
+ERR_MIGRATE_ITEM	携带有无法转服的物品，无法转服						
+ERR_SEASONTICKET_WRONG_ID	这不是本期节令卡，无法进行激活						
+@@@@@@@ERR_BASTION@@@@@@@							
+ERR_BASTION_REGION_NOT_UNLOCKED	该区域的福地尚未解锁						
+ERR_BASTION_PRODUCTION_NOT_UNLOCKED	该福地的当前生产设施尚未解锁						
+ERR_BASTION_PRODUCTION_WITHOUT_SEED	当前生产设施未设置种子						
+ERR_BASTION_PRODUCTION_NO_NPC	不存在当前协助使						
+ERR_BASTION_PRODUCTION_NO_HARVEST	当前生产设施暂时没有产物可以收获						
+ERR_BASTION_PRODUCTION_NO_REGIONID	请到指定区域内收获						
+ERR_BASTION_PRODUCTION_NO_PRODUCTION_TYPE	不存在当前生产设施						
+ERR_BASTION_PRODUCTION_FAULT_CAPACITY	当前资源已满						
+ERR_BASTION_PRODUCTION_NOT_SEED	无法获取当前作物信息						
+ERR_BASTION_PRODUCTION_NOT_EXIST_SEED	不存在当前作物						
+ERR_BASTION_PRODUCTION_NOT_CURRENT_STORAGE	临时仓库储量错误						
+ERR_BASTION_OBJECT_NOT_EXIST	该福地相关物品不存在						
+ERR_BASTION_NOT_IN_SELF	不在自己的福地中						
+ERR_BASTION_NOT_IN_TARGET_REGION	不在对应的福地中						
+ERR_BASTION_HOME_REGION_LIMIT	需要在自己的仙府或者福地中使用						
+ERR_BASTION_SAME_BASE_ISLAND	选择了重复的遗剑仙乡建造区						
+ERR_BASTION_TAKEN_BASE_ISLAND	目标遗剑仙乡建造区已被选取						
+ERR_BASTION_NOT_LINKED_RELATION	不存在或是已解除仙邻关系						
+ERR_BASTION_NOT_LINKED_RELATION_SELF	不存在或是已解除与对方的仙邻关系						
+ERR_BASTION_UNKNOWN_NEIGHBOR_MASTER	不存在的账号信息						
+ERR_BASTION_UNKNOWN_DECORATION	错误的福地区域信息						
+ERR_BASTION_ALREADY_NEIGHBOUR	已经是仙邻关系						
+ERR_BASTION_NOT_OWN	尚未拥有仙府福地						
+ERR_BASTION_NEIGHBOR_MINE	不能邀请自己						
+ERR_BASTION_ITEM_PART_FULL_LEVEL	当前建筑已满级且该部件已解锁						
+ERR_BASTION_ITEM_PART_UNLOCKED	当前建筑不可升级且该部件已解锁						
+ERR_BASTION_PLANT_NOT_SUIT	当前种子选择与生产建筑不匹配						
+ERR_BASTION_PLANT_NOT_SUIT_REGION	当前种子选择与当前区域不匹配						
+ERR_HOME_COMMON_OBJECT_UNDERFLOW	物品数量不足						
+ERR_HOME_COMMON_OBJECT_OVERFLOW	物品超出上限						
+ERR_HOME_COMMON_OBJECT_INSUFFICIENT	物品少于已装饰数量						
+ERR_POLICE_LOGIN_ERROR_XIAOE	由于帐号小额付费未缴款，系统已对您进行封禁处理，{1}后解除						
+ERR_HOME_NOT_START	仙府尚未开放						
+ERR_BASTION_PRODUCTION_NOT_UPGRADE	尚未达到升级条件						

@@ -1,0 +1,1087 @@
+﻿ID	BoneName	Axis	Weight	IsReferencePoint
+*	*			是否为基准点
+			1	0
+male_1	Root	1,1,1		
+male_2	Bip01 Spine1	1,1,1		
+male_3	Bip01 Head	1,1,1		
+male_4	Bip01 Neck	1,0,0		
+male_4	Bip01 Head	1,1,1	0,0,0	
+male_4	Bip01 L Clavicle	1,1,1	0,0,0	
+male_4	Bip01 R Clavicle	1,1,1	0,0,0	
+male_5	Bip01 Neck	0,1,1		
+male_5	Bip01 Head	1,1,1	0,0,0	
+male_5	Bip01 L Clavicle	1,1,1	0,0,0	
+male_5	Bip01 R Clavicle	1,1,1	0,0,0	
+male_6	Bip01 L Clavicle	0,0,1		
+male_6	Bip01 R Clavicle	0,0,1		
+male_6	Bip01 L UpperArm	1,1,1	0,0,0	
+male_6	Bip01 R UpperArm	1,1,1	0,0,0	
+male_7	Bip01 Spine1	1,0,0		
+male_7	Bip01 Spine2	1,1,1	0,0,0	
+male_8	Bip01 Spine1	0,1,1		
+male_8	Bip01 Spine2	1,1,1	0,0,0	
+male_9	Bip01 L Hand	0,1,1		
+male_9	Bip01 R Hand	0,1,1		
+male_10	Bip01 L Finger0	1,0,0		
+male_10	Bip01 R Finger0	1,0,0		
+male_10	Bip01 L Finger1	1,0,0		
+male_10	Bip01 R Finger1	1,0,0		
+male_10	Bip01 L Finger2	1,0,0		
+male_10	Bip01 R Finger2	1,0,0		
+male_10	Bip01 L Finger3	1,0,0		
+male_10	Bip01 R Finger3	1,0,0		
+male_10	Bip01 L Finger4	1,0,0		
+male_10	Bip01 R Finger4	1,0,0		
+male_11	Bip01 L UpperArm	1,0,0		
+male_11	Bip01 R UpperArm	1,0,0		
+male_12	Bip01 L UpperArm	0,1,1		
+male_12	Bip01 R UpperArm	0,1,1		
+male_13	Bip01 L Thigh	0,1,1		
+male_13	Bip01 L Calf	0,1,1	0,0,0	
+male_13	Bip01 R Thigh	0,1,1		
+male_13	Bip01 R Calf	0,1,1	0,0,0	
+male_14	Bip01 L Thigh	1,0,0		
+male_14	Bip01 L Calf	1,0,0	0,0,0	
+male_14	Bip01 R Thigh	1,0,0		
+male_14	Bip01 R Calf	1,0,0	0,0,0	
+male_15	Bip01 L Calf	0,1,1		
+male_15	Bip01 L Foot	0,1,1	0,0,0	
+male_15	Bip01 R Calf	0,1,1		
+male_15	Bip01 R Foot	0,1,1	0,0,0	
+male_16	Bip01 L Calf	1,0,0		
+male_16	Bip01 L Foot	1,0,0	0,0,0	
+male_16	Bip01 R Calf	1,0,0		
+male_16	Bip01 R Foot	1,0,0	0,0,0	
+male_17	Bip01 L Foot	1,1,1		
+male_17	Bip01 R Foot	1,1,1		
+male_18	Bip01 L Toe0	1,0,0		1
+male_18	Bip01 R Toe0	1,0,0		1
+male_19	Bip01 L Clavicle	1,0,0		
+male_19	Bip01 L UpperArm	1,0,0	0,0,0	
+male_19	Bip01 R Clavicle	1,0,0		
+male_19	Bip01 R UpperArm	1,0,0	0,0,0	
+male_20	Bip01 Spine3	1,0,1		
+male_20	Bip01 Neck	1,1,1	0,0,0	
+male_20	Bip01 L Clavicle	1,0,0		
+male_20	Bip01 L UpperArm	1,1,1	0,0,0	
+male_20	Bip01 R Clavicle	1,0,0		
+male_20	Bip01 R UpperArm	1,1,1	0,0,0	
+male_21	Bip01 Spine3	0,1,0		
+male_21	Bip01 Neck	1,1,1	0,0,0	
+male_22	Bip01 Spine3	0,0,1		
+male_22	Bip01 Neck	1,1,1	0,0,0	
+male_22	Bip01 L Clavicle	1,0,0		
+male_22	Bip01 L UpperArm	1,1,1	0,0,0	
+male_22	Bip01 R Clavicle	1,0,0		
+male_22	Bip01 R UpperArm	1,1,1	0,0,0	
+male_23	Bip01 L ForeTwist	0,1,1		
+male_23	Bip01 R ForeTwist	0,1,1		
+male_23	Bip01 L ForeTwist1	0,1,1		
+male_23	Bip01 R ForeTwist1	0,1,1		
+male_24	left_uparm_Bone01	0,1,1		
+male_24	right_uparm_Bone01	0,1,1		
+male_24	left_uparm_Bone03	0,1,1		
+male_24	right_uparm_Bone03	0,1,1		
+male_25	Bip01 Spine1	0,1,0		
+male_25	Bip01 Spine2	1,1,1	0,0,0	
+male_26	Bone22	1,0,0		
+male_26	Bone28	1,0,0		
+male_26	Bone34	1,0,0		
+male_26	Bone40	1,0,0		
+male_26	Bone46	1,0,0		
+male_26	Bone52	1,0,0		
+male_26	Bone58	1,0,0		
+male_26	Bone64	1,0,0		
+female_1	Root	1,1,1		
+female_2	Bip01 Spine1	1,1,1		
+female_3	Bip01 Head	1,1,1		
+female_4	Bip01 Neck	1,0,0		
+female_4	Bip01 Head	1,1,1	0,0,0	
+female_4	Bip01 L Clavicle	1,1,1	0,0,0	
+female_4	Bip01 R Clavicle	1,1,1	0,0,0	
+female_5	Bip01 Neck	0,1,1		
+female_5	Bip01 Head	1,1,1	0,0,0	
+female_5	Bip01 L Clavicle	1,1,1	0,0,0	
+female_5	Bip01 R Clavicle	1,1,1	0,0,0	
+female_6	Bip01 L Clavicle	0,0,1		
+female_6	Bip01 R Clavicle	0,0,1		
+female_6	Bip01 L UpperArm	1,1,1	0,0,0	
+female_6	Bip01 R UpperArm	1,1,1	0,0,0	
+female_7	Bip01 Spine1	1,0,0		
+female_7	Bip01 Spine2	1,1,1	0,0,0	
+female_8	Bip01 Spine1	0,1,1		
+female_8	Bip01 Spine2	1,1,1	0,0,0	
+female_9	Bip01 L Hand	0,1,1		
+female_9	Bip01 R Hand	0,1,1		
+female_10	Bip01 L Finger0	1,0,0		
+female_10	Bip01 R Finger0	1,0,0		
+female_10	Bip01 L Finger1	1,0,0		
+female_10	Bip01 R Finger1	1,0,0		
+female_10	Bip01 L Finger2	1,0,0		
+female_10	Bip01 R Finger2	1,0,0		
+female_10	Bip01 L Finger3	1,0,0		
+female_10	Bip01 R Finger3	1,0,0		
+female_10	Bip01 L Finger4	1,0,0		
+female_10	Bip01 R Finger4	1,0,0		
+female_11	Bip01 L UpperArm	1,0,0		
+female_11	Bip01 R UpperArm	1,0,0		
+female_12	Bip01 L UpperArm	0,1,1		
+female_12	Bip01 R UpperArm	0,1,1		
+female_13	Bip01 L Thigh	0,1,1		
+female_13	Bip01 L Calf	0,1,1	0,0,0	
+female_13	Bip01 R Thigh	0,1,1		
+female_13	Bip01 R Calf	0,1,1	0,0,0	
+female_14	Bip01 L Thigh	1,0,0		
+female_14	Bip01 L Calf	1,0,0	0,0,0	
+female_14	Bip01 R Thigh	1,0,0		
+female_14	Bip01 R Calf	1,0,0	0,0,0	
+female_15	Bip01 L Calf	0,1,1		
+female_15	Bip01 L Foot	0,1,1	0,0,0	
+female_15	Bip01 R Calf	0,1,1		
+female_15	Bip01 R Foot	0,1,1	0,0,0	
+female_16	Bip01 L Calf	1,0,0		
+female_16	Bip01 L Foot	1,0,0	0,0,0	
+female_16	Bip01 R Calf	1,0,0		
+female_16	Bip01 R Foot	1,0,0	0,0,0	
+female_17	Bip01 L Foot	1,1,1		
+female_17	Bip01 R Foot	1,1,1		
+female_18	Bip01 L Toe0	1,0,0		1
+female_18	Bip01 R Toe0	1,0,0		1
+female_19	Bip01 L Clavicle	1,0,0		
+female_19	Bip01 L UpperArm	1,0,0	0,0,0	
+female_19	Bip01 R Clavicle	1,0,0		
+female_19	Bip01 R UpperArm	1,0,0	0,0,0	
+female_20	Bip01 Spine2	1,0,1		
+female_20	Bip01 Neck	1,1,1	0,0,0	
+female_20	Bip01 L Clavicle	1,0,0		
+female_20	Bip01 L UpperArm	1,1,1	0,0,0	
+female_20	Bip01 R Clavicle	1,0,0		
+female_20	Bip01 R UpperArm	1,1,1	0,0,0	
+female_21	Bip01 Spine2	0,1,0		
+female_21	Bip01 Neck	1,1,1	0,0,0	
+female_22	Bip01 Spine2	0,0,1		
+female_22	Bip01 Neck	1,1,1	0,0,0	
+female_22	Bip01 L Clavicle	1,0,0		
+female_22	Bip01 L UpperArm	1,1,1	0,0,0	
+female_22	Bip01 R Clavicle	1,0,0		
+female_22	Bip01 R UpperArm	1,1,1	0,0,0	
+female_23	Bip01 L ForeTwist	0,1,1		
+female_23	Bip01 R ForeTwist	0,1,1		
+female_23	Bip01 L ForeTwist1	0,1,1		
+female_23	Bip01 R ForeTwist1	0,1,1		
+female_24	left_uparm_Bone01	0,1,1		
+female_24	right_uparm_Bone01	0,1,1		
+female_24	left_uparm_Bone03	0,1,1		
+female_24	right_uparm_Bone03	0,1,1		
+female_25	Bip01 Spine	0,1,0		
+female_25	Bip01 Spine1	1,1,1	0,0,0	
+female_26	Bone01	1,0,0		
+female_26	Bone13	1,0,0		
+female_26	Bone19	1,0,0		
+female_26	Bone25	1,0,0		
+female_26	Bone31	1,0,0		
+female_26	Bone37	1,0,0		
+female_26	Bone43	1,0,0		
+female_26	Bone49	1,0,0		
+male_101	Bip01 Spine	1,0,0	0.44,0,0	
+male_101	Bip01 Spine1	1,0,0		
+male_101	Bip01 Spine2	1,1,1	0,0,0	
+male_101	Bip01 Spine3	1,1,1	0,0,0	
+male_101	Bip01 L UpperArm	1,0,0	0.7,0,0	
+male_101	Bip01 R UpperArm	1,0,0	0.7,0,0	
+male_101	Bip01 L Thigh	1,0,0	0.5,0,0	
+male_101	Bip01 R Thigh	1,0,0	0.5,0,0	
+male_101	Bip01 L Calf	1,0,0	0.5,0,0	
+male_101	Bip01 L Foot	1,1,1	0,0,0	
+male_101	Bip01 R Calf	1,0,0	0.5,0,0	
+male_101	Bip01 R Foot	1,1,1	0,0,0	
+male_101	Bip01 L Hand	1,1,1	0,0,0	
+male_101	Bip01 R Hand	1,1,1	0,0,0	
+male_101	Bip01 Neck	1,0,0	0.5,0,0	
+male_101	Bip01 Head	1,1,1	0,0,0	
+male_101	Bip01 L Clavicle	1,1,1	0,0,0	
+male_101	Bip01 R Clavicle	1,1,1	0,0,0	
+male_101	Bone22	1,0,0	0.24,0,0	
+male_101	Bone28	1,0,0	0.24,0,0	
+male_101	Bone34	1,0,0	0.24,0,0	
+male_101	Bone40	1,0,0	0.24,0,0	
+male_101	Bone46	1,0,0	0.24,0,0	
+male_101	Bone52	1,0,0	0.24,0,0	
+male_101	Bone58	1,0,0	0.24,0,0	
+male_101	Bone64	1,0,0	0.24,0,0	
+male_102	Bip01 Pelvis	0,0,1	0,0.15,0.5	
+male_102	Bip01 Spine	0,1,1	0,0.65,0.6	
+male_102	Bip01 Spine1	0,1,1		
+male_102	Bip01 Spine2	1,0,1	0.1,0,0.35	
+male_102	Bip01 Spine3	0,1,1	0,0.36,0.36	
+male_102	Bip01 Neck	1,1,1	0,0,0	
+male_102	Bip01 L Thigh	1,1,1	0,0,0	
+male_102	Bip01 R Thigh	1,1,1	0,0,0	
+male_102	Bip01 L Calf	0,1,1	0,0.6,0.6	
+male_102	Bip01 L Foot	0,1,1	0,0,0	
+male_102	Bip01 R Calf	0,1,1	0,0.6,0.6	
+male_102	Bip01 R Foot	0,1,1	0,0,0	
+male_102	Bip01 L Clavicle	1,0,0	0.5,0,0	
+male_102	Bip01 L UpperArm	1,1,1	0,0,0	
+male_102	Bip01 R Clavicle	1,0,0	0.5,0,0	
+male_102	Bip01 R UpperArm	1,1,1	0,0,0	
+male_102	left_uparm_Bone01	0,1,1	0,0.7,0.7	
+male_102	right_uparm_Bone01	0,1,1	0,0.7,0.7	
+male_102	left_uparm_Bone03	0,1,1		
+male_102	right_uparm_Bone03	0,1,1		
+male_102	Bip01 L ForeTwist	0,1,1	0,0.6,0.42	
+male_102	Bip01 R ForeTwist	0,1,1	0,0.6,0.42	
+male_102	Bip01 L ForeTwist1	0,1,1	0,0.5,0.5	
+male_102	Bip01 R ForeTwist1	0,1,1	0,0.5,0.5	
+male_103	Bip01 Head	1,1,1		
+male_104	Bip01 Neck	1,0,0		
+male_104	Bip01 Head	1,1,1	0,0,0	
+male_104	Bip01 L Clavicle	1,1,1	0,0,0	
+male_104	Bip01 R Clavicle	1,1,1	0,0,0	
+male_105	Bip01 Neck	0,1,1		
+male_105	Bip01 Head	1,1,1	0,0,0	
+male_105	Bip01 L Clavicle	1,1,1	-0.48,0,0	
+male_105	Bip01 R Clavicle	1,1,1	-0.48,0,0	
+male_105	Bip01 L UpperArm	1,1,1	0,0,0	
+male_105	Bip01 R UpperArm	1,1,1	0,0,0	
+male_106	Bip01 L Clavicle	0,0,1		
+male_106	Bip01 R Clavicle	0,0,1		
+male_106	Bip01 L UpperArm	1,1,1	0,0,0	
+male_106	Bip01 R UpperArm	1,1,1	0,0,0	
+male_107	Bip01 L Clavicle	1,0,0		
+male_107	Bip01 L UpperArm	1,0,0	0,0,0	
+male_107	Bip01 R Clavicle	1,0,0		
+male_107	Bip01 R UpperArm	1,0,0	0,0,0	
+male_108	Bip01 Spine2	1,0,1	0.2,0,0.7	
+male_108	Bip01 Neck	1,1,1	0,0,0	
+male_108	Bip01 L Clavicle	1,0,0		
+male_108	Bip01 L UpperArm	1,1,1	0,0,0	
+male_108	Bip01 R Clavicle	1,0,0		
+male_108	Bip01 R UpperArm	1,1,1	0,0,0	
+male_109	Bip01 Spine1	1,0,0		
+male_109	Bip01 Spine2	1,0,0	0.6,0,0	
+male_109	Bip01 Spine3	1,1,1	0,0,0	
+male_109	Bip01 L Thigh	1,1,1	0,0,0	
+male_109	Bip01 R Thigh	1,1,1	0,0,0	
+male_110	Bip01 Spine1	0,1,1	0,0.7,1	
+male_110	Bip01 Spine2	0,0,1	0,0,0.1	
+male_110	Bip01 Spine3	1,1,1	0,0,0	
+male_111	Bip01 Pelvis	0,0,1	0,0.6,1	
+male_111	Bip01 Spine	1,1,1	0,0,0	
+male_111	Bip01 Spine1	0,0,1	0,0,0.4	
+male_111	Bip01 Spine2	1,1,1	0,0,0	
+male_111	Bip01 L Thigh	1,1,1	0,0,0	
+male_111	Bip01 R Thigh	1,1,1	0,0,0	
+male_112	Bip01 L UpperArm	1,0,0		
+male_112	Bip01 R UpperArm	1,0,0		
+male_112	Bip01 L Hand	1,1,1	0,0,0	
+male_112	Bip01 R Hand	1,1,1	0,0,0	
+male_113	left_uparm_Bone01	0,1,1	0,0.7,0.7	
+male_113	right_uparm_Bone01	0,1,1	0,0.7,0.7	
+male_113	left_uparm_Bone03	0,1,1		
+male_113	right_uparm_Bone03	0,1,1		
+male_114	Bip01 L ForeTwist	0,1,1	0,1,0.7	
+male_114	Bip01 R ForeTwist	0,1,1	0,1,0.7	
+male_114	Bip01 L ForeTwist1	0,1,1	0,0.75,0.75	
+male_114	Bip01 R ForeTwist1	0,1,1	0,0.75,0.75	
+male_115	Bip01 L Hand	1,1,1		
+male_115	Bip01 R Hand	1,1,1		
+male_116	Bip01 L Finger0	1,0,0		
+male_116	Bip01 R Finger0	1,0,0		
+male_116	Bip01 L Finger1	1,0,0		
+male_116	Bip01 R Finger1	1,0,0		
+male_116	Bip01 L Finger2	1,0,0		
+male_116	Bip01 R Finger2	1,0,0		
+male_116	Bip01 L Finger3	1,0,0		
+male_116	Bip01 R Finger3	1,0,0		
+male_116	Bip01 L Finger4	1,0,0		
+male_116	Bip01 R Finger4	1,0,0		
+male_117	Bip01 L Thigh	1,0,0		
+male_117	Bip01 L Calf	1,0,0	0,0,0	
+male_117	Bip01 R Thigh	1,0,0		
+male_117	Bip01 R Calf	1,0,0	0,0,0	
+male_117	Bone22	1,0,0	0.4,0,0	
+male_117	Bone28	1,0,0	0.4,0,0	
+male_117	Bone34	1,0,0	0.4,0,0	
+male_117	Bone40	1,0,0	0.4,0,0	
+male_117	Bone46	1,0,0	0.4,0,0	
+male_117	Bone52	1,0,0	0.4,0,0	
+male_117	Bone58	1,0,0	0.4,0,0	
+male_117	Bone64	1,0,0	0.4,0,0	
+male_118	Bip01 L Thigh	0,1,1		
+male_118	Bip01 L Calf	0,1,1	0,0,0	
+male_118	Bip01 R Thigh	0,1,1		
+male_118	Bip01 R Calf	0,1,1	0,0,0	
+male_119	Bip01 L Calf	1,0,0		
+male_119	Bip01 L Foot	1,0,0	0,0,0	
+male_119	Bip01 R Calf	1,0,0		
+male_119	Bip01 R Foot	1,0,0	0,0,0	
+male_119	Bone22	1,0,0	0.4,0,0	
+male_119	Bone28	1,0,0	0.4,0,0	
+male_119	Bone34	1,0,0	0.4,0,0	
+male_119	Bone40	1,0,0	0.4,0,0	
+male_119	Bone46	1,0,0	0.4,0,0	
+male_119	Bone52	1,0,0	0.4,0,0	
+male_119	Bone58	1,0,0	0.4,0,0	
+male_119	Bone64	1,0,0	0.4,0,0	
+male_120	Bip01 L Calf	0,1,1		
+male_120	Bip01 L Foot	0,1,1	0,0,0	
+male_120	Bip01 R Calf	0,1,1		
+male_120	Bip01 R Foot	0,1,1	0,0,0	
+male_121	Bip01 L Foot	1,1,1		
+male_121	Bip01 R Foot	1,1,1		
+male_122	Bip01 L Toe0	1,0,0		1
+male_122	Bip01 R Toe0	1,0,0		1
+female_101	Bip01 Spine	1,0,0	0.44,0,0	
+female_101	Bip01 Spine1	1,0,0		
+female_101	Bip01 Spine2	1,1,1	0,0,0	
+female_101	Bip01 Spine3	1,1,1	0,0,0	
+female_101	Bip01 L UpperArm	1,0,0	0.8,0,0	
+female_101	Bip01 R UpperArm	1,0,0	0.8,0,0	
+female_101	Bip01 L Thigh	1,0,0	0.5,0,0	
+female_101	Bip01 R Thigh	1,0,0	0.5,0,0	
+female_101	Bip01 L Calf	1,0,0	0.5,0,0	
+female_101	Bip01 L Foot	1,1,1	0,0,0	
+female_101	Bip01 R Calf	1,0,0	0.5,0,0	
+female_101	Bip01 R Foot	1,1,1	0,0,0	
+female_101	Bip01 L Hand	1,1,1	0,0,0	
+female_101	Bip01 R Hand	1,1,1	0,0,0	
+female_101	Bone01	1,0,0	0.23,0,0	
+female_101	Bone13	1,0,0	0.23,0,0	
+female_101	Bone19	1,0,0	0.23,0,0	
+female_101	Bone25	1,0,0	0.23,0,0	
+female_101	Bone31	1,0,0	0.23,0,0	
+female_101	Bone37	1,0,0	0.23,0,0	
+female_101	Bone43	1,0,0	0.23,0,0	
+female_101	Bone49	1,0,0	0.23,0,0	
+female_102	Bip01 L Calf	0,1,1	0,0.6,0.6	
+female_102	Bip01 L Foot	0,1,1	0,0,0	
+female_102	Bip01 R Calf	0,1,1	0,0.6,0.6	
+female_102	Bip01 R Foot	0,1,1	0,0,0	
+female_102	Bip01 L ForeTwist	0,1,1	0,0.6,0.42	
+female_102	Bip01 R ForeTwist	0,1,1	0,0.6,0.42	
+female_102	Bip01 L ForeTwist1	0,1,1	0,0.5,0.5	
+female_102	Bip01 R ForeTwist1	0,1,1	0,0.5,0.5	
+female_102	left_uparm_Bone01	0,1,1	0,0.7,0.7	
+female_102	right_uparm_Bone01	0,1,1	0,0.7,0.7	
+female_102	left_uparm_Bone03	0,1,1		
+female_102	right_uparm_Bone03	0,1,1		
+female_102	Bip01 Spine	0,1,1	0,0.35,0.3	
+female_102	Bip01 Spine1	0,1,1		
+female_102	Bip01 Spine2	1,0,1	0.1,0,0.35	
+female_102	Bip01 Neck	1,1,1	0,0,0	
+female_102	Bip01 L Clavicle	1,0,0		
+female_102	Bip01 L UpperArm	1,1,1	0,0,0	
+female_102	Bip01 R Clavicle	1,0,0		
+female_102	Bip01 R UpperArm	1,1,1	0,0,0	
+female_102	Bip01 Pelvis	0,0,1	0,0.15,0.5	
+female_102	Bip01 Spine3	0,1,1	0,0.36,0.36	
+female_102	Bip01 L Thigh	1,1,1	0,0,0	
+female_102	Bip01 R Thigh	1,1,1	0,0,0	
+female_103	Bip01 Head	1,1,1		
+female_104	Bip01 Neck	1,0,0		
+female_104	Bip01 Head	1,1,1	0,0,0	
+female_104	Bip01 L Clavicle	1,1,1	0,0,0	
+female_104	Bip01 R Clavicle	1,1,1	0,0,0	
+female_105	Bip01 Neck	0,1,1		
+female_105	Bip01 Head	1,1,1	0,0,0	
+female_105	Bip01 L Clavicle	1,1,1	-0.4,0,0	
+female_105	Bip01 R Clavicle	1,1,1	-0.4,0,0	
+female_105	Bip01 L UpperArm	1,1,1	0,0,0	
+female_105	Bip01 R UpperArm	1,1,1	0,0,0	
+female_106	Bip01 L Clavicle	0,0,1		
+female_106	Bip01 R Clavicle	0,0,1		
+female_106	Bip01 L UpperArm	1,1,1	0,0,0	
+female_106	Bip01 R UpperArm	1,1,1	0,0,0	
+female_107	Bip01 L Clavicle	1,0,0		
+female_107	Bip01 L UpperArm	1,0,0	0,0,0	
+female_107	Bip01 R Clavicle	1,0,0		
+female_107	Bip01 R UpperArm	1,0,0	0,0,0	
+female_108	Bip01 Spine2	1,0,1	0.2,0,0.7	
+female_108	Bip01 Neck	1,1,1	0,0,0	
+female_108	Bip01 L Clavicle	1,0,0	0.8,0,0	
+female_108	Bip01 L UpperArm	1,1,1	0,0,0	
+female_108	Bip01 R Clavicle	1,0,0	0.8,0,0	
+female_108	Bip01 R UpperArm	1,1,1	0,0,0	
+female_109	Bip01 Spine	1,0,0	0.44,0,0	
+female_109	Bip01 Spine1	1,0,0		
+female_109	Bip01 Spine2	1,1,1	0,0,0	
+female_109	Bip01 Spine3	1,1,1	0,0,0	
+female_110	Bip01 Spine	0,1,1	0,0.7,0.6	
+female_110	Bip01 Spine1	0,1,1		
+female_110	Bip01 Spine2	1,1,1	0,0,0	
+female_111	Bip01 Pelvis	0,0,1	0,0.5,1	
+female_111	Bip01 Spine3	0,1,1	0,0.9,0.72	
+female_111	Bip01 L Thigh	1,1,1	0,0,0	
+female_111	Bip01 R Thigh	1,1,1	0,0,0	
+female_111	Bip01 Spine1	1,1,1	0,0,0	
+female_112	Bip01 L UpperArm	1,0,0		
+female_112	Bip01 R UpperArm	1,0,0		
+female_112	Bip01 L Hand	1,1,1	0,0,0	
+female_112	Bip01 R Hand	1,1,1	0,0,0	
+female_113	left_uparm_Bone01	0,1,1	0,0.7,0.7	
+female_113	right_uparm_Bone01	0,1,1	0,0.7,0.7	
+female_113	left_uparm_Bone03	0,1,1		
+female_113	right_uparm_Bone03	0,1,1		
+female_114	Bip01 L ForeTwist	0,1,1	0,0.8,1	
+female_114	Bip01 R ForeTwist	0,1,1	0,0.8,1	
+female_114	Bip01 L ForeTwist1	0,1,1	0,1,1	
+female_114	Bip01 R ForeTwist1	0,1,1	0,1,1	
+female_115	Bip01 L Hand	1,1,1		
+female_115	Bip01 R Hand	1,1,1		
+female_116	Bip01 L Finger0	1,0,0		
+female_116	Bip01 R Finger0	1,0,0		
+female_116	Bip01 L Finger1	1,0,0		
+female_116	Bip01 R Finger1	1,0,0		
+female_116	Bip01 L Finger2	1,0,0		
+female_116	Bip01 R Finger2	1,0,0		
+female_116	Bip01 L Finger3	1,0,0		
+female_116	Bip01 R Finger3	1,0,0		
+female_116	Bip01 L Finger4	1,0,0		
+female_116	Bip01 R Finger4	1,0,0		
+female_117	Bip01 L Thigh	1,0,0		
+female_117	Bip01 L Calf	1,0,0	0,0,0	
+female_117	Bip01 R Thigh	1,0,0		
+female_117	Bip01 R Calf	1,0,0	0,0,0	
+female_117	Bone01	1,0,0	0.38,0,0	
+female_117	Bone13	1,0,0	0.38,0,0	
+female_117	Bone19	1,0,0	0.38,0,0	
+female_117	Bone25	1,0,0	0.38,0,0	
+female_117	Bone31	1,0,0	0.38,0,0	
+female_117	Bone37	1,0,0	0.38,0,0	
+female_117	Bone43	1,0,0	0.38,0,0	
+female_117	Bone49	1,0,0	0.38,0,0	
+female_118	Bip01 L Thigh	0,1,1		
+female_118	Bip01 L Calf	0,1,1	0,0,0	
+female_118	Bip01 R Thigh	0,1,1		
+female_118	Bip01 R Calf	0,1,1	0,0,0	
+female_119	Bip01 L Calf	1,0,0		
+female_119	Bip01 L Foot	1,0,0	0,0,0	
+female_119	Bip01 R Calf	1,0,0		
+female_119	Bip01 R Foot	1,0,0	0,0,0	
+female_119	Bone01	1,0,0	0.38,0,0	
+female_119	Bone13	1,0,0	0.38,0,0	
+female_119	Bone19	1,0,0	0.38,0,0	
+female_119	Bone25	1,0,0	0.38,0,0	
+female_119	Bone31	1,0,0	0.38,0,0	
+female_119	Bone37	1,0,0	0.38,0,0	
+female_119	Bone43	1,0,0	0.38,0,0	
+female_119	Bone49	1,0,0	0.38,0,0	
+female_120	Bip01 L Calf	0,1,1		
+female_120	Bip01 L Foot	0,1,1	0,0,0	
+female_120	Bip01 R Calf	0,1,1		
+female_120	Bip01 R Foot	0,1,1	0,0,0	
+female_121	Bip01 L Foot	1,1,1		
+female_121	Bip01 R Foot	1,1,1		
+female_122	Bip01 L Toe0	1,0,0		1
+female_122	Bip01 R Toe0	1,0,0		1
+female_lls_1	Bip01 Spine	1,0,0	0.44,0,0	
+female_lls_1	Bip01 Spine1	1,0,0		
+female_lls_1	Bip01 Spine2	1,1,1	0,0,0	
+female_lls_1	Bip01 Spine3	1,1,1	0,0,0	
+female_lls_1	Bip01 L UpperArm	1,0,0	0.8,0,0	
+female_lls_1	Bip01 R UpperArm	1,0,0	0.8,0,0	
+female_lls_1	Bip01 L Thigh	1,0,0	0.5,0,0	
+female_lls_1	Bip01 R Thigh	1,0,0	0.5,0,0	
+female_lls_1	Bip01 L Calf	1,0,0	0.5,0,0	
+female_lls_1	Bip01 L Foot	1,1,1	0,0,0	
+female_lls_1	Bip01 R Calf	1,0,0	0.5,0,0	
+female_lls_1	Bip01 R Foot	1,1,1	0,0,0	
+female_lls_1	Bip01 L Hand	1,1,1	0,0,0	
+female_lls_1	Bip01 R Hand	1,1,1	0,0,0	
+female_lls_1	Bone01	1,0,0	0.23,0,0	
+female_lls_1	Bone13	1,0,0	0.23,0,0	
+female_lls_1	Bone19	1,0,0	0.23,0,0	
+female_lls_1	Bone25	1,0,0	0.23,0,0	
+female_lls_1	Bone31	1,0,0	0.23,0,0	
+female_lls_1	Bone37	1,0,0	0.23,0,0	
+female_lls_1	Bone43	1,0,0	0.23,0,0	
+female_lls_1	Bone49	1,0,0	0.23,0,0	
+female_lls_2	Bip01 L Calf	0,1,1	0,0.6,0.6	
+female_lls_2	Bip01 L Foot	0,1,1	0,0,0	
+female_lls_2	Bip01 R Calf	0,1,1	0,0.6,0.6	
+female_lls_2	Bip01 R Foot	0,1,1	0,0,0	
+female_lls_2	Bip01 L ForeTwist	0,1,1	0,0.6,0.42	
+female_lls_2	Bip01 R ForeTwist	0,1,1	0,0.6,0.42	
+female_lls_2	Bip01 L ForeTwist1	0,1,1	0,0.5,0.5	
+female_lls_2	Bip01 R ForeTwist1	0,1,1	0,0.5,0.5	
+female_lls_2	left_uparm_Bone01	0,1,1	0,0.7,0.7	
+female_lls_2	right_uparm_Bone01	0,1,1	0,0.7,0.7	
+female_lls_2	left_uparm_Bone03	0,1,1		
+female_lls_2	right_uparm_Bone03	0,1,1		
+female_lls_2	Bip01 Spine	0,1,1	0,0.35,0.3	
+female_lls_2	Bip01 Spine1	0,1,1		
+female_lls_2	Bip01 Spine2	1,0,1	0.1,0,0.35	
+female_lls_2	Bip01 Neck	1,1,1	0,0,0	
+female_lls_2	Bip01 L Clavicle	1,0,0		
+female_lls_2	Bip01 L UpperArm	1,1,1	0,0,0	
+female_lls_2	Bip01 R Clavicle	1,0,0		
+female_lls_2	Bip01 R UpperArm	1,1,1	0,0,0	
+female_lls_2	Bip01 Pelvis	0,0,1	0,0.15,0.5	
+female_lls_2	Bip01 Spine3	0,1,1	0,0.36,0.36	
+female_lls_2	Bip01 L Thigh	1,1,1	0,0,0	
+female_lls_2	Bip01 R Thigh	1,1,1	0,0,0	
+female_lls_3	Bip01 Head	1,1,1		
+female_lls_4	Bip01 Neck	1,0,0		
+female_lls_4	Bip01 Head	1,1,1	0,0,0	
+female_lls_4	Bip01 L Clavicle	1,1,1	0,0,0	
+female_lls_4	Bip01 R Clavicle	1,1,1	0,0,0	
+female_lls_5	Bip01 Neck	0,1,1		
+female_lls_5	Bip01 Head	1,1,1	0,0,0	
+female_lls_5	Bip01 L Clavicle	1,1,1	0,0,0	
+female_lls_5	Bip01 R Clavicle	1,1,1	0,0,0	
+female_lls_6	Bip01 L Clavicle	0,0,1		
+female_lls_6	Bip01 R Clavicle	0,0,1		
+female_lls_6	Bip01 L UpperArm	1,1,1	0,0,0	
+female_lls_6	Bip01 R UpperArm	1,1,1	0,0,0	
+female_lls_7	Bip01 L Clavicle	1,0,0		
+female_lls_7	Bip01 L UpperArm	1,0,0	0,0,0	
+female_lls_7	Bip01 R Clavicle	1,0,0		
+female_lls_7	Bip01 R UpperArm	1,0,0	0,0,0	
+female_lls_8	Bip01 Spine2	1,0,1	0.2,0,0.7	
+female_lls_8	Bip01 Neck	1,1,1	0,0,0	
+female_lls_8	Bip01 L Clavicle	1,0,0	0.8,0,0	
+female_lls_8	Bip01 L UpperArm	1,1,1	0,0,0	
+female_lls_8	Bip01 R Clavicle	1,0,0	0.8,0,0	
+female_lls_8	Bip01 R UpperArm	1,1,1	0,0,0	
+female_lls_9	Bip01 Spine	1,0,0	0.44,0,0	
+female_lls_9	Bip01 Spine1	1,0,0		
+female_lls_9	Bip01 Spine2	1,1,1	0,0,0	
+female_lls_9	Bip01 Spine3	1,1,1	0,0,0	
+female_lls_10	Bip01 Spine	0,1,1	0,0.7,0.6	
+female_lls_10	Bip01 Spine1	0,1,1		
+female_lls_10	Bip01 Spine2	1,1,1	0,0,0	
+female_lls_11	Bip01 Pelvis	0,0,1	0,0.5,1	
+female_lls_11	Bip01 Spine3	0,1,1	0,0.9,0.72	
+female_lls_11	Bip01 L Thigh	1,1,1	0,0,0	
+female_lls_11	Bip01 R Thigh	1,1,1	0,0,0	
+female_lls_11	Bip01 Spine1	1,1,1	0,0,0	
+female_lls_12	Bip01 L UpperArm	1,0,0		
+female_lls_12	Bip01 R UpperArm	1,0,0		
+female_lls_12	Bip01 L Hand	1,1,1	0,0,0	
+female_lls_12	Bip01 R Hand	1,1,1	0,0,0	
+female_lls_13	left_uparm_Bone01	0,1,1	0,0.7,0.7	
+female_lls_13	right_uparm_Bone01	0,1,1	0,0.7,0.7	
+female_lls_13	left_uparm_Bone03	0,1,1		
+female_lls_13	right_uparm_Bone03	0,1,1		
+female_lls_14	Bip01 L ForeTwist	0,1,1	0,0.7,0	
+female_lls_14	Bip01 R ForeTwist	0,1,1	0,0.7,0	
+female_lls_14	Bip01 L ForeTwist1	0,1,1	0,1,1	
+female_lls_14	Bip01 R ForeTwist1	0,1,1	0,1,1	
+female_lls_15	Bip01 L Hand	1,1,1		
+female_lls_15	Bip01 R Hand	1,1,1		
+female_lls_16	Bip01 L Finger0	1,0,0		
+female_lls_16	Bip01 R Finger0	1,0,0		
+female_lls_16	Bip01 L Finger1	1,0,0		
+female_lls_16	Bip01 R Finger1	1,0,0		
+female_lls_16	Bip01 L Finger2	1,0,0		
+female_lls_16	Bip01 R Finger2	1,0,0		
+female_lls_16	Bip01 L Finger3	1,0,0		
+female_lls_16	Bip01 R Finger3	1,0,0		
+female_lls_16	Bip01 L Finger4	1,0,0		
+female_lls_16	Bip01 R Finger4	1,0,0		
+female_lls_17	Bip01 L Thigh	1,0,0		
+female_lls_17	Bip01 L Calf	1,0,0	0,0,0	
+female_lls_17	Bip01 R Thigh	1,0,0		
+female_lls_17	Bip01 R Calf	1,0,0	0,0,0	
+female_lls_17	Bone01	1,0,0	0.38,0,0	
+female_lls_17	Bone13	1,0,0	0.38,0,0	
+female_lls_17	Bone19	1,0,0	0.38,0,0	
+female_lls_17	Bone25	1,0,0	0.38,0,0	
+female_lls_17	Bone31	1,0,0	0.38,0,0	
+female_lls_17	Bone37	1,0,0	0.38,0,0	
+female_lls_17	Bone43	1,0,0	0.38,0,0	
+female_lls_17	Bone49	1,0,0	0.38,0,0	
+female_lls_18	Bip01 L Thigh	0,1,1		
+female_lls_18	Bip01 L Calf	0,1,1	0,0,0	
+female_lls_18	Bip01 R Thigh	0,1,1		
+female_lls_18	Bip01 R Calf	0,1,1	0,0,0	
+female_lls_19	Bip01 L Calf	1,0,0		
+female_lls_19	Bip01 L Foot	1,0,0	0,0,0	
+female_lls_19	Bip01 R Calf	1,0,0		
+female_lls_19	Bip01 R Foot	1,0,0	0,0,0	
+female_lls_19	Bone01	1,0,0	0.38,0,0	
+female_lls_19	Bone13	1,0,0	0.38,0,0	
+female_lls_19	Bone19	1,0,0	0.38,0,0	
+female_lls_19	Bone25	1,0,0	0.38,0,0	
+female_lls_19	Bone31	1,0,0	0.38,0,0	
+female_lls_19	Bone37	1,0,0	0.38,0,0	
+female_lls_19	Bone43	1,0,0	0.38,0,0	
+female_lls_19	Bone49	1,0,0	0.38,0,0	
+female_lls_20	Bip01 L Calf	0,1,1		
+female_lls_20	Bip01 L Foot	0,1,1	0,0,0	
+female_lls_20	Bip01 R Calf	0,1,1		
+female_lls_20	Bip01 R Foot	0,1,1	0,0,0	
+female_lls_21	Bip01 L Foot	1,1,1		
+female_lls_21	Bip01 R Foot	1,1,1		
+female_lls_22	Bip01 L Toe0	1,0,0		1
+female_lls_22	Bip01 R Toe0	1,0,0		1
+luoli_1	Bip01 Neck	1,1,1	0,0,0	
+luoli_1	Bip01 Spine	1,0,0	0.5,0,0	
+luoli_1	Bip01 L UpperArm	1,0,0		
+luoli_1	Bip01 R UpperArm	1,0,0		
+luoli_1	Bip01 L Hand	1,1,1	0,0,0	
+luoli_1	Bip01 R Hand	1,1,1	0,0,0	
+luoli_1	Bip01 L Thigh	1,0,0		
+luoli_1	Bip01 R Thigh	1,0,0		
+luoli_1	Bip01 L Foot	1,1,1	0,0,0	
+luoli_1	Bip01 R Foot	1,1,1	0,0,0	
+luoli_1	bone02	1,0,0	0.23,0,0	
+luoli_1	bone03	1,0,0	0.23,0,0	
+luoli_1	bone04	1,0,0	0.23,0,0	
+luoli_1	bone05	1,0,0	0.23,0,0	
+luoli_1	bone06	1,0,0	0.23,0,0	
+luoli_1	bone07	1,0,0	0.23,0,0	
+luoli_1	bone08	1,0,0	0.23,0,0	
+luoli_1	bone09	1,0,0	0.23,0,0	
+luoli_2	Bip01 Neck	1,1,1	0,0,0	
+luoli_2	left_uparm_Bone01	0,1,1	0,0.8,1	
+luoli_2	left_uparm_Bone03	0,1,1	0,0.8,1	
+luoli_2	right_uparm_Bone01	0,1,1	0,0.8,1	
+luoli_2	right_uparm_Bone03	0,1,1	0,0.8,1	
+luoli_2	Bip01 L ForeTwist	0,1,1	0,1,0.9	
+luoli_2	Bip01 R ForeTwist	0,1,1	0,1,0.9	
+luoli_2	Bip01 L Hand	1,1,1	0,0,0	
+luoli_2	Bip01 R Hand	1,1,1	0,0,0	
+luoli_2	Bip01 Pelvis	0,0,1	0,0,0.5	
+luoli_2	Bip01 Spine1	0,0,1	0,0,0.7	
+luoli_2	Bip01 Spine2	0,0,1	0,0,1	
+luoli_2	Bip01 Spine3	0,0,1	0,0,0.4	
+luoli_2	Bip01 L Thigh	0,1,1		
+luoli_2	Bip01 L Calf	1,1,1	0,0,0	
+luoli_2	Bip01 R Thigh	0,1,1		
+luoli_2	Bip01 R Calf	1,1,1	0,0,0	
+luoli_3	Bip01 Head	1,1,1		
+luoli_4	Bip01 Neck	1,0,0		
+luoli_4	Bip01 Head	1,1,1	0,0,0	
+luoli_4	Bip01 L Clavicle	1,1,1	0,0,0.5	
+luoli_4	Bip01 R Clavicle	1,1,1	0,0,0.5	
+luoli_4	Bip01 L UpperArm	1,1,1	0,0,0	
+luoli_4	Bip01 R UpperArm	1,1,1	0,0,0	
+luoli_5	Bip01 Neck	0,1,1		
+luoli_5	Bip01 Head	1,1,1	0,0,0	
+luoli_5	Bip01 L Clavicle	1,1,1	-0.4,0,-0.5	
+luoli_5	Bip01 R Clavicle	1,1,1	-0.4,0,-0.5	
+luoli_5	Bip01 L UpperArm	1,1,1	0,0,0	
+luoli_5	Bip01 R UpperArm	1,1,1	0,0,0	
+luoli_6	Bip01 L Clavicle	0,0,1		
+luoli_6	Bip01 R Clavicle	0,0,1		
+luoli_6	Bip01 L UpperArm	1,1,1	0,0,0	
+luoli_6	Bip01 R UpperArm	1,1,1	0,0,0	
+luoli_7	Bip01 L Clavicle	1,0,0		
+luoli_7	Bip01 L UpperArm	1,0,0	0,0,0	
+luoli_7	Bip01 R Clavicle	1,0,0		
+luoli_7	Bip01 R UpperArm	1,0,0	0,0,0	
+luoli_8	Bip01 Neck	1,1,1	0,0,0	
+luoli_8	Bip01 Spine3	1,1,1	1,0.2,1	
+luoli_8	Bip01 L Clavicle	1,0,0	0.8,0,0	
+luoli_8	Bip01 L UpperArm	1,1,1	0,0,0	
+luoli_8	Bip01 R Clavicle	1,0,0	0.8,0,0	
+luoli_8	Bip01 R UpperArm	1,1,1	0,0,0	
+luoli_9	Bip01 Spine	1,0,0	0.5,0,0	
+luoli_9	Bip01 Pelvis	1,0,0	0.5,0,0	
+luoli_9	Bip01 Spine1	1,0,0		
+luoli_9	Bip01 Spine2	1,0,0	0.8,0,0	
+luoli_9	Bip01 Spine3	1,1,1	0,0,0	
+luoli_9	Bip01 L Thigh	1,1,1	0,0,0	
+luoli_9	Bip01 R Thigh	1,1,1	0,0,0	
+luoli_9	bone02	1,1,1	0,0,0	
+luoli_9	bone03	1,1,1	0,0,0	
+luoli_9	bone04	1,1,1	0,0,0	
+luoli_9	bone05	1,1,1	0,0,0	
+luoli_9	bone06	1,1,1	0,0,0	
+luoli_9	bone07	1,1,1	0,0,0	
+luoli_9	bone08	1,1,1	0,0,0	
+luoli_9	bone09	1,1,1	0,0,0	
+luoli_9	bone160	1,1,1	0,0,0	
+luoli_10	Bip01 Pelvis	0,1,1	0,0,0	
+luoli_10	Bip01 Spine1	0,1,1	0,0.1,0.7	
+luoli_10	Bip01 Spine2	0,1,1	0,0.1,1	
+luoli_10	Bip01 Spine3	1,1,1	0,0,0	
+luoli_11	Bip01 Pelvis	0,0,1	0,1,0.5	
+luoli_11	Bip01 Spine	0,1,1		
+luoli_11	Bip01 L Thigh	1,1,1	0,0,0	
+luoli_11	Bip01 R Thigh	1,1,1	0,0,0	
+luoli_11	Bip01 Spine1	1,1,1	0,0,0	
+luoli_12	Bip01 L UpperArm	1,0,0		
+luoli_12	Bip01 R UpperArm	1,0,0		
+luoli_12	Bip01 L Hand	1,1,1	0,0,0	
+luoli_12	Bip01 R Hand	1,1,1	0,0,0	
+luoli_13	left_uparm_Bone01	0,1,1	0,0.8,1	
+luoli_13	left_uparm_Bone03	0,1,1	0,0.8,1	
+luoli_13	right_uparm_Bone01	0,1,1	0,0.8,1	
+luoli_13	right_uparm_Bone03	0,1,1	0,0.8,1	
+luoli_14	Bip01 L ForeTwist	0,1,1	0,1,0.9	
+luoli_14	Bip01 R ForeTwist	0,1,1	0,1,0.9	
+luoli_15	Bip01 L Hand	1,1,1		
+luoli_15	Bip01 R Hand	1,1,1		
+luoli_16	Bip01 L Finger0	1,0,0	0.6,0,0	
+luoli_16	Bip01 R Finger0	1,0,0	0.6,0,0	
+luoli_16	Bip01 L Finger1	1,0,0		
+luoli_16	Bip01 R Finger1	1,0,0		
+luoli_16	Bip01 L Finger2	1,0,0		
+luoli_16	Bip01 R Finger2	1,0,0		
+luoli_16	Bip01 L Finger3	1,0,0		
+luoli_16	Bip01 R Finger3	1,0,0		
+luoli_16	Bip01 L Finger4	1,0,0		
+luoli_16	Bip01 R Finger4	1,0,0		
+luoli_17	Bip01 L Thigh	1,0,0		
+luoli_17	Bip01 LCalfTwist	1,0,0	0,0,0	
+luoli_17	Bip01 L Calf	1,0,0	0,0,0	
+luoli_17	Bip01 LCalfTwist1	1,0,0	0,0,0	
+luoli_17	Bip01 R Thigh	1,0,0		
+luoli_17	Bip01 RCalfTwist	1,0,0	0,0,0	
+luoli_17	Bip01 R Calf	1,0,0	0,0,0	
+luoli_17	Bip01 RCalfTwist1	1,0,0	0,0,0	
+luoli_18	Bip01 L Thigh	0,1,1		
+luoli_18	Bip01 LCalfTwist	0,1,1	0,0,0	
+luoli_18	Bip01 L Calf	0,1,1	0,0,0	
+luoli_18	Bip01 R Thigh	0,1,1		
+luoli_18	Bip01 RCalfTwist	0,1,1	0,0,0	
+luoli_18	Bip01 R Calf	0,1,1	0,0,0	
+luoli_19	Bip01 L Calf	1,0,0		
+luoli_19	Bip01 LCalfTwist	1,0,0		
+luoli_19	Bip01 L Foot	1,0,0	0,0,0	
+luoli_19	Bip01 R Calf	1,0,0		
+luoli_19	Bip01 RCalfTwist	1,0,0		
+luoli_19	Bip01 R Foot	0,1,1	0,0,0	
+luoli_20	Bip01 LCalfTwist	0,1,1		
+luoli_20	Bip01 L Calf	0,1,1		
+luoli_20	Bip01 L Foot	0,1,1	0,0,0	
+luoli_20	Bip01 RCalfTwist	0,1,1		
+luoli_20	Bip01 R Calf	0,1,1		
+luoli_20	Bip01 R Foot	0,0,0	0,0,0	
+luoli_21	Bip01 L Foot	1,1,1		
+luoli_21	Bip01 R Foot	1,1,1		
+luoli_22	Bip01 L Toe0	1,0,0		1
+luoli_22	Bip01 R Toe0	1,0,0		1
+luoli_23	bone160	1,0,0		
+luoli_24	bone160	0,1,1		
+luoli_25	bone145	1,1,1		
+luoli_25	bone149	1,1,1		
+luoli_26	bone145	1,0,0		
+luoli_26	bone149	1,0,0		
+luoli_27	bone02	1,0,0		
+luoli_27	bone03	1,0,0		
+luoli_27	bone04	1,0,0		
+luoli_27	bone05	1,0,0		
+luoli_27	bone06	1,0,0		
+luoli_27	bone07	1,0,0		
+luoli_27	bone08	1,0,0		
+luoli_27	bone09	1,0,0		
+luoli_101	Bip01 Neck	1,1,1	0,0,0	
+luoli_101	Bip01 Spine	1,0,0	0.5,0,0	
+luoli_101	Bip01 L UpperArm	1,0,0		
+luoli_101	Bip01 R UpperArm	1,0,0		
+luoli_101	Bip01 L Hand	1,1,1	0,0,0	
+luoli_101	Bip01 R Hand	1,1,1	0,0,0	
+luoli_101	Bip01 L Thigh	1,0,0		
+luoli_101	Bip01 R Thigh	1,0,0		
+luoli_101	Bip01 L Foot	1,1,1	0,0,0	
+luoli_101	Bip01 R Foot	1,1,1	0,0,0	
+luoli_101	bone02	1,0,0	0.23,0,0	
+luoli_101	bone03	1,0,0	0.23,0,0	
+luoli_101	bone04	1,0,0	0.23,0,0	
+luoli_101	bone05	1,0,0	0.23,0,0	
+luoli_101	bone06	1,0,0	0.23,0,0	
+luoli_101	bone07	1,0,0	0.23,0,0	
+luoli_101	bone08	1,0,0	0.23,0,0	
+luoli_101	bone09	1,0,0	0.23,0,0	
+luoli_102	Bip01 Neck	1,1,1	0,0,0	
+luoli_102	left_uparm_Bone01	0,1,1	0,0.8,1	
+luoli_102	left_uparm_Bone03	0,1,1	0,0.8,1	
+luoli_102	right_uparm_Bone01	0,1,1	0,0.8,1	
+luoli_102	right_uparm_Bone03	0,1,1	0,0.8,1	
+luoli_102	Bip01 L ForeTwist	0,1,1	0,1,0.9	
+luoli_102	Bip01 R ForeTwist	0,1,1	0,1,0.9	
+luoli_102	Bip01 L Hand	1,1,1	0,0,0	
+luoli_102	Bip01 R Hand	1,1,1	0,0,0	
+luoli_102	Bip01 Pelvis	0,0,1	0,0,0.5	
+luoli_102	Bip01 Spine1	0,0,1	0,0,0.7	
+luoli_102	Bip01 Spine2	0,0,1	0,0,1	
+luoli_102	Bip01 Spine3	0,0,1	0,0,0.4	
+luoli_102	Bip01 L Thigh	0,1,1		
+luoli_102	Bip01 L Calf	1,1,1	0,0,0	
+luoli_102	Bip01 R Thigh	0,1,1		
+luoli_102	Bip01 R Calf	1,1,1	0,0,0	
+luoli_103	Bip01 Head	1,1,1		
+luoli_104	Bip01 Neck	1,0,0		
+luoli_104	Bip01 Head	1,1,1	0,0,0	
+luoli_104	Bip01 L Clavicle	1,1,1	0,0,0.5	
+luoli_104	Bip01 R Clavicle	1,1,1	0,0,0.5	
+luoli_104	Bip01 L UpperArm	1,1,1	0,0,0	
+luoli_104	Bip01 R UpperArm	1,1,1	0,0,0	
+luoli_105	Bip01 Neck	0,1,1		
+luoli_105	Bip01 Head	1,1,1	0,0,0	
+luoli_105	Bip01 L Clavicle	1,1,1	-0.4,0,-0.5	
+luoli_105	Bip01 R Clavicle	1,1,1	-0.4,0,-0.5	
+luoli_105	Bip01 L UpperArm	1,1,1	0,0,0	
+luoli_105	Bip01 R UpperArm	1,1,1	0,0,0	
+luoli_106	Bip01 L Clavicle	0,0,1		
+luoli_106	Bip01 R Clavicle	0,0,1		
+luoli_106	Bip01 L UpperArm	1,1,1	0,0,0	
+luoli_106	Bip01 R UpperArm	1,1,1	0,0,0	
+luoli_107	Bip01 L Clavicle	1,0,0		
+luoli_107	Bip01 L UpperArm	1,0,0	0,0,0	
+luoli_107	Bip01 R Clavicle	1,0,0		
+luoli_107	Bip01 R UpperArm	1,0,0	0,0,0	
+luoli_108	Bip01 Neck	1,1,1	0,0,0	
+luoli_108	Bip01 Spine3	1,1,1	1,0.2,1	
+luoli_108	Bip01 L Clavicle	1,0,0	0.8,0,0	
+luoli_108	Bip01 L UpperArm	1,1,1	0,0,0	
+luoli_108	Bip01 R Clavicle	1,0,0	0.8,0,0	
+luoli_108	Bip01 R UpperArm	1,1,1	0,0,0	
+luoli_109	Bip01 Spine	1,0,0	0.5,0,0	
+luoli_109	Bip01 Pelvis	1,0,0	0.5,0,0	
+luoli_109	Bip01 Spine1	1,0,0		
+luoli_109	Bip01 Spine2	1,0,0	0.8,0,0	
+luoli_109	Bip01 Spine3	1,1,1	0,0,0	
+luoli_109	Bip01 L Thigh	1,1,1	0,0,0	
+luoli_109	Bip01 R Thigh	1,1,1	0,0,0	
+luoli_109	bone02	1,1,1	0,0,0	
+luoli_109	bone03	1,1,1	0,0,0	
+luoli_109	bone04	1,1,1	0,0,0	
+luoli_109	bone05	1,1,1	0,0,0	
+luoli_109	bone06	1,1,1	0,0,0	
+luoli_109	bone07	1,1,1	0,0,0	
+luoli_109	bone08	1,1,1	0,0,0	
+luoli_109	bone09	1,1,1	0,0,0	
+luoli_109	bone160	1,1,1	0,0,0	
+luoli_110	Bip01 Pelvis	0,1,1	0,0,0	
+luoli_110	Bip01 Spine1	0,1,1	0,0.1,0.7	
+luoli_110	Bip01 Spine2	0,1,1	0,0.1,1	
+luoli_110	Bip01 Spine3	1,1,1	0,0,0	
+luoli_111	Bip01 Pelvis	0,0,1	0,1,0.5	
+luoli_111	Bip01 Spine	0,1,1		
+luoli_111	Bip01 L Thigh	1,1,1	0,0,0	
+luoli_111	Bip01 R Thigh	1,1,1	0,0,0	
+luoli_111	Bip01 Spine1	1,1,1	0,0,0	
+luoli_111	bone160	0,0,0	0,0,0	
+luoli_112	Bip01 L UpperArm	1,0,0		
+luoli_112	Bip01 R UpperArm	1,0,0		
+luoli_112	Bip01 L Hand	1,1,1	0,0,0	
+luoli_112	Bip01 R Hand	1,1,1	0,0,0	
+luoli_113	left_uparm_Bone01	0,1,1	0,0.8,1	
+luoli_113	left_uparm_Bone03	0,1,1	0,0.8,1	
+luoli_113	right_uparm_Bone01	0,1,1	0,0.8,1	
+luoli_113	right_uparm_Bone03	0,1,1	0,0.8,1	
+luoli_114	Bip01 L ForeTwist	0,1,1	0,1,0.9	
+luoli_114	Bip01 R ForeTwist	0,1,1	0,1,0.9	
+luoli_115	Bip01 L Hand	1,1,1		
+luoli_115	Bip01 R Hand	1,1,1		
+luoli_116	Bip01 L Finger0	1,0,0	0.6,0,0	
+luoli_116	Bip01 R Finger0	1,0,0	0.6,0,0	
+luoli_116	Bip01 L Finger1	1,0,0		
+luoli_116	Bip01 R Finger1	1,0,0		
+luoli_116	Bip01 L Finger2	1,0,0		
+luoli_116	Bip01 R Finger2	1,0,0		
+luoli_116	Bip01 L Finger3	1,0,0		
+luoli_116	Bip01 R Finger3	1,0,0		
+luoli_116	Bip01 L Finger4	1,0,0		
+luoli_116	Bip01 R Finger4	1,0,0		
+luoli_117	Bip01 L Thigh	1,0,0		
+luoli_117	Bip01 LCalfTwist	1,0,0	0,0,0	
+luoli_117	Bip01 L Calf	1,0,0	0,0,0	
+luoli_117	Bip01 LCalfTwist1	1,0,0	0,0,0	
+luoli_117	Bip01 R Thigh	1,0,0		
+luoli_117	Bip01 RCalfTwist	1,0,0	0,0,0	
+luoli_117	Bip01 R Calf	1,0,0	0,0,0	
+luoli_117	Bip01 RCalfTwist1	1,0,0	0,0,0	
+luoli_117	bone02	1,0,0	0.38,0,0	
+luoli_117	bone03	1,0,0	0.38,0,0	
+luoli_117	bone04	1,0,0	0.38,0,0	
+luoli_117	bone05	1,0,0	0.38,0,0	
+luoli_117	bone06	1,0,0	0.38,0,0	
+luoli_117	bone07	1,0,0	0.38,0,0	
+luoli_117	bone08	1,0,0	0.38,0,0	
+luoli_117	bone09	1,0,0	0.38,0,0	
+luoli_118	Bip01 L Thigh	0,1,1		
+luoli_118	Bip01 LCalfTwist	0,1,1	0,0,0	
+luoli_118	Bip01 L Calf	0,1,1	0,0,0	
+luoli_118	Bip01 R Thigh	0,1,1		
+luoli_118	Bip01 RCalfTwist	0,1,1	0,0,0	
+luoli_118	Bip01 R Calf	0,1,1	0,0,0	
+luoli_119	Bip01 L Calf	1,0,0		
+luoli_119	Bip01 LCalfTwist	1,0,0		
+luoli_119	Bip01 L Foot	1,0,0	0,0,0	
+luoli_119	Bip01 R Calf	1,0,0		
+luoli_119	Bip01 RCalfTwist	1,0,0		
+luoli_119	Bip01 R Foot	0,1,1	0,0,0	
+luoli_119	bone02	1,0,0	0.38,0,0	
+luoli_119	bone03	1,0,0	0.38,0,0	
+luoli_119	bone04	1,0,0	0.38,0,0	
+luoli_119	bone05	1,0,0	0.38,0,0	
+luoli_119	bone06	1,0,0	0.38,0,0	
+luoli_119	bone07	1,0,0	0.38,0,0	
+luoli_119	bone08	1,0,0	0.38,0,0	
+luoli_119	bone09	1,0,0	0.38,0,0	
+luoli_120	Bip01 LCalfTwist	0,1,1		
+luoli_120	Bip01 L Calf	0,1,1		
+luoli_120	Bip01 L Foot	0,1,1	0,0,0	
+luoli_120	Bip01 RCalfTwist	0,1,1		
+luoli_120	Bip01 R Calf	0,1,1		
+luoli_120	Bip01 R Foot	0,0,0	0,0,0	
+luoli_121	Bip01 L Foot	1,1,1		
+luoli_121	Bip01 R Foot	1,1,1		
+luoli_122	Bip01 L Toe0	1,0,0		1
+luoli_122	Bip01 R Toe0	1,0,0		1
+luoli_123	bone160	1,0,0		
+luoli_124	bone160	0,1,1		
+luoli_125	bone145	1,1,1		
+luoli_125	bone149	1,1,1		
+luoli_126	bone145	1,0,0		
+luoli_126	bone149	1,0,0		
+littlefox_yf_1	Root	1,1,1		
+littlefox_yf_2	Bip01 Head	1,1,1		
+littlefox_yf_3	Bip001 L Clavicle	0,0,0	0,0,0	
+littlefox_yf_3	Bip001 R Clavicle	0,0,0	0,0,0	
+littlefox_yf_3	Bip01 Spine2	0,0,1	0,0,0.5	
+littlefox_yf_3	Bip01 Neck	0,1,1		
+littlefox_yf_3	Bip01 Head	0,0,0	0,0,0	
+littlefox_yf_3	Bone010	1,1,1		
+littlefox_yf_4	Bone020	1,1,1		
+littlefox_yf_4	Bone021	1,1,1		
+littlefox_yf_5	Bone018	1,1,1		
+littlefox_yf_6	Bip001 L UpperArm	0,1,1		
+littlefox_yf_6	Bip001 R UpperArm	0,1,1		
+littlefox_yf_6	Bip001 L Thigh	0,1,1		
+littlefox_yf_6	Bip001 R Thigh	0,1,1		
+littlefox_yf_6	Bip001 L Hand	0,1,1	0,0.6,0.6	
+littlefox_yf_6	Bip001 R Hand	0,1,1	0,0.6,0.6	
+littlefox_yf_6	Bip001 L HorseLink	0,1,1	0,0.6,0.6	
+littlefox_yf_6	Bip001 R HorseLink	0,1,1	0,0.6,0.6	
+ride_deer_1	Bip01 Pelvis	0,1,1	0,0.28,0.92	
+ride_deer_1	Bip01 Spine1	0,1,1	0,0.7,1	
+ride_deer_2	Bip01 L Thigh	0,1,1	0,0.35,1	
+ride_deer_2	Bip01 R Thigh	0,1,1	0,0.35,1	
+ride_deer_3	Bip01 L Clavicle	1,1,1	0.02,1,0.9	
+ride_deer_3	Bip01 R Clavicle	1,1,1	0.02,1,0.9	
+ride_deer_4	Bip01 Head	1,1,1	0.9,1,1	
+ride_deer_5	Bip01 Neck	1,1,1	1.44,0.6,0	
+ride_deer_5	Bip01 L Clavicle	0,0,0	0,0,0	
+ride_deer_5	Bip01 R Clavicle	0,0,0	0,0,0	
+ride_deer_5	Bip01 Head	0,0,0	0,0,0	
+m_580_1	Bip01 Head	1,1,1	1,1,1	
+m_580_1	Bip01 Neck	0,0,0	0,0,0	
+m_580_2	Bip01 L Thigh	1,0,0	1,0,0	
+m_580_2	Bip01 R Thigh	1,0,0	1,0,0	
+m_580_2	Bip01 L Calf	1,0,0	1,0,0	
+m_580_2	Bip01 R Calf	1,0,0	1,0,0	
+m_580_2	Bip01 L Foot	0,0,0	0,0,0	1
+m_580_2	Bip01 R Foot	0,0,0	0,0,0	1
+m_580_3	Bip01 L UpperArm	1,1,1	1,0.5,0.5	
+m_580_3	Bip01 R UpperArm	1,1,1	1,0.5,0.5	
+m_580_4	Bone01	1,0,0	1,0,0	
+m_580_4	Bone02	1,0,0	1,0,0	
+mouse_fire_1	Bip01 Head	1,1,1	1,1,1	
+mouse_fire_2	Bip01 L Thigh	1,0,0	1,0,0	
+mouse_fire_2	Bip01 R Thigh	1,0,0	1,0,0	
+mouse_fire_2	Bip01 L HorseLink	1,0,0	1,0,0	
+mouse_fire_2	Bip01 R HorseLink	1,0,0	1,0,0	
+mouse_fire_2	Bip01 L Foot	0,0,0	0,0,0	
+mouse_fire_2	Bip01 R Foot	0,0,0	0,0,0	
+mouse_fire_2	Bip01 L Toe0	0,0,0	0,0,0	1
+mouse_fire_2	Bip01 R Toe0	0,0,0	0,0,0	1
+mouse_fire_3	Bip01 L Hand	0,0,0	0,0,0	
+mouse_fire_3	Bip01 R Hand	0,0,0	0,0,0	
+mouse_fire_3	Bip01 L Forearm	1,0,0	1,0,0	
+mouse_fire_3	Bip01 R Forearm	1,0,0	1,0,0	
+mouse_fire_4	Bone002	1,1,1	1,1,1	
+mouse_fire_4	Bone003	1,1,1	1,0.8,0.8	
+mouse_fire_4	Bone004	1,1,1	1,0.7,0.7	
+mouse_fire_4	Bone005	1,1,1	1,0.6,0.6	
+mouse_fire_4	Bone006	1,1,1	1,0.4,0.4	
+mouse_fire_4	Bone007	1,1,1	1,0.4,0.4	
+mouse_fire_5	Bone009	1,1,1	1,0.5,1	
+mouse_fire_5	Bone014	1,1,1	1,0.5,1	
+mouse_fire_6	Bone025	1,1,1	1,1,1	
+mouse_fire_7	Bip01 Head	1,0,0	1,0,0	
+mouse_fire_7	Bone009	0,0,0	0,0,0	
+mouse_fire_7	Bone014	0,0,0	0,0,0	
+butterfly_1	Bone009	1,1,1	1,1,1	
+butterfly_2	Bone026	1,1,1	1,1,1	
+butterfly_2	Bone0266	1,1,1	1,1,1	
+butterfly_3	Bone033	1,1,1	1,1,1	
+butterfly_3	Bone0333	1,1,1	1,1,1	
+butterfly_3	Bone035	1,1,1	1,1,1	
+butterfly_3	Bone0355	1,1,1	1,1,1	
+butterfly_4	Bone005	1,1,1	1,1,1	
+butterfly_5	Bone011	1,1,1	1,1,1	
+butterfly_5	Bone0111	1,1,1	1,1,1	
+butterfly_5	Bone016	1,1,1	1,1,1	
+butterfly_5	Bone0166	1,1,1	1,1,1	
+butterfly_5	Bone021	1,1,1	1,1,1	
+butterfly_5	Bone0211	1,1,1	1,1,1	
+butterfly_6	Bip01	1,1,1	1,1,1	
+butterfly_6	Bone009	0,0,0	0,0,0	
+butterfly_6	Bone033	0,0,0	0,0,0	
+butterfly_6	Bone0333	0,0,0	0,0,0	
+butterfly_6	Bone035	0,0,0	0,0,0	
+butterfly_6	Bone0355	0,0,0	0,0,0	
+butterfly_6	Bone005	0,0,0	0,0,0	
+b005_ysmer_1	Bip01 Pelvis	0,0,1	1,1,1	
+b005_ysmer_1	Bip01 Head	0,0,0	0,0,0	
+b005_ysmer_2	Bip01 Spine1	1,1,1	0,1,1	
+b005_ysmer_2	Bip01 Head	0,0,0	0,0,0	
+b005_ysmer_3	Bip01 Spine2	1,1,1	0,1,1	
+b005_ysmer_3	Bip01 Head	0,0,0	0,0,0	
+b005_ysmer_4	Bip01 Spine3	1,1,1	0,1,0	
+b005_ysmer_4	Bip01 Head	0,0,0	0,0,0	
+b005_ysmer_5	Bip01 Head	1,1,1	1,1,1	
+weasel_1	Bip01 Spine	0,1,1	0,1,1	
+weasel_1	Bip01 Spine1	0,1,1	0,0.5,0.5	
+weasel_1	Bip01 Spine2	0,0,0	0,0,0	
+weasel_1	Bip01 L Thigh	0,0,0	0,0,0	
+weasel_1	Bip01 R Thigh	0,0,0	0,0,0	
+weasel_2	Bip01 L Thigh	0,1,1	0,1,1	
+weasel_2	Bip01 R Thigh	0,1,1	0,1,1	
+weasel_2	Bip01 L Calf	0,0,1	0,0,0.8	
+weasel_2	Bip01 R Calf	0,0,1	0,0,0.8	
+weasel_2	Bip01 L Foot	0,0,0	0,0,0	
+weasel_2	Bip01 R Foot	0,0,0	0,0,0	
+weasel_3	Bip01 L UpperArm	0,1,1	0,1,1	
+weasel_3	Bip01 R UpperArm	0,1,1	0,1,1	
+weasel_3	Bip01 L Hand	0,0,0	0,0,0	
+weasel_3	Bip01 R Hand	0,0,0	0,0,0	
+pet_marmota_1	Bone003	1,1,1	1,1,1	
+pet_marmota_2	Bip001 Head	1,1,1	1,1,1	
+pet_marmota_3	Bip001 Head	0,0,0	0,0,0	
+pet_marmota_3	Bip001 Neck	0,0,1	0,0,1	
+pet_marmota_3	Bip001 L Clavicle	0,0,0	0,0,0	
+pet_marmota_3	Bip001 R Clavicle	0,0,0	0,0,0	
+pet_marmota_4	Bip001 L Clavicle	0,0,1	0,0,1	
+pet_marmota_4	Bip001 R Clavicle	0,0,1	0,0,1	
+pet_marmota_4	Bip001 L Forearm	0,0,0	0,0,0	
+pet_marmota_4	Bip001 R Forearm	0,0,0	0,0,0	
+pet_marmota_5	Bip001 L Clavicle	1,0,0	1,0,0	
+pet_marmota_5	Bip001 R Clavicle	1,0,0	1,0,0	
+pet_marmota_5	Bip001 L Forearm	0,0,0	0,0,0	
+pet_marmota_5	Bip001 R Forearm	0,0,0	0,0,0	
+pet_dragon001_1	Bip001 L Thigh	0,1,1	0,1,1	
+pet_dragon001_1	Bip001 R Thigh	0,1,1	0,1,1	
+pet_dragon001_2	Bip001 Head	0,0,0	0,0,0	
+pet_dragon001_2	Bip001 Neck	1,0,0	1,0,0	
+pet_dragon001_2	Bip001 L Clavicle	0,0,0	0,0,0	
+pet_dragon001_2	Bip001 R Clavicle	0,0,0	0,0,0	
+pet_dragon001_3	Bip001 Head	1,1,1	1,1,1	
+pet_dragon001_4	Bip001 L Clavicle	0,1,1	0,1,1	
+pet_dragon001_4	Bip001 R Clavicle	0,1,1	0,1,1	
+pet_dragon001_5	Bip001 L Forearm	0,1,1	0,1,1	
+pet_dragon001_5	Bip001 R Forearm	0,1,1	0,1,1	
+pet_dragon001_6	Bip001 L Hand	0,1,1	0,1,1	
+pet_dragon001_6	Bip001 R Hand	0,1,1	0,1,1	
+pet_dragon001_7	bone15	1,1,1	1,1,1	
+pet_dragon001_7	bone17	1,1,1	1,1,1	
+pet_dragon001_8	bone14	1,1,1	1,1,1	
+pet_dragon001_9	bone25	1,1,1	1,1,1	
+pet_dragon001_10	bone26	1,1,1	1,1,1	
+pet_dragon001_11	bone01	0,1,1	0,1,1	
+pet_dragon001_11	bone02	0,1,1	0,0.8,0.8	
+pet_dragon001_11	bone03	0,1,1	0,0.6,0.6	
+pet_dragon001_11	bone04	0,1,1	0,0.4,0.4	
+pet_dragon001_11	bone05	0,1,1	0,0.3,0.3	
+pet_dragon001_11	bone06	0,1,1	0,0.2,0.2	
+pet_dragon001_11	bone07	0,1,1	0,0.1,0.1	
+pet_dragon001_11	bone08	0,1,1	0,0.1,0.1	
+pet_dragon001_12	bone21	1,1,1	1,0,-1	
+pet_dragon001_12	bone22	1,1,1	1,0,-1	

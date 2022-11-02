@@ -1,0 +1,12 @@
+﻿ID	lut	desc	icon	gender	isGoods	skeleton_mask
+*		[N]			是否商城独占	骨骼类型( 1男2女4萝莉）
+				2	0	
+1	characters/tattoos/skin/skin_001.dds	颜色1	skin_001			7
+2	characters/tattoos/skin/skin_002.dds	颜色2	skin_002			7
+3	characters/tattoos/skin/skin_003.dds	颜色3	skin_003			7
+4	characters/tattoos/skin/skin_004.dds	颜色4	skin_004			7
+5	characters/tattoos/skin/skin_005.dds	颜色5	skin_005			7
+6	characters/tattoos/skin/skin_006.dds	颜色6	skin_006			7
+7	characters/tattoos/skin/skin_007.dds	颜色7	skin_007			7
+10	characters/tattoos/skin/skin_010.dds	颜色10	skin_010		1	6
+11	characters/tattoos/skin/skin_011.dds	颜色11	skin_011		1	1

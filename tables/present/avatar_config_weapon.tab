@@ -1,0 +1,1908 @@
+﻿ID	model_path	model_texture	local_scale	weapon_type	model_parts	model_priority
+*	模型路径（对应于没有.avatar的）	模型换色（对应于没有.avatar的）	武器自定义缩放(实际缩放将乘上weapon_mount.tab里指定的缩放）	类型（武器填武器类型，怪物填体型）	模型覆盖部分，格式A#B（weapon:1;top:2;head:3;face:4;chest:5;hand:6;foot:7;left_shoulder:8;right_shoulder:9;back:10;left_waist:11;right_waist:12;back_waist:13）	模型优先级(数字越小优先级越高)
+			1			10
+bow_001a_01						
+bow_001c	models/pendant/weapon/bow_001c.model					
+bz300a_000	models/pendant/weapon/bz300a.model	models/pendant/weapon/Textures/bz300a_002d.dds		bz		
+bz300a_000_ds	models/pendant/weapon/bz300a.model	models/pendant/weapon/Textures/bz300a_002d.dds		ds		
+bz301a_001	models/pendant/weapon/bz301a.model		1	bz		
+bz301a_001_ds	models/pendant/weapon/bz301a.model		1	ds		
+bz334a_000	models/pendant/weapon/bz334a.model	models/pendant/weapon/Textures/bz334a_000d.dds		cz		
+cb300a_000	models/pendant/weapon/cb_300a.model			cb		
+cb300a_000_boss			1.2	cb		
+cb300a_000_ghost				cb		
+cb300a_000_sd	models/pendant/weapon/cb300a.model		2	sd		
+cb300a_001				cb		
+cb300a_002				cb		
+cb300a_003				cb		
+cb301a_000	models/pendant/weapon/cb301a.model	models/pendant/weapon/Textures/cb301a_000d.dds		cb		
+cb301a_000_mogu				cb		
+cb302b_000	models/pendant/weapon/cb302b.model			cb		
+cb304a_000	models/pendant/weapon/cb304a.model	models/pendant/weapon/Textures/cb304a_000d.dds		cb		
+cb308a	models/pendant/weapon/cb308a.model			cb		
+cb308a_000	models/pendant/weapon/cb308a.model	models/pendant/weapon/Textures/cb308a_000d.dds		cb		
+cb308a_000_ghost				cb		
+cb308a_000_playfire				cb		
+cb311a_000	models/pendant/weapon/cb_311a.model			cb		
+cb320a_000	models/pendant/weapon/cb320a.model	models/pendant/weapon/Textures/cb320a_000d.dds		cb		
+cb320a_000_ghost				cb		
+cb320a_000_meshoutline				cb		
+cb331a_000	models/pendant/weapon/cb331a.model			cb		
+cb332a_000	models/pendant/weapon/cb332a.model			cb		
+cb333a_000	models/pendant/weapon/cb333a.model			cb		
+cb333a_001				cb		
+cb336a_000	models/pendant/weapon/cb336a.model	models/pendant/weapon/Textures/cb336a_000d.dds		cb		
+cb336a_000_ghost				cb		
+cb336a_001	models/pendant/weapon/cb336a.model	models/pendant/weapon/Textures/cb336a_001d.dds		cb		
+cb336a_002	models/pendant/weapon/cb336a.model	models/pendant/weapon/Textures/cb336a_002d.dds		cb		
+cb336a_003	models/pendant/weapon/cb336a.model	models/pendant/weapon/Textures/cb336a_003d.dds		cb		
+cb336a_000_boss				cb		
+cb336a_001_boss				cb		
+cb336a_002_boss				cb		
+cb336a_003_boss				cb		
+cb337a_000	models/pendant/weapon/cb337a.model	models/pendant/weapon/Textures/cb337a_000d.dds		cb		
+cb339a_000	models/pendant/weapon/cb339a.model	models/pendant/weapon/Textures/cb339a_000d.dds		cb		
+cb339b_000	models/pendant/weapon/cb339b.model	models/pendant/weapon/Textures/cb339b_000d.dds		cb		
+cb339a_000_fz	models/pendant/weapon/cb339a.model	models/pendant/weapon/Textures/cb339a_000d.dds		fz		
+cb339b_000_fz	models/pendant/weapon/cb339b.model	models/pendant/weapon/Textures/cb339b_000d.dds		fz		
+cd000a_000	models/pendant/weapon/cd000a_a.model			ly		
+cd000a_000_1	models/pendant/weapon/cd000a_b.model			ly		
+cd000a_000_2	models/pendant/weapon/cd000a_c.model			ly		
+cd001_a	models/pendant/weapon/cd001_a.model			ly		
+cd001_a_cd01	models/pendant/weapon/cd001_a.model			cd01		
+cd001_b	models/pendant/weapon/cd001_b.model	models/pendant/weapon/Textures/ss009a_002d.dds		ly		
+cd001a_000				ly		
+cd001a_000_1				ly		
+cd001a_000_2				ly		
+cd001a_a	models/pendant/weapon/cd001a_a.model			ly		
+cd001a_b	models/pendant/weapon/cd001a_b.model			ly		
+cd001b_000	models/pendant/weapon/cd001a_a.model			ly		
+cd001b_000_1				ly		
+cd001b_000_2	models/pendant/weapon/cd001a_c.model			ly		
+cd002a_000				ly		
+cd002a_000_1				ly		
+cd002a_000_2				ly		
+cd004a_000				ly		
+cd004a_000_1				ly		
+cd020a_000	models/pendant/weapon/cd020a_a.model			ly		
+cd020a_000_1	models/pendant/weapon/cd020a_b.model			ly		
+cd020a_000_2	models/pendant/weapon/cd020a_c.model			ly		
+cd020a_001	models/pendant/weapon/cd020a_a.model	models/pendant/weapon/Textures/cd020a_a_001d.dds		ly		
+cd020a_001_1	models/pendant/weapon/cd020a_b.model	models/pendant/weapon/Textures/cd020a_b_001d.dds		ly		
+cd020a_001_2	models/pendant/weapon/cd020a_c.model	models/pendant/weapon/Textures/cd020a_c_001d.dds		ly		
+cd020a_002	models/pendant/weapon/cd020a_a.model	models/pendant/weapon/Textures/cd020a_a_002d.dds		ly		
+cd020a_002_1	models/pendant/weapon/cd020a_b.model	models/pendant/weapon/Textures/cd020a_b_002d.dds		ly		
+cd020a_002_2	models/pendant/weapon/cd020a_c.model	models/pendant/weapon/Textures/cd020a_c_002d.dds		ly		
+cd020a_002_cd	models/pendant/weapon/cd020a_a.model	models/pendant/weapon/Textures/cd020a_a_002d.dds		ss		
+cd020a_003	models/pendant/weapon/cd020a_a.model	models/pendant/weapon/Textures/cd020a_a_003d.dds		ly		
+cd020a_003_1	models/pendant/weapon/cd020a_b.model	models/pendant/weapon/Textures/cd020a_b_003d.dds		ly		
+cd020a_003_2	models/pendant/weapon/cd020a_c.model	models/pendant/weapon/Textures/cd020a_c_003d.dds		ly		
+cd303a_000_a	models/pendant/weapon/cd303a.model	models/pendant/weapon/Textures/cd303a_000d.dds		cd		
+cd020a_004_b	models/pendant/weapon/cd020a_b.model	models/pendant/weapon/Textures/cd020a_b_004d.dds		cd		
+cd303a_000_cd01_a	models/pendant/weapon/cd303a.model	models/pendant/weapon/Textures/cd303a_000d.dds		cd01		
+cd020a_004_cd01_b	models/pendant/weapon/cd020a_b.model	models/pendant/weapon/Textures/cd020a_b_004d.dds		cd01		
+cd303a_000_ghost_a				cd		
+cd020a_004_ghost_b				cd		
+cd303a_000_cd01_ghost_a				cd01		
+cd020a_004_cd01_ghost_b				cd01		
+cd021a_000				ly		
+cd021a_000_1				ly		
+cd021a_000_2				ly		
+cd021a_001				ly		
+cd021a_001_1				ly		
+cd021a_001_2				ly		
+cd021a_002				ly		
+cd021a_002_1				ly		
+cd021a_002_2				ly		
+cd021a_003				ly		
+cd021a_003_1				ly		
+cd021a_003_2				ly		
+cd023a_000	models/pendant/weapon/cd023a_a.model			ly		
+cd023a_000_1	models/pendant/weapon/cd023a_b.model			ly		
+cd023a_000_2	models/pendant/weapon/cd023a_c.model			ly		
+cd023a_001	models/pendant/weapon/cd023a_a.model	models/pendant/weapon/Textures/cd023a_a_001d.dds		ly		
+cd023a_001_1	models/pendant/weapon/cd023a_b.model	models/pendant/weapon/Textures/cd023a_b_001d.dds		ly		
+cd023a_001_2	models/pendant/weapon/cd023a_c.model	models/pendant/weapon/Textures/cd023a_c_001d.dds		ly		
+cd023a_002	models/pendant/weapon/cd023a_a.model	models/pendant/weapon/Textures/cd023a_a_002d.dds		ly		
+cd023a_002_1	models/pendant/weapon/cd023a_b.model	models/pendant/weapon/Textures/cd023a_b_002d.dds		ly		
+cd023a_002_2	models/pendant/weapon/cd023a_c.model	models/pendant/weapon/Textures/cd023a_c_002d.dds		ly		
+cd023a_003	models/pendant/weapon/cd023a_a.model	models/pendant/weapon/Textures/cd023a_a_003d.dds		ly		
+cd023a_003_1	models/pendant/weapon/cd023a_b.model	models/pendant/weapon/Textures/cd023a_b_003d.dds		ly		
+cd023a_003_2	models/pendant/weapon/cd023a_c.model	models/pendant/weapon/Textures/cd023a_c_003d.dds		ly		
+cd024a_000	models/pendant/weapon/cd024a_a.model			ly		
+cd024a_000_1	models/pendant/weapon/cd024a_b.model			ly		
+cd024a_000_2	models/pendant/weapon/cd024a_c.model			ly		
+cd024a_001	models/pendant/weapon/cd024a_a.model	models/pendant/weapon/Textures/cd024a_a_001d.dds		ly		
+cd024a_001_1	models/pendant/weapon/cd024a_b.model	models/pendant/weapon/Textures/cd024a_b_001d.dds		ly		
+cd024a_001_2	models/pendant/weapon/cd024a_c.model	models/pendant/weapon/Textures/cd024a_c_001d.dds		ly		
+cd024a_002	models/pendant/weapon/cd024a_a.model	models/pendant/weapon/Textures/cd024a_a_002d.dds		ly		
+cd024a_002_1	models/pendant/weapon/cd024a_b.model	models/pendant/weapon/Textures/cd024a_b_002d.dds		ly		
+cd024a_002_2	models/pendant/weapon/cd024a_c.model	models/pendant/weapon/Textures/cd024a_c_002d.dds		ly		
+cd024a_003	models/pendant/weapon/cd024a_a.model	models/pendant/weapon/Textures/cd024a_a_003d.dds		ly		
+cd024a_003_1	models/pendant/weapon/cd024a_b.model	models/pendant/weapon/Textures/cd024a_b_003d.dds		ly		
+cd024a_003_2	models/pendant/weapon/cd024a_c.model	models/pendant/weapon/Textures/cd024a_c_003d.dds		ly		
+cd025a_000				ly		
+cd025a_000_1				ly		
+cd025a_000_2				ly		
+cd025a_001				ly		
+cd025a_001_1				ly		
+cd025a_001_2				ly		
+cd025a_002				ly		
+cd025a_002_1				ly		
+cd025a_002_2				ly		
+cd025a_003				ly		
+cd025a_003_1				ly		
+cd025a_003_2				ly		
+cd025a_004				ly		
+cd025a_004_1				ly		
+cd025a_004_2				ly		
+cd025a_005				ly		
+cd025a_005_1				ly		
+cd025a_005_2				ly		
+cd030a_000				ly		
+cd030a_000_1				ly		
+cd030a_000_2				ly		
+cd030a_001				ly		
+cd030a_001_1				ly		
+cd030a_001_2				ly		
+cd031a_000				ly		
+cd031a_000_1				ly		
+cd031a_000_2				ly		
+cd032a_000				ly		
+cd032a_000_1				ly		
+cd032a_000_2				ly		
+cd032a_001				ly		
+cd032a_001_1				ly		
+cd032a_001_2				ly		
+cd032a_002				ly		
+cd032a_002_1				ly		
+cd032a_002_2				ly		
+cd032a_003				ly		
+cd032a_003_1				ly		
+cd032a_003_2				ly		
+cd032a_004				ly		
+cd032a_004_1				ly		
+cd032a_004_2				ly		
+cd036a_000				ly		
+cd036a_000_1				ly		
+cd036a_000_2				ly		
+cd036a_001				ly		
+cd036a_001_1				ly		
+cd036a_001_2				ly		
+cd037a_000				ly		
+cd037a_000_1				ly		
+cd037a_000_2				ly		
+cd037a_001				ly		
+cd037a_001_1				ly		
+cd037a_001_2				ly		
+cd037a_002				ly		
+cd037a_002_1				ly		
+cd037a_002_2				ly		
+cd037a_003				ly		
+cd037a_003_1				ly		
+cd037a_003_2				ly		
+cd037a_004				ly		
+cd037a_004_1				ly		
+cd037a_004_2				ly		
+cd037a_005				ly		
+cd037a_005_1				ly		
+cd037a_005_2				ly		
+cd038a_000				ly		
+cd038a_000_1				ly		
+cd038a_000_2				ly		
+cd038a_001				ly		
+cd038a_001_1				ly		
+cd038a_001_2				ly		
+cd038a_002				ly		
+cd038a_002_1				ly		
+cd038a_002_2				ly		
+cd038a_003				ly		
+cd038a_003_1				ly		
+cd038a_003_2				ly		
+cd038a_004				ly		
+cd038a_004_1				ly		
+cd038a_004_2				ly		
+cd038a_005				ly		
+cd038a_005_1				ly		
+cd038a_005_2				ly		
+cd039a_000				ly		
+cd039a_000_1				ly		
+cd039a_000_2				ly		
+cd039a_001				ly		
+cd039a_001_1				ly		
+cd039a_001_2				ly		
+cd039a_002				ly		
+cd039a_002_1				ly		
+cd039a_002_2				ly		
+cd039a_003				ly		
+cd039a_003_1				ly		
+cd039a_003_2				ly		
+cd039a_004				ly		
+cd039a_004_1				ly		
+cd039a_004_2				ly		
+cd039a_005				ly		
+cd039a_005_1				ly		
+cd039a_005_2				ly		
+cd040a_000				ly		
+cd040a_000_1				ly		
+cd040a_000_2				ly		
+cd044a_000				ly		
+cd044a_000_1				ly		
+cd044a_000_2				ly		
+cd048a_000				ly		
+cd048a_000_1				ly		
+cd048a_000_2				ly		
+cd048a_001				ly		
+cd048a_001_1				ly		
+cd048a_001_2				ly		
+cd201a_000	models/pendant/weapon/cd201a_a.model			ly		
+cd201a_000_1	models/pendant/weapon/cd201a_b.model			ly		
+cd201a_000_2	models/pendant/weapon/cd201a_c.model			ly		
+cd201a_a_ghost_cd01				cd01		
+cd202a_000	models/pendant/weapon/cd202a_a.model			ly		
+cd202a_000_1	models/pendant/weapon/cd202a_b.model			ly		
+cd202a_000_2	models/pendant/weapon/cd202a_c.model			ly		
+cd202a_001	models/pendant/weapon/cd202a_a.model	models/pendant/weapon/Textures/cd202a_001d.dds		ly		
+cd202a_001_1	models/pendant/weapon/cd202a_b.model	models/pendant/weapon/Textures/cd202a_001d.dds		ly		
+cd202a_001_2	models/pendant/weapon/cd202a_c.model	models/pendant/weapon/Textures/cd202a_001d.dds		ly		
+cd202a_002	models/pendant/weapon/cd202a_a.model	models/pendant/weapon/Textures/cd202a_002d.dds		ly		
+cd202a_002_1	models/pendant/weapon/cd202a_b.model	models/pendant/weapon/Textures/cd202a_002d.dds		ly		
+cd202a_002_2	models/pendant/weapon/cd202a_c.model	models/pendant/weapon/Textures/cd202a_002d.dds		ly		
+cd202a_003	models/pendant/weapon/cd202a_a.model	models/pendant/weapon/Textures/cd202a_003d.dds		ly		
+cd202a_003_1	models/pendant/weapon/cd202a_b.model	models/pendant/weapon/Textures/cd202a_003d.dds		ly		
+cd202a_003_2	models/pendant/weapon/cd202a_c.model	models/pendant/weapon/Textures/cd202a_003d.dds		ly		
+cd203a_000	models/pendant/weapon/cd203a_a.model			ly		
+cd203a_000_1	models/pendant/weapon/cd203a_b.model			ly		
+cd203a_000_2	models/pendant/weapon/cd203a_c.model			ly		
+cd203a_001	models/pendant/weapon/cd203a_a.model	models/pendant/weapon/Textures/cd203a_001d.dds		ly		
+cd203a_001_1	models/pendant/weapon/cd203a_b.model	models/pendant/weapon/Textures/cd203a_001d.dds		ly		
+cd203a_001_2	models/pendant/weapon/cd203a_c.model	models/pendant/weapon/Textures/cd203a_001d.dds		ly		
+cd203a_002	models/pendant/weapon/cd203a_a.model	models/pendant/weapon/Textures/cd203a_002d.dds		ly		
+cd203a_002_1	models/pendant/weapon/cd203a_b.model	models/pendant/weapon/Textures/cd203a_002d.dds		ly		
+cd203a_002_2	models/pendant/weapon/cd203a_c.model	models/pendant/weapon/Textures/cd203a_002d.dds		ly		
+cd203a_003	models/pendant/weapon/cd203a_a.model	models/pendant/weapon/Textures/cd203a_003d.dds		ly		
+cd203a_003_1	models/pendant/weapon/cd203a_b.model	models/pendant/weapon/Textures/cd203a_003d.dds		ly		
+cd203a_003_2	models/pendant/weapon/cd203a_c.model	models/pendant/weapon/Textures/cd203a_003d.dds		ly		
+cd204a_000	models/pendant/weapon/cd204a_a.model			ly		
+cd204a_000_1	models/pendant/weapon/cd204a_b.model			ly		
+cd204a_000_2	models/pendant/weapon/cd204a_c.model			ly		
+cd204a_001	models/pendant/weapon/cd204a_a.model	models/pendant/weapon/Textures/cd204a_001d.dds		ly		
+cd204a_001_1	models/pendant/weapon/cd204a_b.model	models/pendant/weapon/Textures/cd204a_001d.dds		ly		
+cd204a_001_2	models/pendant/weapon/cd204a_c.model	models/pendant/weapon/Textures/cd204a_001d.dds		ly		
+cd204a_002	models/pendant/weapon/cd204a_a.model	models/pendant/weapon/Textures/cd204a_002d.dds		ly		
+cd204a_002_1	models/pendant/weapon/cd204a_b.model	models/pendant/weapon/Textures/cd204a_002d.dds		ly		
+cd204a_002_2	models/pendant/weapon/cd204a_c.model	models/pendant/weapon/Textures/cd204a_002d.dds		ly		
+cd204a_003	models/pendant/weapon/cd204a_a.model	models/pendant/weapon/Textures/cd204a_003d.dds		ly		
+cd204a_003_1	models/pendant/weapon/cd204a_b.model	models/pendant/weapon/Textures/cd204a_003d.dds		ly		
+cd204a_003_2	models/pendant/weapon/cd204a_c.model	models/pendant/weapon/Textures/cd204a_003d.dds		ly		
+cd205a_000	models/pendant/weapon/cd205a_a.model	models/pendant/weapon/Textures/cd205a_000d.dds		ly		
+cd205a_000_1	models/pendant/weapon/cd205a_b.model	models/pendant/weapon/Textures/cd205a_000d.dds		ly		
+cd205a_000_2	models/pendant/weapon/cd205a_c.model	models/pendant/weapon/Textures/cd205a_000d.dds		ly		
+cd205a_000_a	models/pendant/weapon/cd205a_a.model	models/pendant/weapon/Textures/cd205a_000d.dds		cd		
+cd205a_000_b	models/pendant/weapon/cd205a_b.model	models/pendant/weapon/Textures/cd205a_000d.dds		cd		
+cd205a_000_cd01_a				cd01		
+cd205a_000_cd01_b				cd01		
+cd205a_001_cd01_a				cd01		
+cd206a_000_a	models/pendant/weapon/cd206a_a.model	models/pendant/weapon/Textures/cd206a_000d.dds		cd		
+cd206a_000_b	models/pendant/weapon/cd206a_b.model	models/pendant/weapon/Textures/cd206a_000d.dds		cd		
+cd206a_000_cd01_a				cd01		
+cd206a_000_cd01_b				cd01		
+cd207a_000_a				cd		
+cd207a_000_b	models/pendant/weapon/cd207a_b.model	models/pendant/weapon/Textures/cd207a_000d.dds		cd		
+cd207a_000_cd01_a				cd01		
+cd207a_000_cd01_b				cd01		
+cd213a_000				cd01		
+cd213a_000_a				cd01		
+cd213a_000_b				cd01		
+cd601a_000	models/pendant/weapon/cd601a_a.model			ly		
+cd601a_000_1	models/pendant/weapon/cd601a_b.model			ly		
+cd601a_000_2	models/pendant/weapon/cd601a_c.model			ly		
+cd602a_000	models/pendant/weapon/cd602a_a.model			ly		
+cd602a_000_1	models/pendant/weapon/cd602a_b.model			ly		
+cd602a_000_2	models/pendant/weapon/cd602a_c.model			ly		
+cf301a_000	models/pendant/weapon/cf301a.model	models/pendant/weapon/Textures/cf301a_000d.dds		cf		
+cf301a_000_playfire				cf		
+cf301a_ghost				cf		
+cf302a_000	models/pendant/weapon/cf302a.model			cf		
+cf303a_000	models/pendant/weapon/cf303a.model			cz		
+cf311a_000	models/pendant/weapon/cf311a.model			cf		
+cf326a_000	models/pendant/weapon/cf326a.model	models/pendant/weapon/Textures/cf326a_000d.dds		cf		
+cf327a_000	models/pendant/weapon/cf327a.model	models/pendant/weapon/Textures/cf327a_000d.dds		cf		
+cf328a_000	models/pendant/weapon/cf328a.model	models/pendant/weapon/Textures/cf328a_000d.dds		cf		
+cf329a_000	models/pendant/weapon/cf329a.model	models/pendant/weapon/Textures/cf329a_000d.dds		cf		
+cf329a_000_cf	models/pendant/weapon/cf329a.model	models/pendant/weapon/Textures/cf329a_000d.dds		ss		
+cf332a_000	models/pendant/weapon/cf332a.model			cf		
+cf332a_01_ghost_sd				sd		
+cf332a_aj	models/pendant/weapon/cf332a.model		1.5	cf		
+cf338a_000	models/pendant/weapon/cf338a.model	models/pendant/weapon/Textures/cf338a_000d.dds		cf		
+cf338a_000_fire				cf		
+CG_moshengjian						
+cg303a_000	models/pendant/weapon/cg303a.model			cg		
+cg303a_000_ghost				cg		
+cg305a_000	models/pendant/weapon/cg305a.model	models/pendant/weapon/Textures/cg305a_000d.dds		cg		
+cg306a_000	models/pendant/weapon/cg306a.model			cg		
+cg308a_000	models/pendant/weapon/cg308a.model			cg		
+claymore_001a_01				ss		
+ss202a_000				ss		
+cz300a_000	models/pendant/weapon/cz300a.model	models/pendant/weapon/Textures/cz300a_000d.dds		cz		
+cz301a_000	models/pendant/weapon/cz301a.model	models/pendant/weapon/Textures/cz301a_000d.dds		cz		
+cz301a_000_ghost				cz		
+cz301a_001	models/pendant/weapon/cz301a.model	models/pendant/weapon/Textures/cz301a_001d.dds		cz		
+cz302a_000	models/pendant/weapon/cz302a.model			cz		
+cz334a_000	models/pendant/weapon/cz334a.model	models/pendant/weapon/Textures/cz334a_000d.dds		cz		
+da300a_chicken				dq		
+dq300a_000	models/pendant/weapon/dq300a.model	models/pendant/weapon/Textures/dq300a_000d.dds		dq		
+dq301a_000	models/pendant/weapon/dq301a.model	models/pendant/weapon/Textures/dq301a_000d.dds		dq		
+ds_003a_003_ghost				ds		
+ds_038a	models/pendant/weapon/ds_038a.model	models/pendant/weapon/Textures/ds_038a_000_d.dds		ds		
+ds_039a	models/pendant/weapon/ds_039a.model	models/pendant/weapon/Textures/ds_039a_000_d.dds		ds		
+ds_040a	models/pendant/weapon/ds_040a.model	models/pendant/weapon/Textures/ds_040a_000_d.dds		ds		
+ds_313a	models/pendant/weapon/ds_313a.model			ds		
+ds_334_001				ds		
+ds000a_000	models/pendant/weapon/ds000a.model	models/pendant/weapon/Textures/ds000a_000d.dds		yj		
+ds000a_001	models/pendant/weapon/ds000a.model	models/pendant/weapon/Textures/ds000a_001d.dds		yj		
+ds000a_002	models/pendant/weapon/ds000a.model	models/pendant/weapon/Textures/ds000a_002d.dds		yj		
+ds000a_003	models/pendant/weapon/ds000a.model	models/pendant/weapon/Textures/ds000a_003d.dds		yj		
+ds000a_003_ds	models/pendant/weapon/ds000a.model	models/pendant/weapon/Textures/ds000a_003d.dds		ds		
+ds000a_003d	models/pendant/weapon/ds000a.model	models/pendant/weapon/Textures/ds000a_003d.dds		ds		
+ds001a_000	models/pendant/weapon/ds001a.model	models/pendant/weapon/Textures/ds001a_000d.dds		yj		
+ds001a_001	models/pendant/weapon/ds001a.model	models/pendant/weapon/Textures/ds001a_001d.dds		yj		
+ds001a_002	models/pendant/weapon/ds001a.model	models/pendant/weapon/Textures/ds001a_002d.dds		yj		
+ds001a_003	models/pendant/weapon/ds001a.model	models/pendant/weapon/Textures/ds001a_003d.dds		yj		
+ds001a_004	models/pendant/weapon/ds001a.model	models/pendant/weapon/Textures/ds001a_004d.dds		yj		
+ds002a_000	models/pendant/weapon/ds002a.model	models/pendant/weapon/Textures/ds002a_000d.dds		yj		
+ds002a_001	models/pendant/weapon/ds002a.model	models/pendant/weapon/Textures/ds002a_001d.dds		yj		
+ds002a_002	models/pendant/weapon/ds002a.model	models/pendant/weapon/Textures/ds002a_002d.dds		yj		
+ds002a_002_ds	models/pendant/weapon/ds002a.model	models/pendant/weapon/Textures/ds002a_002d.dds		ds		
+ds002a_003	models/pendant/weapon/ds002a.model	models/pendant/weapon/Textures/ds002a_003d.dds		yj		
+ds002a_004	models/pendant/weapon/ds002a.model	models/pendant/weapon/Textures/ds002a_004d.dds		yj		
+ds003a_000	models/pendant/weapon/ds003a.model	models/pendant/weapon/Textures/ds003a_000d.dds		yj		
+ds003a_001	models/pendant/weapon/ds003a.model	models/pendant/weapon/Textures/ds003a_001d.dds		yj		
+ds003a_001_ds	models/pendant/weapon/ds003a.model	models/pendant/weapon/Textures/ds003a_001d.dds		ds		
+ds003a_002	models/pendant/weapon/ds003a.model	models/pendant/weapon/Textures/ds003a_002d.dds		yj		
+ds003a_003	models/pendant/weapon/ds003a.model	models/pendant/weapon/Textures/ds003a_003d.dds		yj		
+ds003a_004	models/pendant/weapon/ds003a.model	models/pendant/weapon/Textures/ds003a_004d.dds		yj		
+ds004a_000	models/pendant/weapon/ds004a.model	models/pendant/weapon/Textures/ds004a_000d.dds		yj		
+ds004a_000_sj				sj		
+ds004a_001	models/pendant/weapon/ds004a.model	models/pendant/weapon/Textures/ds004a_001d.dds		yj		
+ds004a_002	models/pendant/weapon/ds004a.model	models/pendant/weapon/Textures/ds004a_002d.dds		yj		
+ds004a_003	models/pendant/weapon/ds004a.model	models/pendant/weapon/Textures/ds004a_003d.dds		yj		
+ds004a_004	models/pendant/weapon/ds004a.model	models/pendant/weapon/Textures/ds004a_004d.dds		yj		
+ds004a_004_ds	models/pendant/weapon/ds004a.model	models/pendant/weapon/Textures/ds004a_004d.dds		ds		
+ds004a_fysk_003_l1				ks		
+ds005a_000	models/pendant/weapon/ds005a.model	models/pendant/weapon/Textures/ds005a_000d.dds		yj		
+ds005a_001	models/pendant/weapon/ds005a.model	models/pendant/weapon/Textures/ds005a_001d.dds		yj		
+ds005a_002	models/pendant/weapon/ds005a.model	models/pendant/weapon/Textures/ds005a_002d.dds		yj		
+ds005a_003	models/pendant/weapon/ds005a.model	models/pendant/weapon/Textures/ds005a_003d.dds		yj		
+ds005a_004	models/pendant/weapon/ds005a.model	models/pendant/weapon/Textures/ds005a_004d.dds		yj		
+ds005a_004_ds	models/pendant/weapon/ds005a.model	models/pendant/weapon/Textures/ds005a_004d.dds		ds		
+ds006a_000	models/pendant/weapon/ds006a.model	models/pendant/weapon/Textures/ds006a_000d.dds		yj		
+ds006a_000_sj	models/pendant/weapon/ds006a.model	models/pendant/weapon/Textures/ds006a_000d.dds		sj		
+ds006a_001	models/pendant/weapon/ds006a.model	models/pendant/weapon/Textures/ds006a_001d.dds		yj		
+ds006a_002	models/pendant/weapon/ds006a.model	models/pendant/weapon/Textures/ds006a_002d.dds		yj		
+ds007a_000	models/pendant/weapon/ds007a.model	models/pendant/weapon/Textures/ds007a_000d.dds		yj		
+ds007a_001	models/pendant/weapon/ds007a.model	models/pendant/weapon/Textures/ds007a_001d.dds		yj		
+ds007a_002	models/pendant/weapon/ds007a.model	models/pendant/weapon/Textures/ds007a_002d.dds		yj		
+ds008a_000	models/pendant/weapon/ds008a.model	models/pendant/weapon/Textures/ds008a_000d.dds		yj		
+ds008a_001	models/pendant/weapon/ds008a.model	models/pendant/weapon/Textures/ds008a_001d.dds		yj		
+ds008a_002	models/pendant/weapon/ds008a.model	models/pendant/weapon/Textures/ds008a_002d.dds		yj		
+ds009a_000	models/pendant/weapon/ds009a.model	models/pendant/weapon/Textures/ds009a_000d.dds		yj		
+ds009a_000orange				yj		
+ds009a_001	models/pendant/weapon/ds009a.model	models/pendant/weapon/Textures/ds009a_001d.dds		yj		
+ds009a_002	models/pendant/weapon/ds009a.model	models/pendant/weapon/Textures/ds009a_002d.dds		yj		
+ds009a_002orange				yj		
+ds010a_000	models/pendant/weapon/ds010a.model	models/pendant/weapon/Textures/ds010a_000d.dds		yj		
+ds010a_000orange				yj		
+ds010a_001	models/pendant/weapon/ds010a.model	models/pendant/weapon/Textures/ds010a_001d.dds		yj		
+ds010a_001orange				yj		
+ds011a_000	models/pendant/weapon/ds011a.model	models/pendant/weapon/Textures/ds011a_000d.dds		yj		
+ds011a_000orange				yj		
+ds011a_001	models/pendant/weapon/ds011a.model	models/pendant/weapon/Textures/ds011a_001d.dds		yj		
+ds011a_001orange				yj		
+ds012a_000	models/pendant/weapon/ds012a.model	models/pendant/weapon/Textures/ds012a_000d.dds		yj		
+ds012a_000_ds	models/pendant/weapon/ds012a.model	models/pendant/weapon/Textures/ds012a_000d.dds		ds		
+ds012a_000_ds_cz	models/pendant/weapon/ds012a.model	models/pendant/weapon/Textures/ds012a_000d.dds		cz		
+ds013a_000	models/pendant/weapon/ds013a.model	models/pendant/weapon/Textures/ds013a_000d.dds		yj		
+ds013a_000_ds	models/pendant/weapon/ds013a.model	models/pendant/weapon/Textures/ds013a_000d.dds		ds		
+ds015a_000				yj		
+ds015a				ds		
+ds016a_000	models/pendant/weapon/ds016a.model	models/pendant/weapon/Textures/ds016a_000d.dds		yj		
+ds016a	models/pendant/weapon/ds016a.model	models/pendant/weapon/Textures/ds016a_000d.dds		ds		
+ds016a_000_ghost				ds		
+ds016a_000_l1_wood				ds		
+ds016a_001	models/pendant/weapon/ds016a.model			ds		
+ds016a_001_l1						
+ds016a_002	models/pendant/weapon/ds016a.model	models/pendant/weapon/Textures/ds016a_002d.dds		ds		
+ds016a_002_sj	models/pendant/weapon/ds016a.model	models/pendant/weapon/Textures/ds016a_002d.dds		sj		
+ds016a_003	models/pendant/weapon/ds006a.model	models/pendant/weapon/Textures/ds006a_000d.dds		ds		
+ds016a_reborn						
+ds016a_red						
+ds016a_yishang				ds		
+ds017a_000	models/pendant/weapon/ds017a.model	models/pendant/weapon/Textures/ds017a_000d.dds		ds		
+ds020a_000	models/pendant/weapon/ds020a.model	models/pendant/weapon/Textures/ds020a_000d.dds		yj		
+ds020a_001	models/pendant/weapon/ds020a.model	models/pendant/weapon/Textures/ds020a_001d.dds		yj		
+ds020a_002	models/pendant/weapon/ds020a.model	models/pendant/weapon/Textures/ds020a_002d.dds		yj		
+ds020a_003	models/pendant/weapon/ds020a.model	models/pendant/weapon/Textures/ds020a_003d.dds		yj		
+ds021a_000				yj		
+ds021a_001				yj		
+ds021a_002				yj		
+ds021a_003				yj		
+ds022a_000				yj		
+ds023a_000	models/pendant/weapon/ds023a.model	models/pendant/weapon/Textures/ds023a_000d.dds		yj		
+ds023a_001	models/pendant/weapon/ds023a.model	models/pendant/weapon/Textures/ds023a_001d.dds		yj		
+ds023a_002	models/pendant/weapon/ds023a.model	models/pendant/weapon/Textures/ds023a_002d.dds		yj		
+ds023a_003	models/pendant/weapon/ds023a.model	models/pendant/weapon/Textures/ds023a_003d.dds		yj		
+ds024a_000	models/pendant/weapon/ds024a.model	models/pendant/weapon/Textures/ds024a_000d.dds		yj		
+ds024a_001	models/pendant/weapon/ds024a.model	models/pendant/weapon/Textures/ds024a_001d.dds		yj		
+ds024a_002	models/pendant/weapon/ds024a.model	models/pendant/weapon/Textures/ds024a_002d.dds		yj		
+ds024a_003	models/pendant/weapon/ds024a.model	models/pendant/weapon/Textures/ds024a_003d.dds		yj		
+ds025a_000				yj		
+ds025a_001	models/pendant/weapon/ds025a.model	models/pendant/weapon/Textures/ds025a_001d.dds		yj		
+ds025a_002	models/pendant/weapon/ds025a.model	models/pendant/weapon/Textures/ds025a_002d.dds		yj		
+ds025a_003	models/pendant/weapon/ds025a.model	models/pendant/weapon/Textures/ds025a_003d.dds		yj		
+ds025a_004	models/pendant/weapon/ds025a.model	models/pendant/weapon/Textures/ds025a_004d.dds		yj		
+ds025a_005	models/pendant/weapon/ds025a.model	models/pendant/weapon/Textures/ds025a_005d.dds		yj		
+ds030a_000				yj		
+ds030a_001				yj		
+ds031a_000				yj		
+ds032a_000	models/pendant/weapon/ds032a.model	models/pendant/weapon/Textures/ds032a_000d.dds		yj		
+ds032a_001	models/pendant/weapon/ds032a.model	models/pendant/weapon/Textures/ds032a_001d.dds		yj		
+ds032a_002	models/pendant/weapon/ds032a.model	models/pendant/weapon/Textures/ds032a_002d.dds		yj		
+ds032a_003	models/pendant/weapon/ds032a.model	models/pendant/weapon/Textures/ds032a_003d.dds		yj		
+ds032a_004	models/pendant/weapon/ds032a.model	models/pendant/weapon/Textures/ds032a_004d.dds		yj		
+ds036a_000				yj		
+ds036a_001				yj		
+ds037a_000	models/pendant/weapon/ds037a.model	models/pendant/weapon/Textures/ds037a_000d.dds		yj		
+ds037a_001	models/pendant/weapon/ds037a.model	models/pendant/weapon/Textures/ds037a_001d.dds		yj		
+ds037a_002				yj		
+ds037a_003	models/pendant/weapon/ds037a.model	models/pendant/weapon/Textures/ds037a_003d.dds		yj		
+ds037a_004				yj		
+ds037a_005	models/pendant/weapon/ds037a.model	models/pendant/weapon/Textures/ds037a_005d.dds		yj		
+ds038a_000				yj		
+ds038a_001	models/pendant/weapon/ds038a.model	models/pendant/weapon/Textures/ds038a_001d.dds		yj		
+ds038a_002	models/pendant/weapon/ds038a.model	models/pendant/weapon/Textures/ds038a_002d.dds		yj		
+ds038a_003				yj		
+ds038a_004	models/pendant/weapon/ds038a.model	models/pendant/weapon/Textures/ds038a_004d.dds		yj		
+ds038a_005	models/pendant/weapon/ds038a.model	models/pendant/weapon/Textures/ds038a_005d.dds		yj		
+ds039a_000	models/pendant/weapon/ds039a.model	models/pendant/weapon/Textures/ds039a_000d.dds		yj		
+ds039a_001	models/pendant/weapon/ds039a.model	models/pendant/weapon/Textures/ds039a_001d.dds		yj		
+ds039a_002	models/pendant/weapon/ds039a.model	models/pendant/weapon/Textures/ds039a_002d.dds		yj		
+ds039a_003	models/pendant/weapon/ds039a.model	models/pendant/weapon/Textures/ds039a_003d.dds		yj		
+ds039a_004	models/pendant/weapon/ds039a.model	models/pendant/weapon/Textures/ds039a_004d.dds		yj		
+ds039a_005	models/pendant/weapon/ds039a.model	models/pendant/weapon/Textures/ds039a_005d.dds		yj		
+ds040a_000				yj		
+ds042a	models/pendant/weapon/ds042a.model			ds		
+ds042a_000	models/pendant/weapon/ds042a.model	models/pendant/weapon/Textures/ds042a_000d.dds		yj		
+ds042a_000_ds	models/pendant/weapon/ds042a.model	models/pendant/weapon/Textures/ds042a_000d.dds		ds		
+ds042a_000_sj	models/pendant/weapon/ds042a.model	models/pendant/weapon/Textures/ds042a_000d.dds		sj		
+ds042a_000_tg	models/pendant/weapon/ds042a.model	models/pendant/weapon/Textures/ds042a_000d.dds		tg		
+ds042a_ds02	models/pendant/weapon/ds042a.model			ds02		
+ds042a_000_ds01	models/pendant/weapon/ds042a.model			ds01		
+ds042a_ghost_sj				sj		
+ds044a_000				yj		
+ds046a	models/pendant/weapon/ds046a.model			ds		
+ds048a_000				yj		
+ds048a_001				yj		
+ds058a_000	models/pendant/weapon/ds_058a.model	models/pendant/weapon/Textures/ds_058a_000_d.dds		ds		
+ds058a_000_yj	models/pendant/weapon/ds_058a.model	models/pendant/weapon/Textures/ds_058a_000_d.dds		yj		
+ds059a_000	models/pendant/weapon/ds_059a.model	models/pendant/weapon/Textures/ds_059a_000_d.dds		ds		
+ds060a_000	models/pendant/weapon/ds_060a.model	models/pendant/weapon/Textures/ds_060a_000_d.dds		ds		
+ds060a_000_origin				zf		
+ds117a_000	models/pendant/weapon/ds117a.model	models/pendant/weapon/Textures/ds117a_000d.dds		yj		
+ds301a_000	models/pendant/weapon/ds301a.model	models/pendant/weapon/Textures/ds301a_000d.dds		ds		
+ds306a_000	models/pendant/weapon/ds306a.model	models/pendant/weapon/Textures/ds306a_000d.dds		ds		
+ds306a_000_sj	models/pendant/weapon/ds306a.model	models/pendant/weapon/Textures/ds306a_000d.dds		sj		
+ds306a_000_ghost				ds		
+ds306a_000_nil	models/pendant/weapon/ds306a.model	models/pendant/weapon/Textures/ds306a_000d.dds		ds		
+ds306a_000_playfire				ds		
+ds307a_000	models/pendant/weapon/ds307a.model	models/pendant/weapon/Textures/ds307a_000d.dds		ds		
+ds321a_000	models/pendant/weapon/ds321a.model	models/pendant/weapon/Textures/ds321a_000d.dds		ds		
+ds329_000	models/pendant/weapon/ds329.model	models/pendant/weapon/Textures/ds329_000d.dds		ds		
+ds329_000_l1				ds		
+ds329_001	models/pendant/weapon/ds329.model	models/pendant/weapon/Textures/ds329_001d.dds		ds		
+ds332a_000	models/pendant/weapon/ds332a.model	models/pendant/weapon/Textures/ds332a_000d.dds		ds		
+ds334_000	models/pendant/weapon/ds_334.model			ds		
+ds335_000	models/pendant/weapon/ds335.model			ds		
+ds340a_000	models/pendant/weapon/ds340a.model	models/pendant/weapon/Textures/ds340a_000d.dds		ds		
+ds340a_000_bz	models/pendant/weapon/ds340a.model	models/pendant/weapon/Textures/ds340a_000d.dds		bz		
+ds345a_000	models/pendant/weapon/ds345a.model	models/pendant/weapon/Textures/ds345a_000d.dds		ds01		
+ds345a_ghost				ds01		
+ds346a_001				ds02		
+ds346a_002				ds02		
+ds346a_003				ds02		
+ds348a_000			2.13	ds		
+ds347a_001	models/pendant/weapon/ds347a_001.model			ds02		
+ds347a_002	models/pendant/weapon/ds347a_002.model			ds02		
+ds347a_003	models/pendant/weapon/ds347a_003.model			ds02		
+ds601a_000	models/pendant/weapon/ds601a.model	models/pendant/weapon/Textures/ds601a_000d.dds		yj		
+ds602a_000	models/pendant/weapon/ds602a.model			yj		
+dsn300a_000	models/pendant/weapon/dsn300a.model	models/pendant/weapon/Textures/dsn300a_000d.dds		dsn		
+dsn300a_001	models/pendant/weapon/dsn300a.model	models/pendant/weapon/Textures/dsn300a_001d.dds		dsn		
+dsn300a_002	models/pendant/weapon/dsn300a.model	models/pendant/weapon/Textures/dsn300a_002d.dds		dsn		
+dsn304a_000	models/pendant/weapon/dsn304a.model	models/pendant/weapon/Textures/dsn304a_000d.dds		dsn		
+dun300a_000_ghost				dun		
+dun301a_000	models/pendant/weapon/dun301a.model	models/pendant/weapon/Textures/dun301a_000d.dds		dun		
+dun301a_000_ghost				dun		
+dun301a_001	models/pendant/weapon/dun301a.model	models/pendant/weapon/Textures/dun301a_001d.dds		dun		
+dun301a_002	models/pendant/weapon/dun301a.model	models/pendant/weapon/Textures/dun301a_002d.dds		dun		
+dun304a_000	models/pendant/weapon/dun304a.model	models/pendant/weapon/Textures/dun304a_000d.dds		dun		
+dun304a_000_endure				dun		
+dun304a_000_ghost				dun		
+dun304a_000_playfire				dun		
+dun310a_000	models/pendant/weapon/dun310a.model	models/pendant/weapon/Textures/dun310a_000d.dds		dun		
+dun310a_001	models/pendant/weapon/dun310a.model	models/pendant/weapon/Textures/dun310a_001d.dds		dun		
+dun310a_002	models/pendant/weapon/dun310a.model	models/pendant/weapon/Textures/dun310a_002d.dds		dun		
+dun310a_003	models/pendant/weapon/dun310a.model	models/pendant/weapon/Textures/dun310a_003d.dds		dun		
+dz100a_000				dz		
+fz000a_000	models/pendant/weapon/fz000a.model	models/pendant/weapon/Textures/fz000a_000d.dds		sm		
+shg000a_000	models/pendant/weapon/shg000a.model			sm		
+fz000a_000_fz	models/pendant/weapon/fz000a.model	models/pendant/weapon/Textures/fz000a_000d.dds		fz		
+fz000a_001	models/pendant/weapon/fz000a.model	models/pendant/weapon/Textures/fz000a_001d.dds		sm		
+fz000a_001_fz	models/pendant/weapon/fz000a.model	models/pendant/weapon/Textures/fz000a_001d.dds		fz		
+fz000a_002	models/pendant/weapon/fz000a.model	models/pendant/weapon/Textures/fz000a_002d.dds		sm		
+fz000a_003	models/pendant/weapon/fz000a.model	models/pendant/weapon/Textures/fz000a_003d.dds		sm		
+fz000a_playfire				fz		
+fz001a_000	models/pendant/weapon/fz001a.model	models/pendant/weapon/Textures/fz001a_000d.dds		sm		
+fz001a_000_fz	models/pendant/weapon/fz001a.model	models/pendant/weapon/Textures/fz001a_000d.dds		fz		
+fz001a_001	models/pendant/weapon/fz001a.model	models/pendant/weapon/Textures/fz001a_001d.dds		sm		
+fz001a_002	models/pendant/weapon/fz001a.model	models/pendant/weapon/Textures/fz001a_002d.dds		sm		
+fz001a_002d_l1				fz		
+fz001a_003	models/pendant/weapon/fz001a.model	models/pendant/weapon/Textures/fz001a_003d.dds		sm		
+fz001a_004	models/pendant/weapon/fz001a.model	models/pendant/weapon/Textures/fz001a_004d.dds		sm		
+fz001a_004d_fz	models/pendant/weapon/fz001a.model	models/pendant/weapon/Textures/fz001a_004d.dds		fz		
+fz002a_000	models/pendant/weapon/fz002a.model	models/pendant/weapon/Textures/fz002a_000d.dds		sm		
+fz002a_000_zmm				fz		
+fz002a_001	models/pendant/weapon/fz002a.model	models/pendant/weapon/Textures/fz002a_001d.dds		sm		
+fz002a_002	models/pendant/weapon/fz002a.model	models/pendant/weapon/Textures/fz002a_002d.dds		sm		
+fz002a_002_fz	models/pendant/weapon/fz002a.model	models/pendant/weapon/Textures/fz002a_002d.dds		fz		
+fz002a_003	models/pendant/weapon/fz002a.model	models/pendant/weapon/Textures/fz002a_003d.dds		sm		
+fz002a_004	models/pendant/weapon/fz002a.model	models/pendant/weapon/Textures/fz002a_004d.dds		sm		
+fz003a_000	models/pendant/weapon/fz003a.model	models/pendant/weapon/Textures/fz003a_000d.dds		sm		
+fz003a_000_fz	models/pendant/weapon/fz003a.model	models/pendant/weapon/Textures/fz003a_000d.dds		fz		
+fz003a_001	models/pendant/weapon/fz003a.model	models/pendant/weapon/Textures/fz003a_001d.dds		sm		
+fz003a_002	models/pendant/weapon/fz003a.model	models/pendant/weapon/Textures/fz003a_002d.dds		sm		
+fz003a_003	models/pendant/weapon/fz003a.model	models/pendant/weapon/Textures/fz003a_003d.dds		sm		
+fz003a_003_fz	models/pendant/weapon/fz003a.model	models/pendant/weapon/Textures/fz003a_003d.dds		fz		
+fz003a_004	models/pendant/weapon/fz003a.model	models/pendant/weapon/Textures/fz003a_004d.dds		sm		
+fz004a_000	models/pendant/weapon/fz004a.model	models/pendant/weapon/Textures/fz004a_000d.dds		sm		
+fz004a_000_fz	models/pendant/weapon/fz004a.model	models/pendant/weapon/Textures/fz004a_000d.dds		fz		
+fz004a_001	models/pendant/weapon/fz004a.model	models/pendant/weapon/Textures/fz004a_001d.dds		sm		
+fz004a_001_fz	models/pendant/weapon/fz004a.model	models/pendant/weapon/Textures/fz004a_001d.dds		fz		
+fz004a_002	models/pendant/weapon/fz004a.model	models/pendant/weapon/Textures/fz004a_002d.dds		sm		
+fz004a_002_fz	models/pendant/weapon/fz004a.model	models/pendant/weapon/Textures/fz004a_002d.dds		fz		
+fz004a_003	models/pendant/weapon/fz004a.model	models/pendant/weapon/Textures/fz004a_003d.dds		sm		
+fz004a_003_fz	models/pendant/weapon/fz004a.model	models/pendant/weapon/Textures/fz004a_003d.dds		fz		
+fz004a_004	models/pendant/weapon/fz004a.model	models/pendant/weapon/Textures/fz004a_004d.dds		sm		
+fz004a_004_fz	models/pendant/weapon/fz004a.model	models/pendant/weapon/Textures/fz004a_004d.dds		fz		
+fz005a_000	models/pendant/weapon/fz005a.model	models/pendant/weapon/Textures/fz005a_000d.dds		sm		
+fz005a_000_fz	models/pendant/weapon/fz005a.model	models/pendant/weapon/Textures/fz005a_000d.dds		fz		
+fz005a_001	models/pendant/weapon/fz005a.model	models/pendant/weapon/Textures/fz005a_001d.dds		sm		
+fz005a_001_fz	models/pendant/weapon/fz005a.model	models/pendant/weapon/Textures/fz005a_001d.dds		fz		
+fz005a_002	models/pendant/weapon/fz005a.model	models/pendant/weapon/Textures/fz005a_002d.dds		sm		
+fz005a_002_boss			1	fz		
+fz005a_002_fz	models/pendant/weapon/fz005a.model	models/pendant/weapon/Textures/fz005a_002d.dds		fz		
+fz005a_003	models/pendant/weapon/fz005a.model	models/pendant/weapon/Textures/fz005a_003d.dds		sm		
+fz005a_003_fz	models/pendant/weapon/fz005a.model	models/pendant/weapon/Textures/fz005a_003d.dds		fz		
+fz005a_004	models/pendant/weapon/fz005a.model	models/pendant/weapon/Textures/fz005a_004d.dds		sm		
+fz005a_004_fz	models/pendant/weapon/fz005a.model	models/pendant/weapon/Textures/fz005a_004d.dds		fz		
+fz006a_000	models/pendant/weapon/fz006a.model	models/pendant/weapon/Textures/fz006a_000d.dds		sm		
+fz006a_000_fz	models/pendant/weapon/fz006a.model	models/pendant/weapon/Textures/fz006a_000d.dds		fz		
+fz006a_001	models/pendant/weapon/fz006a.model	models/pendant/weapon/Textures/fz006a_001d.dds		sm		
+fz006a_001_fz	models/pendant/weapon/fz006a.model	models/pendant/weapon/Textures/fz006a_001d.dds		fz		
+fz006a_002	models/pendant/weapon/fz006a.model	models/pendant/weapon/Textures/fz006a_002d.dds		sm		
+fz006a_002_fz	models/pendant/weapon/fz006a.model	models/pendant/weapon/Textures/fz006a_002d.dds		fz		
+fz007a_000	models/pendant/weapon/fz007a.model	models/pendant/weapon/Textures/fz007a_000d.dds		sm		
+fz007a_001	models/pendant/weapon/fz007a.model	models/pendant/weapon/Textures/fz007a_001d.dds		sm		
+fz007a_001_fz01	models/pendant/weapon/fz007a.model	models/pendant/weapon/Textures/fz007a_001d.dds		fz01		
+fz007a_002	models/pendant/weapon/fz007a.model	models/pendant/weapon/Textures/fz007a_002d.dds		sm		
+fz008_boss				fz		
+fz008a_000	models/pendant/weapon/fz008a.model	models/pendant/weapon/Textures/fz008a_000d.dds		sm		
+fz008a_000_fz	models/pendant/weapon/fz008a.model	models/pendant/weapon/Textures/fz008a_000d.dds		fz		
+fz008a_000_ghost				fz		
+fz008a_001	models/pendant/weapon/fz008a.model	models/pendant/weapon/Textures/fz008a_001d.dds		sm		
+fz008a_001_fz	models/pendant/weapon/fz008a.model	models/pendant/weapon/Textures/fz008a_001d.dds		fz		
+fz008a_002	models/pendant/weapon/fz008a.model	models/pendant/weapon/Textures/fz008a_002d.dds		sm		
+fz008a_002_fz	models/pendant/weapon/fz008a.model	models/pendant/weapon/Textures/fz008a_002d.dds		fz		
+fz009a_000	models/pendant/weapon/fz009a.model	models/pendant/weapon/Textures/fz009a_000d.dds		sm		
+fz009a_001	models/pendant/weapon/fz009a.model	models/pendant/weapon/Textures/fz009a_001d.dds		sm		
+fz009a_002	models/pendant/weapon/fz009a.model	models/pendant/weapon/Textures/fz009a_002d.dds		sm		
+fz010a_000	models/pendant/weapon/fz010a.model	models/pendant/weapon/Textures/fz010a_000d.dds		sm		
+fz010a_000orange				sm		
+fz010a_001	models/pendant/weapon/fz010a.model	models/pendant/weapon/Textures/fz010a_001d.dds		sm		
+fz010a_001orange				sm		
+fz011a_000	models/pendant/weapon/fz011a.model	models/pendant/weapon/Textures/fz011a_000d.dds		sm		
+fz011a_000orange				sm		
+fz011a_001	models/pendant/weapon/fz011a.model	models/pendant/weapon/Textures/fz011a_001d.dds		sm		
+fz011a_001orange				sm		
+fz012a_000	models/pendant/weapon/fz012a.model	models/pendant/weapon/Textures/fz012a_000d.dds		sm		
+fz012a_000_fz	models/pendant/weapon/fz012a.model	models/pendant/weapon/Textures/fz012a_000d.dds		fz		
+fz013a_000	models/pendant/weapon/fz013a.model	models/pendant/weapon/Textures/fz013a_000d.dds		sm		
+fz016a_000				sm		
+fz017a_000	models/pendant/weapon/fz017a.model	models/pendant/weapon/Textures/fz017a_000d.dds		sm		
+fz020a	models/pendant/weapon/fz020a.model			fz		
+fz020a_000	models/pendant/weapon/fz020a.model	models/pendant/weapon/Textures/fz020a_000d.dds		sm		
+fz020a_001	models/pendant/weapon/fz020a.model	models/pendant/weapon/Textures/fz020a_001d.dds		sm		
+fz020a_002	models/pendant/weapon/fz020a.model	models/pendant/weapon/Textures/fz020a_002d.dds		sm		
+fz020a_003	models/pendant/weapon/fz020a.model	models/pendant/weapon/Textures/fz020a_003d.dds		sm		
+fz020a_004				fz		
+fz021a_000				sm		
+fz021a_001				sm		
+fz021a_002				sm		
+fz021a_003				sm		
+fz022a_000				sm		
+fz023a_000	models/pendant/weapon/fz023a.model	models/pendant/weapon/Textures/fz023a_000d.dds		sm		
+fz023a_001	models/pendant/weapon/fz023a.model	models/pendant/weapon/Textures/fz023a_001d.dds		sm		
+fz023a_002	models/pendant/weapon/fz023a.model	models/pendant/weapon/Textures/fz023a_002d.dds		sm		
+fz023a_003	models/pendant/weapon/fz023a.model	models/pendant/weapon/Textures/fz023a_003d.dds		sm		
+fz023a_003_boss				hrsm		
+fz024a_000	models/pendant/weapon/fz024a.model	models/pendant/weapon/Textures/fz024a_000d.dds		sm		
+fz024a_001	models/pendant/weapon/fz024a.model	models/pendant/weapon/Textures/fz024a_001d.dds		sm		
+fz024a_002	models/pendant/weapon/fz024a.model	models/pendant/weapon/Textures/fz024a_002d.dds		sm		
+fz024a_003	models/pendant/weapon/fz024a.model	models/pendant/weapon/Textures/fz024a_003d.dds		sm		
+fz025a_000				sm		
+fz025a_001	models/pendant/weapon/fz025a.model	models/pendant/weapon/Textures/fz025a_001d.dds		sm		
+fz025a_002	models/pendant/weapon/fz025a.model	models/pendant/weapon/Textures/fz025a_002d.dds		sm		
+fz025a_003	models/pendant/weapon/fz025a.model	models/pendant/weapon/Textures/fz025a_003d.dds		sm		
+fz025a_004	models/pendant/weapon/fz025a.model	models/pendant/weapon/Textures/fz025a_004d.dds		sm		
+fz025a_005	models/pendant/weapon/fz025a.model	models/pendant/weapon/Textures/fz025a_005d.dds		sm		
+fz030a_000				sm		
+fz030a_001				sm		
+fz031a_000				sm		
+fz032a_000	models/pendant/weapon/fz032a.model	models/pendant/weapon/Textures/fz032a_000d.dds		sm		
+fz032a_001	models/pendant/weapon/fz032a.model	models/pendant/weapon/Textures/fz032a_001d.dds		sm		
+fz032a_002	models/pendant/weapon/fz032a.model	models/pendant/weapon/Textures/fz032a_002d.dds		sm		
+fz032a_003	models/pendant/weapon/fz032a.model	models/pendant/weapon/Textures/fz032a_003d.dds		sm		
+fz032a_004	models/pendant/weapon/fz032a.model	models/pendant/weapon/Textures/fz032a_004d.dds		sm		
+fz036a_000				sm		
+fz036a_001				sm		
+fz037a_000	models/pendant/weapon/fz037a.model	models/pendant/weapon/Textures/fz037a_000d.dds		sm		
+fz037a_001	models/pendant/weapon/fz037a.model	models/pendant/weapon/Textures/fz037a_001d.dds		sm		
+fz037a_002				sm		
+fz037a_003	models/pendant/weapon/fz037a.model	models/pendant/weapon/Textures/fz037a_003d.dds		sm		
+fz037a_004				sm		
+fz037a_005	models/pendant/weapon/fz037a.model	models/pendant/weapon/Textures/fz037a_005d.dds		sm		
+fz038a_000				sm		
+fz038a_001	models/pendant/weapon/fz038a.model	models/pendant/weapon/Textures/fz038a_001d.dds		sm		
+fz038a_002	models/pendant/weapon/fz038a.model	models/pendant/weapon/Textures/fz038a_002d.dds		sm		
+fz038a_003				sm		
+fz038a_004	models/pendant/weapon/fz038a.model	models/pendant/weapon/Textures/fz038a_004d.dds		sm		
+fz038a_005	models/pendant/weapon/fz038a.model	models/pendant/weapon/Textures/fz038a_005d.dds		sm		
+fz039a_000	models/pendant/weapon/fz039a.model	models/pendant/weapon/Textures/fz039a_000d.dds		sm		
+fz039a_001	models/pendant/weapon/fz039a.model	models/pendant/weapon/Textures/fz039a_001d.dds		sm		
+fz039a_002	models/pendant/weapon/fz039a.model	models/pendant/weapon/Textures/fz039a_002d.dds		sm		
+fz039a_003	models/pendant/weapon/fz039a.model	models/pendant/weapon/Textures/fz039a_003d.dds		sm		
+fz039a_004	models/pendant/weapon/fz039a.model	models/pendant/weapon/Textures/fz039a_004d.dds		sm		
+fz039a_005	models/pendant/weapon/fz039a.model	models/pendant/weapon/Textures/fz039a_005d.dds		sm		
+fz040a_000				sm		
+fz044a_000				sm		
+fz048a_000				sm		
+fz048a_001				sm		
+fz200a_000				sm		
+fz300a_000	models/pendant/weapon/fz300a.model	models/pendant/weapon/Textures/fz300a_000d.dds		fz		
+fz300a_1				fz		
+fz300a_playfire				fz		
+fz301a_000	models/pendant/weapon/fz301a.model			fz		
+fz301a_000_fz01	models/pendant/weapon/fz301a.model			fz01		
+fz301a_000_long	models/pendant/weapon/fz301a_long.model			fz		
+fz303a_000	models/pendant/weapon/fz303a.model	models/pendant/weapon/Textures/fz303a_000d.dds		fz		
+fz303a_000_fz01	models/pendant/weapon/fz303a.model	models/pendant/weapon/Textures/fz303a_000d.dds		fz01		
+fz304a_000	models/pendant/weapon/fz304a.model	models/pendant/weapon/Textures/fz304a_000d.dds		fz		
+fz304a_000_ghost				fz		
+fz304a_000_playfire				fz		
+fz306a_000	models/pendant/weapon/fz306a.model	models/pendant/weapon/Textures/fz306a_000d.dds		cg		
+fz308a_000	models/pendant/weapon/fz308a.model	models/pendant/weapon/Textures/fz308a_000d.dds		cg		
+fz309_000_ghost				fz		
+fz309a_000	models/pendant/weapon/fz309a.model	models/pendant/weapon/Textures/fz309a_000d.dds		fz		
+fz309a_nydw				fz		
+fz312a_nydw				fz		
+fz601a_000	models/pendant/weapon/fz601a.model	models/pendant/weapon/Textures/fz601a_000d.dds		sm		
+fz601a_000_grsm	models/pendant/weapon/fz601a.model	models/pendant/weapon/Textures/fz601a_000d.dds		hrsm		
+fz602a_000	models/pendant/weapon/fz602a.model			sm		
+gn301a_000	models/pendant/weapon/gn301a.model	models/pendant/weapon/Textures/gn301a_000d.dds		gn		
+gn301a_000_ghost				gn		
+gn301a_000_ghost_gn01				gn01		
+gn301a_000_gn01	models/pendant/weapon/gn301a.model	models/pendant/weapon/Textures/gn301a_000d.dds		gn01		
+gn301a_stone_horn				gn		
+gn307a_000	models/pendant/weapon/gn307a.model	models/pendant/weapon/Textures/gn307a_000d.dds		gn		
+gn307a_000_gn01	models/pendant/weapon/gn307a.model	models/pendant/weapon/Textures/gn307a_000d.dds		gn01		
+gn307a_001	models/pendant/weapon/gn307a.model	models/pendant/weapon/Textures/gn307a_001d.dds		gn		
+gn307a_001_gn01	models/pendant/weapon/gn307a.model	models/pendant/weapon/Textures/gn307a_001d.dds		gn01		
+gn307a_000_ghost				gn		
+gn307a_000_ghost_gn01				gn01		
+gn308a_000	models/pendant/weapon/gn308a.model	models/pendant/weapon/Textures/gn308a_000d.dds		gn		
+gn308a_000_gn01	models/pendant/weapon/gn308a.model	models/pendant/weapon/Textures/gn308a_000d.dds		gn01		
+gong100a_000				gong		
+gong100a_001				gong		
+gong100a_002				gong		
+gong100a_003				gong		
+gong100a_001_ghost				gong		
+gzw220_ghost_ds				ds		
+gzw221_000_ds	models/pendant/gzw/gzw221.model			ds		
+hh000a	models/pendant/weapon/hh000a.model			yf		
+hh000a_000				yf		
+hh000a_000test				yf		
+hh001a_000	models/pendant/weapon/hh001a.model			yf		
+hh001a_001	models/pendant/weapon/hh001a.model	models/pendant/weapon/Textures/hh001a_001d.dds		yf		
+hh001a_002	models/pendant/weapon/hh001a.model	models/pendant/weapon/Textures/hh001a_002d.dds		yf		
+hh001a_003	models/pendant/weapon/hh001a.model	models/pendant/weapon/Textures/hh001a_003d.dds		yf		
+hh002a_000	models/pendant/weapon/hh002a.model			yf		
+hh002a_001	models/pendant/weapon/hh002a.model	models/pendant/weapon/Textures/hh002a_001d.dds		yf		
+hh002a_002	models/pendant/weapon/hh002a.model	models/pendant/weapon/Textures/hh002a_002d.dds		yf		
+hh002a_003	models/pendant/weapon/hh002a.model	models/pendant/weapon/Textures/hh002a_003d.dds		yf		
+hh003a_000	models/pendant/weapon/hh003a.model			yf		
+hh003a_001	models/pendant/weapon/hh003a.model	models/pendant/weapon/Textures/hh003a_001d.dds		yf		
+hh003a_002	models/pendant/weapon/hh003a.model	models/pendant/weapon/Textures/hh003a_002d.dds		yf		
+hh003a_003	models/pendant/weapon/hh003a.model	models/pendant/weapon/Textures/hh003a_003d.dds		yf		
+hh015a_000	models/pendant/weapon/hh015a.model			yf		
+hh017a_000				yf		
+hh020a_000	models/pendant/weapon/hh020a.model			yf		
+hh020a_001	models/pendant/weapon/hh020a.model	models/pendant/weapon/Textures/hh020a_001d.dds		yf		
+hh020a_002	models/pendant/weapon/hh020a.model	models/pendant/weapon/Textures/hh020a_002d.dds		yf		
+hh020a_003	models/pendant/weapon/hh020a.model	models/pendant/weapon/Textures/hh020a_003d.dds		yf		
+hh021a_000				yf		
+hh021a_001				yf		
+hh021a_002				yf		
+hh021a_003				yf		
+hh023a_000	models/pendant/weapon/hh023a.model			yf		
+hh023a_001	models/pendant/weapon/hh023a.model	models/pendant/weapon/Textures/hh023a_001d.dds		yf		
+hh023a_002	models/pendant/weapon/hh023a.model	models/pendant/weapon/Textures/hh023a_002d.dds		yf		
+hh023a_003	models/pendant/weapon/hh023a.model	models/pendant/weapon/Textures/hh023a_003d.dds		yf		
+hh024a_000	models/pendant/weapon/hh024a.model			yf		
+hh024a_001	models/pendant/weapon/hh024a.model	models/pendant/weapon/Textures/hh024a_001d.dds		yf		
+hh024a_002	models/pendant/weapon/hh024a.model	models/pendant/weapon/Textures/hh024a_002d.dds		yf		
+hh024a_003	models/pendant/weapon/hh024a.model	models/pendant/weapon/Textures/hh024a_003d.dds		yf		
+hh025a_000				yf		
+hh025a_001	models/pendant/weapon/hh025a.model	models/pendant/weapon/Textures/hh025a_001d.dds		yf		
+hh025a_002	models/pendant/weapon/hh025a.model	models/pendant/weapon/Textures/hh025a_002d.dds		yf		
+hh025a_003	models/pendant/weapon/hh025a.model	models/pendant/weapon/Textures/hh025a_003d.dds		yf		
+hh025a_004	models/pendant/weapon/hh025a.model	models/pendant/weapon/Textures/hh025a_004d.dds		yf		
+hh025a_005	models/pendant/weapon/hh025a.model	models/pendant/weapon/Textures/hh025a_005d.dds		yf		
+hh030a_000				yf		
+hh030a_001				yf		
+hh031a_000				yf		
+hh032a_000	models/pendant/weapon/hh032a.model			yf		
+hh032a_001	models/pendant/weapon/hh032a.model	models/pendant/weapon/Textures/hh032a_001d.dds		yf		
+hh032a_002	models/pendant/weapon/hh032a.model	models/pendant/weapon/Textures/hh032a_002d.dds		yf		
+hh032a_003	models/pendant/weapon/hh032a.model	models/pendant/weapon/Textures/hh032a_003d.dds		yf		
+hh032a_004	models/pendant/weapon/hh032a.model	models/pendant/weapon/Textures/hh032a_004d.dds		yf		
+hh036a_000				yf		
+hh036a_001				yf		
+hh037a_000	models/pendant/weapon/hh037a.model	models/pendant/weapon/Textures/hh037a_000d.dds		yf		
+hh037a_001	models/pendant/weapon/hh037a.model	models/pendant/weapon/Textures/hh037a_001d.dds		yf		
+hh037a_002				yf		
+hh037a_003	models/pendant/weapon/hh037a.model	models/pendant/weapon/Textures/hh037a_003d.dds		yf		
+hh037a_004				yf		
+hh037a_005	models/pendant/weapon/hh037a.model	models/pendant/weapon/Textures/hh037a_005d.dds		yf		
+hh038a_000				yf		
+hh038a_001	models/pendant/weapon/hh038a.model	models/pendant/weapon/Textures/hh038a_001d.dds		yf		
+hh038a_002	models/pendant/weapon/hh038a.model	models/pendant/weapon/Textures/hh038a_002d.dds		yf		
+hh038a_003				yf		
+hh038a_004	models/pendant/weapon/hh038a.model	models/pendant/weapon/Textures/hh038a_004d.dds		yf		
+hh038a_005	models/pendant/weapon/hh038a.model	models/pendant/weapon/Textures/hh038a_005d.dds		yf		
+hh039a_000				yf		
+hh039a_001				yf		
+hh039a_002				yf		
+hh039a_003				yf		
+hh039a_004				yf		
+hh039a_005				yf		
+hh040a_000				yf		
+hh044a_000				yf		
+hh048a_000				yf		
+hh048a_001				yf		
+hh301a_000				yf		
+hh601a_000	models/pendant/weapon/hh601a.model			yf		
+hh602a_000	models/pendant/weapon/hh602a.model			yf		
+hrg000a_000				zx		
+hrg000a_000_1				zx		
+hrg001a_000				zx		
+hrg001a_000_1				zx		
+hrg002a_000				zx		
+hrg002a_000_1				zx		
+hrg037a_000				zx		
+hrg037a_000_1				zx		
+hrg037a_001				zx		
+hrg037a_001_1				zx		
+hrg037a_002				zx		
+hrg037a_002_1				zx		
+hrg037a_003				zx		
+hrg037a_003_1				zx		
+hrg037a_004				zx		
+hrg037a_004_1				zx		
+hrg037a_005				zx		
+hrg037a_005_1				zx		
+hrg038a_000				zx		
+hrg038a_000_1				zx		
+hrg038a_001				zx		
+hrg038a_001_1				zx		
+hrg038a_002				zx		
+hrg038a_002_1				zx		
+hrg038a_003				zx		
+hrg038a_003_1				zx		
+hrg038a_004				zx		
+hrg038a_004_1				zx		
+hrg038a_005				zx		
+hrg038a_005_1				zx		
+hrg039a_000				zx		
+hrg039a_000_1				zx		
+hrg039a_001				zx		
+hrg039a_001_1				zx		
+hrg039a_002				zx		
+hrg039a_002_1				zx		
+hrg039a_003				zx		
+hrg039a_003_1				zx		
+hrg039a_004				zx		
+hrg039a_004_1				zx		
+hrg039a_005				zx		
+hrg039a_005_1				zx		
+hrg039a_006				zx		
+hrg039a_006_1				zx		
+hrg039a_007				zx		
+hrg039a_007_1				zx		
+hrg040a_000				zx		
+hrg040a_000_1				zx		
+hrg044a_000				zx		
+hrg044a_000_1				zx		
+hrg048a_000				zx		
+hrg048a_000_1				zx		
+hrg048a_001				zx		
+hrg048a_001_1				zx		
+hrg601a_000				zx		
+hrg601a_000_1				zx		
+hrg602a_000				zx		
+hrg602a_000_1				zx		
+jian				cd		
+ld000a_000	models/pendant/weapon/ld000a.model	models/pendant/weapon/Textures/ld000a_000d.dds		zy		
+ld000a_001	models/pendant/weapon/ld000a.model	models/pendant/weapon/Textures/ld000a_001d.dds		zy		
+ld000a_001_cb	models/pendant/weapon/ld000a.model	models/pendant/weapon/Textures/ld000a_001d.dds		cb		
+ld000a_002	models/pendant/weapon/ld000a.model	models/pendant/weapon/Textures/ld000a_002d.dds		zy		
+ld000a_003	models/pendant/weapon/ld000a.model	models/pendant/weapon/Textures/ld000a_003d.dds		zy		
+ld001a_000	models/pendant/weapon/ld001a.model	models/pendant/weapon/Textures/ld001a_000d.dds		zy		
+ld001a_001	models/pendant/weapon/ld001a.model	models/pendant/weapon/Textures/ld001a_001d.dds		zy		
+ld001a_002	models/pendant/weapon/ld001a.model	models/pendant/weapon/Textures/ld001a_002d.dds		zy		
+ld001a_003	models/pendant/weapon/ld001a.model	models/pendant/weapon/Textures/ld001a_003d.dds		zy		
+ld001a_004	models/pendant/weapon/ld001a.model	models/pendant/weapon/Textures/ld001a_004d.dds		zy		
+ld002a_000	models/pendant/weapon/ld002a.model	models/pendant/weapon/Textures/ld002a_000d.dds		zy		
+ld002a_001	models/pendant/weapon/ld002a.model	models/pendant/weapon/Textures/ld002a_001d.dds		zy		
+ld002a_001_cb	models/pendant/weapon/ld002a.model	models/pendant/weapon/Textures/ld002a_001d.dds		cb		
+ld002a_002	models/pendant/weapon/ld002a.model	models/pendant/weapon/Textures/ld002a_002d.dds		zy		
+ld002a_003	models/pendant/weapon/ld002a.model	models/pendant/weapon/Textures/ld002a_003d.dds		zy		
+ld002a_004	models/pendant/weapon/ld002a.model	models/pendant/weapon/Textures/ld002a_004d.dds		zy		
+ld003a_000	models/pendant/weapon/ld003a.model	models/pendant/weapon/Textures/ld003a_000d.dds		zy		
+ld003a_001	models/pendant/weapon/ld003a.model	models/pendant/weapon/Textures/ld003a_001d.dds		zy		
+ld003a_001d	models/pendant/weapon/ld003a.model	models/pendant/weapon/Textures/ld003a_001d.dds		ld		
+ld003a_001d_cb	models/pendant/weapon/ld003a.model	models/pendant/weapon/Textures/ld003a_001d.dds		cb		
+ld003a_002	models/pendant/weapon/ld003a.model	models/pendant/weapon/Textures/ld003a_002d.dds		zy		
+ld003a_002d	models/pendant/weapon/ld003a.model	models/pendant/weapon/Textures/ld003a_002d.dds		ld		
+ld003a_003	models/pendant/weapon/ld003a.model	models/pendant/weapon/Textures/ld003a_003d.dds		zy		
+ld003a_003d	models/pendant/weapon/ld003a.model	models/pendant/weapon/Textures/ld003a_003d.dds		ld		
+ld003a_004	models/pendant/weapon/ld003a.model	models/pendant/weapon/Textures/ld003a_004d.dds		zy		
+ld003a_004d	models/pendant/weapon/ld003a.model	models/pendant/weapon/Textures/ld003a_004d.dds		ld		
+ld004a_000	models/pendant/weapon/ld004a.model	models/pendant/weapon/Textures/ld004a_000d.dds		zy		
+ld004a_001	models/pendant/weapon/ld004a.model	models/pendant/weapon/Textures/ld004a_001d.dds		zy		
+ld004a_002	models/pendant/weapon/ld004a.model	models/pendant/weapon/Textures/ld004a_002d.dds		zy		
+ld004a_003	models/pendant/weapon/ld004a.model	models/pendant/weapon/Textures/ld004a_003d.dds		zy		
+ld004a_004	models/pendant/weapon/ld004a.model	models/pendant/weapon/Textures/ld004a_004d.dds		zy		
+ld005a_000	models/pendant/weapon/ld005a.model	models/pendant/weapon/Textures/ld005a_000d.dds		zy		
+ld005a_001	models/pendant/weapon/ld005a.model	models/pendant/weapon/Textures/ld005a_001d.dds		zy		
+ld005a_002	models/pendant/weapon/ld005a.model	models/pendant/weapon/Textures/ld005a_002d.dds		zy		
+ld005a_003	models/pendant/weapon/ld005a.model	models/pendant/weapon/Textures/ld005a_003d.dds		zy		
+ld005a_004	models/pendant/weapon/ld005a.model	models/pendant/weapon/Textures/ld005a_004d.dds		zy		
+ld006a_000	models/pendant/weapon/ld006a.model	models/pendant/weapon/Textures/ld006a_000d.dds		zy		
+ld006a_001	models/pendant/weapon/ld006a.model	models/pendant/weapon/Textures/ld006a_001d.dds		zy		
+ld006a_002	models/pendant/weapon/ld006a.model	models/pendant/weapon/Textures/ld006a_002d.dds		zy		
+ld007a_000	models/pendant/weapon/ld007a.model	models/pendant/weapon/Textures/ld007a_000d.dds		zy		
+ld007a_001	models/pendant/weapon/ld007a.model	models/pendant/weapon/Textures/ld007a_001d.dds		zy		
+ld007a_002	models/pendant/weapon/ld007a.model	models/pendant/weapon/Textures/ld007a_002d.dds		zy		
+ld008a_000	models/pendant/weapon/ld008a.model	models/pendant/weapon/Textures/ld008a_000d.dds		zy		
+ld008a_001	models/pendant/weapon/ld008a.model	models/pendant/weapon/Textures/ld008a_001d.dds		zy		
+ld008a_002	models/pendant/weapon/ld008a.model	models/pendant/weapon/Textures/ld008a_002d.dds		zy		
+ld009a_000	models/pendant/weapon/ld009a.model	models/pendant/weapon/Textures/ld009a_000d.dds		zy		
+ld009a_001	models/pendant/weapon/ld009a.model	models/pendant/weapon/Textures/ld009a_001d.dds		zy		
+ld009a_002	models/pendant/weapon/ld009a.model	models/pendant/weapon/Textures/ld009a_002d.dds		zy		
+ld009a_002_ds			1.1	ds		
+ld009b_000				ld		
+ld010a_000	models/pendant/weapon/ld010a.model	models/pendant/weapon/Textures/ld010a_000d.dds		zy		
+ld010a_000orange				zy		
+ld010a_001	models/pendant/weapon/ld010a.model	models/pendant/weapon/Textures/ld010a_001d.dds		zy		
+ld010a_001_cb	models/pendant/weapon/ld010a.model	models/pendant/weapon/Textures/ld010a_001d.dds		cb		
+ld010a_001orange				zy		
+ld011a_000	models/pendant/weapon/ld011a.model	models/pendant/weapon/Textures/ld011a_000d.dds		zy		
+ld011a_000orange				zy		
+ld011a_001	models/pendant/weapon/ld011a.model	models/pendant/weapon/Textures/ld011a_001d.dds		zy		
+ld011a_001orange				zy		
+ld012a_000	models/pendant/weapon/ld012a.model	models/pendant/weapon/Textures/ld012a_000d.dds		zy		
+ld013a_000	models/pendant/weapon/ld013a.model	models/pendant/weapon/Textures/ld013a_000d.dds		zy		
+ld014a_000	models/pendant/weapon/ld014a.model	models/pendant/weapon/Textures/ld014a_000d.dds		zy		
+ld015a_000				zy		
+ld020a_000	models/pendant/weapon/ld020a.model	models/pendant/weapon/Textures/ld020a_000d.dds		zy		
+ld020a_001	models/pendant/weapon/ld020a.model	models/pendant/weapon/Textures/ld020a_001d.dds		zy		
+ld020a_002	models/pendant/weapon/ld020a.model	models/pendant/weapon/Textures/ld020a_002d.dds		zy		
+ld020a_003	models/pendant/weapon/ld020a.model	models/pendant/weapon/Textures/ld020a_003d.dds		zy		
+ld021a_000				zy		
+ld021a_001				zy		
+ld021a_002				zy		
+ld021a_003				zy		
+ld022a_000				zy		
+ld023a_000	models/pendant/weapon/ld023a.model	models/pendant/weapon/Textures/ld023a_000d.dds		zy		
+ld023a_001	models/pendant/weapon/ld023a.model	models/pendant/weapon/Textures/ld023a_001d.dds		zy		
+ld023a_002	models/pendant/weapon/ld023a.model	models/pendant/weapon/Textures/ld023a_002d.dds		zy		
+ld023a_003	models/pendant/weapon/ld023a.model	models/pendant/weapon/Textures/ld023a_003d.dds		zy		
+ld024a_000	models/pendant/weapon/ld024a.model	models/pendant/weapon/Textures/ld024a_000d.dds		zy		
+ld024a_001	models/pendant/weapon/ld024a.model	models/pendant/weapon/Textures/ld024a_001d.dds		zy		
+ld024a_002	models/pendant/weapon/ld024a.model	models/pendant/weapon/Textures/ld024a_002d.dds		zy		
+ld024a_003	models/pendant/weapon/ld024a.model	models/pendant/weapon/Textures/ld024a_003d.dds		zy		
+ld025a_000				zy		
+ld025a_001	models/pendant/weapon/ld025a.model	models/pendant/weapon/Textures/ld025a_001d.dds		zy		
+ld025a_002	models/pendant/weapon/ld025a.model	models/pendant/weapon/Textures/ld025a_002d.dds		zy		
+ld025a_003	models/pendant/weapon/ld025a.model	models/pendant/weapon/Textures/ld025a_003d.dds		zy		
+ld025a_004	models/pendant/weapon/ld025a.model	models/pendant/weapon/Textures/ld025a_004d.dds		zy		
+ld025a_005	models/pendant/weapon/ld025a.model	models/pendant/weapon/Textures/ld025a_005d.dds		zy		
+ld030a_000				zy		
+ld030a_001				zy		
+ld031a_000				zy		
+ld032a_000	models/pendant/weapon/ld032a.model	models/pendant/weapon/Textures/ld032a_000d.dds		zy		
+ld032a_001	models/pendant/weapon/ld032a.model	models/pendant/weapon/Textures/ld032a_001d.dds		zy		
+ld032a_002	models/pendant/weapon/ld032a.model	models/pendant/weapon/Textures/ld032a_002d.dds		zy		
+ld032a_003	models/pendant/weapon/ld032a.model	models/pendant/weapon/Textures/ld032a_003d.dds		zy		
+ld032a_004	models/pendant/weapon/ld032a.model	models/pendant/weapon/Textures/ld032a_004d.dds		zy		
+ld036a_000				zy		
+ld036a_001				zy		
+ld037a_000	models/pendant/weapon/ld037a.model	models/pendant/weapon/Textures/ld037a_000d.dds		zy		
+ld037a_001	models/pendant/weapon/ld037a.model	models/pendant/weapon/Textures/ld037a_001d.dds		zy		
+ld037a_002				zy		
+ld037a_003	models/pendant/weapon/ld037a.model	models/pendant/weapon/Textures/ld037a_003d.dds		zy		
+ld037a_004				zy		
+ld037a_005	models/pendant/weapon/ld037a.model	models/pendant/weapon/Textures/ld037a_005d.dds		zy		
+ld038a_000				zy		
+ld038a_001	models/pendant/weapon/ld038a.model	models/pendant/weapon/Textures/ld038a_001d.dds		zy		
+ld038a_002	models/pendant/weapon/ld038a.model	models/pendant/weapon/Textures/ld038a_002d.dds		zy		
+ld038a_003				zy		
+ld038a_004	models/pendant/weapon/ld038a.model	models/pendant/weapon/Textures/ld038a_004d.dds		zy		
+ld038a_005	models/pendant/weapon/ld038a.model	models/pendant/weapon/Textures/ld038a_005d.dds		zy		
+ld039a_000	models/pendant/weapon/ld039a.model	models/pendant/weapon/Textures/ld039a_000d.dds		zy		
+ld039a_001	models/pendant/weapon/ld039a.model	models/pendant/weapon/Textures/ld039a_001d.dds		zy		
+ld039a_002	models/pendant/weapon/ld039a.model	models/pendant/weapon/Textures/ld039a_002d.dds		zy		
+ld039a_003	models/pendant/weapon/ld039a.model	models/pendant/weapon/Textures/ld039a_003d.dds		zy		
+ld039a_004	models/pendant/weapon/ld039a.model	models/pendant/weapon/Textures/ld039a_004d.dds		zy		
+ld039a_005	models/pendant/weapon/ld039a.model	models/pendant/weapon/Textures/ld039a_005d.dds		zy		
+ld040a_000				zy		
+ld044a_000				zy		
+ld048a_000				zy		
+ld048a_001				zy		
+ld300a_000	models/pendant/weapon/ld300a.model	models/pendant/weapon/Textures/ld300a_000d.dds		ld		
+ld301_001				ld		
+ld301_002	models/pendant/weapon/ld301.model	models/pendant/weapon/Textures/ld300a_000d.dds		ld		
+ld302_001						
+ld302_002						
+ld303a_000	models/pendant/weapon/ld303a.model	models/pendant/weapon/Textures/ld303a_000d.dds		ld		
+ld601a_000	models/pendant/weapon/ld601a.model	models/pendant/weapon/Textures/ld601a_000d.dds		zy		
+ld602a_000	models/pendant/weapon/ld602a.model			zy		
+light_502_newyear_l1						
+light_502_newyear_l2						
+light_502_newyear_l3						
+mz301a_000	models/pendant/weapon/mz301a.model	models/pendant/weapon/Textures/mz301a_000d.dds		mz		
+mz302a_000	models/pendant/weapon/mz302a.model	models/pendant/weapon/Textures/mz302a_000d.dds		mz		
+mz303a_000	models/pendant/weapon/mz303a.model	models/pendant/weapon/Textures/mz303a_000d.dds		mz		
+mz304a_000	models/pendant/weapon/mz304a.model	models/pendant/weapon/Textures/mz304a_000d.dds		mz		
+mz304a_001	models/pendant/weapon/mz304a.model	models/pendant/weapon/Textures/mz304a_001d.dds		mz		
+mz304a_002	models/pendant/weapon/mz304a.model	models/pendant/weapon/Textures/mz304a_002d.dds		mz		
+mz304a_002_ghost				mz		
+mz304a_003	models/pendant/weapon/mz304a.model	models/pendant/weapon/Textures/mz304a_003d.dds		mz		
+mz304a_004	models/pendant/weapon/mz304a.model	models/pendant/weapon/Textures/mz304a_004d.dds		mz		
+mz305a_000	models/pendant/weapon/mz305a.model			mz		
+nil_cb	characters/nil/models/nil.model			cb		
+nil_claw	characters/nil/models/nil.model			cl		
+nil_ds	characters/nil/models/nil.model			ds		
+nil_ds02	characters/nil/models/nil.model			ds02		
+nil_ds038a_000				nil		
+nil_ds039a_000				nil		
+nil_ds040a_000				nil		
+nil_fz	characters/nil/models/nil.model			fz		
+nil_ks	characters/nil/models/nil.model			ks		
+nil_ks01	characters/nil/models/nil.model			ks01		
+nil_ks02	characters/nil/models/nil.model			ks02		
+nil_mz	characters/nil/models/nil.model			mz		
+nil_qr	characters/nil/models/nil.model			qr		
+nil_qt	characters/nil/models/nil.model			qt		
+nil_sd	characters/nil/models/nil.model			sd		
+nil_sh	characters/nil/models/nil.model			sh		
+nil_tg	characters/nil/models/nil.model			tg		
+nil_gn	characters/nil/models/nil.model			gn		
+qin000a_000	models/pendant/weapon/qin000a.model	models/pendant/weapon/Textures/qin000a_000d.dds		mf		
+qin000a_001	models/pendant/weapon/qin000a.model	models/pendant/weapon/Textures/qin000a_001d.dds		mf		
+qin000a_002	models/pendant/weapon/qin000a.model	models/pendant/weapon/Textures/qin000a_002d.dds		mf		
+qin000a_003	models/pendant/weapon/qin000a.model	models/pendant/weapon/Textures/qin000a_003d.dds		mf		
+qin001a_000	models/pendant/weapon/qin001a.model	models/pendant/weapon/Textures/qin001a_000d.dds		mf		
+qin001a_001	models/pendant/weapon/qin001a.model	models/pendant/weapon/Textures/qin001a_001d.dds		mf		
+qin001a_002	models/pendant/weapon/qin001a.model	models/pendant/weapon/Textures/qin001a_002d.dds		mf		
+qin001a_003	models/pendant/weapon/qin001a.model	models/pendant/weapon/Textures/qin001a_003d.dds		mf		
+qin001a_004	models/pendant/weapon/qin001a.model	models/pendant/weapon/Textures/qin001a_004d.dds		mf		
+qin002a_000	models/pendant/weapon/qin002a.model	models/pendant/weapon/Textures/qin002a_000d.dds		mf		
+qin002a_001	models/pendant/weapon/qin002a.model	models/pendant/weapon/Textures/qin002a_001d.dds		mf		
+qin002a_002	models/pendant/weapon/qin002a.model	models/pendant/weapon/Textures/qin002a_002d.dds		mf		
+qin002a_003	models/pendant/weapon/qin002a.model	models/pendant/weapon/Textures/qin002a_003d.dds		mf		
+qin002a_004	models/pendant/weapon/qin002a.model	models/pendant/weapon/Textures/qin002a_004d.dds		mf		
+qin003a_000	models/pendant/weapon/qin003a.model	models/pendant/weapon/Textures/qin003a_000d.dds		mf		
+qin003a_001	models/pendant/weapon/qin003a.model	models/pendant/weapon/Textures/qin003a_001d.dds		mf		
+qin003a_002	models/pendant/weapon/qin003a.model	models/pendant/weapon/Textures/qin003a_002d.dds		mf		
+qin003a_003	models/pendant/weapon/qin003a.model	models/pendant/weapon/Textures/qin003a_003d.dds		mf		
+qin003a_004	models/pendant/weapon/qin003a.model	models/pendant/weapon/Textures/qin003a_004d.dds		mf		
+qin004a_000	models/pendant/weapon/qin004a.model	models/pendant/weapon/Textures/qin004a_000d.dds		mf		
+qin004a_001	models/pendant/weapon/qin004a.model	models/pendant/weapon/Textures/qin004a_001d.dds		mf		
+qin004a_002	models/pendant/weapon/qin004a.model	models/pendant/weapon/Textures/qin004a_002d.dds		mf		
+qin004a_003	models/pendant/weapon/qin004a.model	models/pendant/weapon/Textures/qin004a_003d.dds		mf		
+qin004a_004	models/pendant/weapon/qin004a.model	models/pendant/weapon/Textures/qin004a_004d.dds		mf		
+qin005a_000	models/pendant/weapon/qin005a.model	models/pendant/weapon/Textures/qin005a_000d.dds		mf		
+qin005a_001	models/pendant/weapon/qin005a.model	models/pendant/weapon/Textures/qin005a_001d.dds		mf		
+qin005a_002	models/pendant/weapon/qin005a.model	models/pendant/weapon/Textures/qin005a_002d.dds		mf		
+qin005a_003	models/pendant/weapon/qin005a.model	models/pendant/weapon/Textures/qin005a_003d.dds		mf		
+qin005a_004	models/pendant/weapon/qin005a.model	models/pendant/weapon/Textures/qin005a_004d.dds		mf		
+qin006a_000	models/pendant/weapon/qin006a.model	models/pendant/weapon/Textures/qin006a_000d.dds		mf		
+qin006a_001	models/pendant/weapon/qin006a.model	models/pendant/weapon/Textures/qin006a_001d.dds		mf		
+qin006a_002	models/pendant/weapon/qin006a.model	models/pendant/weapon/Textures/qin006a_002d.dds		mf		
+qin007a_000	models/pendant/weapon/qin007a.model	models/pendant/weapon/Textures/qin007a_000d.dds		mf		
+qin007a_001	models/pendant/weapon/qin007a.model	models/pendant/weapon/Textures/qin007a_001d.dds		mf		
+qin007a_002	models/pendant/weapon/qin007a.model	models/pendant/weapon/Textures/qin007a_002d.dds		mf		
+qin008a_000	models/pendant/weapon/qin008a.model	models/pendant/weapon/Textures/qin008a_000d.dds		mf		
+qin008a_001	models/pendant/weapon/qin008a.model	models/pendant/weapon/Textures/qin008a_001d.dds		mf		
+qin008a_002	models/pendant/weapon/qin008a.model	models/pendant/weapon/Textures/qin008a_002d.dds		mf		
+qin008a_002orange				mf		
+qin009a_000	models/pendant/weapon/qin009a.model	models/pendant/weapon/Textures/qin009a_000d.dds		mf		
+qin009a_001	models/pendant/weapon/qin009a.model	models/pendant/weapon/Textures/qin009a_001d.dds		mf		
+qin009a_002	models/pendant/weapon/qin009a.model	models/pendant/weapon/Textures/qin009a_002d.dds		mf		
+qin010a_000	models/pendant/weapon/qin010a.model	models/pendant/weapon/Textures/qin010a_000d.dds		mf		
+qin010a_000orange				mf		
+qin010a_001	models/pendant/weapon/qin010a.model	models/pendant/weapon/Textures/qin010a_001d.dds		mf		
+qin010a_001orange				mf		
+qin011a_000	models/pendant/weapon/qin011a.model	models/pendant/weapon/Textures/qin011a_000d.dds		mf		
+qin011a_000orange				mf		
+qin011a_001	models/pendant/weapon/qin011a.model	models/pendant/weapon/Textures/qin011a_001d.dds		mf		
+qin011a_001orange				mf		
+qin011a_002	models/pendant/weapon/qin011a.model	models/pendant/weapon/Textures/qin011a_002d.dds		mf		
+qin012a_000	models/pendant/weapon/qin012a.model	models/pendant/weapon/Textures/qin012a_000d.dds		mf		
+qin013a_000	models/pendant/weapon/qin013a.model	models/pendant/weapon/Textures/qin013a_000d.dds		mf		
+qin014a_000				mf		
+qin015a_000				mf		
+qin020a_000	models/pendant/weapon/qin020a.model	models/pendant/weapon/Textures/qin020a_000d.dds		mf		
+qin020a_001	models/pendant/weapon/qin020a.model	models/pendant/weapon/Textures/qin020a_001d.dds		mf		
+qin020a_002	models/pendant/weapon/qin020a.model	models/pendant/weapon/Textures/qin020a_002d.dds		mf		
+qin020a_003	models/pendant/weapon/qin020a.model	models/pendant/weapon/Textures/qin020a_003d.dds		mf		
+qin021a_000				mf		
+qin021a_001				mf		
+qin021a_002				mf		
+qin021a_003				mf		
+qin022a_000	models/pendant/weapon/qin022a.model	models/pendant/weapon/Textures/qin022a_000d.dds		mf		
+qin023a_000	models/pendant/weapon/qin023a.model	models/pendant/weapon/Textures/qin023a_000d.dds		mf		
+qin023a_001	models/pendant/weapon/qin023a.model	models/pendant/weapon/Textures/qin023a_001d.dds		mf		
+qin023a_002	models/pendant/weapon/qin023a.model	models/pendant/weapon/Textures/qin023a_002d.dds		mf		
+qin023a_003	models/pendant/weapon/qin023a.model	models/pendant/weapon/Textures/qin023a_003d.dds		mf		
+qin023a_003_boss				boss		
+qin024a_000	models/pendant/weapon/qin024a.model	models/pendant/weapon/Textures/qin024a_000d.dds		mf		
+qin024a_001	models/pendant/weapon/qin024a.model	models/pendant/weapon/Textures/qin024a_001d.dds		mf		
+qin024a_002	models/pendant/weapon/qin024a.model	models/pendant/weapon/Textures/qin024a_002d.dds		mf		
+qin024a_003	models/pendant/weapon/qin024a.model	models/pendant/weapon/Textures/qin024a_003d.dds		mf		
+qin025a_000				mf		
+qin025a_001	models/pendant/weapon/qin025a.model	models/pendant/weapon/Textures/qin025a_001d.dds		mf		
+qin025a_002	models/pendant/weapon/qin025a.model	models/pendant/weapon/Textures/qin025a_002d.dds		mf		
+qin025a_003	models/pendant/weapon/qin025a.model	models/pendant/weapon/Textures/qin025a_003d.dds		mf		
+qin025a_004	models/pendant/weapon/qin025a.model	models/pendant/weapon/Textures/qin025a_004d.dds		mf		
+qin025a_005	models/pendant/weapon/qin025a.model	models/pendant/weapon/Textures/qin025a_005d.dds		mf		
+qin030a_000				mf		
+qin030a_001				mf		
+qin031a_000				mf		
+qin032a_000	models/pendant/weapon/qin032a.model	models/pendant/weapon/Textures/qin032a_000d.dds		mf		
+qin032a_001	models/pendant/weapon/qin032a.model	models/pendant/weapon/Textures/qin032a_001d.dds		mf		
+qin032a_002	models/pendant/weapon/qin032a.model	models/pendant/weapon/Textures/qin032a_002d.dds		mf		
+qin032a_003	models/pendant/weapon/qin032a.model	models/pendant/weapon/Textures/qin032a_003d.dds		mf		
+qin032a_004	models/pendant/weapon/qin032a.model	models/pendant/weapon/Textures/qin032a_004d.dds		mf		
+qin036a_000				mf		
+qin036a_001				mf		
+qin037a_000	models/pendant/weapon/qin037a.model	models/pendant/weapon/Textures/qin037a_000d.dds		mf		
+qin037a_001	models/pendant/weapon/qin037a.model	models/pendant/weapon/Textures/qin037a_001d.dds		mf		
+qin037a_002				mf		
+qin037a_003	models/pendant/weapon/qin037a.model	models/pendant/weapon/Textures/qin037a_003d.dds		mf		
+qin037a_004				mf		
+qin037a_005	models/pendant/weapon/qin037a.model	models/pendant/weapon/Textures/qin037a_005d.dds		mf		
+qin038a_000				mf		
+qin038a_001	models/pendant/weapon/qin038a.model	models/pendant/weapon/Textures/qin038a_001d.dds		mf		
+qin038a_002	models/pendant/weapon/qin038a.model	models/pendant/weapon/Textures/qin038a_002d.dds		mf		
+qin038a_003				mf		
+qin038a_004	models/pendant/weapon/qin038a.model	models/pendant/weapon/Textures/qin038a_004d.dds		mf		
+qin038a_005	models/pendant/weapon/qin038a.model	models/pendant/weapon/Textures/qin038a_005d.dds		mf		
+qin039a_000	models/pendant/weapon/qin039a.model	models/pendant/weapon/Textures/qin039a_000d.dds		mf		
+qin039a_001	models/pendant/weapon/qin039a.model	models/pendant/weapon/Textures/qin039a_001d.dds		mf		
+qin039a_002	models/pendant/weapon/qin039a.model	models/pendant/weapon/Textures/qin039a_002d.dds		mf		
+qin039a_003	models/pendant/weapon/qin039a.model	models/pendant/weapon/Textures/qin039a_003d.dds		mf		
+qin039a_004	models/pendant/weapon/qin039a.model	models/pendant/weapon/Textures/qin039a_004d.dds		mf		
+qin039a_005	models/pendant/weapon/qin039a.model	models/pendant/weapon/Textures/qin039a_005d.dds		mf		
+qin040a_000				mf		
+qin044a_000				mf		
+qin048a_000				mf		
+qin048a_001				mf		
+qin601a_000	models/pendant/weapon/qin601a.model	models/pendant/weapon/Textures/qin601a_000d.dds		mf		
+qin601a_000_boss	models/pendant/weapon/qin601a.model	models/pendant/weapon/Textures/qin601a_000d.dds		boss		
+qin602a_000	models/pendant/weapon/qin602a.model			mf		
+qr308a_000	models/pendant/weapon/qr308a.model	models/pendant/weapon/Textures/qr308a_000d.dds		qr		
+qr308a_000_boss			1.6	qr		
+qr308a_000_ghost				qr		
+san000a_000				san		
+sb300a_000	models/pendant/weapon/sb300a.model	models/pendant/weapon/Textures/sb300a_000d.dds		sb		
+sb303a_000	models/pendant/weapon/sb303a.model	models/pendant/weapon/Textures/sb303a_000d.dds		sb		
+sb308a_000	models/pendant/weapon/sb308a.model	models/pendant/weapon/Textures/sb308a_000d.dds		sb		
+sh300a_000	models/pendant/weapon/sh300a.model			sh		
+sh300a_000d	models/pendant/weapon/sh300a.model	models/pendant/weapon/Textures/sh300a_000d.dds		sh		
+sj301a_000				sj		
+sj301b_000				sj		
+spear_001a_01				cb		
+spear_002a_01				cb		
+spear_005a_001	models/pendant/weapon/spear_005a.model			cb		
+spear_006a_01				cb		
+ss_ds016a_000	models/pendant/weapon/ds016a.model		1.5	ss		
+ss000a_000	models/pendant/weapon/ss000a.model	models/pendant/weapon/Textures/ss000a_000d.dds		zf		
+ss000a_001	models/pendant/weapon/ss000a.model	models/pendant/weapon/Textures/ss000a_001d.dds		zf		
+ss000a_002	models/pendant/weapon/ss000a.model	models/pendant/weapon/Textures/ss000a_002d.dds		zf		
+ss000a_003	models/pendant/weapon/ss000a.model	models/pendant/weapon/Textures/ss000a_003d.dds		zf		
+ss001a_000	models/pendant/weapon/ss001a.model	models/pendant/weapon/Textures/ss001a_000d.dds		zf		
+ss001a_001	models/pendant/weapon/ss001a.model	models/pendant/weapon/Textures/ss001a_001d.dds		zf		
+ss001a_002	models/pendant/weapon/ss001a.model	models/pendant/weapon/Textures/ss001a_002d.dds		zf		
+ss001a_003	models/pendant/weapon/ss001a.model	models/pendant/weapon/Textures/ss001a_003d.dds		zf		
+ss001a_004	models/pendant/weapon/ss001a.model	models/pendant/weapon/Textures/ss001a_004d.dds		zf		
+ss002a_000	models/pendant/weapon/ss002a.model	models/pendant/weapon/Textures/ss002a_000d.dds		zf		
+ss002a_001	models/pendant/weapon/ss002a.model	models/pendant/weapon/Textures/ss002a_001d.dds		zf		
+ss002a_002	models/pendant/weapon/ss002a.model	models/pendant/weapon/Textures/ss002a_002d.dds		zf		
+ss002a_003	models/pendant/weapon/ss002a.model	models/pendant/weapon/Textures/ss002a_003d.dds		zf		
+ss002a_004	models/pendant/weapon/ss002a.model	models/pendant/weapon/Textures/ss002a_004d.dds		zf		
+ss003a_000	models/pendant/weapon/ss003a.model	models/pendant/weapon/Textures/ss003a_000d.dds		zf		
+ss003a_001	models/pendant/weapon/ss003a.model	models/pendant/weapon/Textures/ss003a_001d.dds		zf		
+ss003a_002	models/pendant/weapon/ss003a.model	models/pendant/weapon/Textures/ss003a_002d.dds		zf		
+ss003a_003	models/pendant/weapon/ss003a.model	models/pendant/weapon/Textures/ss003a_003d.dds		zf		
+ss003a_004	models/pendant/weapon/ss003a.model	models/pendant/weapon/Textures/ss003a_004d.dds		zf		
+ss004a_000	models/pendant/weapon/ss004a.model	models/pendant/weapon/Textures/ss004a_000d.dds		zf		
+ss004a_001	models/pendant/weapon/ss004a.model	models/pendant/weapon/Textures/ss004a_001d.dds		zf		
+ss004a_002	models/pendant/weapon/ss004a.model	models/pendant/weapon/Textures/ss004a_002d.dds		zf		
+ss004a_003	models/pendant/weapon/ss004a.model	models/pendant/weapon/Textures/ss004a_003d.dds		zf		
+ss004a_004	models/pendant/weapon/ss004a.model	models/pendant/weapon/Textures/ss004a_004d.dds		zf		
+ss005a_000	models/pendant/weapon/ss005a.model	models/pendant/weapon/Textures/ss005a_000d.dds		zf		
+ss005a_001	models/pendant/weapon/ss005a.model	models/pendant/weapon/Textures/ss005a_001d.dds		zf		
+ss005a_002	models/pendant/weapon/ss005a.model	models/pendant/weapon/Textures/ss005a_002d.dds		zf		
+ss005a_003	models/pendant/weapon/ss005a.model	models/pendant/weapon/Textures/ss005a_003d.dds		zf		
+ss005a_004	models/pendant/weapon/ss005a.model	models/pendant/weapon/Textures/ss005a_004d.dds		zf		
+ss006a_000	models/pendant/weapon/ss006a.model	models/pendant/weapon/Textures/ss006a_000d.dds		zf		
+ss006a_001	models/pendant/weapon/ss006a.model	models/pendant/weapon/Textures/ss006a_001d.dds		zf		
+ss006a_002	models/pendant/weapon/ss006a.model	models/pendant/weapon/Textures/ss006a_002d.dds		zf		
+ss007a_000	models/pendant/weapon/ss007a.model	models/pendant/weapon/Textures/ss007a_000d.dds		zf		
+ss007a_001	models/pendant/weapon/ss007a.model	models/pendant/weapon/Textures/ss007a_001d.dds		zf		
+ss007a_002	models/pendant/weapon/ss007a.model	models/pendant/weapon/Textures/ss007a_002d.dds		zf		
+ss008a_000	models/pendant/weapon/ss008a.model	models/pendant/weapon/Textures/ss008a_000d.dds		zf		
+ss008a_000_ss01	models/pendant/weapon/ss008a.model	models/pendant/weapon/Textures/ss008a_000d.dds		ss01		
+ss008a_001	models/pendant/weapon/ss008a.model	models/pendant/weapon/Textures/ss008a_001d.dds		zf		
+ss008a_002	models/pendant/weapon/ss008a.model	models/pendant/weapon/Textures/ss008a_002d.dds		zf		
+ss009a_000	models/pendant/weapon/ss009a.model	models/pendant/weapon/Textures/ss009a_000d.dds		zf		
+ss009a_000orange				zf		
+ss009a_001	models/pendant/weapon/ss009a.model	models/pendant/weapon/Textures/ss009a_001d.dds		zf		
+ss009a_002	models/pendant/weapon/ss009a.model	models/pendant/weapon/Textures/ss009a_002d.dds		zf		
+ss009a_002orange				zf		
+ss010a_000	models/pendant/weapon/ss010a.model	models/pendant/weapon/Textures/ss010a_000d.dds		zf		
+ss010a_000orange				zf		
+ss010a_001	models/pendant/weapon/ss010a.model	models/pendant/weapon/Textures/ss010a_001d.dds		zf		
+ss010a_001_sj	models/pendant/weapon/ss010a.model	models/pendant/weapon/Textures/ss010a_001d.dds	0.5	sj		
+ss010a_001_ss	models/pendant/weapon/ss010a.model	models/pendant/weapon/Textures/ss010a_001d.dds		ss		
+ss010a_001orange				zf		
+ss010a_002_ds				ds		
+ss010a_002_sj			0.5	sj		
+ss011a_000	models/pendant/weapon/ss011a.model	models/pendant/weapon/Textures/ss011a_000d.dds		zf		
+ss011a_000orange				zf		
+ss011a_001	models/pendant/weapon/ss011a.model	models/pendant/weapon/Textures/ss011a_001d.dds		zf		
+ss011a_001orange				zf		
+ss012a_000	models/pendant/weapon/ss012a.model	models/pendant/weapon/Textures/ss012a_000d.dds		zf		
+ss013a_000	models/pendant/weapon/ss013a.model	models/pendant/weapon/Textures/ss013a_000d.dds		zf		
+ss013a_000orange				zf		
+ss018a_000				zf		
+ss019a_000				zf		
+ss020a_000	models/pendant/weapon/ss020a.model	models/pendant/weapon/Textures/ss020a_000d.dds		zf		
+ss020a_001	models/pendant/weapon/ss020a.model	models/pendant/weapon/Textures/ss020a_001d.dds		zf		
+ss020a_002	models/pendant/weapon/ss020a.model	models/pendant/weapon/Textures/ss020a_002d.dds		zf		
+ss020a_003	models/pendant/weapon/ss020a.model	models/pendant/weapon/Textures/ss020a_003d.dds		zf		
+ss021a_000				zf		
+ss021a_001				zf		
+ss021a_002				zf		
+ss021a_003				zf		
+ss022a_000	models/pendant/weapon/ss022a.model	models/pendant/weapon/Textures/ss022a_000d.dds		zf		
+ss023a_000	models/pendant/weapon/ss023a.model	models/pendant/weapon/Textures/ss023a_000d.dds		zf		
+ss023a_001	models/pendant/weapon/ss023a.model	models/pendant/weapon/Textures/ss023a_001d.dds		zf		
+ss023a_002	models/pendant/weapon/ss023a.model	models/pendant/weapon/Textures/ss023a_002d.dds		zf		
+ss023a_003	models/pendant/weapon/ss023a.model	models/pendant/weapon/Textures/ss023a_003d.dds		zf		
+ss023a_003_boss				ss01		
+ss023a_003_buff				ss01		
+ss024a_000	models/pendant/weapon/ss024a.model	models/pendant/weapon/Textures/ss024a_000d.dds		zf		
+ss024a_001	models/pendant/weapon/ss024a.model	models/pendant/weapon/Textures/ss024a_001d.dds		zf		
+ss024a_002	models/pendant/weapon/ss024a.model	models/pendant/weapon/Textures/ss024a_002d.dds		zf		
+ss024a_003	models/pendant/weapon/ss024a.model	models/pendant/weapon/Textures/ss024a_003d.dds		zf		
+ss025a_000				zf		
+ss025a_001	models/pendant/weapon/ss025a.model	models/pendant/weapon/Textures/ss025a_001d.dds		zf		
+ss025a_002	models/pendant/weapon/ss025a.model	models/pendant/weapon/Textures/ss025a_002d.dds		zf		
+ss025a_003	models/pendant/weapon/ss025a.model	models/pendant/weapon/Textures/ss025a_003d.dds		zf		
+ss025a_004	models/pendant/weapon/ss025a.model	models/pendant/weapon/Textures/ss025a_004d.dds		zf		
+ss025a_005	models/pendant/weapon/ss025a.model	models/pendant/weapon/Textures/ss025a_005d.dds		zf		
+ss030a_000				zf		
+ss030a_001				zf		
+ss031a_000				zf		
+ss032a_000	models/pendant/weapon/ss032a.model	models/pendant/weapon/Textures/ss032a_000d.dds		zf		
+ss032a_001	models/pendant/weapon/ss032a.model	models/pendant/weapon/Textures/ss032a_001d.dds		zf		
+ss032a_002	models/pendant/weapon/ss032a.model	models/pendant/weapon/Textures/ss032a_002d.dds		zf		
+ss032a_003	models/pendant/weapon/ss032a.model	models/pendant/weapon/Textures/ss032a_003d.dds		zf		
+ss032a_004	models/pendant/weapon/ss032a.model	models/pendant/weapon/Textures/ss032a_004d.dds		zf		
+ss036a_000				zf		
+ss036a_001				zf		
+ss037a_000	models/pendant/weapon/ss037a.model	models/pendant/weapon/Textures/ss037a_000d.dds		zf		
+ss037a_001	models/pendant/weapon/ss037a.model	models/pendant/weapon/Textures/ss037a_001d.dds		zf		
+ss037a_002				zf		
+ss037a_003	models/pendant/weapon/ss037a.model	models/pendant/weapon/Textures/ss037a_003d.dds		zf		
+ss037a_004				zf		
+ss037a_005	models/pendant/weapon/ss037a.model	models/pendant/weapon/Textures/ss037a_005d.dds		zf		
+ss038a_000				zf		
+ss038a_001	models/pendant/weapon/ss038a.model	models/pendant/weapon/Textures/ss038a_001d.dds		zf		
+ss038a_002	models/pendant/weapon/ss038a.model	models/pendant/weapon/Textures/ss038a_002d.dds		zf		
+ss038a_003				zf		
+ss038a_004	models/pendant/weapon/ss038a.model	models/pendant/weapon/Textures/ss038a_004d.dds		zf		
+ss038a_005	models/pendant/weapon/ss038a.model	models/pendant/weapon/Textures/ss038a_005d.dds		zf		
+ss039a_000	models/pendant/weapon/ss039a.model	models/pendant/weapon/Textures/ss039a_000d.dds		zf		
+ss039a_001	models/pendant/weapon/ss039a.model	models/pendant/weapon/Textures/ss039a_001d.dds		zf		
+ss039a_002	models/pendant/weapon/ss039a.model	models/pendant/weapon/Textures/ss039a_002d.dds		zf		
+ss039a_003	models/pendant/weapon/ss039a.model	models/pendant/weapon/Textures/ss039a_003d.dds		zf		
+ss039a_004	models/pendant/weapon/ss039a.model	models/pendant/weapon/Textures/ss039a_004d.dds		zf		
+ss039a_005	models/pendant/weapon/ss039a.model	models/pendant/weapon/Textures/ss039a_005d.dds		zf		
+ss040a_000				zf		
+ss044a_000				zf		
+ss048a_000				zf		
+ss048a_001				zf		
+ss200a_000	models/pendant/weapon/ss200a.model	models/pendant/weapon/Textures/ss200a_000d.dds		zf		
+ss201a_000	models/pendant/weapon/ss201a.model			zf		
+ss300a_000	models/pendant/weapon/ss300a.model	models/pendant/weapon/Textures/ss300a_000d.dds		ss		
+ss300a_000_ghost				ss		
+ss301a_000	models/pendant/weapon/ss301a.model			ss		
+ss302a_000	models/pendant/weapon/ss302a.model	models/pendant/weapon/Textures/ss302a_000d.dds		ss		
+ss302a_000_sd	models/pendant/weapon/ss302a.model	models/pendant/weapon/Textures/ss302a_000d.dds		sd		
+ss303a_000	models/pendant/weapon/ss303a.model	models/pendant/weapon/Textures/ss303a_000d.dds		ss		
+ss304_000	models/pendant/weapon/ss304.model			zf		
+ss304_001	models/pendant/weapon/ss304.model	models/pendant/weapon/Textures/ss304_001d.dds		zf		
+ss304_001_boss	models/pendant/weapon/ss304.model	models/pendant/weapon/Textures/ss304_001d.dds		boss		
+ss306a_000	models/pendant/weapon/ss306a.model		0.5	ss		
+ss307a_000	models/pendant/weapon/ss307a.model	models/pendant/weapon/Textures/ss307a_000d.dds		ss		
+ss307a_001	models/pendant/weapon/ss307a.model	models/pendant/weapon/Textures/ss307a_001d.dds		ss		
+ss307a_002	models/pendant/weapon/ss307a.model	models/pendant/weapon/Textures/ss307a_002d.dds		ss		
+ss307a_003	models/pendant/weapon/ss307a.model	models/pendant/weapon/Textures/ss307a_003d.dds		ss		
+ss307a_000_sd	models/pendant/weapon/ss307a.model	models/pendant/weapon/Textures/ss307a_000d.dds		sd		
+ss307a_001_sd	models/pendant/weapon/ss307a.model	models/pendant/weapon/Textures/ss307a_001d.dds		sd		
+ss307a_002_sd	models/pendant/weapon/ss307a.model	models/pendant/weapon/Textures/ss307a_002d.dds		sd		
+ss307a_003_sd	models/pendant/weapon/ss307a.model	models/pendant/weapon/Textures/ss307a_003d.dds		sd		
+ss601a_000	models/pendant/weapon/ss601a.model	models/pendant/weapon/Textures/ss601a_000d.dds		zf		
+ss601a_000_ss01	models/pendant/weapon/ss601a.model	models/pendant/weapon/Textures/ss601a_000d.dds		ss01		
+ss602a_000	models/pendant/weapon/ss602a.model			zf		
+st_010c_eff				tg		
+st_010c_eff_1				tg		
+st_010c_eff_2				tg		
+st_021a_eff				tg		
+st_021a_eff_1				tg		
+st_021a_eff_2				tg		
+st_023a_eff				tg		
+st_023a_eff_1				tg		
+st_023a_eff_2				tg		
+st000a_000				tg		
+st000a_000_1				tg		
+st000a_000_2				tg		
+st000a_001				tg		
+st000a_001_1				tg		
+st000a_001_2				tg		
+st000a_002				tg		
+st000a_002_1				tg		
+st000a_002_2				tg		
+st000a_003				tg		
+st000a_003_1				tg		
+st000a_003_2				tg		
+st001a_000				tg		
+st001a_000_1				tg		
+st001a_000_2				tg		
+st001a_001				tg		
+st001a_001_1				tg		
+st001a_001_2				tg		
+st001a_002				tg		
+st001a_002_1				tg		
+st001a_002_2				tg		
+st001a_003				tg		
+st001a_003_1				tg		
+st001a_003_2				tg		
+st001a_004				tg		
+st001a_004_1				tg		
+st001a_004_2				tg		
+st002a_000				tg		
+st002a_000_1				tg		
+st002a_000_2				tg		
+st002a_001				tg		
+st002a_001_1				tg		
+st002a_001_2				tg		
+st002a_002				tg		
+st002a_002_1				tg		
+st002a_002_2				tg		
+st002a_003				tg		
+st002a_003_1				tg		
+st002a_003_2				tg		
+st002a_004				tg		
+st002a_004_1				tg		
+st002a_004_2				tg		
+st003a_000				tg		
+st003a_000_1				tg		
+st003a_000_2				tg		
+st003a_001				tg		
+st003a_001_1				tg		
+st003a_001_2				tg		
+st003a_002				tg		
+st003a_002_1				tg		
+st003a_002_2				tg		
+st003a_003				tg		
+st003a_003_1				tg		
+st003a_003_2				tg		
+st003a_004				tg		
+st003a_004_1				tg		
+st003a_004_2				tg		
+st004a_000				tg		
+st004a_000_1				tg		
+st004a_000_2				tg		
+st004a_001				tg		
+st004a_001_1				tg		
+st004a_001_2				tg		
+st004a_002				tg		
+st004a_002_1				tg		
+st004a_002_2				tg		
+st004a_003				tg		
+st004a_003_1				tg		
+st004a_003_2				tg		
+st004a_004				tg		
+st004a_004_1				tg		
+st004a_004_2				tg		
+st005a_000				tg		
+st005a_000_1				tg		
+st005a_000_2				tg		
+st005a_001				tg		
+st005a_001_1				tg		
+st005a_001_2				tg		
+st005a_002				tg		
+st005a_002_1				tg		
+st005a_002_2				tg		
+st005a_003				tg		
+st005a_003_1				tg		
+st005a_003_2				tg		
+st005a_004				tg		
+st005a_004_1				tg		
+st005a_004_2				tg		
+st006a_000				tg		
+st006a_000_1				tg		
+st006a_000_2				tg		
+st006a_001				tg		
+st006a_001_1				tg		
+st006a_001_2				tg		
+st006a_002				tg		
+st006a_002_1				tg		
+st006a_002_2				tg		
+st007a_000				tg		
+st007a_000_1				tg		
+st007a_000_2				tg		
+st007a_001				tg		
+st007a_001_1				tg		
+st007a_001_2				tg		
+st007a_002				tg		
+st007a_002_1				tg		
+st007a_002_2				tg		
+st008a_000				tg		
+st008a_000_1				tg		
+st008a_000_2				tg		
+st008a_001				tg		
+st008a_001_1				tg		
+st008a_001_2				tg		
+st008a_002				tg		
+st008a_002_1				tg		
+st008a_002_2				tg		
+st009a_000				tg		
+st009a_000_1				tg		
+st009a_000_2				tg		
+st009a_001				tg		
+st009a_001_1				tg		
+st009a_001_2				tg		
+st009a_002				tg		
+st009a_002_1				tg		
+st009a_002_2				tg		
+st010a_000				tg		
+st010a_000_1				tg		
+st010a_000_2				tg		
+st010a_000orange				tg		
+st010a_000orange_1				tg		
+st010a_000orange_2				tg		
+st010a_001				tg		
+st010a_001_1				tg		
+st010a_001_2				tg		
+st010a_001orange				tg		
+st010a_001orange_1				tg		
+st010a_001orange_2				tg		
+st011a_000orange				tg		
+st011a_000orange_1				tg		
+st011a_000orange_2				tg		
+st011a_001orange				tg		
+st011a_001orange_1				tg		
+st011a_001orange_2				tg		
+st012a_000				tg		
+st012a_000_1				tg		
+st012a_000_2				tg		
+st013a_000				tg		
+st013a_000_1				tg		
+st013a_000_2				tg		
+st013a_000orange				tg		
+st013a_000orange_1				tg		
+st013a_000orange_2				tg		
+st013a_001orange				tg		
+st013a_001orange_1				tg		
+st013a_001orange_2				tg		
+st014a_000				tg		
+st014a_000_1				tg		
+st014a_000_2				tg		
+st015a_000				tg		
+st015a_000_1				tg		
+st015a_000_2				tg		
+st020a_000				tg		
+st020a_000_1				tg		
+st020a_000_2				tg		
+st020a_001				tg		
+st020a_001_1				tg		
+st020a_001_2				tg		
+st020a_002				tg		
+st020a_002_1				tg		
+st020a_002_2				tg		
+st020a_003				tg		
+st020a_003_1				tg		
+st020a_003_2				tg		
+st021a_000				tg		
+st021a_000_1				tg		
+st021a_000_2				tg		
+st021a_001				tg		
+st021a_001_1				tg		
+st021a_001_2				tg		
+st021a_002				tg		
+st021a_002_1				tg		
+st021a_002_2				tg		
+st021a_003				tg		
+st021a_003_1				tg		
+st021a_003_2				tg		
+st022a_000				tg		
+st022a_000_1				tg		
+st022a_000_2				tg		
+st023a_000				tg		
+st023a_000_1				tg		
+st023a_000_2				tg		
+st023a_001				tg		
+st023a_001_1				tg		
+st023a_001_2				tg		
+st023a_002				tg		
+st023a_002_1				tg		
+st023a_002_2				tg		
+st023a_002_long				hrtg		
+st023a_003				tg		
+st023a_003_1				tg		
+st023a_003_2				tg		
+st023a_003_long				hrtg		
+st023a_1_003				hrtg		
+st023a_2_003				hrtg		
+st024a_000				tg		
+st024a_000_1				tg		
+st024a_000_2				tg		
+st024a_001				tg		
+st024a_001_1				tg		
+st024a_001_2				tg		
+st024a_002				tg		
+st024a_002_1				tg		
+st024a_002_2				tg		
+st024a_003				tg		
+st024a_003_1				tg		
+st024a_003_2				tg		
+st025a_000				tg		
+st025a_000_1				tg		
+st025a_000_2				tg		
+st025a_001				tg		
+st025a_001_1				tg		
+st025a_001_2				tg		
+st025a_002				tg		
+st025a_002_1				tg		
+st025a_002_2				tg		
+st025a_003				tg		
+st025a_003_1				tg		
+st025a_003_2				tg		
+st025a_004				tg		
+st025a_004_1				tg		
+st025a_004_2				tg		
+st025a_005				tg		
+st025a_005_1				tg		
+st025a_005_2				tg		
+st030a_000				tg		
+st030a_000_1				tg		
+st030a_000_2				tg		
+st030a_001				tg		
+st030a_001_1				tg		
+st030a_001_2				tg		
+st031a_000				tg		
+st031a_000_1				tg		
+st031a_000_2				tg		
+st032a_000				tg		
+st032a_000_1				tg		
+st032a_000_2				tg		
+st032a_001				tg		
+st032a_001_1				tg		
+st032a_001_2				tg		
+st032a_002				tg		
+st032a_002_1				tg		
+st032a_002_2				tg		
+st032a_003				tg		
+st032a_003_1				tg		
+st032a_003_2				tg		
+st032a_004				tg		
+st032a_004_1				tg		
+st032a_004_2				tg		
+st036a_000				tg		
+st036a_000_1				tg		
+st036a_000_2				tg		
+st036a_001				tg		
+st036a_001_1				tg		
+st036a_001_2				tg		
+st037a_000				tg		
+st037a_000_1				tg		
+st037a_000_2				tg		
+st037a_001				tg		
+st037a_001_1				tg		
+st037a_001_2				tg		
+st037a_002				tg		
+st037a_002_1				tg		
+st037a_002_2				tg		
+st037a_003				tg		
+st037a_003_1				tg		
+st037a_003_2				tg		
+st037a_004				tg		
+st037a_004_1				tg		
+st037a_004_2				tg		
+st037a_005				tg		
+st037a_005_1				tg		
+st037a_005_2				tg		
+st038a_000				tg		
+st038a_000_1				tg		
+st038a_000_2				tg		
+st038a_001				tg		
+st038a_001_1				tg		
+st038a_001_2				tg		
+st038a_002				tg		
+st038a_002_1				tg		
+st038a_002_2				tg		
+st038a_003				tg		
+st038a_003_1				tg		
+st038a_003_2				tg		
+st038a_004				tg		
+st038a_004_1				tg		
+st038a_004_2				tg		
+st038a_005				tg		
+st038a_005_1				tg		
+st038a_005_2				tg		
+st039a_000				tg		
+st039a_000_1				tg		
+st039a_000_2				tg		
+st039a_001				tg		
+st039a_001_1				tg		
+st039a_001_2				tg		
+st039a_002				tg		
+st039a_002_1				tg		
+st039a_002_2				tg		
+st039a_003				tg		
+st039a_003_1				tg		
+st039a_003_2				tg		
+st039a_004				tg		
+st039a_004_1				tg		
+st039a_004_2				tg		
+st039a_005				tg		
+st039a_005_1				tg		
+st039a_005_2				tg		
+st040a_000				tg		
+st040a_000_1				tg		
+st040a_000_2				tg		
+st044a_000				tg		
+st044a_000_1				tg		
+st044a_000_2				tg		
+st048a_000				tg		
+st048a_000_1				tg		
+st048a_000_2				tg		
+st048a_001				tg		
+st048a_001_1				tg		
+st048a_001_2				tg		
+st200a_1	models/pendant/weapon/st200a_1.model					
+st200a_long	models/pendant/weapon/st200a_long.model			tg		
+st200a_long_hrtg	models/pendant/weapon/st200a_long.model			hrtg		
+st203a_000				tg		
+st203a_000_cb				cb		
+st601a_000				tg		
+st601a_000_1				tg		
+st601a_000_2				tg		
+st602a_000				tg		
+st602a_000_1				tg		
+st602a_000_2				tg		
+stick_001a_01						
+sword_005a_01				ds		
+sword_006a_01	models/pendant/weapon/sword_006a.model			ds		
+sz316a_000	models/pendant/weapon/sz316a.model			sz		
+sz317a_000	models/pendant/weapon/sz317a.model			sz		
+sz317a_000_boss			1.4	sz		
+sz317a_000_hml			1.4	sz		
+sz317a_fbirdman_queen				sz		
+sz318a_000				sz		
+sz318a_001				sz		
+wd000a_000_a	models/pendant/weapon/wd000a_a.model			wd01		
+wd000a_000_b	models/pendant/weapon/wd000a_b.model			wd01		
+wd000a_000_a_ghost				wd01		
+wd000a_000_b_ghost				wd01		
+wd000a_000_a_sj				sj		
+wd000a_000_a_ghost_sj				sj		
+wd001a_000_a	models/pendant/weapon/wd001a_a.model			wd01		
+wd001a_000_b	models/pendant/weapon/wd001a_b.model			wd01		
+wd001a_000_a_sj	models/pendant/weapon/wd001a_a.model			sj		
+whip_001a_01						
+wp_pl400a	models/pendant/weapon/wp_pl401a_000.model			dz		
+wp_pl400b	models/pendant/weapon/wp_pl401a_000_mopher.model			dz		
+yg_000_001				fish		
+yg_000_002				fish		
+yg_001_001				fish		
+yg_002_001				fish		
+yg_003_001				fish		
+ds003a_yixu				yj		
+nil_boss	characters/nil/models/nil.model			boss		
+nil_cf				cf		
+cf301a_000_sd	models/pendant/weapon/cf301a.model	models/pendant/weapon/Textures/cf301a_000d.dds		sd		
+cf332a_01_sd				sd		
+st202a_000				tg		
+st202a_000_1				tg		
+st202a_000_2				tg		
+sz318a_001_ghost				sz		
+dz100a_000_ghost				dz		
+cb335a_000_ytq				cb		
+ds346a_001_001				ds02		
+ds346a_001_002				ds02		
+ds346a_001_003				ds02		
+wd000a_000_02_a	models/pendant/weapon/wd000a_a.model			wd02		
+wd000a_000_02_b	models/pendant/weapon/wd000a_b.model			wd02		
+ds002a_003_ds				ds		
+ds000a_000_ds	models/pendant/weapon/ds000a.model	models/pendant/weapon/Textures/ds000a_000d.dds		ds		
+ds007a_001_ds				ds		
+ds007b	models/pendant/weapon/ds007b.model			ds		
+nil_cd				cd		
+cf338a_000_fire_l1				golem		
+sz317a_fbirdman_queen_ghost				sz		
+gn308a_000_ghost				gn		
+cb208a_000	models/pendant/weapon/cb208a.model			cb		
+cb208a_001	models/pendant/weapon/cb208a.model	models/pendant/weapon/Textures/cb208a_001d.dds		cb		
+cb208a_002	models/pendant/weapon/cb208a.model	models/pendant/weapon/Textures/cb208a_002d.dds		cb		
+cf330a_000	models/pendant/weapon/cf330a.model			cf		
+cf330a_001	models/pendant/weapon/cf330a.model	models/pendant/weapon/Textures/cf330a_001d.dds		cf		
+cf330a_002	models/pendant/weapon/cf330a.model	models/pendant/weapon/Textures/cf330a_002d.dds		cf		
+fz201a_000	models/pendant/weapon/fz201a.model			fz		
+fz201a_001	models/pendant/weapon/fz201a.model	models/pendant/weapon/Textures/fz201a_001d.dds		fz		
+fz201a_002	models/pendant/weapon/fz201a.model	models/pendant/weapon/Textures/fz201a_002d.dds		fz		
+fz201a_003	models/pendant/weapon/fz201a.model	models/pendant/weapon/Textures/fz201a_003d.dds		fz		
+fz202a_000	models/pendant/weapon/fz202a.model			fz		
+fz202a_001	models/pendant/weapon/fz202a.model	models/pendant/weapon/Textures/fz202a_001d.dds		fz		
+fz202a_002	models/pendant/weapon/fz202a.model	models/pendant/weapon/Textures/fz202a_002d.dds		fz		
+fz202a_003	models/pendant/weapon/fz202a.model	models/pendant/weapon/Textures/fz202a_003d.dds		fz		
+fz203a_000	models/pendant/weapon/fz203a.model			fz		
+fz203a_001	models/pendant/weapon/fz203a.model	models/pendant/weapon/Textures/fz203a_001d.dds		fz		
+fz203a_002	models/pendant/weapon/fz203a.model	models/pendant/weapon/Textures/fz203a_002d.dds		fz		
+gn309a_000	models/pendant/weapon/gn309a.model			gn		
+gn309a_001	models/pendant/weapon/gn309a.model	models/pendant/weapon/Textures/gn309a_001d.dds		gn		
+gn309a_002	models/pendant/weapon/gn309a.model	models/pendant/weapon/Textures/gn309a_002d.dds		gn		
+wd000b_000	models/pendant/weapon/wd000b_a.model			wd01		
+ds302a_000	models/pendant/weapon/ds302a.model			ds		
+ds302a_001	models/pendant/weapon/ds302a.model	models/pendant/weapon/Textures/ds302a_001d.dds		ds		
+ds302a_002	models/pendant/weapon/ds302a.model	models/pendant/weapon/Textures/ds302a_002d.dds		ds		
+ss203a_000	models/pendant/weapon/ss203a.model			ss		
+ss203a_001	models/pendant/weapon/ss203a.model	models/pendant/weapon/Textures/ss203a_001d.dds		ss		
+ss203a_002	models/pendant/weapon/ss203a.model	models/pendant/weapon/Textures/ss203a_002d.dds		ss		
+fz204a_000				fz		
+fz331a_000				fz		
+gn301a_sy				gn		
+fz204a_000_ghost				fz		
+fz202a_000_ghost				fz		
+wd000b_000_02_a	models/pendant/weapon/wd000b_a.model			wd02		
+wd000b_000_02_b	models/pendant/weapon/wd000b_b.model			wd02		
+gn309a_sy				gn		
+nil_fb01	characters/nil/models/nil.model			fb01		
+wd001a_000_a_ds	models/pendant/weapon/wd001a_a.model			ds		
+fz205a				fz		
+fq205a				fq		
+nil_ds01	characters/nil/models/nil.model			ds01		
+nil_ld	characters/nil/models/nil.model			ld		
+nil_sz	characters/nil/models/nil.model			sz		
+nil_dz	characters/nil/models/nil.model			dz		
+nil_sj	characters/nil/models/nil.model			sj		
+nil_ss	characters/nil/models/nil.model			ss		
+wd000a_a_txjyrs				wd01		
+nil_gzw304_dz				dz		
+nil_mf	characters/nil/models/nil.model			mf		
+nil_hh	characters/nil/models/nil.model			hh		
+ss202a_001				ss		
+cd303a_000_a_transform				cd		
+cd020a_004_b_transform				cd		
+ld005a_002d	models/pendant/weapon/ld005a.model	models/pendant/weapon/Textures/ld005a_002d.dds		ld		
+ld004a_000d	models/pendant/weapon/ld004a.model	models/pendant/weapon/Textures/ld004a_000d.dds		ld		
+ld004a_001d	models/pendant/weapon/ld004a.model	models/pendant/weapon/Textures/ld004a_001d.dds		ld		
+ld004a_002d	models/pendant/weapon/ld004a.model	models/pendant/weapon/Textures/ld004a_002d.dds		ld		
+ld004a_003d	models/pendant/weapon/ld004a.model	models/pendant/weapon/Textures/ld004a_003d.dds		ld		
+ld004a_004d	models/pendant/weapon/ld004a.model	models/pendant/weapon/Textures/ld004a_004d.dds		ld		
+ss309a_000				ds		
+dun309a_000				dun		
+ld304a_000				ld		
+cf339a_000_zwc				ss01		
+ds345a_zwc				ds		
+fz_wy	characters/nil/models/nil.model			fz		
+ds350a_000				ds01		
+fz251a_000				fz		
+ld251a_000	models/pendant/weapon/ld251a.model			ld		
+cf305a_000	models/pendant/weapon/cf305a.model			cf		
+cf305a_001	models/pendant/weapon/cf305a.model	models/pendant/weapon/Textures/cf305a_001d.dds		cf		
+cf305a_002	models/pendant/weapon/cf305a.model	models/pendant/weapon/Textures/cf305a_002d.dds		cf		
+fz205a_001				fz		
+ds003a_001_ds01	models/pendant/weapon/ds003a.model	models/pendant/weapon/Textures/ds003a_001d.dds		ds01		
+nil_wd				wd01		
+ld009a_002_jishengagl				ld		
+nil_wd01				wd01		
+fz012a_syd	models/pendant/weapon/fz012a.model	models/pendant/weapon/Textures/fz012a_000d.dds		fz		
+cb300a_003_test				cb		
+lz001a_000				lk		
+qin025a_005_yyx				qin		
+fz252a_000				fz		
+lz044a_000				lk		
+lz044a_000_1				lk		
+ds602a_007	models/pendant/weapon/ds602a.model			ds02		
+hh602_007	models/pendant/weapon/hh602a.model			fb01		
+lz000a_000				lk		
+lz000a_000_1				lk		
+lz000a_001				lk		
+lz000a_001_1				lk		
+lz000a_002				lk		
+lz000a_002_1				lk		
+lz000a_003				lk		
+lz000a_003_1				lk		
+lz001a_000_1				lk		
+lz003a_000				lk		
+lz003a_000_1				lk		
+lz037a_000				lk		
+lz037a_000_1				lk		
+lz037a_001				lk		
+lz037a_001_1				lk		
+lz037a_002				lk		
+lz037a_002_1				lk		
+lz037a_003				lk		
+lz037a_003_1				lk		
+lz037a_004				lk		
+lz037a_004_1				lk		
+lz037a_005				lk		
+lz037a_005_1				lk		
+lz048a_000				lk		
+lz048a_000_1				lk		
+lz048a_001				lk		
+lz048a_001_1				lk		
+lz601a_000				lk		
+lz601a_000_1				lk		
+lz602a_000				lk		
+lz602a_000_1				lk		
+rb101_000				rb		
+rb102_000_l1				rb		
+rb102_001_l1				rb		
+rb102_002_l1				rb		
+rb102_000_l2				rb		
+rb102_001_l2				rb		
+rb102_002_l2				rb		
+ss005_boss_l1_ds				ds		
+hh602_007_fq	models/pendant/weapon/hh602a.model			fq		
+gong_liposuo				gong		
+ld302a_000_cb	models/pendant/weapon/ld302a.model			cb		
+ss204a_000_l1_ds				ds		
+ss204a_000_l2_ds				ds		
+ss204a_001_l1_ds				ds		
+ss204a_001_l2_ds				ds		
+ss204a_002_l1_ds				ds		
+ss204a_002_l2_ds				ds		
+ss204a_003_l1_ds				ds		
+ss204a_003_l2_ds				ds		
+ss204a_004_l1_ds				ds		
+ss204a_004_l2_ds				ds		
+ss204a_005_l1_ds				ds		
+ss204a_005_l2_ds				ds		
+ss204a_000_l1				ss		
+ss204a_000_l2				ss		
+ss204a_001_l1				ss		
+ss204a_001_l2				ss		
+ss204a_002_l1				ss		
+ss204a_002_l2				ss		
+ss204a_003_l1				ss		
+ss204a_003_l2				ss		
+ss204a_004_l1				ss		
+ss204a_004_l2				ss		
+ss204a_005_l1				ss		
+ss204a_005_l2				ss		
+cb340a_000_l1				cb		
+cb340a_000_l2				cb		
+cb340a_001_l1				cb		
+cb340a_001_l2				cb		
+cb340a_002_l1				cb		
+cb340a_002_l2				cb		
+dq310a_000_l1				dq		
+dq310a_001_l1				dq		
+dq310a_002_l1				dq		
+dq310a_000_l2				dq		
+dq310a_001_l2				dq		
+dq310a_002_l2				dq		
+gn310a_000	models/pendant/weapon/gn310a.model			gn		
+gn310a_001	models/pendant/weapon/gn310a.model	models/pendant/weapon/Textures/gn310a_001d.dds		gn		
+gn310a_002	models/pendant/weapon/gn310a.model	models/pendant/weapon/Textures/gn310a_002d.dds		gn		
+cb340a_stone_000_l2				cb		
+ds211a_000_l1				ds02		
+dun311a_000	models/pendant/weapon/dun311a.model			dun		
+dun311a_001	models/pendant/weapon/dun311a.model	models/pendant/weapon/Textures/dun311a_001d.dds		dun		
+dun311a_002	models/pendant/weapon/dun311a.model	models/pendant/weapon/Textures/dun311a_002d.dds		dun		
+ds213a_000_l1				ds		
+ds213a_001_l1				ds		
+ds213a_002_l1				ds		
+ds213a_000_l2				ds		
+ds213a_001_l2				ds		
+ds213a_002_l2				ds		
+ds213a_000_l1_ds01				ds01		
+ds213a_001_l1_ds01				ds01		
+ds213a_002_l1_ds01				ds01		
+ds213a_000_l2_ds01				ds01		
+ds213a_001_l2_ds01				ds01		
+ds213a_002_l2_ds01				ds01		
+ds213a_000_l1_ds02				ds02		
+ds213a_001_l1_ds02				ds02		
+ds213a_002_l1_ds02				ds02		
+ds213a_000_l2_ds02				ds02		
+ds213a_001_l2_ds02				ds02		
+ds213a_002_l2_ds02				ds02		
+hh202a_000				fq		
+hh202a_000_fb01				fb01		
+hh203a_000_l1				fq		
+hh203a_001_l1				fq		
+hh203a_002_l1				fq		
+hh203a_b_000_l1				fq		
+hh203a_b_001_l1				fq		
+hh203a_b_002_l1				fq		
+hh203a_000_l1_fb01				fb01		
+hh203a_001_l1_fb01				fb01		
+hh203a_002_l1_fb01				fb01		
+hh203a_b_000_l1_fb01				fb01		
+hh203a_b_001_l1_fb01				fb01		
+hh203a_b_002_l1_fb01				fb01		
+hh003a_000_lyq				fb01		
+hh201a_000				fb01		
+sz321a_000				sz		
+ds210a_002				ds		
+ld302a_000_b010_rider_cb			0.5	cb		
+ds210a_002_ds02				ds02		
+sz381a_yfx				sz		
+ds213a_000_l1_sj	models/pendant/weapon/ds213a_a.model			sj		
+hh303a_000_l1			0.7	fq		
+ds212a_ds01			1.2	ds01		
+fz002a_003d				fz		
+ss204a_005_l2_big				ds		
+ds039a_000_ds	models/pendant/weapon/ds039a.model	models/pendant/weapon/Textures/ds039a_000d.dds		ds		
+fz009_yzx				fz		
+sz318a_001_yhy				sz		
+ss304_001_ghost				ss		
+ss038a_003_ghost				ss		
+ss304_001_ghost_boss				ss		
+ss038a_003_ghost_boss				ss		
+ds213a_002_ghost				ds01		
+ds038a_000_ghost				ds01		
+ds038a_000_ghost_boss				ds01		
+ds213a_002_ghost_boss				ds01		
+ss039a_002_ghost				ss		
+ss039a_002_ghost_boss				ss		
+ds020a_cjw				ds		

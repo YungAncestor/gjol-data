@@ -1,0 +1,728 @@
+﻿ID	type	resource	group	headline	decorationSkin	mirror	icon
+*	类型(0基础发型,1刘海,2发饰,3发际线匹配)	资源名			挂载是否蒙皮	镜像发饰模型需满足命名以_m结尾	
+				hl001	0	0	
+1	0	characters/male/models/male_hair_main_001	6010,6011,6012,6013,6014,6015,2503,2505,2507,2513	hl001			hair_m_001
+2	0	characters/male/models/male_hair_main_002	6010,6011,6012,6013,6014,6015,2000,2001,2501,2507,2509,2511,2513	hl001			hair_m_002
+3	0	characters/male/models/male_hair_main_003	6010,6011,6012,6013,6014,6015,2504,2515	hl001			hair_m_003
+4	0	characters/male/models/male_hair_main_004	6010,6011,6013,6015,2000,2001,2501,2507,2511,2514	hl001			hair_m_004
+5	0	characters/male/models/male_hair_main_005	6010,6011,6012,6013,6014,6015,2504,2506,2508,2510,2512,2515	hl001			hair_m_005
+6	0	characters/male/models/male_hair_main_006	6010,6011,6012,6013,6014,6015,2002,2003,2502	hl001			hair_m_006
+7	0	characters/male/models/male_hair_main_007	6010,6011,6012,6013,6014,6015,2003,2500,2516,2517,2518,2520	hl001			hair_m_007
+8	0	characters/male/models/male_hair_main_008		hl001			hair_m_008
+9	0	characters/male/models/male_hair_main_009		hl001			hair_m_009
+10	0	characters/male/models/male_hair_main_010	2004,2519	hl002			hair_m_010
+11	0	characters/female/models/female_hair_main_001	6010,6011,6013,6014,6015,1000,1501,1502,1530	hl001			hair_f_001
+12	0	characters/female/models/female_hair_main_002	6010,6011,6012,6013,6014,6015,1000,1500,1501,1530	hl001			hair_f_002
+13	0	characters/female/models/female_hair_main_003	6010,6011,6012,1513,1514,1515,1524,1530	hl001			hair_f_003
+14	0	characters/female/models/female_hair_main_004	6010,6011,6013,6014,6015,1000,1504,1516,1517,1518	hl001			hair_f_004
+15	0	characters/female/models/female_hair_main_005	6010,6011,6012,6013,6014,6015,1000,1003,1004,1504,1508,1516,1517,1518,1526	hl001			hair_f_005
+16	0	characters/female/models/female_hair_main_006	6010,6011,6012,6013,6014,1001,1002,1504,1503,1510,1511	hl002			hair_f_006
+17	0	characters/female/models/female_hair_main_007	6010,6011,1000,1503,1504,1510,1511	hl002			hair_f_007
+18	0	characters/female/models/female_hair_main_008	6010,6011,6012,6013,6014,1000,1003,1503,1504,1510,1511	hl002			hair_f_008
+19	0	characters/female/models/female_hair_main_009	6010,6011,6012,6013,6014,1503,1510,1511,1504,1528,1529	hl002			hair_f_009
+20	0	characters/female/models/female_hair_main_010	6010,6011,1000,1503,1504,1510,1511	hl002			hair_f_010
+21	0	characters/female/models/female_hair_main_011	6010,6011,6012,6013,6014,6015,1000,1005,1505,1506,1507,1516,1517,1518,1530	hl001			hair_f_011
+22	0	characters/female/models/female_hair_main_012	1000,1003,1503,1510,1511	hl001			hair_f_012
+23	0	characters/female/models/female_hair_main_013	1503,1510,1511	hl001			hair_f_013
+24	1	characters/male/models/male_hair_fringe_001	6011				fringe_m_001
+25	1	characters/male/models/male_hair_fringe_002	6010				fringe_m_002
+26	1	characters/male/models/male_hair_fringe_003	6013				fringe_m_003
+27	1	characters/male/models/male_hair_fringe_004	6011				fringe_m_004
+28	1	characters/male/models/male_hair_fringe_005	6013				fringe_m_005
+29	1	characters/male/models/male_hair_fringe_006	6013				fringe_m_006
+30	1	characters/male/models/male_hair_fringe_007	6015				fringe_m_007
+31	1	characters/male/models/male_hair_fringe_008	6015				fringe_m_008
+32	1	characters/male/models/male_hair_fringe_009	6015				fringe_m_009
+33	1	characters/male/models/male_hair_fringe_010	6010				fringe_m_010
+34	1	characters/female/models/female_hair_fringe_001	6013				fringe_f_001
+35	1	characters/female/models/female_hair_fringe_002	6011				fringe_f_002
+36	1	characters/female/models/female_hair_fringe_003	6010				fringe_f_003
+37	1	characters/female/models/female_hair_fringe_004	6011				fringe_f_004
+38	1	characters/female/models/female_hair_fringe_005	6010				fringe_f_005
+39	1	characters/female/models/female_hair_fringe_006	6015				fringe_f_006
+40	1	characters/female/models/female_hair_fringe_007	6014				fringe_f_007
+41	1	characters/female/models/female_hair_fringe_008	6013				fringe_f_008
+42	1	characters/female/models/female_hair_fringe_009	6012				fringe_f_009
+43	1	characters/female/models/female_hair_fringe_010	6012				fringe_f_010
+44	2	models/pendant/gzw/male_fs001	2503				fs_m_001
+45	2	models/pendant/gzw/male_fs001	2504				fs_m_001
+46	2	models/pendant/gzw/male_fs002	2503				fs_m_002
+47	2	models/pendant/gzw/male_fs002	2504				fs_m_002
+48	2	models/pendant/gzw/male_fs003	2505				fs_m_003
+49	2	models/pendant/gzw/male_fs003	2506				fs_m_003
+50	2	models/pendant/gzw/male_fs004	2507				fs_m_004
+51	2	models/pendant/gzw/male_fs004	2508				fs_m_004
+52	2	models/pendant/gzw/male_fs005	2509				fs_m_005
+53	2	models/pendant/gzw/male_fs005	2510				fs_m_005
+54	2	models/pendant/gzw/male_fs006	2511				fs_m_006
+55	2	models/pendant/gzw/male_fs006	2512				fs_m_006
+56	2	characters/male/models/male_fs007	2000		1		fs_m_007
+57	2	characters/male/models/male_fs008	2001		1		fs_m_008
+58	2	characters/male/models/male_fs010	2002		1		fs_m_010
+59	2	characters/male/models/male_fs011	2002		1		fs_m_011
+60	2	characters/male/models/male_fs012	2003		1		fs_m_012
+61	2	characters/male/models/male_fs013	2002		1		fs_m_013
+62	2	characters/male/models/male_fs014	2002		1		fs_m_014
+63	2	models/pendant/gzw/male_fs009	2500				fs_m_009
+64	2	models/pendant/gzw/male_fs015	2501				fs_m_015
+65	2	models/pendant/gzw/male_fs016	2502				fs_m_016
+66	2	characters/male/models/male_fs017	2004		1		fs_m_017
+67	2	models/pendant/gzw/female_fs001	1500				fs_f_001
+68	2	models/pendant/gzw/female_fs002	1501				fs_f_002
+69	2	models/pendant/gzw/female_fs004	1502				fs_f_004
+70	2	characters/female/models/female_fs003	1000		1		fs_f_003
+71	2	characters/female/models/female_fs005	1001		1		fs_f_005
+72	2	characters/female/models/female_fs007	1002		1		fs_f_007
+73	2	characters/female/models/female_fs019	1003		1		fs_f_019
+74	2	models/pendant/gzw/female_fs017	1504				fs_f_017
+75	2	models/pendant/gzw/female_fs017	1530				fs_f_017
+76	2	characters/female/models/female_fs022	1004		1		fs_f_022
+77	2	characters/female/models/female_fs023	1005		1		fs_f_023
+78	2	models/pendant/gzw/female_fs013	1503				fs_f_013
+79	2	models/pendant/gzw/female_fs014	1510				fs_f_014
+80	2	models/pendant/gzw/female_fs015	1510				fs_f_015
+81	2	models/pendant/gzw/female_fs016	1511				fs_f_016
+82	2	models/pendant/gzw/female_fs020	1506				fs_f_020
+83	2	models/pendant/gzw/female_fs021	1507				fs_f_021
+84	2	models/pendant/gzw/female_fs024	1508				fs_f_024
+85	2	models/pendant/gzw/female_fs004	1512				fs_f_004
+86	2	models/pendant/gzw/female_fs013	1513				fs_f_013
+87	2	models/pendant/gzw/female_fs014	1514				fs_f_014
+88	2	models/pendant/gzw/female_fs015	1514				fs_f_015
+89	2	models/pendant/gzw/female_fs016	1515				fs_f_016
+90	2	models/pendant/gzw/female_fs013	1516				fs_f_013
+91	2	models/pendant/gzw/female_fs014	1517				fs_f_014
+92	2	models/pendant/gzw/female_fs015	1517				fs_f_015
+93	2	models/pendant/gzw/female_fs016	1518				fs_f_016
+94	2	models/pendant/gzw/female_fs013	1519				fs_f_013
+95	2	models/pendant/gzw/female_fs014	1520				fs_f_014
+96	2	models/pendant/gzw/female_fs015	1521				fs_f_015
+97	2	models/pendant/gzw/female_fs016	1522				fs_f_016
+98	2	models/pendant/gzw/female_fs021	1523				fs_f_021
+99	2	models/pendant/gzw/female_fs021	1524				fs_f_021
+100	2	models/pendant/gzw/female_fs020	1525				fs_f_020
+101	2	models/pendant/gzw/female_fs021	1526				fs_f_021
+102	2	models/pendant/gzw/female_fs021	1528				fs_f_021
+103	2	models/pendant/gzw/female_fs024	1529				fs_f_024
+104	2	models/pendant/gzw/female_fs018	1505				fs_f_018
+105	2	characters/male/models/male_fs023	2002		1		fs_f_019
+106	2	characters/male/models/male_fs027	2002		1		fs_m_027
+107	2	characters/male/models/male_fs028	2002		1		fs_m_028
+108	2	characters/male/models/male_fs029	2003		1		fs_m_029
+109	2	models/pendant/gzw/male_fs019	2513				fs_m_019
+110	2	models/pendant/gzw/male_fs020	2514				fs_m_020
+111	2	models/pendant/gzw/male_fs020	2515				fs_m_020
+112	2	models/pendant/gzw/male_fs021	2516				fs_m_021
+113	2	models/pendant/gzw/male_fs022	2517				fs_f_022
+114	2	models/pendant/gzw/male_fs024	2518				fs_m_024
+115	2	models/pendant/gzw/male_fs025	2519				fs_m_025
+116	2	models/pendant/gzw/male_fs026	2520				fs_m_026
+117	2	models/pendant/gzw/male_fs030	2521				fs_m_030
+118	0	characters/luoli/models/luoli_hair_main_001	6010,6011,6012,6015,6016,3001,3501,3504,3509	hl001			hair_l_001
+119	0	characters/luoli/models/luoli_hair_main_002	6010,6011,6012,6015,6016,3006,3502,3500,3505,3509	hl001			hair_l_002
+120	0	characters/luoli/models/luoli_hair_main_003	6010,6011,6012,6015,6016,3001,3501,3504,3509	hl001			hair_l_003
+121	0	characters/luoli/models/luoli_hair_main_004	6010,6011,6012,3000,3005,3500,3003,3507,3509	hl002			hair_l_004
+122	0	characters/luoli/models/luoli_hair_main_005	6010,6011,6012,6016,3004,3500,3509	hl001			hair_l_005
+123	0	characters/luoli/models/luoli_hair_main_006	6010,6011,6012,3005,3007,3500,3509,3511	hl002			hair_l_006
+124	0	characters/luoli/models/luoli_hair_main_007	6010,6011,6012,6016,3000,3500,3003,3508,3511	hl002			hair_l_007
+125	0	characters/luoli/models/luoli_hair_main_008	6010,6011,6012,3002,3500,3504,3509,3513	hl002			hair_l_008
+126	0	characters/luoli/models/luoli_hair_main_009	6010,6011,6012,6016,3501,3504,3509	hl001			hair_l_009
+127	0	characters/luoli/models/luoli_hair_main_010	3008,3500,3510	hl001			hair_l_010
+128	1	characters/luoli/models/luoli_hair_fringe_001	6010				fringe_l_001
+129	1	characters/luoli/models/luoli_hair_fringe_002	6011				fringe_l_002
+130	1	characters/luoli/models/luoli_hair_fringe_003	6012				fringe_l_003
+131	1	characters/luoli/models/luoli_hair_fringe_004	6011				fringe_l_004
+132	1	characters/luoli/models/luoli_hair_fringe_005	6011				fringe_l_005
+133	1	characters/luoli/models/luoli_hair_fringe_006	6015				fringe_l_006
+134	1	characters/luoli/models/luoli_hair_fringe_007	6010				fringe_l_007
+135	1	characters/luoli/models/luoli_hair_fringe_008	6011				fringe_l_008
+136	1	characters/luoli/models/luoli_hair_fringe_009	6016				fringe_l_009
+137	1	characters/luoli/models/luoli_hair_fringe_010	6011				fringe_l_010
+138	2	characters/luoli/models/luoli_fs000	3000		1		fs_l_000
+139	2	characters/luoli/models/luoli_fs002	3001		1		fs_l_002
+140	2	characters/luoli/models/luoli_fs003	3002		1		fs_l_003
+141	2	characters/luoli/models/luoli_fs004	3003		1		fs_l_004
+142	2	characters/luoli/models/luoli_fs011	3004		1		fs_l_004a
+143	2	characters/luoli/models/luoli_fs005	3005		1		fs_l_005
+144	2	characters/luoli/models/luoli_fs006	3006		1		fs_f_024
+145	2	characters/luoli/models/luoli_fs007	3007		1		fs_f_007
+146	2	characters/luoli/models/luoli_fs009	3008		1		fs_l_009
+147	2	models/pendant/gzw/luoli_gzw_fs001	3500				fs_l_001g
+148	2	models/pendant/gzw/luoli_gzw_fs001	3501				fs_l_001g
+149	2	models/pendant/gzw/luoli_gzw_fs001	3502				fs_l_001g_back
+151	2	models/pendant/gzw/luoli_fs010	3504				fs_l_010
+152	2	models/pendant/gzw/luoli_fs010	3505				fs_l_010_back
+153	2	models/pendant/gzw/luoli_fs010	3506			1	fs_l_010
+154	2	models/pendant/gzw/luoli_fs008	3507			1	fs_l_008
+155	2	models/pendant/gzw/luoli_fs008	3508			1	fs_l_008
+156	2	models/pendant/gzw/luoli_fs001	3509				fs_l_001
+157	2	models/pendant/gzw/luoli_fs001	3510				fs_l_001
+158	2	models/pendant/gzw/luoli_fs001	3511			1	fs_l_001
+159	2	models/pendant/gzw/luoli_fs001	3512			1	fs_l_001
+160	2	models/pendant/gzw/luoli_gzw_fs003	3513				fs_l_003g_back
+10000	3	characters/female/models/female_djl000_head		hl001_001			
+10001	3	characters/female/models/female_djl001_head		hl001_001			
+10002	3	characters/female/models/female_sm000_head		hl001_001			
+10003	3	characters/female/models/female_sm601_head		hl002_001			
+10004	3	characters/female/models/female_sm602_head		hl001_001			
+10005	3	characters/female/models/female_sm603_head		hl002_001			
+10182	3	characters/female/models/female_sm604_head		hl002_001			
+10006	3	characters/female/models/female_zy000_head		hl002_001			
+10007	3	characters/female/models/female_zy601_head		hl001_001			
+10008	3	characters/female/models/female_zy602_head		hl001_001			
+10009	3	characters/female/models/female_zy603_head		hl004_001			
+10199	3	characters/female/models/female_zy604_head		hl001_001			
+10010	3	characters/female/models/female_mf000_head		hl001_001			
+10011	3	characters/female/models/female_mf601_head		hl002_001			
+10012	3	characters/female/models/female_mf602_head		hl002_001			
+10013	3	characters/female/models/female_mf603_head		hl001_001			
+10014	3	characters/female/models/female_mf604_head		hl001_001			
+10015	3	characters/female/models/female_yj000_head		hl001_001			
+10016	3	characters/female/models/female_yj601_head		hl001_001			
+10017	3	characters/female/models/female_yj602_head		hl002_001			
+10018	3	characters/female/models/female_yj603_head		hl001_001			
+10197	3	characters/female/models/female_yj604_head		hl004_001			
+10019	3	characters/female/models/female_zf000_head		hl004_001			
+10020	3	characters/female/models/female_zf601_head		hl003_001			
+10021	3	characters/female/models/female_zf602_head		hl004_001			
+10022	3	characters/female/models/female_zf602a_head		hl001_001			
+10023	3	characters/female/models/female_zf603_head		hl001_001			
+10198	3	characters/female/models/female_zf604_head		hl004_001			
+10024	3	characters/female/models/female_tg000_head		hl001_001			
+10025	3	characters/female/models/female_tg601_head		hl001_001			
+10026	3	characters/female/models/female_tg602_head		hl001_001			
+10027	3	characters/female/models/female_tg603_head		hl001_001			
+10185	3	characters/female/models/female_tg604_head		hl004_001			
+10028	3	characters/female/models/female_jh000_head		hl001_001			
+10029	3	characters/female/models/female_jh001_head		hl001_001			
+10030	3	characters/female/models/female_jh002_head		hl001_001			
+10031	3	characters/female/models/female_jh003_head		hl001_001			
+10032	3	characters/female/models/female_jh004_head		hl001_001			
+10033	3	characters/female/models/female_jh005_head		hl001_001			
+10034	3	characters/female/models/female_jh006_head		hl001_001			
+10035	3	characters/female/models/female_jh007_head		hl001_001			
+10036	3	characters/female/models/female_jh008_head		hl002_001			
+10037	3	characters/female/models/female_jh008a_head		hl002_001			
+10038	3	characters/female/models/female_jh008_head_400		hl001_001			
+10039	3	characters/female/models/female_jh009_head		hl002_001			
+10040	3	characters/female/models/female_jh009_head_100		hl001_001			
+10041	3	characters/female/models/female_jh009_head_200		hl002_001			
+10042	3	characters/female/models/female_jh010_head		hl001_001			
+10043	3	characters/female/models/female_jh011_head		hl003_001			
+10044	3	characters/female/models/female_jh012_head		hl001_001			
+10045	3	characters/female/models/female_jh013_head		hl003_001			
+10046	3	characters/female/models/female_jh014_head		hl003_001			
+10047	3	characters/female/models/female_jh301_head		hl001_001			
+10048	3	characters/female/models/female_jh302_head		hl001_001			
+10049	3	characters/female/models/female_jh303_head		hl001_001			
+10050	3	characters/female/models/female_jh502_head		hl001_001			
+10051	3	characters/female/models/female_jh504_head		hl002_001			
+10052	3	characters/female/models/female_jh504a_head		hl002_001			
+10053	3	characters/female/models/female_jh505_head		hl001_001			
+10054	3	characters/female/models/female_jh506_head		hl001_001			
+10055	3	characters/female/models/female_jh512_head		hl001_001			
+10056	3	characters/female/models/female_fjh501_head		hl002_001			
+10057	3	characters/female/models/female_qxx_head		hl001_001			
+10058	3	characters/female/models/female_nj001_head		hl001_001			
+10059	3	characters/female/models/female_lhg000_head		hl002_002			
+10060	3	characters/female/models/female_lhg000a_head		hl002_002			
+10061	3	characters/female/models/female_lhg000b_head		hl002_001			
+10062	3	characters/female/models/female_sydt000_head		hl001_001			
+10063	3	characters/female/models/female_sydt001_head		hl001_001			
+10064	3	characters/female/models/female_sydt000a_head		hl002_001			
+10065	3	characters/female/models/female_sydt000b_head		hl002_001			
+10066	3	characters/female/models/female_sydt001a_head		hl001_001			
+10183	3	characters/female/models/female_sydt200_head		hl002_001			
+10184	3	characters/female/models/female_sydt201_head		hl001_001			
+10067	3	characters/female/models/female_txj000_head		hl001_001			
+10068	3	characters/female/models/female_txj001_head		hl001_001			
+10186	3	characters/female/models/female_txj200_head		hl001_001			
+10187	3	characters/female/models/female_txjecy_head		hl001_001			
+10188	3	characters/female/models/female_txjyn_head		hl001_001			
+10069	3	characters/female/models/female_njnjj_head		hl001_001			
+10070	3	characters/female/models/female_jzjmj_head					
+10071	3	characters/female/models/female_wrsy_head		hl001_001			
+10072	3	characters/female/models/female_mfnxzr_head		hl001_999			
+10073	3	characters/female/models/female_yhylxs_head		hl001_001			
+10074	3	characters/female/models/female_lyq_head		hl001_001			
+10075	3	characters/female/models/female_wr001_head		hl001_001			
+10076	3	characters/female/models/female_tj000_head		hl001_001			
+10077	3	characters/female/models/female_tj000a_head		hl001_001			
+10078	3	characters/female/models/female_swz_head001		hl003_002			
+10079	3	characters/female/models/female_wrxs_head		hl001_001			
+10080	3	characters/female/models/female_tgmhx_head		hl001_001			
+10081	3	characters/female/models/female_wz002_head		hl001_001			
+10189	3	characters/female/models/female_wz004_head		hl001_001			
+10190	3	characters/female/models/female_wz202_head		hl004_001			
+10191	3	characters/female/models/female_wz305_head		hl001_001			
+10192	3	characters/female/models/female_wz306_head		hl001_001			
+10193	3	characters/female/models/female_wz307_head		hl002_001			
+10194	3	characters/female/models/female_wz313_head		hl002_001			
+10082	3	characters/female/models/female_wz401_head		hl002_001			
+10083	3	characters/female/models/female_wz402_head		hl002_001			
+10195	3	characters/female/models/female_wz601_head		hl004_001			
+10179	3	characters/female/models/female_wz605_head		hl004_001			
+10180	3	characters/female/models/female_wz605b_head		hl004_010			
+10181	3	characters/female/models/female_wz605c_head		hl001_001			
+10196	3	characters/female/models/female_wz606_head		hl001_001			
+10175	3	characters/female/models/female_kwzst_head		hl001_002			
+10084	3	characters/male/models/male_djl000_head		hl001_001			
+10085	3	characters/male/models/male_djl000a_head		hl003_001			
+10086	3	characters/male/models/male_sm000_head		hl001_001			
+10087	3	characters/male/models/male_sm601_head		hl002_001			
+10088	3	characters/male/models/male_sm602_head		hl001_001			
+10089	3	characters/male/models/male_sm603_head		hl001_001			
+10201	3	characters/male/models/male_sm604_head		hl001_001			
+10090	3	characters/male/models/male_zy000_head		hl001_001			
+10091	3	characters/male/models/male_zy601_head		hl001_001			
+10092	3	characters/male/models/male_zy602_head		hl002_001			
+10093	3	characters/male/models/male_zy603_head		hl003_001			
+10216	3	characters/male/models/male_zy604_head		hl001_001			
+10094	3	characters/male/models/male_mf000_head		hl001_001			
+10095	3	characters/male/models/male_mf601_head		hl001_001			
+10096	3	characters/male/models/male_mf602_head		hl003_001			
+10097	3	characters/male/models/male_mf603_head		hl001_001			
+10200	3	characters/male/models/male_mf604_head		hl001_001			
+10098	3	characters/male/models/male_yj000_head		hl001_001			
+10099	3	characters/male/models/male_yj601_head		hl001_001			
+10100	3	characters/male/models/male_yj602_head		hl001_001			
+10101	3	characters/male/models/male_yj603_head		hl003_001			
+10214	3	characters/male/models/male_yj604_head					
+10102	3	characters/male/models/male_zf000_head		hl003_001			
+10103	3	characters/male/models/male_zf601_head		hl001_001			
+10104	3	characters/male/models/male_zf602_head		hl003_001			
+10105	3	characters/male/models/male_zf603_head		hl001_001			
+10215	3	characters/male/models/male_zf604_head		hl002_001			
+10106	3	characters/male/models/male_tg000_head		hl001_001			
+10107	3	characters/male/models/male_tg601_head		hl001_001			
+10108	3	characters/male/models/male_tg602_head		hl001_001			
+10109	3	characters/male/models/male_tg603_head		hl001_001			
+10203	3	characters/male/models/male_tg604_head		hl001_001			
+10110	3	characters/male/models/male_jh000_head		hl001_001			
+10111	3	characters/male/models/male_jh001_head		hl001_001			
+10112	3	characters/male/models/male_jh002_head		hl001_001			
+10113	3	characters/male/models/male_jh003_head		hl001_001			
+10114	3	characters/male/models/male_jh004_head		hl001_001			
+10115	3	characters/male/models/male_jh005_head		hl001_001			
+10116	3	characters/male/models/male_jh006_head		hl001_001			
+10117	3	characters/male/models/male_jh007_head		hl001_001			
+10118	3	characters/male/models/male_jh008_head		hl001_001			
+10119	3	characters/male/models/male_jh009_head		hl003_001			
+10120	3	characters/male/models/male_jh009_head_100		hl003_001			
+10121	3	characters/male/models/male_jh009_head_200		hl001_001			
+10122	3	characters/male/models/male_jh010_head		hl001_001			
+10123	3	characters/male/models/male_jh011_head		hl002_001			
+10124	3	characters/male/models/male_jh012_head		hl001_001			
+10125	3	characters/male/models/male_jh013_head		hl003_001			
+10126	3	characters/male/models/male_jh014_head		hl003_001			
+10127	3	characters/male/models/male_jh301_head		hl001_001			
+10128	3	characters/male/models/male_jh302_head		hl001_001			
+10129	3	characters/male/models/male_jh303_head		hl001_001			
+10130	3	characters/male/models/male_jh500_head		hl001_001			
+10131	3	characters/male/models/male_jh501_head		hl001_001			
+10132	3	characters/male/models/male_jh504_head		hl001_001			
+10133	3	characters/male/models/male_jh505_head		hl001_001			
+10134	3	characters/male/models/male_jh506_head		hl001_001			
+10135	3	characters/male/models/male_jh512_head		hl001_001			
+10136	3	characters/male/models/male_mjh501_head		hl001_001			
+10137	3	characters/male/models/male_nj001_head		hl001_001			
+10138	3	characters/male/models/male_xbl_head					
+10139	3	characters/male/models/male_txjfql_head		hl001_001			
+10140	3	characters/male/models/male_sydt000_head		hl001_001			
+10141	3	characters/male/models/male_sydt000a_head		hl001_001			
+10142	3	characters/male/models/male_sydt001_head		hl001_001			
+10143	3	characters/male/models/male_sydt001a_head		hl001_001			
+10202	3	characters/male/models/male_sydt200_head		hl001_001			
+10144	3	characters/male/models/male_txj000_head		hl001_001			
+10145	3	characters/male/models/male_txj001_head		hl001_001			
+10204	3	characters/male/models/male_txj200_head		hl001_001			
+10146	3	characters/male/models/male_jzjzwc_head		hl001_008			
+10147	3	characters/male/models/male_jzjhc_head		hl003_001			
+10148	3	characters/male/models/male_lqh_head		hl001_001			
+10149	3	characters/male/models/male_mjymf_head		hl001_001			
+10150	3	characters/male/models/male_mjymf_head_2		hl001_001			
+10151	3	characters/male/models/male_txjwm_head		hl001_001			
+10152	3	characters/male/models/male_tgqy_head		hl001_001			
+10153	3	characters/male/models/male_txjsw_head		hl001_001			
+10154	3	characters/male/models/male_zygyl_head		hl001_001			
+10155	3	characters/male/models/male_zllqh_head		hl001_001			
+10156	3	characters/male/models/male_kwz_head					
+10157	3	characters/male/models/male_tgytx_head		hl003_001			
+10158	3	characters/male/models/male_zfdy_head		hl001_001			
+10159	3	characters/male/models/male_jn_head		hl003_001			
+10160	3	characters/male/models/male_txjgx_head		hl001_001			
+10161	3	characters/male/models/male_txjlsy_head		hl001_001			
+10162	3	characters/male/models/male_txjyzx_head		hl003_001			
+10163	3	characters/male/models/male_tjcyz_head		hl002_001			
+10164	3	characters/male/models/male_smmyc_head		hl001_001			
+10165	3	characters/male/models/male_tjdfl_head		hl001_001			
+10166	3	characters/male/models/male_tj000_head		hl001_001			
+10167	3	characters/male/models/male_tj000a_head		hl003_001			
+10168	3	characters/male/models/male_swz_head001		hl001_002			
+10169	3	characters/male/models/male_lhgjkh_head		hl001_001			
+10170	3	characters/male/models/male_wr001_head		hl001_001			
+10171	3	characters/male/models/male_lhg000_head		hl002_001			
+10172	3	characters/male/models/male_wz002_head		hl001_001			
+10205	3	characters/male/models/male_wz004_head		hl001_001			
+10206	3	characters/male/models/male_wz202_head		hl001_001			
+10207	3	characters/male/models/male_wz304_head		hl001_001			
+10208	3	characters/male/models/male_wz305_head		hl003_001			
+10209	3	characters/male/models/male_wz306_head		hl001_001			
+10210	3	characters/male/models/male_wz307_head		hl001_001			
+10211	3	characters/male/models/male_wz313_head		hl002_001			
+10173	3	characters/male/models/male_wz401_head		hl001_001			
+10174	3	characters/male/models/male_wz402_head		hl001_001			
+10212	3	characters/male/models/male_wz601_head					
+10176	3	characters/male/models/male_wz605_head		hl003_001			
+10177	3	characters/male/models/male_wz605b_head		hl001_002			
+10178	3	characters/male/models/male_wz605c_head		hl002_008			
+10213	3	characters/male/models/male_wz606_head		hl001_001			
+10217	3	characters/male/models/male_haocang_head		hl001_001			
+10218	3	characters/female/models/female_wz319_head		hl002_001			
+10219	3	characters/male/models/male_wz319_head		hl001_001			
+10220	3	characters/female/models/female_swz_head003		hl001_001			
+10221	3	characters/male/models/male_swz_head003		hl003_001			
+10222	3	characters/male/models/male_wz401a_head		hl001_001			
+10223	3	characters/female/models/female_swz_head004		hl002_002			
+10224	3	characters/male/models/male_swz_head004		hl001_002			
+10225	3	characters/luoli/models/luoli_yf000_head		hl003_001			
+10226	3	characters/luoli/models/luoli_yf605_head		hl001_001			
+10227	3	characters/luoli/models/luoli_yf606_head		hl001_001			
+10228	3	characters/luoli/models/luoli_txj000_head		hl002_001			
+10229	3	characters/luoli/models/luoli_sydt000_head		hl002_001			
+10230	3	characters/luoli/models/luoli_wz307_head		hl001_001			
+10231	3	characters/luoli/models/luoli_djl000_head		hl001_001			
+10232	3	characters/luoli/models/luoli_jh001_head		hl001_001			
+10233	3	characters/luoli/models/luoli_jh002_head		hl002_001			
+10234	3	characters/luoli/models/luoli_jh003_head		hl001_001			
+10235	3	characters/luoli/models/luoli_jh015_head000		hl002_001			
+10236	3	characters/luoli/models/luoli_jh015_head100		hl004_001			
+10237	3	characters/luoli/models/luoli_jh016_head000		hl001_001			
+10238	3	characters/luoli/models/luoli_jh016_head200		hl001_001			
+10239	3	characters/luoli/models/luoli_wz306_head		hl001_001			
+10240	3	characters/luoli/models/luoli_wz603_head		hl001_001			
+10241	3	characters/luoli/models/luoli_swz_head004		hl004_002			
+10242	3	characters/female/models/female_wz327_head		hl001_001			
+10243	3	characters/male/models/male_wz327_head		hl001_001			
+10244	3	characters/luoli/models/luoli_wz327_head		hl005_001			
+10245	3	characters/female/models/female_jh015_head000		hl001_001			
+10246	3	characters/female/models/female_jh015_head100		hl004_001			
+10247	3	characters/female/models/female_jh016_head000		hl003_001			
+10248	3	characters/female/models/female_jh016_head200		hl001_001			
+10249	3	characters/female/models/female_jh017_head000		hl001_001			
+10250	3	characters/female/models/female_jh017_head100		hl001_001			
+10251	3	characters/male/models/male_jh015_head000		hl001_001			
+10252	3	characters/male/models/male_jh015_head100		hl001_001			
+10253	3	characters/male/models/male_jh016_head000		hl001_001			
+10254	3	characters/male/models/male_jh016_head200		hl003_001			
+10255	3	characters/male/models/male_jh017_head000		hl001_001			
+10256	3	characters/male/models/male_jh017_head100		hl001_001			
+10257	3	characters/luoli/models/luoli_jh017_head000		hl005_001			
+10258	3	characters/luoli/models/luoli_jh017_head100		hl001_001			
+10259	3	characters/female/models/female_wz317_head		hl001_001			
+10260	3	characters/male/models/male_wz317_head		hl001_001			
+10261	3	characters/luoli/models/luoli_wz317_head		hl005_001			
+10262	3	characters/female/models/female_wz204_head		hl001_001			
+10263	3	characters/male/models/male_wz204_head		hl001_001			
+10264	3	characters/luoli/models/luoli_wz204_head		hl005_001			
+10265	3	characters/female/models/female_wz607_head		hl001_001			
+10266	3	characters/male/models/male_wz607_head		hl002_001			
+10267	3	characters/luoli/models/luoli_wz607_head		hl001_001			
+10268	3	characters/female/models/female_swz_head005		hl001_009			
+10269	3	characters/male/models/male_swz_head005		hl001_009			
+10270	3	characters/luoli/models/luoli_swz_head005		hl001_009			
+10271	3	characters/female/models/female_jh018_head		hl004_001			
+10272	3	characters/luoli/models/luoli_jh018_head		hl001_001			
+10273	3	characters/male/models/male_jh018_head		hl001_001			
+10274	3	characters/luoli/models/luoli_swz_head003		hl001_001			
+10275	3	characters/female/models/female_wz608_head		hl001_001			
+10276	3	characters/male/models/male_wz608_head		hl001_001			
+10277	3	characters/luoli/models/luoli_wz608_head		hl001_001			
+10278	3	characters/male/models/male_wz330_head001		hl001_002			
+10279	3	characters/male/models/male_wz330_head003		hl001_001			
+10280	3	characters/female/models/female_wz330_head001		hl001_002			
+10281	3	characters/female/models/female_wz330_head003		hl001_001			
+10282	3	characters/luoli/models/luoli_wz330_head001		hl002_002			
+10283	3	characters/luoli/models/luoli_wz330_head003		hl002_001			
+10284	3	characters/female/models/female_wz311_head		hl003_001			
+10285	3	characters/male/models/male_wz311_head		hl001_001			
+10286	3	characters/luoli/models/luoli_wz311_head		hl002_001			
+10287	3	characters/luoli/models/luoli_wz319_head		hl001_001			
+10291	3	characters/female/models/female_wz314_head		hl001_001			
+10292	3	characters/male/models/male_wz314_head		hl001_001			
+10293	3	characters/luoli/models/luoli_wz314_head		hl001_001			
+10288	3	characters/female/models/female_wz310_head		hl001_001			
+10289	3	characters/male/models/male_wz310_head		hl003_001			
+10290	3	characters/luoli/models/luoli_wz310_head		hl001_001			
+10294	3	characters/female/models/female_jh018_head100		hl004_001			
+10295	3	characters/luoli/models/luoli_jh018_head100		hl001_001			
+10296	3	characters/male/models/male_jh018_head100		hl001_001			
+10297	3	characters/female/models/female_wz610_head		hl001_001			
+10298	3	characters/male/models/male_wz610_head		hl003_001			
+10299	3	characters/luoli/models/luoli_wz610_head		hl001_001			
+10300	3	characters/female/models/female_jh019_head		hl001_001			
+10301	3	characters/luoli/models/luoli_jh019_head		hl005_001			
+10302	3	characters/male/models/male_jh019_head		hl001_001			
+10303	3	characters/female/models/female_jh020_head		hl003_001			
+10304	3	characters/luoli/models/luoli_jh020_head		hl005_001			
+10305	3	characters/male/models/male_jh020_head		hl001_001			
+10306	3	characters/female/models/female_swz_head006		hl001_009			
+10307	3	characters/male/models/male_swz_head006		hl001_009			
+10308	3	characters/luoli/models/luoli_swz_head006		hl001_009			
+10309	3	characters/female/models/female_swz_head006b		hl001_010			
+10310	3	characters/male/models/male_swz_head006b		hl001_010			
+10311	3	characters/luoli/models/luoli_swz_head006b		hl001_010			
+10312	3	characters/female/models/female_wz315_head		hl001_001			
+10313	3	characters/male/models/male_wz315_head		hl001_001			
+10314	3	characters/luoli/models/luoli_wz315_head		hl001_001			
+10315	3	characters/female/models/female_wz325_head		hl001_001			
+10316	3	characters/male/models/male_wz325_head		hl001_001			
+10317	3	characters/luoli/models/luoli_wz325_head		hl001_001			
+10318	3	characters/female/models/female_wz316_head		hl001_001			
+10319	3	characters/male/models/male_wz316_head		hl001_001			
+10320	3	characters/luoli/models/luoli_wz316_head		hl001_001			
+10321	3	characters/female/models/female_wz316_head_001		hl001_003			
+10322	3	characters/male/models/male_wz316_head_001		hl001_003			
+10323	3	characters/luoli/models/luoli_wz316_head_001		hl001_003			
+10324	3	characters/female/models/female_zx606_head		hl001_001			
+10325	3	characters/male/models/male_zx606_head		hl002_001			
+10326	3	characters/luoli/models/luoli_zx606_head		hl001_001			
+10327	3	characters/female/models/female_zx605_head		hl001_001			
+10328	3	characters/male/models/male_zx605_head		hl001_001			
+10329	3	characters/luoli/models/luoli_zx605_head		hl005_001			
+10330	3	characters/female/models/female_zx000_head		hl001_001			
+10331	3	characters/male/models/male_zx000_head		hl001_001			
+10332	3	characters/luoli/models/luoli_zx000_head		hl001_001			
+10333	3	characters/female/models/female_wz335_head		hl001_001			
+10334	3	characters/male/models/male_wz335_head		hl001_001			
+10335	3	characters/luoli/models/luoli_wz335_head		hl001_001			
+10336	3	characters/female/models/female_wz335b_head		hl001_011			
+10337	3	characters/male/models/male_wz335b_head		hl001_011			
+10338	3	characters/luoli/models/luoli_wz335b_head		hl001_011			
+10339	3	characters/female/models/female_wz335c_head		hl001_001			
+10340	3	characters/male/models/male_wz335c_head		hl001_001			
+10341	3	characters/luoli/models/luoli_wz335c_head		hl001_001			
+10342	3	characters/female/models/female_jh021_head		hl001_001			
+10343	3	characters/luoli/models/luoli_jh021_head		hl001_001			
+10344	3	characters/male/models/male_jh021_head		hl001_001			
+10345	3	characters/female/models/female_jh022_head		hl001_001			
+10346	3	characters/luoli/models/luoli_jh022_head		hl001_001			
+10347	3	characters/male/models/male_jh022_head		hl001_001			
+10348	3	characters/female/models/female_tg605_head		hl003_001			
+10349	3	characters/female/models/female_zf605_head		hl001_001			
+10350	3	characters/female/models/female_yj605_head		hl001_001			
+10351	3	characters/female/models/female_mf605_head		hl001_001			
+10352	3	characters/female/models/female_sm605_head		hl001_001			
+10353	3	characters/female/models/female_zy605_head		hl001_001			
+10354	3	characters/male/models/male_tg605_head		hl001_001			
+10355	3	characters/male/models/male_zf605_head		hl001_001			
+10356	3	characters/male/models/male_yj605_head		hl001_001			
+10357	3	characters/male/models/male_mf605_head		hl001_001			
+10358	3	characters/male/models/male_sm605_head		hl001_001			
+10359	3	characters/male/models/male_zy605_head		hl001_001			
+10360	3	characters/male/models/male_ly605_head		hl001_001			
+10361	3	characters/luoli/models/luoli_yf605_head		hl001_001			
+10362	3	characters/female/models/female_tg606_head		hl001_001			
+10363	3	characters/female/models/female_zf606_head		hl004_001			
+10364	3	characters/female/models/female_yj606_head		hl001_001			
+10365	3	characters/female/models/female_mf606_head		hl001_001			
+10366	3	characters/female/models/female_sm606_head		hl001_001			
+10367	3	characters/female/models/female_zy606_head		hl001_001			
+10368	3	characters/male/models/male_tg606_head		hl001_001			
+10369	3	characters/male/models/male_zf606_head		hl003_001			
+10370	3	characters/male/models/male_yj606_head		hl001_001			
+10371	3	characters/male/models/male_mf606_head		hl001_001			
+10372	3	characters/male/models/male_sm606_head		hl001_001			
+10373	3	characters/male/models/male_zy606_head		hl001_001			
+10374	3	characters/male/models/male_ly606_head		hl001_001			
+10375	3	characters/luoli/models/luoli_yf606_head		hl001_001			
+10376	3	characters/female/models/female_wz006_head		hl001_001			
+10377	3	characters/male/models/male_wz006_head		hl001_001			
+10378	3	characters/luoli/models/luoli_wz006_head		hl001_001			
+10379	3	characters/female/models/female_wz006b_head		hl001_002			
+10380	3	characters/male/models/male_wz006b_head		hl001_002			
+10381	3	characters/luoli/models/luoli_wz006b_head		hl002_002			
+10382	3	characters/female/models/female_wz333_head		hl001_001			
+10383	3	characters/male/models/male_wz333_head		hl002_001			
+10384	3	characters/luoli/models/luoli_wz333_head		hl001_001			
+10385	3	characters/female/models/female_wz333_head2		hl001_001			
+10386	3	characters/luoli/models/luoli_wz333_head2		hl001_001			
+10387	3	characters/male/models/male_wz333_head2		hl001_001			
+10388	3	characters/female/models/female_wz201_head		hl001_001			
+10389	3	characters/male/models/male_wz201_head		hl001_001			
+10390	3	characters/luoli/models/luoli_wz201_head		hl001_001			
+10391	3	characters/female/models/female_wz602_head		hl001_001			
+10392	3	characters/male/models/male_wz602_head		hl001_001			
+10393	3	characters/luoli/models/luoli_wz602_head		hl001_001			
+10394	3	characters/female/models/female_jh012a_head		hl001_001			
+10395	3	characters/luoli/models/luoli_jh015_head_100		hl002_001			
+10396	3	characters/luoli/models/luoli_jh015_head_200		hl004_001			
+10397	3	characters/female/models/female_jh015_head_000		hl001_001			
+10398	3	characters/female/models/female_jh015_head_100		hl004_001			
+10399	3	characters/female/models/female_wz332_head		hl001_001			
+10400	3	characters/male/models/male_wz332_head		hl002_001			
+10401	3	characters/luoli/models/luoli_wz332_head		hl001_001			
+10402	3	characters/female/models/female_wz332b_head		hl001_009			
+10403	3	characters/male/models/male_wz332b_head		hl001_009			
+10404	3	characters/luoli/models/luoli_wz332b_head		hl001_009			
+10405	3	characters/luoli/models/luoli_ly000_head		hl001_001			
+10406	3	characters/luoli/models/luoli_ly605_head		hl001_001			
+10407	3	characters/luoli/models/luoli_ly606_head		hl005_001			
+10408	3	characters/female/models/female_wz331_head		hl001_001			
+10409	3	characters/male/models/male_wz331_head		hl001_001			
+10410	3	characters/luoli/models/luoli_wz331_head		hl001_001			
+10411	3	characters/luoli/models/luoli_jh302_head		hl001_001			
+10412	3	characters/female/models/female_jh024_head		hl001_001			
+10413	3	characters/luoli/models/luoli_jh024_head		hl001_001			
+10414	3	characters/male/models/male_jh024_head		hl001_001			
+10415	3	characters/female/models/female_wz336_head		hl001_001			
+10416	3	characters/male/models/male_wz336_head		hl001_001			
+10417	3	characters/luoli/models/luoli_wz336_head		hl001_001			
+10418	3	characters/female/models/female_wz344_head		hl001_009			
+10419	3	characters/male/models/male_wz344_head		hl001_009			
+10420	3	characters/luoli/models/luoli_wz344_head		hl001_009			
+10421	3	characters/female/models/female_wz344b_head		hl001_001			
+10422	3	characters/male/models/male_wz344b_head		hl003_001			
+10423	3	characters/luoli/models/luoli_wz344b_head		hl001_001			
+10424	3	characters/female/models/female_wz345_head		hl001_001			
+10425	3	characters/male/models/male_wz345_head		hl001_001			
+10426	3	characters/luoli/models/luoli_wz345_head		hl005_001			
+10427	3	characters/female/models/female_wz346_head		hl002_001			
+10428	3	characters/male/models/male_wz346_head		hl003_001			
+10429	3	characters/luoli/models/luoli_wz346_head		hl002_001			
+10430	3	characters/female/models/female_wz334_head		hl001_001			
+10431	3	characters/male/models/male_wz334_head		hl001_001			
+10432	3	characters/luoli/models/luoli_wz334_head		hl001_001			
+10433	3	characters/female/models/female_wz337_head		hl001_001			
+10434	3	characters/male/models/male_wz337_head		hl001_001			
+10435	3	characters/luoli/models/luoli_wz337_head		hl001_001			
+10436	3	characters/female/models/female_wz337b_head		hl001_002			
+10437	3	characters/male/models/male_wz337b_head		hl001_002			
+10438	3	characters/luoli/models/luoli_wz337b_head		hl002_002			
+10439	3	characters/female/models/female_sw003_head		hl001_001			
+10440	3	characters/male/models/male_sw003_head		hl001_001			
+10441	3	characters/luoli/models/luoli_sw003_head		hl001_001			
+10442	3	characters/female/models/female_wz340_head		hl001_001			
+10443	3	characters/male/models/male_wz340_head		hl001_001			
+10444	3	characters/luoli/models/luoli_wz340_head		hl001_001			
+10445	3	characters/female/models/female_wz340b_head		hl001_012			
+10446	3	characters/male/models/male_wz340b_head		hl001_012			
+10447	3	characters/luoli/models/luoli_wz340b_head		hl001_012			
+10448	3	characters/female/models/female_wz340c_head		hl001_013			
+10449	3	characters/male/models/male_wz340c_head		hl001_013			
+10450	3	characters/luoli/models/luoli_wz340c_head		hl001_013			
+10451	3	characters/female/models/female_wz322_head		hl004_001			
+10452	3	characters/male/models/male_wz322_head		hl003_001			
+10453	3	characters/luoli/models/luoli_wz322_head		hl004_001			
+10454	3	characters/female/models/female_jh023_head		hl002_001			
+10455	3	characters/luoli/models/luoli_jh023_head		hl005_001			
+10456	3	characters/male/models/male_jh023_head		hl001_001			
+10457	3	characters/female/models/female_gzw430_head		hl001_014			
+10458	3	characters/luoli/models/luoli_gzw430_head		hl001_014			
+10459	3	characters/male/models/male_gzw430_head		hl001_014			
+10460	3	characters/female/models/female_gzw430b_head		hl001_015			
+10461	3	characters/luoli/models/luoli_gzw430b_head		hl001_015			
+10462	3	characters/male/models/male_gzw430b_head		hl001_015			
+10463	3	characters/female/models/female_wz350_head		hl001_001			
+10464	3	characters/male/models/male_wz350_head		hl001_001			
+10465	3	characters/luoli/models/luoli_wz350_head		hl001_001			
+10466	3	characters/female/models/female_wz343_head		hl001_001			
+10467	3	characters/male/models/male_wz343_head		hl001_001			
+10468	3	characters/luoli/models/luoli_wz343_head		hl001_001			
+10469	3	characters/female/models/female_wz349_head		hl001_001			
+10470	3	characters/male/models/male_wz349_head		hl002_001			
+10471	3	characters/luoli/models/luoli_wz349_head		hl002_001			
+10472	3	characters/female/models/female_wz000_head		hl001_001			
+10473	3	characters/male/models/male_wz000_head		hl001_001			
+10474	3	characters/luoli/models/luoli_wz000_head		hl001_001			
+10475	3	characters/female/models/female_wz353_head		hl001_001			
+10476	3	characters/male/models/male_wz353_head		hl001_001			
+10477	3	characters/luoli/models/luoli_wz353_head		hl001_001			
+10478	3	characters/female/models/female_wz348_head		hl003_001			
+10479	3	characters/male/models/male_wz348_head		hl001_001			
+10480	3	characters/luoli/models/luoli_wz348_head		hl005_001			
+10481	3	characters/female/models/female_wz348b_head		hl001_009			
+10482	3	characters/male/models/male_wz348b_head		hl001_009			
+10483	3	characters/luoli/models/luoli_wz348b_head		hl001_009			
+10484	3	characters/female/models/female_wz000_head001		hl001_001			
+10485	3	characters/male/models/male_wz000_head001		hl001_001			
+10486	3	characters/luoli/models/luoli_wz000_head001		hl001_001			
+10487	3	characters/female/models/female_swz_head007		hl001_016			
+10488	3	characters/male/models/male_swz_head007		hl001_016			
+10489	3	characters/luoli/models/luoli_swz_head007		hl001_016			
+10490	3	characters/female/models/female_swz_head007b		hl001_002			
+10491	3	characters/male/models/male_swz_head007b		hl001_002			
+10492	3	characters/luoli/models/luoli_swz_head007b		hl002_002			
+10493	3	characters/female/models/female_yq000_head		hl001_001			
+10494	3	characters/male/models/male_yq000_head		hl001_001			
+10495	3	characters/luoli/models/luoli_yq000_head		hl001_001			
+10496	3	characters/female/models/female_yq605_head		hl001_001			
+10497	3	characters/male/models/male_yq605_head		hl001_001			
+10498	3	characters/luoli/models/luoli_yq605_head		hl001_001			
+10499	3	characters/female/models/female_jh025_head		hl001_001			
+10500	3	characters/male/models/male_jh025_head		hl001_001			
+10501	3	characters/luoli/models/luoli_jh025_head		hl001_001			
+10502	3	characters/female/models/female_jh025_head100		hl001_001			
+10503	3	characters/male/models/male_jh025_head100		hl001_001			
+10504	3	characters/luoli/models/luoli_jh025_head100		hl001_001			
+10505	3	characters/female/models/female_wz354_heada		hl001_001			
+10506	3	characters/male/models/male_wz354_heada		hl001_001			
+10507	3	characters/luoli/models/luoli_wz354_heada		hl001_001			
+10508	3	characters/female/models/female_wz354_headb		hl001_001			
+10509	3	characters/male/models/male_wz354_headb		hl001_001			
+10510	3	characters/luoli/models/luoli_wz354_headb		hl001_001			
+10511	3	characters/female/models/female_wz356_head		hl001_001			
+10512	3	characters/male/models/male_wz356_head		hl002_001			
+10513	3	characters/luoli/models/luoli_wz356_head		hl005_001			
+10514	3	characters/female/models/female_swz_head008		hl004_012			
+10515	3	characters/male/models/male_swz_head008		hl003_012			
+10516	3	characters/luoli/models/luoli_swz_head008		hl005_012			
+10517	3	characters/female/models/female_swz_head008b		hl004_008			
+10518	3	characters/male/models/male_swz_head008b		hl003_008			
+10519	3	characters/luoli/models/luoli_swz_head008b		hl005_008			
+10520	3	characters/female/models/female_wz347_head_1		hl001_001			
+10521	3	characters/male/models/male_wz347_head		hl002_001			
+10522	3	characters/luoli/models/luoli_wz347_head_1		hl002_001			
+10523	3	characters/female/models/female_wz347_head_2		hl001_001			
+10524	3	characters/luoli/models/luoli_wz347_head_2		hl002_001			
+10525	3	characters/female/models/female_wz347b_head_1		hl001_002			
+10526	3	characters/male/models/male_wz347b_head		hl001_002			
+10527	3	characters/luoli/models/luoli_wz347b_head_1		hl002_002			
+10528	3	characters/female/models/female_wz347b_head_2		hl001_002			
+10529	3	characters/luoli/models/luoli_wz347b_head_2		hl002_002			
+10530	3	characters/female/models/female_wz342_head		hl001_001			
+10531	3	characters/female/models/female_wz342_headb		hl001_001			
+10532	3	characters/luoli/models/luoli_wz342_head		hl001_001			
+10533	3	characters/luoli/models/luoli_wz342_headb		hl001_001			
+10534	3	characters/male/models/male_wz342_heada		hl001_001			
+10535	3	characters/male/models/male_wz342_headb		hl001_001			
+10536	3	characters/female/models/female_jh025_head200		hl001_001			
+10537	3	characters/male/models/male_jh025_head200		hl001_001			
+10538	3	characters/luoli/models/luoli_jh025_head200		hl001_001			
+10539	3	characters/female/models/female_gzw453_head		hl001_001			
+10540	3	characters/male/models/male_gzw453_head		hl001_001			
+10541	3	characters/luoli/models/luoli_gzw453_head		hl001_001			
+10542	3	characters/female/models/female_gzw453b_head		hl001_002			
+10543	3	characters/male/models/male_gzw453b_head		hl001_002			
+10544	3	characters/luoli/models/luoli_gzw453b_head		hl002_002			
+10545	3	characters/female/models/female_wz351_heada		hl001_001			
+10546	3	characters/female/models/female_wz351_headb		hl001_001			
+10547	3	characters/luoli/models/luoli_wz351_heada		hl001_001			
+10548	3	characters/luoli/models/luoli_wz351_headb		hl001_001			
+10549	3	characters/male/models/male_wz351_heada		hl001_001			
+10550	3	characters/male/models/male_wz351_headb		hl001_001			
+10551	3	characters/female/models/female_wz351_headc		hl001_010			
+10552	3	characters/female/models/female_wz351_headd		hl001_010			
+10553	3	characters/luoli/models/luoli_wz351_headc		hl001_010			
+10554	3	characters/luoli/models/luoli_wz351_headd		hl001_010			
+10555	3	characters/male/models/male_wz351_headc		hl001_010			
+10556	3	characters/male/models/male_wz351_headd		hl001_010			
+10557	3	characters/female/models/female_wz341_head		hl001_001			
+10558	3	characters/male/models/male_wz341_head		hl001_001			
+10559	3	characters/luoli/models/luoli_wz341_head		hl001_001			
+10560	3	characters/female/models/female_wz357_head		hl001_001			
+10561	3	characters/male/models/male_wz357_head		hl001_001			
+10562	3	characters/luoli/models/luoli_wz357_head		hl005_001			
+10563	3	characters/female/models/female_wz357_headb		hl001_002			
+10564	3	characters/male/models/male_wz357_headb		hl001_002			
+10565	3	characters/luoli/models/luoli_wz357_headb		hl002_002			

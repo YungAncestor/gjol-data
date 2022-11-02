@@ -1,0 +1,245 @@
+﻿ID	resource	type	haircolor	brightness	glossness	specular	headlineID	color	isPlayer	desc
+*	资源路径	0:基础发色,1:发饰贴图					发际线编号	缩略图颜色		[N]
+			FFFFFF	1	0.575	1.681	0	FFFFFF	0	
+1	characters/male/textures/head_001	0					001	020202	1	默认
+2	characters/male/textures/head_003	0	2F1605				001	4b2e0f	1	棕色
+3	characters/male/textures/head_003	0	18070F				001	3d1729	1	偏紫
+4	characters/female/textures/head_001	0					001	020202	1	默认
+5	characters/female/textures/head_003	0	2F1605				001	4b2e0f	1	棕色
+6	characters/female/textures/head_003	0	18070F				001	3d1729	1	偏紫
+11	characters/male/textures/head_003	0	0C0202				001	39170c	1	棕红
+12	characters/male/textures/head_003	0	2E2C26				001	3c3b37	1	偏灰
+13	characters/male/textures/head_003	0	08151A				001	182d35	1	偏蓝
+14	characters/female/textures/head_003	0	0C0202				001	39170c	1	棕红
+15	characters/female/textures/head_003	0	2E2C26				001	3c3b37	1	偏灰
+16	characters/female/textures/head_003	0	08151A				001	182d35	1	偏蓝
+17	characters/male/textures/head_003	0	6B1008	1.4			008	6B1008	0	红
+18	characters/male/textures/head_002	0	EFCB98	1.5			009	EFCB98	0	金
+19	characters/female/textures/head_003	0	6B1008	1.4			008	6B1008	0	红
+20	characters/female/textures/head_002	0	EFCB98	1.5			009	EFCB98	0	金
+21	characters/male/textures/head_003	0	FFFFFF	1.8			002	FFFFFF	0	白
+22	characters/female/textures/head_003	0	FFFFFF	1.8			002	FFFFFF	0	白
+23	characters/luoli/textures/head_001	0					001	020202	1	默认
+24	characters/luoli/textures/head_002	0	2F1605				001	4b2e0f	1	棕色
+25	characters/luoli/textures/head_002	0	18070F				001	3d1729	1	偏紫
+26	characters/luoli/textures/head_002	0	0C0202				001	39170c	1	棕红
+27	characters/luoli/textures/head_002	0	2E2C26				001	3c3b37	1	偏灰
+28	characters/luoli/textures/head_002	0	08151A				001	182d35	1	偏蓝
+29	characters/luoli/textures/head_002	0	6B1008	1.4			008	6B1008	0	红
+30	characters/luoli/textures/head_002	0	EFCB98	1.5			009	EFCB98	0	金
+31	characters/luoli/textures/head_002	0	FFFFFF	1.8			002	FFFFFF	0	白
+1000	models/pendant/gzw/male_fs001	1	male_fs001=0,0,0;					b3dfa0	1	原色_翠
+1001	models/pendant/gzw/male_fs002	1	male_fs002=0,0,0;					292222	1	原色_黑
+1002	models/pendant/gzw/male_fs003	1	male_fs003=0,0,0;					dfdfdf	1	原色_银
+1003	models/pendant/gzw/male_fs004	1	male_fs004=21,-25,24;					ffffff	0	白
+1004	models/pendant/gzw/male_fs004	1	male_fs004=145,-8,-9;					d94545	1	红
+1005	models/pendant/gzw/male_fs004	1	male_fs004=185,9,12;					ffd966	1	黄
+1006	models/pendant/gzw/male_fs004	1	male_fs004=241,-14,6;					b3dfa0	1	浅绿
+1007	models/pendant/gzw/male_fs004	1	male_fs004=330,-8,-1;					53bbb7	1	蓝绿
+1008	models/pendant/gzw/male_fs004	1	male_fs004=0,0,0;					49c5ea	1	原色_蓝
+1009	models/pendant/gzw/male_fs004	1	male_fs004=53,-16,7;					8e7cc3	1	紫
+1010	models/pendant/gzw/male_fs005	1	male_fs005=0,0,0;					dfdfdf	1	原色_银
+1011	models/pendant/gzw/male_fs006	1	male_fs006=0,0,0;					53bbb7	1	原色_蓝绿
+1012	characters/male/models/male_fs007	1	male_fs007<cloth>=0,-50,50;					ffffff	1	白
+1013	characters/male/models/male_fs007	1	male_fs007<cloth>=0,0,0;					d94545	1	原色_红
+1014	characters/male/models/male_fs007	1	male_fs007<cloth>=46,-16,28;					ffd966	1	黄
+1015	characters/male/models/male_fs007	1	male_fs007<cloth>=92,-38,23;					b3dfa0	1	浅绿
+1016	characters/male/models/male_fs007	1	male_fs007<cloth>=183,0,0;					53bbb7	1	蓝绿
+1017	characters/male/models/male_fs007	1	male_fs007<cloth>=202,0,8;					49c5ea	1	蓝
+1018	characters/male/models/male_fs007	1	male_fs007<cloth>=284,-27,9;					8753d0	1	紫
+1019	characters/male/models/male_fs008	1	Material #10/male_fs008=0,0,0;Material #10/male_fs008<cloth>=0,0,0;					d4bd77	1	原色_金
+1020	characters/male/models/male_fs008	1	Material #10/male_fs008=164,0,0;Material #10/male_fs008<cloth>=0,0,0;					9fc5e8	1	蓝
+1021	characters/male/models/male_fs008	1	Material #10/male_fs008=0,0,50;Material #10/male_fs008<cloth>=0,0,0;					dfdfdf	1	银
+1022	models/pendant/gzw/male_fs009	1	male_fs009=0,0,0;					dfdfdf	1	原色_银
+1023	characters/male/models/male_fs010	1	Material #21/male_fs010=360,0,37;Material #21/male_fs010<cloth>=360,0,37;					ffffff	1	白
+1024	characters/male/models/male_fs010	1	Material #21/male_fs010=150,19,-16;Material #21/male_fs010<cloth>=150,14,-27;					d94545	1	红
+1025	characters/male/models/male_fs010	1	Material #21/male_fs010=175,11,0;Material #21/male_fs010<cloth>=175,12,0;					ffd966	1	黄
+1026	characters/male/models/male_fs010	1	Material #21/male_fs010=228,11,11;Material #21/male_fs010<cloth>=234,4,3;					b3dfa0	1	浅绿
+1027	characters/male/models/male_fs010	1	Material #21/male_fs010=314,0,0;Material #21/male_fs010<cloth>=314,0,0;					53bbb7	1	蓝绿
+1028	characters/male/models/male_fs010	1	Material #21/male_fs010=0,0,0;Material #21/male_fs010<cloth>=0,0,0;					49c5ea	1	原色_蓝
+1029	characters/male/models/male_fs010	1	Material #21/male_fs010=30,-8,0;Material #21/male_fs010<cloth>=30,-9,0;					8e7cc3	1	紫
+1030	characters/male/models/male_fs011	1	male_fs011=131,2,-2;					d94545	1	红
+1031	characters/male/models/male_fs011	1	male_fs011=172,-6,13;					ffd966	1	黄
+1032	characters/male/models/male_fs011	1	male_fs011=218,-22,0;					b3dfa0	1	浅绿
+1033	characters/male/models/male_fs011	1	male_fs011=307,-16,0;					53bbb7	1	蓝绿
+1034	characters/male/models/male_fs011	1	male_fs011=333,9,10;					49c5ea	1	浅蓝
+1035	characters/male/models/male_fs011	1	male_fs011=0,0,0;					1c4587	1	原色_深蓝
+1036	characters/male/models/male_fs012	1	male_fs012<cloth>=174,-50,19,characters/male/textures/male_fs012_000k.dds;					ffffff	1	白
+1037	characters/male/models/male_fs013	1	male_fs013<cloth>=0,-50,50;					ffffff	0	白
+1038	characters/male/models/male_fs013	1	male_fs013<cloth>=0,0,0;					d94545	1	原色_红
+1039	characters/male/models/male_fs013	1	male_fs013<cloth>=35,-33,19;					ffd966	1	黄
+1040	characters/male/models/male_fs013	1	male_fs013<cloth>=91,-50,19;					b3dfa0	1	浅绿
+1041	characters/male/models/male_fs013	1	male_fs013<cloth>=166,-33,8;					53bbb7	1	蓝绿
+1042	characters/male/models/male_fs013	1	male_fs013<cloth>=191,-33,8;					49c5ea	1	蓝
+1043	characters/male/models/male_fs013	1	male_fs013<cloth>=253,-50,10;					8753d0	1	紫
+1044	characters/male/models/male_fs014	1	male_fs014<cloth>=196,0,0;					d94545	1	红
+1045	characters/male/models/male_fs014	1	male_fs014<cloth>=247,17,8;					ffd966	1	黄
+1046	characters/male/models/male_fs014	1	male_fs014<cloth>=295,0,7;					b3dfa0	1	浅绿
+1047	characters/male/models/male_fs014	1	male_fs014<cloth>=0,0,0;					53bbb7	1	原色_蓝绿
+1048	characters/male/models/male_fs014	1	male_fs014<cloth>=33,8,0;					49c5ea	1	蓝
+1049	characters/male/models/male_fs014	1	male_fs014<cloth>=76,-10,0;					8753d0	1	紫
+1050	models/pendant/gzw/male_fs015	1	male_fs015=0,0,0;					d4bd77	1	原色_麻
+1051	models/pendant/gzw/male_fs016	1	male_fs016=0,0,0;					ffffff	1	原色_白
+1052	models/pendant/gzw/male_fs016	1	male_fs016=91,11,-8;					a8d7c1	1	翠
+1053	characters/male/models/male_fs017	1	Material #32/male_fs017=0,0,0;Material #32/male_fs017<cloth>=151,17,-3;					d94545	1	红
+1054	characters/male/models/male_fs017	1	Material #32/male_fs017=0,0,0;Material #32/male_fs017<cloth>=194,34,22;					ffd966	1	黄
+1055	characters/male/models/male_fs017	1	Material #32/male_fs017=0,0,0;Material #32/male_fs017<cloth>=248,3,10;					b3dfa0	1	浅绿
+1056	characters/male/models/male_fs017	1	Material #32/male_fs017=0,0,0;Material #32/male_fs017<cloth>=314,6,4;					53bbb7	1	蓝绿
+1057	characters/male/models/male_fs017	1	male_fs017<cloth>=0,0,0;					49c5ea	1	蓝
+1058	characters/male/models/male_fs017	1	Material #32/male_fs017=0,0,0;Material #32/male_fs017<cloth>=35,6,12;					8e7cc3	1	紫
+1059	models/pendant/gzw/male_fs019	1	male_fs019=338,-25,38;					ffffff	1	白
+1060	models/pendant/gzw/male_fs019	1	male_fs019=81,0,0;					d94545	1	红
+1061	models/pendant/gzw/male_fs019	1	male_fs019=124,-7,10;					ffd966	1	黄
+1062	models/pendant/gzw/male_fs019	1	male_fs019=247,-7,-5;					53bbb7	1	蓝绿
+1063	models/pendant/gzw/male_fs019	1	male_fs019=292,-5,5;					49c5ea	1	浅蓝
+1064	models/pendant/gzw/male_fs019	1	male_fs019=292,3,-17;					1c4587	1	深蓝
+1065	models/pendant/gzw/male_fs019	1	male_fs019=0,0,0;					8e7cc3	1	原色_紫
+1066	models/pendant/gzw/male_fs020	1	male_fs020=0,0,31;					ffffff	1	白
+1067	models/pendant/gzw/male_fs020	1	male_fs020=153,-3,-23;					d94545	1	红
+1068	models/pendant/gzw/male_fs020	1	male_fs020=186,0,0;					ffd966	1	黄
+1069	models/pendant/gzw/male_fs020	1	male_fs020=245,-3,9;					b3dfa0	1	浅绿
+1070	models/pendant/gzw/male_fs020	1	male_fs020=319,-17,-12;					53bbb7	1	蓝绿
+1071	models/pendant/gzw/male_fs020	1	male_fs020=0,0,0;					49c5ea	1	原色_蓝
+1072	models/pendant/gzw/male_fs020	1	male_fs020=32,-23,0;					8e7cc3	1	紫
+1073	models/pendant/gzw/male_fs021	1	male_fs021=0,0,0;					dfdfdf	1	原色_银
+1074	models/pendant/gzw/male_fs022	1	male_fs022=338,-25,38;					ffffff	1	白
+1075	models/pendant/gzw/male_fs022	1	male_fs022=81,13,7;					d94545	1	红
+1076	models/pendant/gzw/male_fs022	1	male_fs022=112,4,18;					ffd966	1	黄
+1077	models/pendant/gzw/male_fs022	1	male_fs022=175,-2,23;					b3dfa0	1	浅绿
+1078	models/pendant/gzw/male_fs022	1	male_fs022=247,0,0;					53bbb7	1	蓝绿
+1079	models/pendant/gzw/male_fs022	1	male_fs022=276,5,9;					49c5ea	1	蓝
+1080	models/pendant/gzw/male_fs022	1	male_fs022=0,0,0;					8e7cc3	1	原色_紫
+1081	characters/male/models/male_fs023	1	male_fs023<cloth>=0,0,0;					f2bfbf	1	原色_粉
+1082	characters/male/models/male_fs023	1	male_fs023<cloth>=0,16,-13;					d94545	1	红
+1083	models/pendant/gzw/male_fs024	1	male_fs024=0,0,0;					e3d5ab	1	原色_金黄
+1084	models/pendant/gzw/male_fs024	1	male_fs024=0,-24,18;					dfdfdf	1	银白
+1085	models/pendant/gzw/male_fs025	1	male_fs025=0,0,0;					e3d5ab	1	原色_金黄
+1086	models/pendant/gzw/male_fs025	1	male_fs025=132,-41,19;					dfdfdf	1	银白
+1087	models/pendant/gzw/male_fs026	1	male_fs026=0,0,0;					ffffff	1	原色_白
+1088	characters/male/models/male_fs027	1	male_fs027<cloth>=162,27,12;					9fc5e8	0	珍珠白
+1089	characters/male/models/male_fs027	1	male_fs027<cloth>=0,0,0;					ff9900	1	原色_橙黄
+1090	characters/male/models/male_fs027	1	male_fs027<cloth>=202,18,0;					8e7cc3	1	紫红
+1091	characters/male/models/male_fs028	1	male_fs028<cloth>=0,0,0;					ff9900	1	原色_橙黄
+1092	characters/male/models/male_fs028	1	male_fs028<cloth>=127,-20,12,characters/male/textures/male_fs028_000k.dds;					84eedc	1	蓝
+1093	characters/male/models/male_fs029	1	male_fs029=0,0,0;					4fa876	1	原色_绿
+1094	models/pendant/gzw/male_fs030	1	male_fs030=0,0,0;					ffffff	1	原色_白
+1095	models/pendant/gzw/female_fs001	1	female_fs001=0,0,0;					dfdfdf	1	原色_银
+1096	models/pendant/gzw/female_fs002	1	female_fs002=338,-25,38;					ffffff	1	白
+1097	models/pendant/gzw/female_fs002	1	female_fs002=78,3,24,;					f2bfbf	1	粉
+1098	models/pendant/gzw/female_fs002	1	female_fs002=81,0,0;					d94545	1	红
+1099	models/pendant/gzw/female_fs002	1	female_fs002=118,11,21,;					ffd966	1	黄
+1100	models/pendant/gzw/female_fs002	1	female_fs002=247,-7,-5;					53bbb7	1	蓝绿
+1101	models/pendant/gzw/female_fs002	1	female_fs002=292,-5,5;					49c5ea	1	浅蓝
+1102	models/pendant/gzw/female_fs002	1	female_fs002=292,3,-17;					1c4587	1	深蓝
+1103	models/pendant/gzw/female_fs002	1	female_fs002=0,0,0;					8e7cc3	1	紫
+1104	characters/female/models/female_fs003	1	female_fs003<cloth>=223,12,28;					c9bde8	1	浅紫
+1105	characters/female/models/female_fs003	1	female_fs003<cloth>=0,13,26;					f2bfbf	1	粉红
+1106	characters/female/models/female_fs003	1	female_fs003<cloth>=0,0,0;					d94545	1	原色_红
+1107	characters/female/models/female_fs003	1	female_fs003<cloth>=37,16,16;					ffd966	1	黄
+1108	characters/female/models/female_fs003	1	female_fs003<cloth>=99,0,22;					b3dfa0	1	浅绿
+1109	characters/female/models/female_fs003	1	female_fs003<cloth>=166,-23,2;					53bbb7	1	蓝绿
+1110	characters/female/models/female_fs003	1	female_fs003<cloth>=205,-5,0;					49c5ea	1	蓝
+1111	models/pendant/gzw/female_fs004	1	female_fs004=0,0,0;					dfdfdf	1	原色_银
+1112	characters/female/models/female_fs005	1	female_fs005<cloth>=0,0,0;					d94545	1	原色_红
+1113	characters/female/models/female_fs007	1	female_fs027=0,-12,22;					ffffff	1	白
+1114	characters/female/models/female_fs007	1	female_fs027=24,-2,16;					c9bde8	1	浅紫
+1115	characters/female/models/female_fs007	1	female_fs027=115,9,15;					f2bfbf	1	粉红
+1116	characters/female/models/female_fs007	1	female_fs027=132,-19,-11;					d94545	1	红
+1117	characters/female/models/female_fs007	1	female_fs027=172,0,0;					ffd966	1	黄
+1118	characters/female/models/female_fs007	1	female_fs027=221,0,7;					b3dfa0	1	浅绿
+1119	characters/female/models/female_fs007	1	female_fs027=307,-17,-9;					53bbb7	1	蓝绿
+1120	characters/female/models/female_fs007	1	female_fs027=0,0,0;					49c5ea	1	原色_蓝
+1121	models/pendant/gzw/female_fs013	1	Material #32/female_fs013<cloth>=0,0,0;Material #32/female_fs013=0,0,0;					e3d5ab	1	原色_金黄
+1122	models/pendant/gzw/female_fs013	1	Material #32/female_fs013<cloth>=182,0,0;Material #32/female_fs013=174,0,0;					9fc5e8	1	蓝
+1123	models/pendant/gzw/female_fs013	1	Material #32/female_fs013<cloth>=239,-9,12;Material #32/female_fs013=46,-30,15;					dfdfdf	1	银白
+1124	models/pendant/gzw/female_fs014	1	Material #43/female_fs014<cloth>=0,0,0;Material #43/female_fs014=0,0,0;					dfdfdf	1	原色_银
+1125	models/pendant/gzw/female_fs015	1	Material #54/female_fs015<cloth>=0,0,0;Material #54/female_fs015=0,0,0;					f2bfbf	1	原色_粉
+1126	models/pendant/gzw/female_fs015	1	Material #54/female_fs015<cloth>=38,0,0;Material #54/female_fs015=33,5,0;					d94545	1	红
+1127	models/pendant/gzw/female_fs015	1	Material #54/female_fs015<cloth>=54,0,0;Material #54/female_fs015=49,0,0;					ffd966	1	黄
+1128	models/pendant/gzw/female_fs015	1	Material #54/female_fs015<cloth>=185,0,0;Material #54/female_fs015=178,-10,0;					53bbb7	1	蓝绿
+1129	models/pendant/gzw/female_fs015	1	Material #54/female_fs015<cloth>=229,0,0;Material #54/female_fs015=233,0,0;					49c5ea	1	蓝
+1130	models/pendant/gzw/female_fs015	1	Material #54/female_fs015<cloth>=274,0,0;Material #54/female_fs015=274,-10,4;					8e7cc3	1	紫
+1131	models/pendant/gzw/female_fs016	1	Material #65/female_fs016=0,0,0;Material #65/female_fs016<cloth>=0,0,0;					dfdfdf	1	原色_银
+1132	models/pendant/gzw/female_fs017	1	female_fs017=0,0,0;					ffffff	1	原色_白
+1133	models/pendant/gzw/female_fs018	1	Material #76/female_fs018<cloth>=45,8,0;Material #76/female_fs018=0,-11,7;					ffffff	1	蓝白
+1134	models/pendant/gzw/female_fs018	1	Material #76/female_fs018<cloth>=0,0,0;Material #76/female_fs018=0,0,0;					e3d5ab	1	原色_绿
+1135	models/pendant/gzw/female_fs018	1	Material #76/female_fs018<cloth>=199,19,-4;Material #76/female_fs018=336,3,-6;					f0be8c	1	橙红
+1136	models/pendant/gzw/female_fs018	1	Material #76/female_fs018<cloth>=245,17,0;Material #76/female_fs018=0,-37,-50;					292222	1	黑金
+1137	characters/female/models/female_fs019	1	Material #6721/female_fs019<cloth>=0,0,0,;Material #6721/female_fs019=0,0,0,;					f2bfbf	1	原色_粉
+1138	characters/female/models/female_fs019	1	Material #6721/female_fs019<cloth>=0,50,0,;Material #6721/female_fs019=0,50,0,;					d94545	1	红
+1139	models/pendant/gzw/female_fs020	1	Material #87/female_fs020=0,0,0;Material #87/female_fs020<cloth>=0,0,0;					dfdfdf	1	原色_银
+1140	models/pendant/gzw/female_fs021	1	female_fs021=0,0,0;					ffffff	1	原色_白
+1141	characters/female/models/female_fs022	1	female_fs022=338,-25,38;					ffffff	1	白
+1142	characters/female/models/female_fs022	1	female_fs022=81,13,7;					d94545	1	红
+1143	characters/female/models/female_fs022	1	female_fs022=112,4,18;					ffd966	1	黄
+1144	characters/female/models/female_fs022	1	female_fs022=175,-2,23;					b3dfa0	1	浅绿
+1145	characters/female/models/female_fs022	1	female_fs022=247,0,0;					53bbb7	1	蓝绿
+1146	characters/female/models/female_fs022	1	female_fs022=276,5,9;					49c5ea	1	蓝
+1147	characters/female/models/female_fs022	1	female_fs022=0,0,0;					8e7cc3	1	原色_紫
+1148	characters/female/models/female_fs023	1	female_fs023<cloth>=0,0,0;					e3d5ab	1	原色_金黄
+1150	characters/female/models/female_fs023	1	female_fs023<cloth>=170,0,34;					dfdfdf	1	银白
+1151	models/pendant/gzw/female_fs024	1	female_fs024=0,0,0;					ffffff	1	原色_白
+1152	characters/male/models/male_fs012	1	male_fs012<cloth>=0,0,0,;					53bbb7	1	原色_蓝绿
+1153	characters/luoli/models/luoli_fs000	1	luoli_fs000_000/luoli_fs000_000<cloth>=142,30,16,characters/luoli/textures/luoli_fs000_000k.dds;luoli_fs000_000/luoli_fs000_000<fur><cloth>=0,0,0,;					d94545	1	红
+1154	characters/luoli/models/luoli_fs000	1	luoli_fs000_000/luoli_fs000_000<cloth>=123,41,34,characters/luoli/textures/luoli_fs000_000k.dds;luoli_fs000_000/luoli_fs000_000<fur><cloth>=0,0,0,;					f2bfbf	1	粉
+1155	characters/luoli/models/luoli_fs000	1	luoli_fs000_000/luoli_fs000_000<cloth>=177,50,23,characters/luoli/textures/luoli_fs000_000k.dds;luoli_fs000_000/luoli_fs000_000<fur><cloth>=0,0,0,;					ffd966	1	黄
+1156	characters/luoli/models/luoli_fs000	1	luoli_fs000_000/luoli_fs000_000<cloth>=319,19,15,characters/luoli/textures/luoli_fs000_000k.dds;luoli_fs000_000/luoli_fs000_000<fur><cloth>=0,0,0,;					53bbb7	1	青
+1157	characters/luoli/models/luoli_fs000	1	luoli_fs000_000/luoli_fs000_000<cloth>=0,0,0,;luoli_fs000_000/luoli_fs000_000<fur><cloth>=0,0,0,;					1c4587	1	原色_蓝
+1158	characters/luoli/models/luoli_fs000	1	luoli_fs000_000/luoli_fs000_000<cloth>=67,-4,36,characters/luoli/textures/luoli_fs000_000k.dds;luoli_fs000_000/luoli_fs000_000<fur><cloth>=0,0,0,;					c9bde8	1	浅紫
+1159	models/pendant/gzw/luoli_fs001	1	luoli_fs001_000/luoli_fs001_000<cloth>=0,0,0,;luoli_fs001_000/<material_voile> <order-1>=0,0,0,;luoli_fs001_000/<material_voile> <order-2>=0,0,0,;					d94545	1	红
+1160	models/pendant/gzw/luoli_fs001	1	luoli_fs001_000/luoli_fs001_000<cloth>=0,0,30,;luoli_fs001_000/<material_voile> <order-1>=0,0,39,;luoli_fs001_000/<material_voile> <order-2>=0,0,37,;					f2bfbf	1	粉
+1161	models/pendant/gzw/luoli_fs001	1	luoli_fs001_000/luoli_fs001_000<cloth>=0,-50,27,;luoli_fs001_000/<material_voile> <order-1>=193,-36,50,;luoli_fs001_000/<material_voile> <order-2>=209,-50,50,;					ffffff	1	白
+1162	models/pendant/gzw/luoli_fs001	1	luoli_fs001_000/luoli_fs001_000<cloth>=25,0,0,;luoli_fs001_000/<material_voile> <order-1>=41,0,19,;luoli_fs001_000/<material_voile> <order-2>=40,0,17,;					ffd966	1	黄
+1163	models/pendant/gzw/luoli_fs001	1	luoli_fs001_000/luoli_fs001_000<cloth>=212,0,30,;luoli_fs001_000/<material_voile> <order-1>=191,0,44,;luoli_fs001_000/<material_voile> <order-2>=209,0,37,;					ADD8E6	1	浅蓝
+1164	models/pendant/gzw/luoli_gzw_fs001	1	luoli_fs001=223,12,28,;					c9bde8	1	浅紫
+1165	models/pendant/gzw/luoli_gzw_fs001	1	luoli_fs001=0,13,26;					f2bfbf	1	粉红
+1166	models/pendant/gzw/luoli_gzw_fs001	1	luoli_fs001=0,0,0;					d94545	1	原色_红
+1167	models/pendant/gzw/luoli_gzw_fs001	1	luoli_fs001=37,16,16;					ffd966	1	黄
+1168	models/pendant/gzw/luoli_gzw_fs001	1	luoli_fs001=99,0,22;					b3dfa0	1	浅绿
+1169	models/pendant/gzw/luoli_gzw_fs001	1	luoli_fs001=166,-23,2;					53bbb7	1	蓝绿
+1170	models/pendant/gzw/luoli_gzw_fs001	1	luoli_fs001=205,-5,0;					49c5ea	1	蓝
+1171	characters/luoli/models/luoli_fs002	1	luoli_fs002=0,0,0,;					d94545	1	原色_红
+1172	characters/luoli/models/luoli_fs002	1	luoli_fs002=349,50,23,;					f2bfbf	1	粉
+1173	characters/luoli/models/luoli_fs002	1	luoli_fs002=33,23,5,;					ffd966	1	黄
+1174	characters/luoli/models/luoli_fs002	1	luoli_fs002=80,0,0,;					b3dfa0	1	浅绿
+1175	characters/luoli/models/luoli_fs002	1	luoli_fs002=177,0,0,;					53bbb7	1	蓝绿
+1176	characters/luoli/models/luoli_fs002	1	luoli_fs002=210,0,0,;					49c5ea	1	蓝
+1177	characters/luoli/models/luoli_fs002	1	luoli_fs002=255,0,0,;					8e7cc3	1	紫
+1178	characters/luoli/models/luoli_fs003	1	luoli_fs003<cloth>=0,0,0,;					b3dfa0	1	绿
+1179	characters/luoli/models/luoli_fs003	1	luoli_fs003<cloth>=78,36,14,;					ADD8E6	1	蓝
+1180	characters/luoli/models/luoli_fs004	1	luoli_fs004<cloth>=143,15,-9,;					d94545	1	红
+1181	characters/luoli/models/luoli_fs004	1	luoli_fs004<cloth>=145,11,17,;					f2bfbf	1	粉
+1182	characters/luoli/models/luoli_fs004	1	luoli_fs004<cloth>=193,23,4,;					ffd966	1	黄
+1183	characters/luoli/models/luoli_fs004	1	luoli_fs004<cloth>=263,-9,24,;					b3dfa0	1	浅绿
+1184	characters/luoli/models/luoli_fs004	1	luoli_fs004<cloth>=346,-18,-5,;					53bbb7	1	蓝绿
+1185	characters/luoli/models/luoli_fs004	1	luoli_fs004<cloth>=0,0,0,;					49c5ea	1	原色_蓝
+1186	characters/luoli/models/luoli_fs004	1	luoli_fs004<cloth>=62,27,31,;					c9bde8	1	浅紫
+1187	characters/luoli/models/luoli_fs011	1	luoli_fs011<cloth>=143,15,-9,;					d94545	1	红
+1188	characters/luoli/models/luoli_fs011	1	luoli_fs011<cloth>=145,11,17,;					f2bfbf	1	粉
+1189	characters/luoli/models/luoli_fs011	1	luoli_fs011<cloth>=193,23,4,;					ffd966	1	黄
+1190	characters/luoli/models/luoli_fs011	1	luoli_fs011<cloth>=263,-9,24,;					b3dfa0	1	浅绿
+1191	characters/luoli/models/luoli_fs011	1	luoli_fs011<cloth>=346,-18,-5,;					53bbb7	1	蓝绿
+1192	characters/luoli/models/luoli_fs011	1	luoli_fs011<cloth>=0,0,0,;					49c5ea	1	原色_蓝
+1193	characters/luoli/models/luoli_fs011	1	luoli_fs011<cloth>=62,27,31,;					c9bde8	1	浅紫
+1194	characters/luoli/models/luoli_fs005	1	Material #10/luoli_fs005<cloth>=0,0,0,;Material #10/luoli_fs005=0,0,0,;					d94545	1	原色_红
+1195	characters/luoli/models/luoli_fs005	1	Material #10/luoli_fs005<cloth>=207,10,-8,;Material #10/luoli_fs005=0,-50,15,;					49c5ea	1	蓝
+1196	characters/luoli/models/luoli_fs005	1	Material #10/luoli_fs005<cloth>=35,27,2,;Material #10/luoli_fs005=0,0,0,;					ffd966	1	黄
+1197	characters/luoli/models/luoli_fs006	1	luoli_fs006=0,0,0,;					ffffff	1	白
+1198	characters/luoli/models/luoli_fs007	1	luoli_fs007=0,-12,22;					ffffff	1	白
+1199	characters/luoli/models/luoli_fs007	1	luoli_fs007=24,-2,16;					c9bde8	1	浅紫
+1200	characters/luoli/models/luoli_fs007	1	luoli_fs007=115,9,15;					f2bfbf	1	粉红
+1201	characters/luoli/models/luoli_fs007	1	luoli_fs007=132,-19,-11;					d94545	1	红
+1202	characters/luoli/models/luoli_fs007	1	luoli_fs007=172,0,0;					ffd966	1	黄
+1203	characters/luoli/models/luoli_fs007	1	luoli_fs007=221,0,7;					b3dfa0	1	浅绿
+1204	characters/luoli/models/luoli_fs007	1	luoli_fs007=307,-17,-9;					53bbb7	1	蓝绿
+1205	characters/luoli/models/luoli_fs007	1	luoli_fs007=0,0,0,;					4169E1	1	原色_蓝紫
+1206	models/pendant/gzw/luoli_fs008	1	Material #10/luoli_fs008=0,0,0,;Material #10/luoli_fs008<cloth>=0,0,0,;					ff9900	1	橙红
+1207	models/pendant/gzw/luoli_fs008	1	Material #10/luoli_fs008=19,0,34,;Material #10/luoli_fs008<cloth>=127,-20,12,;					b3dfa0	1	浅绿
+1208	models/pendant/gzw/luoli_fs008	1	Material #10/luoli_fs008=19,-50,40,;Material #10/luoli_fs008<cloth>=188,-20,12,;					ADD8E6	1	浅蓝
+1209	characters/luoli/models/luoli_fs009	1	luoli_fs009=0,0,0,;					dfdfdf	1	原色_银
+1210	models/pendant/gzw/luoli_fs010	1	luoli_fs010_000=0,0,0,;					b3dfa0	1	原色_浅绿
+1211	models/pendant/gzw/luoli_fs010	1	luoli_fs010_000=210,31,-33,models/pendant/gzw/Textures/luoli_fs010_000k.dds;					d94545	1	红黄
+1212	models/pendant/gzw/luoli_fs010	1	luoli_fs010_000=236,50,0,models/pendant/gzw/Textures/luoli_fs010_000k.dds;					f2bfbf	1	粉白
+1213	models/pendant/gzw/luoli_fs010	1	luoli_fs010_000=112,38,9,models/pendant/gzw/Textures/luoli_fs010_000k.dds;					c9bde8	1	浅紫
+1214	models/pendant/gzw/luoli_gzw_fs003	1	luoli_gzw_fs003<cloth>=0,0,0,;					b3dfa0	1	绿
+1215	models/pendant/gzw/luoli_gzw_fs003	1	Material #10/luoli_gzw_fs003=78,36,14,;Material #10/luoli_gzw_fs003<cloth>=78,36,14,;					ADD8E6	1	蓝
